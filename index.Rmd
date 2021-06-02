@@ -1,0 +1,76 @@
+--- 
+documentclass: krantz
+bibliography:
+- book.bib
+- packages.bib
+biblio-style: apalike
+link-citations: yes
+colorlinks: yes
+lot: no
+lof: no
+site: bookdown::bookdown_site
+description: MI2
+graphics: yes
+cover-image: images/cover.png
+---
+
+```{r setup, include=FALSE}
+options(
+  htmltools.dir.version = FALSE, formatR.indent = 2, width = 55, digits = 4
+)
+output <- knitr::opts_knit$get("rmarkdown.pandoc.to")
+is.html = !is.null(output) && output == "html"
+```
+
+# MI² Data Lab {-}
+
+
+MI² is a group of mathematicians and computer scientists that love to play with data.
+
+We are spread between [Warsaw University of Technology](https://www.pw.edu.pl/) and [University of Warsaw](http://uw.edu.pl/).
+
+Data Lab is our creative space, place in which we have workshops, seminars and some experiments. Feel free to jump in.
+
+Here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude.
+
+## Team  {-}
+
+#### Members {-}
+
+* PRZEMYSŁAW BIECEK, PhD (Team Leader)
+* ANNA WRÓBLEWSKA, PhD
+* PIOTR CZARNECKI, PhD student
+* WERONIKA HRYNIEWSKA, PhD student
+* ALICJA GOSIEWSKA, PhD student
+* KATARZYNA KOBYLIŃSKA, PhD student
+* STANISŁAW ŁANIEWSKI, PhD student
+* TOMASZ STANISŁAWEK, PhD student
+* KATARZYNA WOZNICA, PhD student
+* ANNA KOZAK, MSc
+* MICHAL KUŹBA, MSc
+* HUBERT BANIECKI, MSc student
+* WOJCIECH KRETOWICZ, MSc student
+* SZYMON MAKSYMIUK, MSc student
+* PIOTR PIĄTYSZEK, BSc student
+* JAKUB WIŚNIEWSKI, BSc student
+
+#### Collaborators {-}
+
+* ABC
+
+#### Alumni {-}
+
+* ADAM RYDELEK, BSc student
+* KONRAD KOMISARCZYK, BSc student
+
+## Contact {-}
+
+```
+Faculty of Mathematics and Information Science, 
+Warsaw University of Technology, 
+Koszykowa 75, 
+00-662 Warszawa
+VAT: PL 5250005834
+```
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.1647099791685!2d21.005092115735344!3d52.22222527975892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecd5d7938e739%3A0x64ab06034e05e767!2sMI2%20DataLab!5e0!3m2!1spl!2spl!4v1622669807972!5m2!1spl!2spl" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

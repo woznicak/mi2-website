@@ -1,0 +1,12 @@
+book_filename: book
+repo: https://github.com/pbiecek/mi2-data-lab/
+output_dir: docs
+clean: [packages.bib, bookdown.bbl]
+delete_merged_file: true
+language:
+  label:
+    fig: ""
+    tab: ""
+  ui:
+    edit: "Edit"
+    chapter_name: ""

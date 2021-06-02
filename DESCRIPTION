@@ -1,0 +1,8 @@
+Package: MI² 
+Title: MI² 
+Version: 2021
+Depends:
+  devtools,
+  knitr,
+  bookdown,
+  DALEX,

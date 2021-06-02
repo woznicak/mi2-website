@@ -1,0 +1,45 @@
+# MI² Research  {-}
+
+On a mission to responsibly build machine learning predictive models.
+
+....
+
+## Papers {-}
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-8jgo"><a href="http://dalex.drwhy.ai/"><img src="images/mini_dalex.png" height="180"></a></br>Paper and package: <a href="http://dalex.drwhy.ai/">XAI with DALEX for R and Python</a></th>
+    <th class="tg-8jgo"><a href="https://pbiecek.github.io/ema/"><img src="images/mini_ema.png" height="180"></a></br>Book: <a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis</a></th>
+    <th class="tg-8jgo"><a href="https://modeloriented.github.io/fairmodels/"><img src="images/mini_fairmodels.png" height="180"></a></br>Package: <a href="https://modeloriented.github.io/fairmodels/">Fairness with fairmodels</a></th>
+    <th class="tg-8jgo"><a href="http://xai-tools.drwhy.ai/"><img src="images/mini_lungs.png" height="180"></a></br>Paper: <a href="http://xai-tools.drwhy.ai/">Landscape of R packages for XAI</a></th>
+  </tr>
+  <tr>
+    <th class="tg-8jgo"><a href="https://crs19.pl/"><img src="images/mini_crs.png" height="180"></a></br>Software: <a href="https://crs19.pl/">COVID-19 Risk Score</a></th>
+    <th class="tg-8jgo"><a href="https://rai-covid.drwhy.ai/"><img src="images/mini_crai.png" height="180"></a></br>Paper: <a href="https://rai-covid.drwhy.ai/">Responsible ML for COVID-19</a></th>
+    <th class="tg-8jgo"><a href="https://github.com/pbiecek/archivist"><img src="images/mini_archivist.png" height="180"></a></br>Paper and package: <a href="https://github.com/pbiecek/archivist">Model governance with R (MLOps)</a></th>
+    <th class="tg-8jgo"><a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X"><img src="images/safe.png" height="180"></a></br>Paper: <a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X">Simpler is better</a></th>
+  </tr>
+</table>
+
+
+
+## Research grants  {-}
+
+* DeCoviD 2021-2022, IDUB-PW. Detection of Covid-19 related markers of pulmonary changes using Deep Neural Networks models supported by eXplainable Artificial Intelligence and Cognitive Compressed Sensing https://github.com/MI2DataLab/DeCoviD
+
+* HOMER 2019-2024, Sonata Bis, NCN. Machine learning models are used everywhere. Predictive modelling fundamentally changed data- driven disciplines like health-care, biology, finance, legal, military, security, transportation, and many more. The increasing availability of large annotated data sources combined with recent developments in machine learning models leads to the next industrial revolution. BUT: Predictive models are handcrafted by data scientists in a tedious and laborious process. Most of the time spent on data exploration and model training is a set of try-and-error experiments. Models become more and more complex to catch even vague signals. Techniques like boosting, bagging or neural networks result in models with thousands or millions of parameters. Lack of understanding of complex models and poor automation results in problems with replicability and quality of models. The main goal of this project is to develop new methods for human-oriented model exploration, interpretable model audits and automated model assembly. The newly appointed research team will create a grammar for human - model interaction.
+
+* DALEX 2018-2022, Opus, NCN. - ADD DESCRIPTION
+
+* MLGenSig 2017-2021, Opus, NCN - ADD DESCRIPTION
+
++ NCBR grants  - ADD DESCRIPTION

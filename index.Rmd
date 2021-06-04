@@ -1,8 +1,5 @@
 --- 
 documentclass: krantz
-bibliography:
-- book.bib
-- packages.bib
 biblio-style: apalike
 link-citations: yes
 colorlinks: yes
@@ -37,31 +34,28 @@ Here we are forging new ideas, creating tools, solving problems, doing consultin
 
 #### Members {-}
 
+(potwierdzni na slack)
+
 * PRZEMYSŁAW BIECEK, PhD (Team Leader)
-* ANNA WRÓBLEWSKA, PhD
-* PIOTR CZARNECKI, PhD student
-* WERONIKA HRYNIEWSKA, PhD student
-* ALICJA GOSIEWSKA, PhD student
-* KATARZYNA KOBYLIŃSKA, PhD student
-* STANISŁAW ŁANIEWSKI, PhD student
-* TOMASZ STANISŁAWEK, PhD student
-* KATARZYNA WOZNICA, PhD student
-* ANNA KOZAK, MSc
-* MICHAL KUŹBA, MSc
 * HUBERT BANIECKI, MSc student
-* WOJCIECH KRETOWICZ, MSc student
-* SZYMON MAKSYMIUK, MSc student
-* PIOTR PIĄTYSZEK, BSc student
+* ANNA KOZAK, MSc
+* MICHAŁ SOKÓLSKI, MSc student
 * JAKUB WIŚNIEWSKI, BSc student
+* ALICJA GOSIEWSKA, PhD student
+* SZYMON MAKSYMIUK, MSc student
+* KATARZYNA WOZNICA, PhD student
+* HANNA ZDULSKA, BSc student
+* MICHAL KUŹBA, MSc
+* WOJCIECH KRETOWICZ, MSc student
+
 
 #### Collaborators {-}
 
-* ABC
+* TODO
 
 #### Alumni {-}
 
-* ADAM RYDELEK, BSc student
-* KONRAD KOMISARCZYK, BSc student
+* TODO
 
 ## Contact {-}
 

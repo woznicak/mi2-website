@@ -45,15 +45,16 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 * [PRZEMYSŁAW BIECEK, PhD (Team Leader)](team.html#przemysław-biecek)
 * [HUBERT BANIECKI](team.html#hubert-baniecki), MSc student
+* [ALICJA GOSIEWSKA](team.html#alicja-gosiewska), PhD student
 * [ANNA KOZAK](team.html#anna-kozak), MSc
-* MICHAŁ SOKÓLSKI, MSc student
-* JAKUB WIŚNIEWSKI, BSc student
-* ALICJA GOSIEWSKA, PhD student
+* MICHAŁ KUŹBA, MSc
+* WOJCIECH KRETOWICZ, MSc student
 * SZYMON MAKSYMIUK, MSc student
+* MICHAŁ SOKÓLSKI, MSc student
+* PAULINA TOMASZEWSKA, PhD student
+* JAKUB WIŚNIEWSKI, BSc student
 * KATARZYNA WOZNICA, PhD student
 * HANNA ZDULSKA, BSc student
-* MICHAL KUŹBA, MSc
-* WOJCIECH KRETOWICZ, MSc student
 
 
 ### Przemysław Biecek {-}
@@ -67,6 +68,10 @@ Research visits: University of California, Davis (2018, USA), Nanyang Technologi
 Google Scholar: [Af0O75cAAAAJ](https://scholar.google.pl/citations?user=Af0O75cAAAAJ). GitHub: [pbiecek](https://github.com/pbiecek). LinkedIn: [pbiecek](https://www.linkedin.com/in/pbiecek/).
 
 ### Hubert Baniecki {-}
+
+...
+
+### Alicja Gosiewska {-}
 
 ...
 

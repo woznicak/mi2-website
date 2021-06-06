@@ -30,7 +30,7 @@ Data Lab is our creative space, place in which we have workshops, seminars and s
 
 #### Mission {-}
 
-Machine learning is like atomic energy. We develop methods, tools and good practices so that this potential can be deployed responsibly and sustainably.
+Machine learning is like atomic energy. We develop leaders, skills, methods, tools and good practices so that this potential can be deployed responsibly and sustainably.
 
 #### Vision {-}
 

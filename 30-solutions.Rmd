@@ -1,8 +1,17 @@
 # MI² Solutions  {-}
 
+Our team has experience not only in groundbreaking research, but also in deploying these research into business.
+
+We perform champion-challenger evaluations in which we look for potential to increase the effectiveness of predictive models in your company.
+
+We take care of the whole life cycle of the predictive models, from reproducibility of results to constant monitoring and continuous improvement of the model.
+
+We audit models and analyse the sensitivity and vulnerability of the model to incorrect or unexpected behaviours.
+
+We conduct trainings for data-science teams interested in the latest results in the area of responsible predictive modelling. 
 
 
-## Products  {-}
+## Solutions  {-}
 
 
 

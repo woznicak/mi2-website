@@ -1,10 +1,15 @@
 # MI² Education {-}
 
+The demand for predictive modelling skills is growing at a furious rate. Part of our mission is to develop human capital so that predictive modelling is applied responsibly and safely.
+
+We take social responsibility seriously and as part of our activities we support the development of data analysis skills among pupils, students and senior professionals alike.
+
 
 ## Teaching {-}
 
-
+TODO - classes at MiNI / MIM
 
 ## Beta Bit {-} 
 
+TODO - books, projects + StatTuba
 

@@ -4,7 +4,38 @@ On a mission to responsibly build machine learning predictive models.
 
 ....
 
-## Papers {-}
+## Seminar {-}
+
+<img src="images/seminar.png" style="width:300px; border:10px solid white; margin-right: 20px" align="left">
+
+We meet every Monday, 10:00 online or at MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology). 
+
+Join us at http://meet.google.com/rbo-kgmm-orb
+
+Materials from past seminars: https://github.com/mi2-warsaw/MI2DataLab_Seminarium
+
+
+## Papers and Books {-}
+
+<div>
+<img src="images/mini_ema.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left"><a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis.</a><br>Explore, Explain, and Examine Predictive Models. With examples in R and Python. <br><i>Przemysław Biecek, Tomasz Burzykowski.</i><br>Chapman and Hall/CRC, New York (2021).<br/><br/><br/><br/>
+</div>
+
+<div>
+<img src="images/checklist.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left"><a href="https://www.sciencedirect.com/science/article/pii/S0031320321002223">Checklist for responsible deep learning modeling of medical images based on COVID-19 detection studies.</a> <br><i>Weronika Hryniewska, Przemysław Bombiński, Patryk Szatkowski, Paulina Tomaszewska, Artur Przelaskowski, Przemysław Biecek.</i><br>Pattern Recognition (2021).<br/><br/>
+</div>
+
+<div>
+<img src="images/safe.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left"><a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X">Simpler is better: Lifting interpretability-performance trade-off via automated feature engineering.</a> <br><i>Alicja Gosiewska, Anna Kozak, Przemysław Biecek.</i> <br>Decision Support Systems (2021).<br/><br/><br/><br/>
+</div>
+
+<div>
+<img src="images/sarscov2.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left"> <a href="https://www.sciencedirect.com/science/article/pii/S1896112621000201">The first SARS-CoV-2 genetic variants of concern (VOC) in Poland: The concept of a comprehensive approach to monitoring and surveillance of emerging variants.</a> <br><i>Radosław Charkiewicz, Jacek Nikliński, Przemysław Biecek, Joanna Kiśluk, Sławomir Pancewicz, Anna Moniuszko-Malinowska, Robert Flisiak, Adam Krętowski, Janusz Dzięcioł, Marcin Moniuszko, Rafał Gierczyński, Grzegorz Juszczyk, Joanna Reszeć </i> <br>Advances in Medical Sciences (2021).
+</div>
+
+<div>
+<img src="images/responsiblecovid.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left"><a href="https://www.aaai.org/AAAI21Papers/SA-299.BanieckiH.pdf">Responsible Prediction Making of COVID-19 Mortality (Student Abstract).</a> <br><i>Hubert Baniecki, Przemyslaw Biecek.</i> <br>AAAI Conference (2021).
+</div>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -21,9 +52,6 @@ On a mission to responsibly build machine learning predictive models.
   <a href="http://dalex.drwhy.ai/"><img src="images/mini_dalex.png" height="180"></a></th><th>Paper and package: <a href="http://dalex.drwhy.ai/">XAI with DALEX for R and Python</a>
   </th></tr>
   <tr><th class="tg-8jgo">
-  <a href="https://pbiecek.github.io/ema/"><img src="images/mini_ema.png" height="180"></a></th><th>Book: <a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis</a>
-  </th></tr>
-  <tr><th class="tg-8jgo">
     <a href="https://modeloriented.github.io/fairmodels/"><img src="images/mini_fairmodels.png" height="180"></a></th><th>Package: <a href="https://modeloriented.github.io/fairmodels/">Fairness with fairmodels</a>
   </th></tr>
   <tr><th class="tg-8jgo">
@@ -33,15 +61,8 @@ On a mission to responsibly build machine learning predictive models.
     <a href="https://crs19.pl/"><img src="images/mini_crs.png" height="180"></a></th><th>Software: <a href="https://crs19.pl/">COVID-19 Risk Score</a>
   </th></tr>
   <tr><th class="tg-8jgo">
-    <a href="https://rai-covid.drwhy.ai/"><img src="images/mini_crai.png" height="180"></a></th><th>Paper: <a href="https://rai-covid.drwhy.ai/">Responsible ML for COVID-19</a>
-  </th></tr>
-  <tr><th class="tg-8jgo">
     <a href="https://github.com/pbiecek/archivist"><img src="images/mini_archivist.png" height="180"></a></th><th>Paper and package: <a href="https://github.com/pbiecek/archivist">Model governance with R (MLOps)</a>
   </th></tr>
-  <tr><th class="tg-8jgo">
-    <a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X"><img src="images/safe.png" height="180"></a></th><th>Paper: <a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X">Simpler is better</a>
-    </th>
-  </tr>
 </table>
 
 
@@ -69,7 +90,7 @@ The particular directions I consider are (1) developing an uniform grammar for v
 
 ### DeCoviD 2021-2022 {-}
 
-#### DeCoviD: Detection of Covid-19 related markers of pulmonary changes using Deep Neural Networks models supported by eXplainable Artificial Intelligence and Cognitive Compressed Sensing 
+#### DeCoviD: Detection of Covid-19 related markers of pulmonary changes using Deep Neural Networks models supported by eXplainable Artificial Intelligence and Cognitive Compressed Sensing  {-}
 
 ![images/project-decovid](images/project-decovid.png)
 

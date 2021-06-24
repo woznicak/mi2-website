@@ -14,13 +14,6 @@ We take social responsibility seriously and as part of our activities we support
   - lectures, laboratory, project - Anna Kozak
   - laboratory - *Krzysztof Spaliński* 
   
-- [Introduction to Machine Learning course for DS studies in Summer](https://github.com/mini-pw/2021L-WUM)
-  - lectures - Anna Wróblewska
-  - laboratory, project - Paulina Tomaszewska
-  - laboratory, project - Stanisław Giziński
-  - laboratory, project - *Krzysztof Spaliński*
-  - laboratory, project - *Igor Marczak, Michał Możdżonek*
-
 - [Case Study course for DS studies in Summer](https://github.com/mini-pw/2021L-WarsztatyBadawcze)
   - lectures - Katarzyna Woźnica
   - [XAI1](https://github.com/mini-pw/2021L-WB-XAI-1) - laboratory, project - Anna Kozak
@@ -42,13 +35,6 @@ We take social responsibility seriously and as part of our activities we support
   - [Reproducibility of scientific papers](https://github.com/mini-pw/2020L-WarsztatyBadawcze-Reprodukowalnosc) - laboratory, project - Alicja Gosiewska
   - [Interpretability](https://github.com/mini-pw/2020L-WarsztatyBadawcze-InzynieriaCech) - laboratory, project - Katarzyna Kobylińska
 
-- [Introduction to Machine Learning course for DS studies in Summer](https://github.com/mini-pw/2020L-WUM)
-  - lectures - Anna Wróblewska
-  - laboratory, project - Paulina Tomaszewska, *Michał Turski*
-  - laboratory, project - Szymon Maksymiuk, *Stanisław Pawlak*
-  - laboratory, project - *Tomasz Klonecki*
-
-  
 - [Interpretable Machine Learning course in Summer](https://github.com/pbiecek/InterpretableMachineLearning2020)
   - lectures, project - Przemysław Biecek  
   

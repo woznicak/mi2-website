@@ -41,24 +41,46 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 #### Members {-}
 
-(potwierdzeni na slack)
+
 
 * [PRZEMYSŁAW BIECEK, PhD (Team Leader)](team.html#przemysław-biecek)
 * [HUBERT BANIECKI](team.html#hubert-baniecki), MSc student
-* PRZEMYSŁAW BOMBIŃSKI, PhD, MD
+* PIOTR CZARNECKI , PhD student
+* STANISŁAW GIŻYŃSKI, MSc student
 * [ALICJA GOSIEWSKA](team.html#alicja-gosiewska), PhD student
 * WERONIKA HRYNIEWSKA, PhD student
+* KATARZYNA  KOBYLIŃSKA, PhD student
 * [ANNA KOZAK](team.html#anna-kozak), MSc
+* WOJCIECH KRETOWICZ, MSc Student
 * MICHAŁ KUŹBA, MSc
-* WOJCIECH KRETOWICZ, MSc student
 * STANISŁAW ŁANIEWSKI, PhD student
-* SZYMON MAKSYMIUK, MSc student
-* MICHAŁ SOKÓLSKI, MSc student
+* SZYMON MAKSYMIUK, Msc Student
+* KATARZYNA  PĘKALA, MSc
+* PIOTR PIĄTYSZEK, BSc student
+* BARBARA RYCHALSKA, PhD student
+* TOMASZ STANISŁAWEK, PhD student
 * PAULINA TOMASZEWSKA, PhD student
 * JAKUB WIŚNIEWSKI, BSc student
-* KATARZYNA WOZNICA, PhD student
+* KATARZYNA  WOŹNICA, PhD student
 * ANNA WRÓBLEWSKA, PhD
 * HANNA ZDULSKA, BSc student
+
+
+#### Collaborators {-}
+
+* PRZEMYSŁAW BOMBIŃSKI, PhD, MD
+* MARCIN LUCKNER, PhD
+* BARTEK PIELIŃSKI, PhD
+* HANNA PIOTROWSKA, MSc
+* ELŻBIETA SIENKIEWICZ, PhD
+* JULIAN SIENKIWEICZ, PhD
+* MICHAŁ SOKÓLSKI, MSc student
+* PATRYK SZATKOWSKI, PhD student, MD
+
+#### Alumni {-}
+
+* MARCIN KOSIŃSKI, MSc
+* ADAM RYDELEK, BSc
 
 
 ### Przemysław Biecek {-}

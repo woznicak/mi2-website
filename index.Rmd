@@ -49,19 +49,19 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * STANISŁAW GIŻYŃSKI, MSc student
 * [ALICJA GOSIEWSKA](team.html#alicja-gosiewska), PhD student
 * WERONIKA HRYNIEWSKA, PhD student
-* KATARZYNA  KOBYLIŃSKA, PhD student
+* KATARZYNA KOBYLIŃSKA, PhD student
 * [ANNA KOZAK](team.html#anna-kozak), MSc
 * WOJCIECH KRETOWICZ, MSc Student
 * MICHAŁ KUŹBA, MSc
 * STANISŁAW ŁANIEWSKI, PhD student
 * SZYMON MAKSYMIUK, Msc Student
-* KATARZYNA  PĘKALA, MSc
+* KATARZYNA PĘKALA, MSc
 * PIOTR PIĄTYSZEK, BSc student
 * BARBARA RYCHALSKA, PhD student
 * TOMASZ STANISŁAWEK, PhD student
 * PAULINA TOMASZEWSKA, PhD student
 * JAKUB WIŚNIEWSKI, BSc student
-* KATARZYNA  WOŹNICA, PhD student
+* KATARZYNA WOŹNICA, PhD student
 * ANNA WRÓBLEWSKA, PhD
 * HANNA ZDULSKA, BSc student
 
@@ -73,7 +73,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * BARTEK PIELIŃSKI, PhD
 * HANNA PIOTROWSKA, MSc
 * ELŻBIETA SIENKIEWICZ, PhD
-* JULIAN SIENKIWEICZ, PhD
+* JULIAN SIENKIEWICZ, PhD
 * MICHAŁ SOKÓLSKI, MSc student
 * PATRYK SZATKOWSKI, PhD student, MD
 

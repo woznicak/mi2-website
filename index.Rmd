@@ -43,6 +43,8 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 
 
+
+
 * [Przemysław Biecek, PhD (Team Leader)](team.html#przemysław-biecek)
 * [Hubert Baniecki](team.html#hubert-baniecki), MSc student
 * Piotr Czarnecki , PhD student
@@ -61,9 +63,10 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * Tomasz Stanisławek, PhD student
 * Paulina Tomaszewska, PhD student
 * Jakub Wiśniewski, BSc student
-* Katarzyna Woźnica, PhD student
+* [Katarzyna Woźnica](team.html#katarzyna-woznica), PhD student
 * Anna Wróblewska, PhD
 * Hanna Zdulska, BSc student
+
 
 
 #### Collaborators {-}
@@ -76,6 +79,20 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * Julian Sienkiewicz, PhD
 * Michał Sokólski, MSc student
 * Patryk Szatkowski, PhD student, MD
+
+#### Trainees {-}
+
+* Adrianna Grudzień, BSc student
+* Mateusz Grzyb, BSc student
+* Hoang Thien Ly, BSc student
+* Maria Kałuska, BSc student
+* Mateusz Krzyziński, BSc student
+* Hubert Ruczyński , BSc student
+* Bartosz Sawicki, BSc student
+* Szymon Szmajdziński, BSc student
+* Zuzanna Trafas, BSc student
+* Kinga Ułasik, BSc student
+* Artur Żółkowski, BSc student
 
 #### Alumni {-}
 
@@ -109,6 +126,12 @@ Google Scholar: [H72DRC0AAAAJ](https://scholar.google.pl/citations?user=H72DRC0A
 
 ...
 
+
+### Katarzyna Woźnica {-}
+
+PhD candidate in computer science. Graduated in mathematical statistics. Interested in automated machine learning, statistical analysis predictive modelling for healthcare.
+
+Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQAAAAJ). GitHub: [woznicak](https://github.com/woznicak). LinkedIn: [hbaniecki](https://www.linkedin.com/in/katarzyna-wo%C5%BAnica/).
 
 ## Contact {-}
 

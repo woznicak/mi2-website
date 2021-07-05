@@ -61,7 +61,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * TOMASZ STANISŁAWEK, PhD student
 * PAULINA TOMASZEWSKA, PhD student
 * JAKUB WIŚNIEWSKI, BSc student
-* KATARZYNA  WOŹNICA, PhD student
+* [KATARZYNA  WOŹNICA](team.html#katarzyna-woznica), PhD student
 * ANNA WRÓBLEWSKA, PhD
 * HANNA ZDULSKA, BSc student
 
@@ -76,6 +76,20 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * JULIAN SIENKIWEICZ, PhD
 * MICHAŁ SOKÓLSKI, MSc student
 * PATRYK SZATKOWSKI, PhD student, MD
+
+#### Trainees {-}
+
+* Adrianna Grudzień, BSc student
+* Mateusz Grzyb, BSc student
+* Hoang Thien Ly, BSc student
+* Maria Kałuska, BSc student
+* Mateusz Krzyziński, BSc student
+* Hubert Ruczyński , BSc student
+* Bartosz Sawicki, BSc student
+* Szymon Szmajdziński, BSc student
+* Zuzanna Trafas, BSc student
+* Kinga Ułasik, BSc student
+* Artur Żółkowski, BSc student
 
 #### Alumni {-}
 
@@ -105,6 +119,12 @@ Google Scholar: [Af0O75cAAAAJ](https://scholar.google.pl/citations?user=Af0O75cA
 
 ...
 
+
+### Katarzyna Woźnica {-}
+
+PhD candidate in computer science. Graduated in mathematical statistics. Interested in automated machine learning, statistical analysis predictive modelling for healthcare.
+
+Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQAAAAJ). GitHub: [woznicak](https://github.com/woznicak). LinkedIn: [hbaniecki](https://www.linkedin.com/in/katarzyna-wo%C5%BAnica/).
 
 ## Contact {-}
 

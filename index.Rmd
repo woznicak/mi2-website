@@ -43,44 +43,44 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 
 
-* [PRZEMYSŁAW BIECEK, PhD (Team Leader)](team.html#przemysław-biecek)
-* [HUBERT BANIECKI](team.html#hubert-baniecki), MSc student
-* PIOTR CZARNECKI , PhD student
-* STANISŁAW GIZIŃSKI, MSc student
-* [ALICJA GOSIEWSKA](team.html#alicja-gosiewska), PhD student
-* WERONIKA HRYNIEWSKA, PhD student
-* KATARZYNA KOBYLIŃSKA, PhD student
-* [ANNA KOZAK](team.html#anna-kozak), MSc
-* WOJCIECH KRETOWICZ, MSc Student
-* MICHAŁ KUŹBA, MSc
-* STANISŁAW ŁANIEWSKI, PhD student
-* SZYMON MAKSYMIUK, Msc Student
-* KATARZYNA PĘKALA, MSc
-* PIOTR PIĄTYSZEK, BSc student
-* BARBARA RYCHALSKA, PhD student
-* TOMASZ STANISŁAWEK, PhD student
-* PAULINA TOMASZEWSKA, PhD student
-* JAKUB WIŚNIEWSKI, BSc student
-* KATARZYNA WOŹNICA, PhD student
-* ANNA WRÓBLEWSKA, PhD
-* HANNA ZDULSKA, BSc student
+* [Przemysław Biecek, PhD (Team Leader)](team.html#przemysław-biecek)
+* [Hubert Baniecki](team.html#hubert-baniecki), MSc student
+* Piotr Czarnecki , PhD student
+* Stanisław Giziński, BSc student
+* [Alicja Gosiewska](team.html#alicja-gosiewska), PhD student
+* Weronika Hryniewska, PhD student
+* Katarzyna Kobylińska, PhD student
+* [Anna Kozak](team.html#anna-kozak), MSc
+* Wojciech Kretowicz, MSc Student
+* Michał Kuźba, MSc
+* Stanisław Łaniewski, PhD student
+* Szymon Maksymiuk, Msc Student
+* Katarzyna Pękala, MSc
+* Piotr Piątyszek, BSc student
+* Barbara Rychalska, PhD student
+* Tomasz Stanisławek, PhD student
+* Paulina Tomaszewska, PhD student
+* Jakub Wiśniewski, BSc student
+* Katarzyna Woźnica, PhD student
+* Anna Wróblewska, PhD
+* Hanna Zdulska, BSc student
 
 
 #### Collaborators {-}
 
-* PRZEMYSŁAW BOMBIŃSKI, PhD, MD
-* MARCIN LUCKNER, PhD
-* BARTEK PIELIŃSKI, PhD
-* HANNA PIOTROWSKA, MSc
-* ELŻBIETA SIENKIEWICZ, PhD
-* JULIAN SIENKIEWICZ, PhD
-* MICHAŁ SOKÓLSKI, MSc student
-* PATRYK SZATKOWSKI, PhD student, MD
+* Przemysław Bombiński, PhD, MD
+* Marcin Luckner, PhD
+* Bartek Pieliński, PhD
+* Hanna Piotrowska, MSc
+* Elżbieta Sienkiewicz, PhD
+* Julian Sienkiewicz, PhD
+* Michał Sokólski, MSc student
+* Patryk Szatkowski, PhD student, MD
 
 #### Alumni {-}
 
-* MARCIN KOSIŃSKI, MSc
-* ADAM RYDELEK, BSc
+* Marcin Kosiński, MSc
+* Adam Rydelek, BSc
 
 
 ### Przemysław Biecek {-}
@@ -89,13 +89,17 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 Associate professor at [Warsaw University of Technology](http://www.mini.pw.edu.pl/) and the [University of Warsaw](https://www.mimuw.edu.pl/). Interested in model visualisation, explanatory model analysis, predictive modelling and data science for healthcare. Graduated in software engineering and mathematical statistics. In 2016, he formed the research group MI² which develops methods and tools for predictive model analysis. 
 
-Research visits: University of California, Davis (2018, USA), Nanyang Technological University (2018, Singapore), Auckland University (2014, 2015, New Zeland), Hasselt University (2010, 2011, 2017, Belgium), Toronto University (2007, Canada), OECD (1013, France), Vienna University (2004, 2005, Austria), Purdue University (2004, USA).
+Research visits: University of California, Davis (2018, USA), Nanyang Technological University (2018, Singapore), Auckland University (2014, 2015, New Zeland), Hasselt University (2010, 2011, 2017, Belgium), Toronto University (2007, Canada), OECD (2013, France), Vienna University (2004, 2005, Austria), Purdue University (2004, USA).
 
 Google Scholar: [Af0O75cAAAAJ](https://scholar.google.pl/citations?user=Af0O75cAAAAJ). GitHub: [pbiecek](https://github.com/pbiecek). LinkedIn: [pbiecek](https://www.linkedin.com/in/pbiecek/).
 
 ### Hubert Baniecki {-}
 
-...
+<img src="images/hbaniecki.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+Obtained a Bachelor's degree in Data Science and works towards a corresponding Master's degree at Warsaw University of Technology. Researching machine learning in the context of explainability, adversarial attacks and interactive model analysis.
+
+Google Scholar: [H72DRC0AAAAJ](https://scholar.google.pl/citations?user=H72DRC0AAAAJ). GitHub: [hbaniecki](https://github.com/hbaniecki). LinkedIn: [hbaniecki](https://www.linkedin.com/in/hbaniecki).
 
 ### Alicja Gosiewska {-}
 

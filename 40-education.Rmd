@@ -46,7 +46,7 @@ We take social responsibility seriously and as part of our activities we support
 
 #### Winter 2019/2020 {-}
 
-- [Data Visualization Techniques](https://github.com/mini-pw/2020Z-TechnikiWizualizacjiDanych)
+- [Data Visualization Techniques](https://github.com/mini-pw/2020Z-TechnikiWizualizacjiDanych) for Data Science studies
   - lectures, laboratory, project - Michał Burdukiewicz
   
 - [Advanced Programming in R](https://github.com/mini-pw/2020Z-ProgramowanieWR)

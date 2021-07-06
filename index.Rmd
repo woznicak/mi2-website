@@ -133,9 +133,11 @@ Google Scholar: [JIrqf9kAAAAJ](https://scholar.google.pl/citations?user=JIrqf9kA
 
 ### Katarzyna Woźnica {-}
 
+<img src="images/woznicak.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
 PhD candidate in computer science. Graduated in mathematical statistics. Interested in automated machine learning, statistical analysis predictive modelling for healthcare.
 
-Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQAAAAJ). GitHub: [woznicak](https://github.com/woznicak). LinkedIn: [hbaniecki](https://www.linkedin.com/in/katarzyna-wo%C5%BAnica/).
+Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQAAAAJ). GitHub: [woznicak](https://github.com/woznicak). LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak).
 
 ## Contact {-}
 

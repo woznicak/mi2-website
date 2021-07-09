@@ -139,6 +139,16 @@ PhD candidate in computer science at Warsaw University of Technology. Graduated 
 
 Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQAAAAJ). GitHub: [woznicak](https://github.com/woznicak). LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak).
 
+
+
+### Hoang Thien Ly {-}
+
+<img src="images/lhthien.jpeg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+Pursuing B.S Degree in Mathematics and Data Analysis at Warsaw University of Technology. Interested in working with data, and learning Machine Learning methods. 
+
+GitHub: [lhthien09](https://github.com/lhthien09). LinkedIn:[hthienly](https://www.linkedin.com/in/hthienly/)
+
 ## Contact {-}
 
 ```

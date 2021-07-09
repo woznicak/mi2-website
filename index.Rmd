@@ -88,7 +88,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * Maria Kałuska, BSc student
 * Mateusz Krzyziński, BSc student
 * Hubert Ruczyński , BSc student
-* Bartosz Sawicki, BSc student
+* [Bartosz Sawicki](team.html#bartosz-sawicki), BSc student
 * Szymon Szmajdziński, BSc student
 * Zuzanna Trafas, BSc student
 * Kinga Ułasik, BSc student
@@ -140,7 +140,6 @@ PhD candidate in computer science at Warsaw University of Technology. Graduated 
 Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQAAAAJ). GitHub: [woznicak](https://github.com/woznicak). LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak).
 
 
-
 ### Hoang Thien Ly {-}
 
 <img src="images/lhthien.jpeg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
@@ -148,6 +147,16 @@ Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQA
 Pursuing B.S Degree in Mathematics and Data Analysis at Warsaw University of Technology. Interested in working with data, and learning Machine Learning methods. 
 
 GitHub: [lhthien09](https://github.com/lhthien09). LinkedIn:[hthienly](https://www.linkedin.com/in/hthienly/)
+
+
+### Bartosz Sawicki {-}
+
+<img src="images/sawickib.jpeg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+Works towards BSc degree in Data Science at Warsaw University of Technology. Interested in data visualization.
+
+GitHub: [SawickiBartosz](https://github.com/SawickiBartosz).
+
 
 ## Contact {-}
 

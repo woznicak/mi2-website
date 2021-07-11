@@ -39,11 +39,9 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 ## Team  {-}
 
+<img src="images/mi2_2021.jpg" style="width:100%;" alt="MI2 summer 2021">
+
 #### Members {-}
-
-
-
-
 
 * [Przemysław Biecek, PhD (Team Leader)](team.html#przemysław-biecek)
 * [Hubert Baniecki](team.html#hubert-baniecki), MSc student

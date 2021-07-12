@@ -155,6 +155,13 @@ Works towards BSc degree in Data Science at Warsaw University of Technology. Int
 
 GitHub: [SawickiBartosz](https://github.com/SawickiBartosz).
 
+### Hubert Ruczyński {-}
+
+<img src="images/hubert_ruczyński.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+Works towards Bachelor's degree in Data Science at Warsaw University of Technology. Interested in Maching Learning, Neural Networks and Fairness.
+
+GitHub: [HubertR21](https://github.com/HubertR21).
 
 ## Contact {-}
 

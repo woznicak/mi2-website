@@ -60,7 +60,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * Barbara Rychalska, PhD student
 * Tomasz Stanisławek, PhD student
 * Paulina Tomaszewska, PhD student
-* Jakub Wiśniewski, BSc student
+* [Jakub Wiśniewski](team.html#jakub-wisniewski), BSc student
 * [Katarzyna Woźnica](team.html#katarzyna-woznica), PhD student
 * Anna Wróblewska, PhD
 * Hanna Zdulska, BSc student
@@ -131,6 +131,13 @@ Graduated in mathematical statistics at the Warsaw University of Technology. Int
 
 Google Scholar: [JIrqf9kAAAAJ](https://scholar.google.pl/citations?user=JIrqf9kAAAAJ). GitHub: [kozaka93](https://github.com/kozaka93). LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna).
 
+### Jakub Wiśniewski {-}
+
+<img src="images/jakwisn.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+Research Software Engineer and third year Data Science student at Warsaw University of Technology. Developer of tools for bias detection and fairness. Currently researching responsible applications of deep learning. President of Data Science Science Club at WUT. 
+
+Google Scholar: [_6eQsXMAAAAJ](https://scholar.google.com/citations?user=_6eQsXMAAAAJ). GitHub: [jakwisn](https://github.com/woznicak). LinkedIn: [jakwisn](https://www.linkedin.com/in/jakwisn).
 
 ### Katarzyna Woźnica {-}
 

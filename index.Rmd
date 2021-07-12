@@ -118,7 +118,10 @@ Google Scholar: [H72DRC0AAAAJ](https://scholar.google.pl/citations?user=H72DRC0A
 
 ### Alicja Gosiewska {-}
 
-...
+<img src="images/alicja_gosiewska.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+PhD student in Computer Science at Warsaw University of Technology, holds a Master’s degree in Mathematics. Interested in Machine Learning benchmarks and eXplainable Artificial Intelligence for tabular data. 
+Google Scholar: [YiwwR6EAAAAJ](https://scholar.google.pl/citations?user=YiwwR6EAAAAJ&hl=pl). GitHub: [agosiewska](https://github.com/agosiewska). LinkedIn: [alicja-gosiewska](https://www.linkedin.com/in/alicja-gosiewska/)
 
 ### Anna Kozak {-}
 

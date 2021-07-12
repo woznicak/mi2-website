@@ -88,7 +88,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * Hubert Ruczyński , BSc student
 * [Bartosz Sawicki](team.html#bartosz-sawicki), BSc student
 * Szymon Szmajdziński, BSc student
-* Zuzanna Trafas, BSc student
+* [Zuzanna Trafas](team.html#zuzanna-trafas), BSc student
 * Kinga Ułasik, BSc student
 * Artur Żółkowski, BSc student
 
@@ -154,6 +154,15 @@ GitHub: [lhthien09](https://github.com/lhthien09). LinkedIn:[hthienly](https://w
 Works towards BSc degree in Data Science at Warsaw University of Technology. Interested in data visualization.
 
 GitHub: [SawickiBartosz](https://github.com/SawickiBartosz).
+
+
+### Zuzanna Trafas {-}
+
+<img src="images/ztrafas.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+A third-year Computer Science student at Poznan University of Technology. Interested in explainable artificial intelligence and computer vision.
+
+GitHub: [Zuzanna-Trafas](https://github.com/Zuzanna-Trafas). LinkedIn: [zuzanna-trafas](https://www.linkedin.com/in/zuzanna-trafas/)
 
 
 ## Contact {-}

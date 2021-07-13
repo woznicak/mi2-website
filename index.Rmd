@@ -1,4 +1,4 @@
---- 
+---
 documentclass: krantz
 biblio-style: apalike
 link-citations: yes
@@ -102,7 +102,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 <img src="images/przemek.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
 
-Associate professor at [Warsaw University of Technology](http://www.mini.pw.edu.pl/) and the [University of Warsaw](https://www.mimuw.edu.pl/). Interested in model visualisation, explanatory model analysis, predictive modelling and data science for healthcare. Graduated in software engineering and mathematical statistics. In 2016, he formed the research group MI² which develops methods and tools for predictive model analysis. 
+Associate professor at [Warsaw University of Technology](http://www.mini.pw.edu.pl/) and the [University of Warsaw](https://www.mimuw.edu.pl/). Interested in model visualisation, explanatory model analysis, predictive modelling and data science for healthcare. Graduated in software engineering and mathematical statistics. In 2016, he formed the research group MI² which develops methods and tools for predictive model analysis.
 
 Research visits: University of California, Davis (2018, USA), Nanyang Technological University (2018, Singapore), Auckland University (2014, 2015, New Zeland), Hasselt University (2010, 2011, 2017, Belgium), Toronto University (2007, Canada), OECD (2013, France), Vienna University (2004, 2005, Austria), Purdue University (2004, USA).
 
@@ -120,7 +120,7 @@ Google Scholar: [H72DRC0AAAAJ](https://scholar.google.pl/citations?user=H72DRC0A
 
 <img src="images/alicja_gosiewska.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
 
-PhD student in Computer Science at Warsaw University of Technology, holds a Master’s degree in Mathematics. Interested in Machine Learning benchmarks and eXplainable Artificial Intelligence for tabular data. 
+PhD student in Computer Science at Warsaw University of Technology, holds a Master’s degree in Mathematics. Interested in Machine Learning benchmarks and eXplainable Artificial Intelligence for tabular data.
 Google Scholar: [YiwwR6EAAAAJ](https://scholar.google.pl/citations?user=YiwwR6EAAAAJ&hl=pl). GitHub: [agosiewska](https://github.com/agosiewska). LinkedIn: [alicja-gosiewska](https://www.linkedin.com/in/alicja-gosiewska/)
 
 ### Anna Kozak {-}
@@ -152,7 +152,7 @@ Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQA
 
 <img src="images/lhthien.jpeg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
 
-Pursuing B.S Degree in Mathematics and Data Analysis at Warsaw University of Technology. Interested in working with data, and learning Machine Learning methods. 
+Pursuing B.S Degree in Mathematics and Data Analysis at Warsaw University of Technology. Interested in working with data, and learning Machine Learning methods.
 
 GitHub: [lhthien09](https://github.com/lhthien09). LinkedIn:[hthienly](https://www.linkedin.com/in/hthienly/)
 
@@ -173,6 +173,15 @@ Works towards Bachelor's degree in Data Science at Warsaw University of Technolo
 
 GitHub: [HubertR21](https://github.com/HubertR21).
 
+
+### Barbara Rychalska {-}
+
+<img src="images/basia.jpeg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+PhD candidate in computer science at Warsaw University of Technology. Mainly interested in deep learning for natural language processing (NLP), recommender systems and graph-based learning.
+
+LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/). Google Scholar: [Wp0wHJoAAAAJ](https://scholar.google.com/citations?user=Wp0wHJoAAAAJ).
+
 ### Zuzanna Trafas {-}
 
 <img src="images/ztrafas.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
@@ -185,9 +194,9 @@ GitHub: [Zuzanna-Trafas](https://github.com/Zuzanna-Trafas). LinkedIn: [zuzanna-
 ## Contact {-}
 
 ```
-Faculty of Mathematics and Information Science, 
-Warsaw University of Technology, 
-Koszykowa 75, 
+Faculty of Mathematics and Information Science,
+Warsaw University of Technology,
+Koszykowa 75,
 00-662 Warszawa
 VAT: PL 5250005834
 ```

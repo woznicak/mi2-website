@@ -165,6 +165,7 @@ Works towards BSc degree in Data Science at Warsaw University of Technology. Int
 
 GitHub: [SawickiBartosz](https://github.com/SawickiBartosz).
 
+
 ### Hubert Ruczyński {-}
 
 <img src="images/hubert_ruczyński.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
@@ -189,6 +190,15 @@ LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-9782
 A third-year Computer Science student at Poznan University of Technology. Interested in explainable artificial intelligence and computer vision.
 
 GitHub: [Zuzanna-Trafas](https://github.com/Zuzanna-Trafas). LinkedIn: [zuzanna-trafas](https://www.linkedin.com/in/zuzanna-trafas/)
+
+
+### Kinga Ułasik {-}
+
+<img src="images/kingau.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+A Data Science student at the Warsaw University of Technology. Interested in data vizualization, machine learning and programming. Besides studies, an astronomy amateur and a musician.
+
+GitHub: [ARUMHC](https://github.com/ARUMHC).
 
 
 ## Contact {-}

@@ -191,6 +191,15 @@ A third-year Computer Science student at Poznan University of Technology. Intere
 GitHub: [Zuzanna-Trafas](https://github.com/Zuzanna-Trafas). LinkedIn: [zuzanna-trafas](https://www.linkedin.com/in/zuzanna-trafas/)
 
 
+### Kinga Ułasik {-}
+
+<img src="images/kingau.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+A Data Science student at the Warsaw University of Technology. Interested in data wizualization, machine learning and programming. Besides studies, an astronomy amateur and a musician.
+
+GitHub: [ARUMHC](https://github.com/ARUMHC).
+
+
 ## Contact {-}
 
 ```

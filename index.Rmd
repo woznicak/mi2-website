@@ -46,7 +46,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * [Przemysław Biecek, PhD (Team Leader)](team.html#przemysław-biecek)
 * [Hubert Baniecki](team.html#hubert-baniecki), MSc student
 * Piotr Czarnecki , PhD student
-* Stanisław Giziński, BSc student
+* [Stanisław Giziński](team.html#stanislaw-gizinski), BSc
 * [Alicja Gosiewska](team.html#alicja-gosiewska), PhD student
 * [Weronika Hryniewska](team.html#weronika-hryniewska), PhD student
 * Katarzyna Kobylińska, PhD student
@@ -232,6 +232,17 @@ A Data Science student at the Warsaw University of Technology. Interested in dat
 GitHub: [ARUMHC](https://github.com/ARUMHC).
 
 
+
+### Stanisław Giziński {-}
+<img src="images/sgizinski.jpeg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+A Research Software Engineer and student of Interfaculty Individual Studies in Mathematics and Natural Sciences of University of Warsaw student. His work in the lab focuses on using natural language processing and network analysis to better understand the spread of AI public policies. Interested also in applying machine learning in bioinformatics.
+
+Google Scholar: [Stanisław Giziński](https://scholar.google.com/citations?user=QVXc3jAAAAAJ)
+GitHub: [Gizzio](https://github.com/Gizzio)
+LinkedIn: [stanislaw-gizinski](https://www.linkedin.com/in/stanislaw-gizinski/)
+
+
 ### Hanna Zdulska {-}
 
 <img src="images/zdulskah.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left"></p>
@@ -239,7 +250,6 @@ GitHub: [ARUMHC](https://github.com/ARUMHC).
 Software engineer and Data Science BSc student at Warsaw University of Technology. Experienced in web scraping, interested in natural language processing (NLP) and legal status of Artificial Intelligence. Beginner chess players.</p>
 
 GitHub: [HaZdula](https://github.com/hazdula), LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/).
-
 
 
 ## Contact {-}

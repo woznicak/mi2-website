@@ -63,7 +63,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * [Jakub Wiśniewski](team.html#jakub-wiśniewski), BSc student
 * [Katarzyna Woźnica](team.html#katarzyna-woźnica), PhD student
 * Anna Wróblewska, PhD
-* Hanna Zdulska, BSc student
+* [Hanna Zdulska](team.html#hanna-zdulska), BSc student
 
 
 
@@ -230,6 +230,16 @@ GitHub: [Zuzanna-Trafas](https://github.com/Zuzanna-Trafas). LinkedIn: [zuzanna-
 A Data Science student at the Warsaw University of Technology. Interested in data vizualization, machine learning and programming. Besides studies, an astronomy amateur and a musician.
 
 GitHub: [ARUMHC](https://github.com/ARUMHC).
+
+
+### Hanna Zdulska {-}
+
+<img src="images/zdulskah.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left"></p>
+ 
+Software engineer and Data Science BSc student at Warsaw University of Technology. Experienced in web scraping, interested in natural language processing (NLP) and legal status of Artificial Intelligence. Beginner chess players.</p>
+
+GitHub: [HaZdula](https://github.com/hazdula), LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/).
+
 
 
 ## Contact {-}

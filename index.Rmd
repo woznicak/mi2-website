@@ -48,7 +48,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * Piotr Czarnecki , PhD student
 * Stanisław Giziński, BSc student
 * [Alicja Gosiewska](team.html#alicja-gosiewska), PhD student
-* Weronika Hryniewska, PhD student
+* [Weronika Hryniewska](team.html#weronika-hryniewska), PhD student
 * Katarzyna Kobylińska, PhD student
 * [Anna Kozak](team.html#anna-kozak), MSc
 * Wojciech Kretowicz, MSc Student
@@ -57,7 +57,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * Szymon Maksymiuk, Msc Student
 * Katarzyna Pękala, MSc
 * Piotr Piątyszek, BSc student
-* Barbara Rychalska, PhD student
+* [Barbara Rychalska](team.html#barbara-rychalska), PhD student
 * Tomasz Stanisławek, PhD student
 * Paulina Tomaszewska, PhD student
 * [Jakub Wiśniewski](team.html#jakub-wisniewski), BSc student
@@ -84,12 +84,12 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * Mateusz Grzyb, BSc student
 * [Hoang Thien Ly](team.html#hoang-thien-ly), BSc student
 * Maria Kałuska, BSc student
-* Mateusz Krzyziński, BSc student
-* Hubert Ruczyński , BSc student
+* [Mateusz Krzyziński](team.html#mateusz-krzyzinski), BSc student
+* [Hubert Ruczyński](team.html#hubert-ruczynski), BSc student
 * [Bartosz Sawicki](team.html#bartosz-sawicki), BSc student
 * Szymon Szmajdziński, BSc student
 * [Zuzanna Trafas](team.html#zuzanna-trafas), BSc student
-* Kinga Ułasik, BSc student
+* [Kinga Ułasik](team.html#kinga-ulasik), BSc student
 * Artur Żółkowski, BSc student
 
 #### Alumni {-}
@@ -121,7 +121,18 @@ Google Scholar: [H72DRC0AAAAJ](https://scholar.google.pl/citations?user=H72DRC0A
 <img src="images/alicja_gosiewska.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
 
 PhD student in Computer Science at Warsaw University of Technology, holds a Master’s degree in Mathematics. Interested in Machine Learning benchmarks and eXplainable Artificial Intelligence for tabular data.
+
 Google Scholar: [YiwwR6EAAAAJ](https://scholar.google.pl/citations?user=YiwwR6EAAAAJ&hl=pl). GitHub: [agosiewska](https://github.com/agosiewska). LinkedIn: [alicja-gosiewska](https://www.linkedin.com/in/alicja-gosiewska/)
+
+### Weronika Hryniewska{-}
+
+<img src="images/whryniewska.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+
+PhD candidate in computer science at Warsaw University of Technology. Interested in deep learning modelling on medical images in the context of explainability and responsible AI.
+
+Google Scholar: [aJeg3IQAAAAJ](https://scholar.google.pl/citations?user=aJeg3IQAAAAJ). GitHub: [Hryniewska](https://github.com/Hryniewska). LinkedIn: [weronikahryniewska](https://www.linkedin.com/in/weronikahryniewska)
+
 
 ### Anna Kozak {-}
 
@@ -130,6 +141,14 @@ Google Scholar: [YiwwR6EAAAAJ](https://scholar.google.pl/citations?user=YiwwR6EA
 Graduated in mathematical statistics at the Warsaw University of Technology. Interested in explainable artificial intelligence and data visualization. Organizes projects related to education.
 
 Google Scholar: [JIrqf9kAAAAJ](https://scholar.google.pl/citations?user=JIrqf9kAAAAJ). GitHub: [kozaka93](https://github.com/kozaka93). LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna).
+
+### Barbara Rychalska {-}
+
+<img src="images/basia.jpeg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+PhD candidate in computer science at Warsaw University of Technology. Mainly interested in deep learning for natural language processing (NLP), recommender systems and graph-based learning.
+
+LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/). Google Scholar: [Wp0wHJoAAAAJ](https://scholar.google.com/citations?user=Wp0wHJoAAAAJ).
 
 ### Jakub Wiśniewski {-}
 
@@ -143,9 +162,18 @@ Google Scholar: [_6eQsXMAAAAJ](https://scholar.google.com/citations?user=_6eQsXM
 
 <img src="images/woznicak.jpeg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
 
-PhD candidate in computer science at Warsaw University of Technology. Graduated in mathematical statistics. Interested in automated machine learning, statistical analysis and predictive modelling for healthcare.
+PhD candidate in computer science at Warsaw University of Technology. Graduated in mathematical statistics. Interested in automated machine learning especially in hyperparameter tuning for tabular data. Carrying statistical analysis and predictive modelling for healthcare.
 
 Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQAAAAJ). GitHub: [woznicak](https://github.com/woznicak). LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak).
+
+### Hanna Piotrowska {-}
+
+<img src="images/HannaPiotrowska-kwadrat.jpeg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+
+Information designer, focusing mainly on data visualization, branding and book design, with a strong interest in Data Science and perception studies. Winner of numerous awards, including The Kantar Information Is Beautiful Awards, HOW International Design Awards, Polish Graphic Design Awards and KTR.
+
+LinkedIn: [hanna-piotrowska](https://www.linkedin.com/in/hanna-piotrowska-2536214b/). Twitter:[@hannapio](https://twitter.com/hannapio), Behance:[@hannapio](https://www.behance.net/hannapio)
 
 
 ### Hoang Thien Ly {-}
@@ -184,13 +212,7 @@ Works towards Bachelor's degree in Data Science at Warsaw University of Technolo
 GitHub: [HubertR21](https://github.com/HubertR21).
 
 
-### Barbara Rychalska {-}
 
-<img src="images/basia.jpeg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
-
-PhD candidate in computer science at Warsaw University of Technology. Mainly interested in deep learning for natural language processing (NLP), recommender systems and graph-based learning.
-
-LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/). Google Scholar: [Wp0wHJoAAAAJ](https://scholar.google.com/citations?user=Wp0wHJoAAAAJ).
 
 ### Zuzanna Trafas {-}
 

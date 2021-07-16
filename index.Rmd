@@ -63,7 +63,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * [Jakub Wiśniewski](team.html#jakub-wiśniewski), BSc student
 * [Katarzyna Woźnica](team.html#katarzyna-woźnica), PhD student
 * Anna Wróblewska, PhD
-* Hanna Zdulska, BSc student
+* [Hanna Zdulska](team.html#hanna-zdulska), BSc student
 
 
 
@@ -232,6 +232,7 @@ A Data Science student at the Warsaw University of Technology. Interested in dat
 GitHub: [ARUMHC](https://github.com/ARUMHC).
 
 
+
 ### Stanisław Giziński {-}
 <img src="images/sgizinski.jpeg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
 
@@ -240,6 +241,17 @@ A Research Software Engineer and student of Interfaculty Individual Studies in M
 Google Scholar: [Stanisław Giziński](https://scholar.google.com/citations?user=QVXc3jAAAAAJ)
 GitHub: [Gizzio](https://github.com/Gizzio)
 LinkedIn: [stanislaw-gizinski](https://www.linkedin.com/in/stanislaw-gizinski/)
+
+
+### Hanna Zdulska {-}
+
+<img src="images/zdulskah.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left"></p>
+ 
+Software engineer and Data Science BSc student at Warsaw University of Technology. Experienced in web scraping, interested in natural language processing (NLP) and legal status of Artificial Intelligence. Beginner chess players.</p>
+
+GitHub: [HaZdula](https://github.com/hazdula), LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/).
+
+
 ## Contact {-}
 
 ```

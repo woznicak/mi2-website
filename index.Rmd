@@ -59,7 +59,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * Piotr Piątyszek, BSc student
 * [Barbara Rychalska](team.html#barbara-rychalska), PhD student
 * Tomasz Stanisławek, PhD student
-* Paulina Tomaszewska, PhD student
+* [Paulina Tomaszewska](team.html#paulina-tomaszewska), PhD student
 * [Jakub Wiśniewski](team.html#jakub-wiśniewski), BSc student
 * [Katarzyna Woźnica](team.html#katarzyna-woźnica), PhD student
 * Anna Wróblewska, PhD
@@ -275,7 +275,14 @@ A Data Science student at the Warsaw University of Technology. Interested in dat
 
 GitHub: [ARUMHC](https://github.com/ARUMHC).
 
+### Paulina Tomaszewska {-}
 
+<img src="images/ptomaszewska.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+PhD candidate in Computer Science at Warsaw University of Technology. Gained experience in AI at leading universities during: Deep Learning Summer School at Tsinghua University (China), one-semester exchange at Nanyang Technological University (Singapore) and research internships at Gwangju Institute of Science and Technology (South Korea) and Institute of Science and Technology (Austria). Mainly interested in Deep Learning and Computer Vision.
+
+Google Scholar: [eO245iMAAAAJ](https://scholar.google.com/citations?user=eO245iMAAAAJ). 
+LinkedIn: [paulina-tomaszewska](https://www.linkedin.com/in/paulina-tomaszewska-2a8517109/).
 
 
 

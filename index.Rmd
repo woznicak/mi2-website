@@ -87,7 +87,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * [Mateusz Krzyziński](team.html#mateusz-krzyziński), BSc student
 * [Hubert Ruczyński](team.html#hubert-ruczyński), BSc student
 * [Bartosz Sawicki](team.html#bartosz-sawicki), BSc student
-* Szymon Szmajdziński, BSc student
+* [Szymon Szmajdziński](team.html#szymon-szmajdziński), BSc student
 * [Zuzanna Trafas](team.html#zuzanna-trafas), BSc student
 * [Kinga Ułasik](team.html#kinga-ułasik), BSc student
 * Artur Żółkowski, BSc student
@@ -244,6 +244,15 @@ LinkedIn: [krzyzinskim](https://www.linkedin.com/in/krzyzinskim/).
 Works towards BSc degree in Data Science at Warsaw University of Technology. Interested in data visualization.
 
 GitHub: [SawickiBartosz](https://github.com/SawickiBartosz).
+
+
+### Szymon Szmajdziński {-}
+
+<img src="images/szymon_photo.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+Data Science student at Warsaw University of Technology. Machine learning enthusiast. Interested in automated machine learning and explainable artificial intelligence.
+
+GitHub: [Szmajsz](https://github.com/Szmajasz). LinkedIn: [szymszmaj](https://www.linkedin.com/in/szymszmaj/).
 
 
 ### Hubert Ruczyński {-}

@@ -172,6 +172,29 @@ PhD candidate in computer science at Warsaw University of Technology. Mainly int
 Google Scholar: [Wp0wHJoAAAAJ](https://scholar.google.com/citations?user=Wp0wHJoAAAAJ).
 LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/). 
 
+
+### Tomasz Stanisławek {-}
+
+<img src="images/ts.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+PhD candidate in computer science at Warsaw University of Technology. Mainly interested in deep learning for natural language processing (NLP).
+
+Google Scholar: [gq8NY_UAAAAJ](https://scholar.google.pl/citations?user=gq8NY_UAAAAJ).
+GitHub: [tstanislawek](https://github.com/tstanislawek/).
+LinkedIn: [Tomasz-Stanisławek](https://pl.linkedin.com/in/tomasz-stanis%C5%82awek-91092729/). 
+
+
+### Paulina Tomaszewska {-}
+
+<img src="images/ptomaszewska.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+PhD candidate in Computer Science at Warsaw University of Technology. Gained experience in AI at leading universities during: Deep Learning Summer School at Tsinghua University (China), one-semester exchange at Nanyang Technological University (Singapore) and research internships at Gwangju Institute of Science and Technology (South Korea) and Institute of Science and Technology (Austria). Mainly interested in Deep Learning and Computer Vision.
+
+Google Scholar: [eO245iMAAAAJ](https://scholar.google.com/citations?user=eO245iMAAAAJ). 
+LinkedIn: [paulina-tomaszewska](https://www.linkedin.com/in/paulina-tomaszewska-2a8517109/).
+
+
+
 ### Jakub Wiśniewski {-}
 
 <img src="images/jakwisn.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
@@ -264,8 +287,6 @@ Works towards Bachelor's degree in Data Science at Warsaw University of Technolo
 GitHub: [HubertR21](https://github.com/HubertR21).
 
 
-
-
 ### Zuzanna Trafas {-}
 
 <img src="images/ztrafas.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
@@ -284,25 +305,6 @@ A Data Science student at the Warsaw University of Technology. Interested in dat
 
 GitHub: [ARUMHC](https://github.com/ARUMHC).
 
-### Paulina Tomaszewska {-}
-
-<img src="images/ptomaszewska.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
-
-PhD candidate in Computer Science at Warsaw University of Technology. Gained experience in AI at leading universities during: Deep Learning Summer School at Tsinghua University (China), one-semester exchange at Nanyang Technological University (Singapore) and research internships at Gwangju Institute of Science and Technology (South Korea) and Institute of Science and Technology (Austria). Mainly interested in Deep Learning and Computer Vision.
-
-Google Scholar: [eO245iMAAAAJ](https://scholar.google.com/citations?user=eO245iMAAAAJ). 
-LinkedIn: [paulina-tomaszewska](https://www.linkedin.com/in/paulina-tomaszewska-2a8517109/).
-
-
-### Tomasz Stanisławek {-}
-
-<img src="images/ts.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
-
-PhD candidate in computer science at Warsaw University of Technology. Mainly interested in deep learning for natural language processing (NLP).
-
-Google Scholar: [gq8NY_UAAAAJ](https://scholar.google.pl/citations?user=gq8NY_UAAAAJ).
-GitHub: [tstanislawek](https://github.com/tstanislawek/).
-LinkedIn: [Tomasz-Stanisławek](https://pl.linkedin.com/in/tomasz-stanis%C5%82awek-91092729/). 
 
 
 ## Contact {-}

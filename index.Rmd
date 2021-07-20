@@ -58,7 +58,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * Katarzyna Pękala, MSc
 * Piotr Piątyszek, BSc student
 * [Barbara Rychalska](team.html#barbara-rychalska), PhD student
-* Tomasz Stanisławek, PhD student
+* [Tomasz Stanisławek](team.html#tomasz-stanisławek), PhD student
 * [Paulina Tomaszewska](team.html#paulina-tomaszewska), PhD student
 * [Jakub Wiśniewski](team.html#jakub-wiśniewski), BSc student
 * [Katarzyna Woźnica](team.html#katarzyna-woźnica), PhD student
@@ -294,6 +294,15 @@ Google Scholar: [eO245iMAAAAJ](https://scholar.google.com/citations?user=eO245iM
 LinkedIn: [paulina-tomaszewska](https://www.linkedin.com/in/paulina-tomaszewska-2a8517109/).
 
 
+### Tomasz Stanisławek {-}
+
+<img src="images/ts.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+PhD candidate in computer science at Warsaw University of Technology. Mainly interested in deep learning for natural language processing (NLP).
+
+Google Scholar: [gq8NY_UAAAAJ](https://scholar.google.pl/citations?user=gq8NY_UAAAAJ).
+GitHub: [tstanislawek](https://github.com/tstanislawek/).
+LinkedIn: [Tomasz-Stanisławek](https://pl.linkedin.com/in/tomasz-stanis%C5%82awek-91092729/). 
 
 
 ## Contact {-}

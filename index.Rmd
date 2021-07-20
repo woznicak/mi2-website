@@ -248,7 +248,7 @@ GitHub: [SawickiBartosz](https://github.com/SawickiBartosz).
 
 ### Szymon Szmajdziński {-}
 
-<img src="images/szymon_photo.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+<img src="images/szymon_photo.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
 
 Data Science student at Warsaw University of Technology. Machine learning enthusiast. Interested in automated machine learning and explainable artificial intelligence.
 

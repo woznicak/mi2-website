@@ -83,7 +83,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * Adrianna Grudzień, BSc student
 * Mateusz Grzyb, BSc student
 * [Hoang Thien Ly](team.html#hoang-thien-ly), BSc student
-* Maria Kałuska, BSc student
+* [Maria Kałuska](team.html#maria-kałuska), BSc student
 * [Mateusz Krzyziński](team.html#mateusz-krzyziński), BSc student
 * [Hubert Ruczyński](team.html#hubert-ruczyński), BSc student
 * [Bartosz Sawicki](team.html#bartosz-sawicki), BSc student
@@ -304,6 +304,17 @@ LinkedIn: [zuzanna-trafas](https://www.linkedin.com/in/zuzanna-trafas/).
 A Data Science student at the Warsaw University of Technology. Interested in data vizualization, machine learning and programming. Besides studies, an astronomy amateur and a musician.
 
 GitHub: [ARUMHC](https://github.com/ARUMHC).
+
+### Maria Kałuska {-}
+
+<img src="images/mkaluska.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+Pursuing a Bachelor's degree in Data Science at Warsaw University of Technology. Interested in machine learning and neural networks for computer vision.
+
+GitHub: [kaluskam](https://github.com/kaluskam). 
+LinkedIn: [Maria-Kałuska](https://www.linkedin.com/in/marysia-ka%C5%82uska-ba16bb208/)
+
+
 
 
 

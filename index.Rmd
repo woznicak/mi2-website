@@ -307,7 +307,7 @@ GitHub: [ARUMHC](https://github.com/ARUMHC).
 
 ### Maria Kałuska {-}
 
-<img src="images/mkaluska.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+<img src="images/mkaluska.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
 
 Pursuing a Bachelor's degree in Data Science at Warsaw University of Technology. Interested in machine learning and neural networks for computer vision.
 

@@ -56,7 +56,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * Stanisław Łaniewski, PhD student
 * Szymon Maksymiuk, Msc Student
 * Katarzyna Pękala, MSc
-* Piotr Piątyszek, BSc student
+* [Piotr Piątyszek](team.html#piotr-piątyszek), BSc student
 * [Barbara Rychalska](team.html#barbara-rychalska), PhD student
 * [Tomasz Stanisławek](team.html#tomasz-stanisławek), PhD student
 * [Paulina Tomaszewska](team.html#paulina-tomaszewska), PhD student
@@ -204,6 +204,16 @@ Research Software Engineer and third year Data Science student at Warsaw Univers
 Google Scholar: [_6eQsXMAAAAJ](https://scholar.google.com/citations?user=_6eQsXMAAAAJ). 
 GitHub: [jakwisn](https://github.com/jakwisn). 
 LinkedIn: [jakwisn](https://www.linkedin.com/in/jakwisn).
+
+
+### Piotr Piątyszek {-}
+
+<img src="images/piotr_piatyszek.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+Undergraduate Data Science student at Warsaw University of Technology. Works as a research software engineer on enhancing accessibility and completeness of explainable AI. During pandemic contributes to a system of monitoring covid variants.
+
+Github: [piotrpiatyszek](https://github.com/piotrpiatyszek)
+
 
 ### Katarzyna Woźnica {-}
 

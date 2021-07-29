@@ -71,6 +71,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 * Przemysław Bombiński, PhD, MD
 * Marcin Luckner, PhD
+* Tomasz Mikołajczyk, PhD
 * Bartek Pieliński, PhD
 * [Hanna Piotrowska](team.html#hanna-piotrowska), MA
 * Elżbieta Sienkiewicz, PhD
@@ -324,7 +325,14 @@ Pursuing a Bachelor's degree in Data Science at Warsaw University of Technology.
 GitHub: [kaluskam](https://github.com/kaluskam). 
 LinkedIn: [Maria-Kałuska](https://www.linkedin.com/in/marysia-ka%C5%82uska-ba16bb208/)
 
+### Tomasz Mikołajczyk {-}
 
+<img src="images/tomekm.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+PhD in social sciences, but in recent years has devoted himself to the area of data analysis and visualization. He is interested in the development of the area of artificial explanatory intelligence.
+
+GitHub: [tmikolajczyk](https://github.com/tmikolajczyk). 
+LinkedIn: [tomasz-mikolajczyk-ds](www.linkedin.com/in/tomasz-mikolajczyk-ds).
 
 
 

@@ -165,7 +165,7 @@ LinkedIn: [weronikahryniewska](https://www.linkedin.com/in/weronikahryniewska)
 
 ### Anna Kozak {-}
 
-<img src="images/akozak.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+<img src="images/akozak.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
 
 Graduated in mathematical statistics at the Warsaw University of Technology. Interested in explainable artificial intelligence and data visualization. Organizes projects related to education.
 

@@ -37,7 +37,7 @@ Machine learning is like atomic energy. **We develop leaders, skills, methods, t
 MI² is a group of experts supporting global initiatives aimed at responsible and sustainable machine learning. We support the development of future leaders of responsible machine learning through internships, PhDs, postdoctoral fellowships and so on. We seek for research grants and business projects to conduct both scientific and applied research. We develop and maintain software and infrastructure necessary to build responsible and sustainable ML. We develop cooperation with international teams working on similar topics. We support companies to implement best practices related to responsible modelling in their operation. We conduct workshops and training on responsible predictive modelling.
 
 
-## Team  {-}
+## The Team  {-}
 
 <img src="images/mi2_2021.jpg" style="width:100%;" alt="MI2 summer 2021">
 
@@ -49,20 +49,13 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * [Stanisław Giziński](team.html#stanisław-giziński), BSc
 * [Alicja Gosiewska](team.html#alicja-gosiewska), PhD student
 * [Weronika Hryniewska](team.html#weronika-hryniewska), PhD student
-* Katarzyna Kobylińska, PhD student
 * [Anna Kozak](team.html#anna-kozak), MSc
-* Wojciech Kretowicz, MSc Student
-* Michał Kuźba, MSc
-* Stanisław Łaniewski, PhD student
-* Szymon Maksymiuk, Msc Student
-* Katarzyna Pękala, MSc
 * [Piotr Piątyszek](team.html#piotr-piątyszek), BSc student
 * [Barbara Rychalska](team.html#barbara-rychalska), PhD student
 * [Tomasz Stanisławek](team.html#tomasz-stanisławek), PhD student
 * [Paulina Tomaszewska](team.html#paulina-tomaszewska), PhD student
 * [Jakub Wiśniewski](team.html#jakub-wiśniewski), BSc student
 * [Katarzyna Woźnica](team.html#katarzyna-woźnica), PhD student
-* Anna Wróblewska, PhD
 * [Hanna Zdulska](team.html#hanna-zdulska), BSc student
 
 
@@ -76,8 +69,15 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * [Hanna Piotrowska](team.html#hanna-piotrowska), MA
 * Elżbieta Sienkiewicz, PhD
 * Julian Sienkiewicz, PhD
+* Anna Wróblewska, PhD
 * Michał Sokólski, MSc student
 * Patryk Szatkowski, PhD student, MD
+* Katarzyna Kobylińska, PhD student
+* Wojciech Kretowicz, MSc Student
+* Michał Kuźba, MSc
+* Stanisław Łaniewski, PhD student
+* Szymon Maksymiuk, Msc Student
+* Katarzyna Pękala, MSc
 
 #### Trainees {-}
 
@@ -121,7 +121,11 @@ Google Scholar: [H72DRC0AAAAJ](https://scholar.google.pl/citations?user=H72DRC0A
 GitHub: [hbaniecki](https://github.com/hbaniecki). 
 LinkedIn: [hbaniecki](https://www.linkedin.com/in/hbaniecki).
 
+<br>
+<br>
+
 ### Stanisław Giziński {-}
+
 <img src="images/sgizinski.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
 
 A Research Software Engineer and student of Interfaculty Individual Studies in Mathematics and Natural Sciences of University of Warsaw. His work in the lab focuses on using natural language processing and network analysis to better understand the spread of AI public policies. Interested also in applying machine learning in bioinformatics.
@@ -130,7 +134,7 @@ Google Scholar: [Stanisław Giziński](https://scholar.google.com/citations?user
 GitHub: [Gizzio](https://github.com/Gizzio)
 LinkedIn: [stanislaw-gizinski](https://www.linkedin.com/in/stanislaw-gizinski/)
 
-
+<br>
 
 ### Alicja Gosiewska {-}
 
@@ -141,6 +145,9 @@ PhD student in Computer Science at Warsaw University of Technology, holds a Mast
 Google Scholar: [YiwwR6EAAAAJ](https://scholar.google.pl/citations?user=YiwwR6EAAAAJ&hl=pl). 
 GitHub: [agosiewska](https://github.com/agosiewska). 
 LinkedIn: [alicja-gosiewska](https://www.linkedin.com/in/alicja-gosiewska/)
+
+<br>
+<br>
 
 ### Weronika Hryniewska{-}
 
@@ -153,6 +160,8 @@ Google Scholar: [aJeg3IQAAAAJ](https://scholar.google.pl/citations?user=aJeg3IQA
 GitHub: [Hryniewska](https://github.com/Hryniewska). 
 LinkedIn: [weronikahryniewska](https://www.linkedin.com/in/weronikahryniewska)
 
+<br>
+<br>
 
 ### Anna Kozak {-}
 
@@ -164,6 +173,9 @@ Google Scholar: [JIrqf9kAAAAJ](https://scholar.google.pl/citations?user=JIrqf9kA
 GitHub: [kozaka93](https://github.com/kozaka93). 
 LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna).
 
+<br>
+<br>
+
 ### Barbara Rychalska {-}
 
 <img src="images/basia.jpeg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
@@ -173,6 +185,10 @@ PhD candidate in computer science at Warsaw University of Technology. Mainly int
 Google Scholar: [Wp0wHJoAAAAJ](https://scholar.google.com/citations?user=Wp0wHJoAAAAJ).
 LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/). 
 
+<br>
+<br>
+<br>
+<br>
 
 ### Tomasz Stanisławek {-}
 
@@ -184,6 +200,11 @@ Google Scholar: [gq8NY_UAAAAJ](https://scholar.google.pl/citations?user=gq8NY_UA
 GitHub: [tstanislawek](https://github.com/tstanislawek/).
 LinkedIn: [Tomasz-Stanisławek](https://pl.linkedin.com/in/tomasz-stanis%C5%82awek-91092729/). 
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Paulina Tomaszewska {-}
 
@@ -193,7 +214,6 @@ PhD candidate in Computer Science at Warsaw University of Technology. Gained exp
 
 Google Scholar: [eO245iMAAAAJ](https://scholar.google.com/citations?user=eO245iMAAAAJ). 
 LinkedIn: [paulina-tomaszewska](https://www.linkedin.com/in/paulina-tomaszewska-2a8517109/).
-
 
 
 ### Jakub Wiśniewski {-}
@@ -206,6 +226,8 @@ Google Scholar: [_6eQsXMAAAAJ](https://scholar.google.com/citations?user=_6eQsXM
 GitHub: [jakwisn](https://github.com/jakwisn). 
 LinkedIn: [jakwisn](https://www.linkedin.com/in/jakwisn).
 
+<br>
+<br>
 
 ### Piotr Piątyszek {-}
 
@@ -215,6 +237,9 @@ Undergraduate Data Science student at Warsaw University of Technology. Works as 
 
 Github: [piotrpiatyszek](https://github.com/piotrpiatyszek)
 
+<br>
+<br>
+<br>
 
 ### Katarzyna Woźnica {-}
 
@@ -226,6 +251,8 @@ Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQA
 GitHub: [woznicak](https://github.com/woznicak). 
 LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak).
 
+<br>
+<br>
 
 ### Hanna Zdulska {-}
 
@@ -236,6 +263,9 @@ Software engineer and Data Science BSc student at Warsaw University of Technolog
 GitHub: [HaZdula](https://github.com/hazdula).
 LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/).
 
+<br>
+<br>
+<br>
 
 ### Tomasz Mikołajczyk {-}
 
@@ -246,6 +276,9 @@ PhD in social sciences, but in recent years has devoted himself to the area of d
 GitHub: [tmikolajczyk](https://github.com/tmikolajczyk). 
 LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds).
 
+<br>
+<br>
+<br>
 
 ### Hanna Piotrowska {-}
 
@@ -258,6 +291,8 @@ LinkedIn: [hanna-piotrowska](https://www.linkedin.com/in/hanna-piotrowska-253621
 Twitter: [hannapio](https://twitter.com/hannapio).
 Behance: [hannapio](https://www.behance.net/hannapio).
 
+<br>
+<br>
 
 ### Hoang Thien Ly {-}
 
@@ -268,6 +303,8 @@ Pursuing B.S Degree in Mathematics and Data Analysis at Warsaw University of Tec
 GitHub: [lhthien09](https://github.com/lhthien09). 
 LinkedIn:[hthienly](https://www.linkedin.com/in/hthienly/).
 
+<br>
+<br>
 
 ### Mateusz Krzyziński {-}
 
@@ -279,6 +316,8 @@ Google Scholar: [i_r7EUgAAAAJ](https://scholar.google.com/citations?user=i_r7EUg
 GitHub: [krzyzinskim](https://github.com/krzyzinskim). 
 LinkedIn: [krzyzinskim](https://www.linkedin.com/in/krzyzinskim/).
 
+<br>
+<br>
 
 ### Bartosz Sawicki {-}
 
@@ -288,6 +327,8 @@ Works towards BSc degree in Data Science at Warsaw University of Technology. Int
 
 GitHub: [SawickiBartosz](https://github.com/SawickiBartosz).
 
+<br>
+<br>
 
 ### Szymon Szmajdziński {-}
 
@@ -297,6 +338,8 @@ Data Science student at Warsaw University of Technology. Machine learning enthus
 
 GitHub: [Szmajsz](https://github.com/Szmajasz). LinkedIn: [szymszmaj](https://www.linkedin.com/in/szymszmaj/).
 
+<br>
+<br>
 
 ### Hubert Ruczyński {-}
 
@@ -306,6 +349,10 @@ Works towards Bachelor's degree in Data Science at Warsaw University of Technolo
 
 GitHub: [HubertR21](https://github.com/HubertR21).
 
+<br>
+<br>
+<br>
+<br>
 
 ### Zuzanna Trafas {-}
 
@@ -316,6 +363,9 @@ A third-year Computer Science student at Poznan University of Technology. Intere
 GitHub: [Zuzanna-Trafas](https://github.com/Zuzanna-Trafas). 
 LinkedIn: [zuzanna-trafas](https://www.linkedin.com/in/zuzanna-trafas/).
 
+<br>
+<br>
+<br>
 
 ### Kinga Ułasik {-}
 
@@ -324,6 +374,11 @@ LinkedIn: [zuzanna-trafas](https://www.linkedin.com/in/zuzanna-trafas/).
 A Data Science student at the Warsaw University of Technology. Interested in data vizualization, machine learning and programming. Besides studies, an astronomy amateur and a musician.
 
 GitHub: [ARUMHC](https://github.com/ARUMHC).
+
+<br>
+<br>
+<br>
+<br>
 
 ### Maria Kałuska {-}
 
@@ -334,6 +389,8 @@ Pursuing a Bachelor's degree in Data Science at Warsaw University of Technology.
 GitHub: [kaluskam](https://github.com/kaluskam). 
 LinkedIn: [Maria-Kałuska](https://www.linkedin.com/in/marysia-ka%C5%82uska-ba16bb208/)
 
+<br>
+<br>
 
 
 ## Contact {-}

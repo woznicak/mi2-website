@@ -9,7 +9,7 @@ As part of our this effort, we develop open source software packages (usually in
 If you want to find out more about what we are working on, check out our seminar, which is always open to those interested in responsible and sustainable data science.
 
 
-## Seminar {-}
+## Seminars {-}
 
 <img src="images/seminar.png" style="width:300px; border:10px solid white; margin-right: 20px" align="left">
 

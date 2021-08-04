@@ -73,6 +73,22 @@ Materials from past seminars: https://github.com/mi2-warsaw/MI2DataLab_Seminariu
 
 ## Research grants  {-}
 
+### X-LUNGS 2021-2024 {-}
+
+#### X-LUNGS: Responsible Artificial Intelligence for Lung Diseases {-}
+
+<center><img width="450px" src="images/projects_xlungs.jpg"></center>
+
+The aim of the project is to support the process of identification of lesions visible on CT and lung x-rays. We intend to achieve this goal by building an information system based on artificial intelligence (AI) that will support the radiologist's work by enriching the images with additional information. 
+
+The unique feature of the proposed system is a trustworthy artificial intelligence module that: 
+
+- will reduce the image analysis time needed to detect lesions, 
+- will make the image evaluation process more transparent, 
+- will provide image and textual explanations indicating the rationale behind the proposed recommendation, 
+- will be verified for effective collaboration with the radiologist.
+
+
 
 ### HOMER 2019-2024 {-}
 

@@ -82,7 +82,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 #### Trainees {-}
 
 * Adrianna Grudzień, BSc student
-* Mateusz Grzyb, BSc student
+* [Mateusz Grzyb](team.html#mateusz-grzyb), BSc student
 * [Hoang Thien Ly](team.html#hoang-thien-ly), BSc student
 * [Maria Kałuska](team.html#maria-kałuska), BSc student
 * [Mateusz Krzyziński](team.html#mateusz-krzyziński), BSc student
@@ -290,6 +290,17 @@ Information designer, focusing mainly on data visualization, branding and book d
 LinkedIn: [hanna-piotrowska](https://www.linkedin.com/in/hanna-piotrowska-2536214b/). 
 Twitter: [hannapio](https://twitter.com/hannapio).
 Behance: [hannapio](https://www.behance.net/hannapio).
+
+<br>
+<br>
+
+### Mateusz Grzyb {-}
+
+<img src="images/mateusz_grzyb.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+A BSc Data Science student at Warsaw University of Technology. Interested in artificial intelligence, data visualization and metaheuristic optimization.
+
+GitHub: [PlentyCoups](https://github.com/PlentyCoups). 
 
 <br>
 <br>

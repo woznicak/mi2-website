@@ -91,7 +91,7 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 * [Szymon Szmajdziński](team.html#szymon-szmajdziński), BSc student
 * [Zuzanna Trafas](team.html#zuzanna-trafas), BSc student
 * [Kinga Ułasik](team.html#kinga-ułasik), BSc student
-* Artur Żółkowski, BSc student
+* [Artur Żółkowski](team.html#artur-żółkowski), BSc student
 
 #### Alumni {-}
 
@@ -403,6 +403,17 @@ LinkedIn: [Maria-Kałuska](https://www.linkedin.com/in/marysia-ka%C5%82uska-ba16
 <br>
 <br>
 
+### Artur Żółkowski {-}
+
+<img src="images/zolkowskia.jpg" style="width:200px; border:10px solid white; margin-right: 20px" align="left">
+
+Bachelor Data Science student at Warsaw University of Technology. Interested in machine learning and explainable artificial intelligence.
+
+GitHub: [arturzolkowski](https://github.com/arturzolkowski). 
+LinkedIn: [azolkowski](https://www.linkedin.com/in/azolkowski/)
+
+<br>
+<br>
 
 ## Contact {-}
 

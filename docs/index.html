@@ -32,7 +32,7 @@
 
 <link rel="next" href="the-team.html"/>
 <script src="libs/header-attrs/header-attrs.js"></script>
-<script src="libs/jquery/jquery-3.6.0.min.js"></script>
+<script src="libs/jquery/jquery-3.5.1.min.js"></script>
 <link href="libs/gitbook/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-bookdown.css" rel="stylesheet" />
@@ -56,6 +56,8 @@
 
 
 <link rel="stylesheet" href="css/style.css" type="text/css" />
+<link rel="stylesheet" href="css/toc.css" type="text/css" />
+<link rel="stylesheet" href="css/variables.css" type="text/css" />
 </head>
 
 <body>
@@ -68,9 +70,6 @@
       <nav role="navigation">
 
 <ul class="summary">
-<li><center><br><svg viewBox="0 0 98.908249 96.640388" height="100px" width="100px"> <g transform="translate(-23.117306,-43.528019)"> <rect y="47.028019" x="26.617306" height="89.640388" width="91.908249" id="rect833" style="fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /> <path id="path857" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Barlow;-inkscape-font-specification:'Barlow Semi-Bold';stroke-width:0.264583" d="m 75.322801,67.668122 q 0.352778,-0.564445 0.987779,-0.564445 h 6.491115 q 0.352778,0 0.564445,0.282223 0.282223,0.211667 0.282223,0.564445 v 47.695585 q 0,0.35278 -0.282223,0.635 -0.211667,0.21167 -0.564445,0.21167 H 76.31058 q -0.352778,0 -0.635001,-0.21167 -0.211666,-0.28222 -0.211666,-0.635 V 81.99091 q 0,-0.211667 -0.211667,-0.282223 -0.141111,-0.07055 -0.211667,0.141111 l -8.81945,13.546676 q -0.352778,0.564445 -0.987779,0.564445 h -3.245557 q -0.635001,0 -0.987779,-0.564445 l -8.890006,-13.47612 q -0.07056,-0.211667 -0.282222,-0.141111 -0.141112,0.07056 -0.141112,0.282222 v 33.584465 q 0,0.35278 -0.282222,0.635 -0.211667,0.21167 -0.564445,0.21167 h -6.491115 q -0.352778,0 -0.635001,-0.21167 -0.211666,-0.28222 -0.211666,-0.635 V 67.950345 q 0,-0.352778 0.211666,-0.564445 0.282223,-0.282223 0.635001,-0.282223 h 6.491115 q 0.635001,0 0.987779,0.564445 l 11.500563,17.427234 q 0.141111,0.141111 0.282222,0.141111 0.141112,0 0.211667,-0.141111 z" /> <path id="path859" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Barlow;-inkscape-font-specification:'Barlow Semi-Bold';stroke-width:0.264583" d="m 94.785125,116.4926 q -0.352778,0 -0.635,-0.21167 -0.211667,-0.28222 -0.211667,-0.635 V 67.950345 q 0,-0.352778 0.211667,-0.564445 0.282222,-0.282223 0.635,-0.282223 h 6.491115 q 0.35278,0 0.56445,0.282223 0.28222,0.211667 0.28222,0.564445 v 47.695585 q 0,0.35278 -0.28222,0.635 -0.21167,0.21167 -0.56445,0.21167 z" /> </g> </svg> </center></li>
-
-<li class="divider"></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>MI² Data Lab</a>
 <ul>
 <li class="chapter" data-level="" data-path="the-team.html"><a href="the-team.html"><i class="fa fa-check"></i>The Team</a>
@@ -156,6 +155,15 @@
 <!--bookdown:title:start-->
 <div id="mi²-data-lab" class="section level1 unnumbered">
 <h1>MI² Data Lab</h1>
+<script>
+document.body.classList.add("index-page")
+</script>
+<style>
+a[href^=the-team] + ul {
+  display: none;
+} 
+
+</style>
 <p>MI² is a group of mathematicians and computer scientists that love to play with data.</p>
 <p>We are spread between <a href="https://www.pw.edu.pl/">Warsaw University of Technology</a> and <a href="http://uw.edu.pl/">University of Warsaw</a>.</p>
 <p>Data Lab is our creative space, place in which we have workshops, seminars and some experiments. Feel free to jump in. Here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude.</p>

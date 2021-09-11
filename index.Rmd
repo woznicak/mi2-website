@@ -9,6 +9,7 @@ site: bookdown::bookdown_site
 description: MI2
 graphics: yes
 cover-image: images/cover.png
+
 ---
 
 ```{r setup, include=FALSE}
@@ -19,8 +20,17 @@ output <- knitr::opts_knit$get("rmarkdown.pandoc.to")
 is.html = !is.null(output) && output == "html"
 ```
 
-# MI² Data Lab {-}
 
+# MI² Data Lab {-}
+<script>
+document.body.classList.add("index-page")
+</script>
+<style>
+a[href^=the-team] + ul {
+  display: none;
+} 
+
+</style>
 
 MI² is a group of mathematicians and computer scientists that love to play with data.
 
@@ -38,7 +48,6 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 
 ## The Team  {-}
-
 <img src="images/mi2_2021.jpg" style="width:100%;" alt="MI2 summer 2021">
 
 #### Members {-}
@@ -415,6 +424,9 @@ LinkedIn: [azolkowski](https://www.linkedin.com/in/azolkowski/)
 <br>
 <br>
 
+<script>
+document.body.classList.add("team-page")
+</script>
 ## Contact {-}
 
 ```
@@ -426,3 +438,7 @@ VAT: PL 5250005834
 ```
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.1647099791685!2d21.005092115735344!3d52.22222527975892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecd5d7938e739%3A0x64ab06034e05e767!2sMI2%20DataLab!5e0!3m2!1spl!2spl!4v1622669807972!5m2!1spl!2spl" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+<script>
+document.body.classList.add("contact-page")
+</script>

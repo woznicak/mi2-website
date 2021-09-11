@@ -1,0 +1,21 @@
+/*.book .book-summary {*/
+/*    border: none*/
+/*}*/
+.book .book-summary .divider {
+    display: none;
+}
+.book .book-summary ul.summary {
+    padding: var(--padding-m)
+}
+
+.book .book-header.fixed {
+    border-bottom: none;
+}
+.book-header.fixed .btn[title=Search] {
+    position: relative;
+    left: -55px;
+}
+.book-header.fixed .btn:not([title=Search]) {
+    display: none;
+    pointer-events: none;
+}

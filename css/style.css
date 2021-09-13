@@ -75,12 +75,6 @@ a[href^=the-team] + ul {
 /*    order: 5;*/
 /*}*/
 
-#the-team [id] {
-    //display: grid;
-    //grid-template-rows: 1fr auto;
-    //margin-bottom: 10px;
-    //break-inside: avoid;
- }
 
  #the-team [id] h3 {
    margin-top:0;
@@ -102,10 +96,10 @@ a[href^=the-team] + ul {
 
  #the-team {
     display: grid;
-     grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
 
-      align-content: start;
-  column-gap: 10px;
+    align-content: start;
+    column-gap: 10px;
  }
 
 

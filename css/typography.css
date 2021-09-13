@@ -21,10 +21,58 @@ h1 {
     font-style: normal;
 }
 /*Medium (do boldów w body i nagłówkach):*/
-font-family: input-mono, monospace;
-font-weight: 500;
-font-style: normal;
+.book-body strong,
+.book-body b {
+    font-family: input-mono, monospace;
+    font-weight: 500;
+    font-style: normal;
+}
+
 /*Medium Italic (do bold italic w body i nagłówkach)*/
-font-family: input-mono, monospace;
-font-weight: 500;
-font-style: italic; (edited)
+.book-body em {
+    font-family: input-mono, monospace;
+    font-weight: 500;
+    font-style: italic;
+}
+
+
+/*=========================================*/
+h1,
+.book .book-body .page-wrapper .page-inner section.normal h1 {
+    font-size: 87px;
+    line-height: 60px;
+    letter-spacing: -0.05em;
+}
+.section {
+    position: relative;
+}
+
+.section.level1 > p {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 36px;
+    letter-spacing: -0.03em;
+}
+
+h4,
+.book .book-body .page-wrapper .page-inner section.normal h4 {
+    text-transform: uppercase;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+h4:after {
+    content: "";
+    width: 40px;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+    top: 40px;
+    left: 0;
+
+
+}

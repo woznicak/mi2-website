@@ -109,7 +109,8 @@ a[href^=the-team] + ul {
  }
 
 
- * {
+ *,
+ .book .book-summary{
      background: transparent;
  }
 
@@ -121,3 +122,4 @@ a[href^=the-team] + ul {
 .book .book-body .navigation.navigation-next {
     display: none; !important;
 }
+

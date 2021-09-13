@@ -14,8 +14,12 @@
 .book-header.fixed .btn[title=Search] {
     position: relative;
     left: -55px;
+    top: 40px;
 }
 .book-header.fixed .btn:not([title=Search]) {
     display: none;
     pointer-events: none;
+}
+.book-header.fixed .btn:not([title=Search]) {
+    display: none;
 }

@@ -1,0 +1,26 @@
+#research-grants .section {
+    position: relative;
+}
+#research-grants .section h3:after {
+    content: '';
+    width: 40px;
+    border-bottom: 2px solid black;
+}
+#research-grants .section h3 {
+    margin-top: 0;
+    max-width: 50%;
+    margin-left: 50%;
+    position: absolute;
+}
+
+#research-grants .section .section.level4 h4 {
+    max-width: 50%;
+    margin-left: 50%;
+    margin-top: 100px;
+    position: absolute;
+}
+
+#research-grants .section .section.level4 .figure,
+#research-grants .section .section.level4 center {
+    max-width: 50% !important;
+}

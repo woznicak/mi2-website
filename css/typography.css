@@ -1,0 +1,30 @@
+/*Extralight (h1):*/
+h1 {
+    font-family: input-mono, monospace;
+    font-weight: 200;
+    font-style: normal;
+}
+/*Light (większość):*/
+* {
+    font-family: input-mono, monospace;
+    font-weight: 300;
+    font-style: normal;
+}
+/*Light italic:*/
+/*font-family: input-mono, monospace;*/
+/*font-weight: 300;*/
+/*font-style: italic;*/
+/*Regular (Menu):*/
+.summary {
+    font-family: input-mono, monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+/*Medium (do boldów w body i nagłówkach):*/
+font-family: input-mono, monospace;
+font-weight: 500;
+font-style: normal;
+/*Medium Italic (do bold italic w body i nagłówkach)*/
+font-family: input-mono, monospace;
+font-weight: 500;
+font-style: italic; (edited)

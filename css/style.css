@@ -1,58 +1,67 @@
 
 p.caption {
-  color: white;
-  margin-top: 10px;
+    color: white;
+    margin-top: 10px;
 }
+
 .divider {
-  color: white;
-  background-color: 10px;
+    color: white;
+    background-color: 10px;
 }
+
 p code {
-  white-space: inherit;
+    white-space: inherit;
 }
+
 .book-summary .book {
-  background-color: #f9ede3;
-  width: 150px!important;
+    background-color: #f9ede3;
+    width: 150px !important;
 }
+
 pre {
-  word-break: normal;
-  word-wrap: normal;
+    word-break: normal;
+    word-wrap: normal;
 }
+
 pre code {
-  white-space: inherit;
+    white-space: inherit;
 }
+
 p.flushright {
-  text-align: right;
+    text-align: right;
 }
+
 blockquote > p:last-child {
-  text-align: right;
+    text-align: right;
 }
+
 blockquote > p:first-child {
-  text-align: inherit;
+    text-align: inherit;
 }
 
 a[href^=the-team] + ul {
-  display: none  !important;
-  height: 0 !important;
-  overflow: hidden;
+    display: none !important;
+    height: 0 !important;
+    overflow: hidden;
 }
 
 
 #the-team {
-  //display: flex;
-  //flex-wrap: wrap
+/ / display: flex;
+/ / flex-wrap: wrap
 
 }
+
 #the-team > *[id] {
-  //max-width: 50%;
+/ / max-width: 50 %;
 }
 
 #the-team div[id]:nth-child(2n +1)
- :not([id=members])
- :not([id=collaborators])
- :not([id=trainees])
- :not([id=alumni])  {
-  margin-top: 200px;
+:not([id=members])
+:not([id=collaborators])
+:not([id=trainees])
+:not([id=alumni]) {
+    margin-top: 200px;
 }
 
 /*#the-team [id=members] {*/
@@ -76,44 +85,50 @@ a[href^=the-team] + ul {
 /*}*/
 
 
- #the-team [id] h3 {
-   margin-top:0;
- }
+#the-team [id] h3 {
+    margin-top: 0;
+}
 
- #the-team > *:nth-child(1) {
-   grid-area:title  1 / 1 / 1 / 3
- }
+#the-team > *:nth-child(1) {
+    grid-area: title 1 / 1 / 1 / 3
+}
 
- #the-team > *:nth-child(2) img {
-     display: block;
-     margin-left: auto;
-     margin-right: auto;
- }
- #the-team > *:nth-child(2) {
+#the-team > *:nth-child(2) img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#the-team > *:nth-child(2) {
     margin-right: calc(-1 * (100vw - 600px) / 2);
-    grid-area: image  2 / 1 / 2 / 3
- }
+    grid-area: image 2 / 1 / 2 / 3
+}
 
- #the-team {
+#the-team {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 
     align-content: start;
     column-gap: 10px;
- }
+}
 
 
- *,
- .book .book-summary{
-     background: transparent;
- }
+*,
+.book .book-summary {
+    background: transparent;
+}
+
+.book .book-body .page-wrapper .page-inner {
+    max-width: 850px;
+    padding: 0;
+}
 
 .book .book-body .page-wrapper .page-inner section {
-     padding-left: 0;
- }
+    padding-left: 0;
+}
 
 .book .book-body .navigation.navigation-prev,
 .book .book-body .navigation.navigation-next {
-    display: none; !important;
+    display: none;
+!important;
 }
-

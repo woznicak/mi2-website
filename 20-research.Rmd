@@ -2,9 +2,10 @@
 
 # MI² Research  {-}
 
-*On a mission to responsibly build machine learning predictive models.*
+*On a mission to responsibly build
+machine learning predictive models.*
 
-Responsible and sustainable predictive modelling is still a new and developing area. We are conducting a number of studies in this domain that examine predictive models applied to tabular data, computer vision or natural language processing models.  We investigate the stability and robustness of various methods, work on explainability and transparency for simple and complex models. 
+Responsible and sustainable predictive modelling is still a new and developing area. We are conducting a number of studies in this domain that examine predictive models applied to tabular data, computer vision or natural language processing models.  We investigate the stability and robustness of various methods, work on explainability and transparency for simple and complex models.
 
 As part of our this effort, we develop open source software packages (usually in R and Python) for model explanatory analysis, publish scientific articles describing new methods or investigating properties of already known methods, and create educational materials, recommendations and examples of application in specific domains.
 
@@ -15,7 +16,7 @@ If you want to find out more about what we are working on, check out our seminar
 
 <img src="images/seminar.png" style="width:300px; border:10px solid white; margin-right: 20px" align="left">
 
-We meet every Monday, 10:00 online or at MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology). 
+We meet every Monday, 10:00 online or at MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
 
 Join us at http://meet.google.com/rbo-kgmm-orb
 
@@ -81,13 +82,13 @@ Materials from past seminars: https://github.com/mi2-warsaw/MI2DataLab_Seminariu
 
 <center><img width="450px" src="images/projects_xlungs.jpg"></center>
 
-The aim of the project is to support the process of identification of lesions visible on CT and lung x-rays. We intend to achieve this goal by building an information system based on artificial intelligence (AI) that will support the radiologist's work by enriching the images with additional information. 
+The aim of the project is to support the process of identification of lesions visible on CT and lung x-rays. We intend to achieve this goal by building an information system based on artificial intelligence (AI) that will support the radiologist's work by enriching the images with additional information.
 
-The unique feature of the proposed system is a trustworthy artificial intelligence module that: 
+The unique feature of the proposed system is a trustworthy artificial intelligence module that:
 
-- will reduce the image analysis time needed to detect lesions, 
-- will make the image evaluation process more transparent, 
-- will provide image and textual explanations indicating the rationale behind the proposed recommendation, 
+- will reduce the image analysis time needed to detect lesions,
+- will make the image evaluation process more transparent,
+- will provide image and textual explanations indicating the rationale behind the proposed recommendation,
 - will be verified for effective collaboration with the radiologist.
 
 
@@ -123,7 +124,7 @@ The aim of the DeCoviD project is to develop methods and tools to support radiol
 
 Responsible decision support for radiologists requires models based on interpretable features. Such features will be stored in a hybrid knowledge base powered by two research teams from WUT, working on the basis of two, seemingly opposite, paradigms of image data analysis. The eXplainable Artificial Intelligence (XAI) team will use trained deep networks to automatically extract features that are essential for effective disease detection. Cognitive Compressed Sensing (CCS) will build a set of interpretable semantic features using sparse cognitive representations agreed with a group of cooperating radiologists. Combining these two approaches will achieve high effectiveness of the constructed models, combined with high transparency, clarity and stability of the solution.
 
-The DeCoviD project is a part of a broader strategy of competence development in the area of deep learning + XAI + medical applications at the Warsaw University of Technology. 
+The DeCoviD project is a part of a broader strategy of competence development in the area of deep learning + XAI + medical applications at the Warsaw University of Technology.
 
 More information: https://github.com/MI2DataLab/DeCoviD.
 

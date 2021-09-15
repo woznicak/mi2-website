@@ -1,36 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,200;0,300;0,400;0,500;1,300&display=swap');
+
 /*Extralight (h1):*/
 h1 {
-    font-family: input-mono, monospace;
+    font-family: 'IBM Plex Mono', monospace;
     font-weight: 200;
     font-style: normal;
 }
 /*Light (większość):*/
 * {
-    font-family: input-mono, monospace;
+    font-family: 'IBM Plex Mono', monospace;
     font-weight: 300;
     font-style: normal;
 }
 /*Light italic:*/
-/*font-family: input-mono, monospace;*/
+/*font-family: 'IBM Plex Mono', monospace;*/
 /*font-weight: 300;*/
 /*font-style: italic;*/
 /*Regular (Menu):*/
-.summary {
-    font-family: input-mono, monospace;
-    font-weight: 400;
-    font-style: normal;
+.summary a {
+    font-family: IBM Plex Mono, monospace;
+    font-weight: 400 !important;
+    font-size: 13px;
+    line-height: 18px;
 }
 /*Medium (do boldów w body i nagłówkach):*/
 .book-body strong,
 .book-body b {
-    font-family: input-mono, monospace;
+    font-family: 'IBM Plex Mono', monospace;
     font-weight: 500;
     font-style: normal;
 }
 
 /*Medium Italic (do bold italic w body i nagłówkach)*/
 .book-body em {
-    font-family: input-mono, monospace;
+    font-family: 'IBM Plex Mono', monospace;
     font-weight: 500;
     font-style: italic;
 }
@@ -38,7 +41,8 @@ h1 {
 
 /*=========================================*/
 h1,
-.book .book-body .page-wrapper .page-inner section.normal h1 {
+.book .book-body .page-wrapper .page-inner section.normal h1,
+.book .book-body .page-wrapper .page-inner section.normal h2 {
     font-size: 87px;
     line-height: 60px;
     letter-spacing: -0.05em;
@@ -73,6 +77,4 @@ h4:after {
     position: absolute;
     top: 40px;
     left: 0;
-
-
 }

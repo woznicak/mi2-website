@@ -1,5 +1,6 @@
 #research-grants .section {
     position: relative;
+    margin-bottom: 100px;
 }
 #research-grants .section h3:after {
     content: '';
@@ -23,4 +24,29 @@
 #research-grants .section .section.level4 .figure,
 #research-grants .section .section.level4 center {
     max-width: 50% !important;
+}
+
+#research-grants img {
+    width: 400px;
+    height: 200px;
+}
+
+#research-grants .section h3 {
+    margin-top: -8px;
+}
+#research-grants h3,
+#research-grants h4,
+#research-grants p {
+    margin-right: 50px;
+}
+
+#seminars img {
+    width: 400px;
+    height: 200px;
+    margin-right: 50px;
+    margin-bottom: 80px;
+}
+
+#seminars p:nth-of-type(2) {
+    margin-top: -20px;
 }

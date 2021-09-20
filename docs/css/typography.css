@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,200;0,300;0,400;0,500;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,200;0,300;0,400;0,500;1,300&display=block');
 
 /*Extralight (h1):*/
-h1 {
+h1, h2 {
     font-family: 'IBM Plex Mono', monospace;
     font-weight: 200;
     font-style: normal;
@@ -11,6 +11,10 @@ h1 {
     font-family: 'IBM Plex Mono', monospace;
     font-weight: 300;
     font-style: normal;
+    letter-spacing: -0.02em;
+}
+.book .book-body .page-wrapper .page-inner section.normal {
+    line-height: 30px;
 }
 /*Light italic:*/
 /*font-family: 'IBM Plex Mono', monospace;*/
@@ -30,6 +34,9 @@ h1 {
     font-weight: 500;
     font-style: normal;
 }
+.book .book-body .page-wrapper .page-inner section.normal b, .book .book-body .page-wrapper .page-inner section.normal strong {
+    font-weight: 500;
+}
 
 /*Medium Italic (do bold italic w body i nagłówkach)*/
 .book-body em {
@@ -44,7 +51,7 @@ h1,
 .book .book-body .page-wrapper .page-inner section.normal h1,
 .book .book-body .page-wrapper .page-inner section.normal h2 {
     font-size: 87px;
-    line-height: 60px;
+    line-height: 87px;
     letter-spacing: -0.05em;
 }
 .section {
@@ -52,24 +59,42 @@ h1,
 }
 
 .section.level1 > p {
+
+}
+
+.section.level1 > p:first-of-type {
     font-weight: 300;
     font-size: 20px;
     line-height: 36px;
     letter-spacing: -0.03em;
 }
 
+.book .book-body .page-wrapper .page-inner section.normal h1,
+.book .book-body .page-wrapper .page-inner section.normal h2 {
+    margin-top: calc(60px + .85em);
+    margin-bottom: calc(40px + .85em);
+}
+
 h4,
+#teaching h3,
+#research-grants h3,
 .book .book-body .page-wrapper .page-inner section.normal h4 {
     text-transform: uppercase;
     margin-top: 100px;
     margin-bottom: 50px;
     font-size: 20px;
     line-height: 32px;
-    letter-spacing: 0.2em;
+    letter-spacing: -0.02em;
     text-transform: uppercase;
 }
 
-h4:after {
+#research-grants h4 {
+    text-transform: unset;
+}
+
+h4:after,
+#research-grants h3:after,
+#teaching h3:after {
     content: "";
     width: 40px;
     height: 2px;
@@ -77,4 +102,28 @@ h4:after {
     position: absolute;
     top: 40px;
     left: 0;
+}
+
+#teaching h4:after,
+#research-grants h4:after {
+    display: none;
+}
+
+/*#teaching h3 {*/
+/*    text-transform: uppercase;*/
+/*    letter-spacing: 0.2em;*/
+/*}*/
+
+#teaching h4 {
+    letter-spacing: -0.03em;
+    text-transform: unset;
+}
+
+.search-highlight {
+    background-color: #E4E7FF !important;
+}
+
+*::selection {
+    color: white;
+    background-color: #593DD8;
 }

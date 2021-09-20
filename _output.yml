@@ -1,7 +1,10 @@
 bookdown::gitbook:
   dev: svglite
-  css: [css/style.css, css/toc.css, css/variables.css, css/research.css, css/typography.css, css/icons.css]
+  css: [css/typography.css, css/style.css, css/toc.css, css/variables.css, css/research.css, css/icons.css, css/team.css]
   split_by: section
+  output:
+    html_document:
+      template: template.html
   config:
     toc:
       collapse: subsection
@@ -14,4 +17,4 @@ bookdown::gitbook:
       github: yes
       facebook: no
 bookdown::html_chapters:
-  css: [css/style.css, css/toc.css, css/variables.css, css/research.css, css/typography.css]
+css: [css/typography.css, css/style.css, css/toc.css, css/variables.css, css/research.css, css/icons.css, css/team.css]

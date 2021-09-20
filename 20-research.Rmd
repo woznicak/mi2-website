@@ -2,8 +2,9 @@
 
 # MI² Research  {-}
 
-*On a mission to responsibly build
-machine learning predictive models.*
+<p class="highlight">On a mission to responsibly build <br/>machine learning predictive models.</p>
+
+####   {-}
 
 Responsible and sustainable predictive modelling is still a new and developing area. We are conducting a number of studies in this domain that examine predictive models applied to tabular data, computer vision or natural language processing models.  We investigate the stability and robustness of various methods, work on explainability and transparency for simple and complex models.
 
@@ -14,7 +15,7 @@ If you want to find out more about what we are working on, check out our seminar
 
 ## Seminars {-}
 
-<img src="images/seminar.png" style="width:300px; border:10px solid white; margin-right: 20px" align="left">
+<img src="images/seminar.png" align="left">
 
 We meet every Monday, 10:00 online or at MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
 
@@ -25,62 +26,86 @@ Materials from past seminars: https://github.com/mi2-warsaw/MI2DataLab_Seminariu
 
 ## Papers and Books {-}
 
+<script>
+document.body.classList.add("papers-and-books-page")
+document.body.classList.add("two-columns")
+</script>
+
 <div>
-<img src="images/mini_ema.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left"><a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis.</a><br>Explore, Explain, and Examine Predictive Models. With examples in R and Python. <br><i>Przemysław Biecek, Tomasz Burzykowski.</i><br>Chapman and Hall/CRC, New York (2021).<br/><br/><br/><br/>
+<img src="images/mini_ema.png" align="left">
+<a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis.</a>
+<p>Explore, Explain, and Examine Predictive Models. With examples in R and Python.</p>
+<p>Przemysław Biecek, Tomasz Burzykowski.</p>
+<p><i>Chapman and Hall/CRC, New York (2021)</i></p>
 </div>
 
 <div>
-<img src="images/checklist.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left"><a href="https://www.sciencedirect.com/science/article/pii/S0031320321002223">Checklist for responsible deep learning modeling of medical images based on COVID-19 detection studies.</a> <br><i>Weronika Hryniewska, Przemysław Bombiński, Patryk Szatkowski, Paulina Tomaszewska, Artur Przelaskowski, Przemysław Biecek.</i><br>Pattern Recognition (2021).<br/><br/>
+<img src="images/checklist.png" align="left">
+<a href="https://www.sciencedirect.com/science/article/pii/S0031320321002223">Checklist for responsible deep
+learning modeling of medical images based on COVID-19 detection studies.</a>
+<p>Weronika Hryniewska, Przemysław Bombiński, Patryk Szatkowski, Paulina Tomaszewska, Artur Przelaskowski,
+Przemysław Biecek.</p>
+<p><i>Pattern Recognition (2021)</i></p>
 </div>
 
 <div>
-<img src="images/safe.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left"><a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X">Simpler is better: Lifting interpretability-performance trade-off via automated feature engineering.</a> <br><i>Alicja Gosiewska, Anna Kozak, Przemysław Biecek.</i> <br>Decision Support Systems (2021).<br/><br/><br/><br/>
+<img src="images/safe.png" align="left"><a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X">Simpler is better: Lifting interpretability-performance trade-off via automated feature engineering.</a>
+<p>Alicja Gosiewska, Anna Kozak, Przemysław Biecek.</p>
+<p><i>Decision Support Systems (2021)</p></i>
 </div>
 
 <div>
-<img src="images/sarscov2.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left"> <a href="https://www.sciencedirect.com/science/article/pii/S1896112621000201">The first SARS-CoV-2 genetic variants of concern (VOC) in Poland: The concept of a comprehensive approach to monitoring and surveillance of emerging variants.</a> <br><i>Radosław Charkiewicz, Jacek Nikliński, Przemysław Biecek, Joanna Kiśluk, Sławomir Pancewicz, Anna Moniuszko-Malinowska, Robert Flisiak, Adam Krętowski, Janusz Dzięcioł, Marcin Moniuszko, Rafał Gierczyński, Grzegorz Juszczyk, Joanna Reszeć </i> <br>Advances in Medical Sciences (2021).
+<img src="images/sarscov2.png" align="left"><a href="https://www.sciencedirect.com/science/article/pii/S1896112621000201">The first SARS-CoV-2 genetic variants
+of concern (VOC) in Poland: The concept of a comprehensive approach to monitoring and surveillance of emerging
+variants.</a>
+<p>Radosław Charkiewicz, Jacek Nikliński, Przemysław Biecek, Joanna Kiśluk, Sławomir Pancewicz, Anna
+Moniuszko-Malinowska, Robert Flisiak, Adam Krętowski, Janusz Dzięcioł, Marcin Moniuszko, Rafał Gierczyński,
+Grzegorz Juszczyk, Joanna Reszeć </p>
+<p><i>Advances in Medical Sciences (2021)</p></i>
 </div>
 
 <div>
-<img src="images/responsiblecovid.png" style="width:200px; border:10px solid white; margin-right: 20px" align="left"><a href="https://www.aaai.org/AAAI21Papers/SA-299.BanieckiH.pdf">Responsible Prediction Making of COVID-19 Mortality (Student Abstract).</a> <br><i>Hubert Baniecki, Przemyslaw Biecek.</i> <br>AAAI Conference (2021).
+<img src="images/responsiblecovid.png" align="left">
+<a href="https://www.aaai.org/AAAI21Papers/SA-299.BanieckiH.pdf">Responsible Prediction Making of COVID-19 Mortality
+(Student Abstract).</a>
+<p>Hubert Baniecki, Przemyslaw Biecek.</p>
+<p><i>AAAI Conference (2021)</p></i>
 </div>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-
-<table>
-  <tr><th class="tg-8jgo">
-  <a href="http://dalex.drwhy.ai/"><img src="images/mini_dalex.png" height="180"></a></th><th>Paper and package: <a href="http://dalex.drwhy.ai/">XAI with DALEX for R and Python</a>
-  </th></tr>
-  <tr><th class="tg-8jgo">
-    <a href="https://modeloriented.github.io/fairmodels/"><img src="images/mini_fairmodels.png" height="180"></a></th><th>Package: <a href="https://modeloriented.github.io/fairmodels/">Fairness with fairmodels</a>
-  </th></tr>
-  <tr><th class="tg-8jgo">
-    <a href="http://xai-tools.drwhy.ai/"><img src="images/mini_lungs.png" height="180"></a><</th><th>Paper: <a href="http://xai-tools.drwhy.ai/">Landscape of R packages for XAI</a>
-  </th></tr>
-  <tr><th class="tg-8jgo">
-    <a href="https://crs19.pl/"><img src="images/mini_crs.png" height="180"></a></th><th>Software: <a href="https://crs19.pl/">COVID-19 Risk Score</a>
-  </th></tr>
-  <tr><th class="tg-8jgo">
-    <a href="https://github.com/pbiecek/archivist"><img src="images/mini_archivist.png" height="180"></a></th><th>Paper and package: <a href="https://github.com/pbiecek/archivist">Model governance with R (MLOps)</a>
-  </th></tr>
-</table>
-
+<div class="software">
+<img src="images/mini_dalex.png" height="180">
+<p><strong>Paper and package:</strong> <a href="http://dalex.drwhy.ai/">XAI with DALEX for R and Python</a>
+</div>
+<div class="software">
+<img src="images/mini_fairmodels.png" height="180"></a>
+<p>Package: <a href="https://modeloriented.github.io/fairmodels/">Fairness with fairmodels</a></p>
+</div>
+<div class="software">
+<img src="images/mini_lungs.png" height="180">
+<p>Paper: <a href="http://xai-tools.drwhy.ai/">Landscape of R packages for XAI</a>
+</p>
+</div>
+<div class="software">
+<img src="images/mini_crs.png" height="180"></a>
+<p>Software: <a href="https://crs19.pl/">COVID-19 Risk Score</a>
+</p>
+</div>
+<div class="software">
+<img src="images/mini_archivist.png" height="180"></a>
+<p>Paper and package: <a href="https://github.com/pbiecek/archivist">Model governance with R (MLOps)</a>
+</p>
+</div>
 
 ## Research grants  {-}
+<script>
+document.body.classList.add("research-grants-page")
+</script>
 
 ### X-LUNGS 2021-2024 {-}
 
 #### X-LUNGS: Responsible Artificial Intelligence for Lung Diseases {-}
 
-<center><img width="450px" src="images/projects_xlungs.jpg"></center>
+<img src="images/projects_xlungs.jpg">
 
 The aim of the project is to support the process of identification of lesions visible on CT and lung x-rays. We intend to achieve this goal by building an information system based on artificial intelligence (AI) that will support the radiologist's work by enriching the images with additional information.
 
@@ -117,6 +142,12 @@ The particular directions I consider are (1) developing an uniform grammar for v
 #### DeCoviD: Detection of Covid-19 related markers of pulmonary changes using Deep Neural Networks models supported by eXplainable Artificial Intelligence and Cognitive Compressed Sensing  {-}
 
 ![images/project-decovid](images/project-decovid.png)
+
+<br />
+<br />
+<br />
+<br />
+<br />
 
 Covid-19 is an infectious respiratory disease. A coronavirus infection leaves permanent ramifications in the respiratory system and beyond. In this situation, tools supporting diagnosis and assessment of lung damage after infection and during Covid-19 treatment are crucial. Preliminary results of analysis of CT images and lung xrays suggest that they can help to quickly assess even asymptomatic cases and facilitate prognosis of response to treatment. There are also reports of usefulness of ultrasound images.
 
@@ -167,8 +198,16 @@ Here is the skeleton for our approach: (1) Use ensembles in order to building a 
 
 ### OECD grants  {-}
 
+#### OECD grant title  {-}
+
+<img src="" >
+
+OECD grant description
+
 ### NCBR grants  {-}
 
-* Innowacyjny moduł systemu analizy danych medycznych i leków dedykowany dla sektora medycznego. Polish Centre for Research and Development POIR.01.01.0100-0328/17
+#### NCBR grant title  {-}
 
-+ NCBR grants  - ADD DESCRIPTION
+<img src="" >
+
+Innowacyjny moduł systemu analizy danych medycznych i leków dedykowany dla sektora medycznego. Polish Centre for Research and Development POIR.01.01.0100-0328/17

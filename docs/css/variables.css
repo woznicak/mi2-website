@@ -1,3 +1,6 @@
 :root {
     --padding-m: 50px;
+    --menu-width: 350px;
+    --link-color: #593DD8;
+    --ruler-line-color: rgba(0,0,0,.3);
 }

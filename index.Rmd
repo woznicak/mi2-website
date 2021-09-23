@@ -53,19 +53,19 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 #### Members {-}
 
 * [Przemysław Biecek, PhD (Team Leader)](the-team.html#przemysław-biecek)
-* [Hubert Baniecki](the-team.html#hubert-baniecki), MSc student
+* [Hubert Baniecki](the-team.html#hubert-baniecki) MSc student
 * Piotr Czarnecki , PhD student
-* [Stanisław Giziński](the-team.html#stanisław-giziński), BSc
-* [Alicja Gosiewska](the-team.html#alicja-gosiewska), PhD student
-* [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
-* [Anna Kozak](the-team.html#anna-kozak), MSc
-* [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
-* [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
-* [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD student
-* [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
-* [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), BSc student
-* [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
-* [Hanna Zdulska](the-team.html#hanna-zdulska), BSc student
+* [Stanisław Giziński](the-team.html#stanisław-giziński) BSc
+* [Alicja Gosiewska](the-team.html#alicja-gosiewska) PhD student
+* [Weronika Hryniewska](the-team.html#weronika-hryniewska) PhD student
+* [Anna Kozak](the-team.html#anna-kozak) MSc
+* [Piotr Piątyszek](the-team.html#piotr-piątyszek) BSc student
+* [Barbara Rychalska](the-team.html#barbara-rychalska) PhD student
+* [Tomasz Stanisławek](the-team.html#tomasz-stanisławek) PhD student
+* [Paulina Tomaszewska](the-team.html#paulina-tomaszewska) PhD student
+* [Jakub Wiśniewski](the-team.html#jakub-wiśniewski) BSc student
+* [Katarzyna Woźnica](the-team.html#katarzyna-woźnica) PhD student
+* [Hanna Zdulska](the-team.html#hanna-zdulska) BSc student
 
 
 
@@ -73,9 +73,9 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 * Przemysław Bombiński, PhD, MD
 * Marcin Luckner, PhD
-* [Tomasz Mikołajczyk](the-team.html#tomasz-mikołajczyk), PhD
+* [Tomasz Mikołajczyk](the-team.html#tomasz-mikołajczyk) PhD
 * Bartek Pieliński, PhD
-* [Hanna Piotrowska](the-team.html#hanna-piotrowska), MA
+* [Hanna Piotrowska](the-team.html#hanna-piotrowska) MA
 * Elżbieta Sienkiewicz, PhD
 * Julian Sienkiewicz, PhD
 * Anna Wróblewska, PhD
@@ -91,16 +91,16 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 #### Trainees {-}
 
 * Adrianna Grudzień, BSc student
-* [Mateusz Grzyb](the-team.html#mateusz-grzyb), BSc student
-* [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
-* [Maria Kałuska](the-team.html#maria-kałuska), BSc student
-* [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), BSc student
-* [Hubert Ruczyński](the-team.html#hubert-ruczyński), BSc student
-* [Bartosz Sawicki](the-team.html#bartosz-sawicki), BSc student
-* [Szymon Szmajdziński](the-team.html#szymon-szmajdziński), BSc student
-* [Zuzanna Trafas](the-team.html#zuzanna-trafas), BSc student
-* [Kinga Ułasik](the-team.html#kinga-ułasik), BSc student
-* [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
+* [Mateusz Grzyb](the-team.html#mateusz-grzyb) BSc student
+* [Hoang Thien Ly](the-team.html#hoang-thien-ly) BSc student
+* [Maria Kałuska](the-team.html#maria-kałuska) BSc student
+* [Mateusz Krzyziński](the-team.html#mateusz-krzyziński) BSc student
+* [Hubert Ruczyński](the-team.html#hubert-ruczyński) BSc student
+* [Bartosz Sawicki](the-team.html#bartosz-sawicki) BSc student
+* [Szymon Szmajdziński](the-team.html#szymon-szmajdziński) BSc student
+* [Zuzanna Trafas](the-team.html#zuzanna-trafas) BSc student
+* [Kinga Ułasik](the-team.html#kinga-ułasik) BSc student
+* [Artur Żółkowski](the-team.html#artur-żółkowski) BSc student
 
 #### Alumni {-}
 

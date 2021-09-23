@@ -46,24 +46,52 @@ a[href^=the-team] + ul {
 }
 
 
-
 *,
 .book .book-summary {
     background: transparent;
 }
 
-.book .book-body .page-wrapper .page-inner:before {
-    content: '';
-    height: 100%;
-    width: 1px;
-    background-color: var(--ruler-line-color);
-    left: 50%;
-    margin: 0;
-    padding: 0;
-    position: absolute;
+.book-body {
+    transition: 1s
 }
 
-@media (min-width: 1000px) {
+@media (max-width: 767px) {
+    body .book:not(.with-summary):before {
+        background-color: white;
+        z-index: 10;
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        width: 30px;
+        height: 30px;
+        content: '';
+        background-image: url("data:image/svg+xml,%3Csvg width='30' height='30' viewBox='0 0 30 30' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M28.6799 1.36802V28.68H1.31982V1.32004H28.6799V1.36802ZM30 0H0V30H30V0Z' fill='black'/%3E%3Cpath d='M21.6359 21.0469V9.04688H22.9557V21.0469H21.6359Z' fill='black'/%3E%3Cpath d='M18.5638 9.04688V21.0469H17.2438V11.0629L13.4038 21.0469H12.2038L8.36382 11.0629V21.0469H7.04382V9.04688H8.95182L12.8038 19.0789L16.6558 9.04688H18.5638Z' fill='black'/%3E%3C/svg%3E%0A");
+    }
+
+    .page-inner {
+        margin: 0 20px;
+    }
+
+    #papers-and-books h2,
+    #seminars h2,
+    #research-grants h2 {
+        margin-bottom: 60px;
+    }
+}
+
+@media (min-width: 768px) {
+    .book .book-body .page-wrapper .page-inner:before {
+        content: '';
+        height: 100%;
+        width: 1px;
+        background-color: var(--ruler-line-color);
+        left: 50%;
+        margin: 0;
+        padding: 0;
+        position: absolute;
+    }
+}
+@media (min-width: 1250px) {
     .book .book-body .page-wrapper .page-inner:before {
         left: 450px;
     }
@@ -76,12 +104,23 @@ a[href^=the-team] + ul {
 .book .book-body .page-wrapper .page-inner section.normal {
     min-height: 100vh;
 }
+
+@media (max-width: 767px) {
+    .book .book-body .page-wrapper .page-inner {
+        padding: 0 20px;
+    }
+
+    .book .book-body .page-wrapper .page-inner section {
+        padding-right: 0 !important;
+    }
+}
+
 .book .book-body .page-wrapper .page-inner {
     min-height: 100vh;
     margin-left: 0;
     padding-bottom: 0;
     padding-top: 0px;
-    border-right: 1px solid var(--ruler-line-color);
+    /*border-right: 1px solid var(--ruler-line-color);*/
     max-width: 900px;
     /*left: var(--menu-width);*/
     /*max-width: 850px;*/
@@ -90,6 +129,7 @@ a[href^=the-team] + ul {
 
 .book .book-body .page-wrapper .page-inner section {
     border-left: 1px solid var(--ruler-line-color);
+    border-right: 1px solid var(--ruler-line-color);
     padding-left: 0;
     padding-bottom: 500px;
     padding-right: 50px;
@@ -103,6 +143,7 @@ a[href^=the-team] + ul {
 .book .book-body .page-wrapper {
     /*margin-top: -30px !important;*/
 }
+
 .book .book-body.fixed .body-inner {
     top: 0;
 }
@@ -119,6 +160,16 @@ a[href^=the-team] + ul {
         width: var(--menu-width);
     }
 }
+
+.book .book-body {
+    transition: 0.2s;
+}
+
+@media (max-width: 600px) {
+    .book.with-summary .book-body {
+        left: var(--menu-width-mobile);
+    }
+}
 @media (min-width: 600px) {
     .book.with-summary .book-body {
         left: var(--menu-width);
@@ -131,8 +182,10 @@ h1, h2 {
     line-height: 87px;
 }
 
+
 h2:before,
 h1:before {
+    min-width: 64px;
     content: '';
     background-image: url("data:image/svg+xml,%3Csvg width='64' height='64' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M62 2V62H2' stroke='black' stroke-width='3'/%3E%3Cpath d='M2 2L62 62' stroke='black' stroke-width='3'/%3E%3C/svg%3E%0A");
     width: 64px;
@@ -140,6 +193,19 @@ h1:before {
     margin-right: 23px;
     margin-left: -2px;
     margin-top: 10px;
+}
+@media (max-width: 767px) {
+    h2:before,
+    h1:before {
+        min-width: 20px;
+        z-index: 10;
+        margin-right: 10px;
+        margin-top: 15px;
+        width: 20px;
+        height: 20px;
+        background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M19 1V19H1' stroke='black' stroke-width='1.5'/%3E%3Cpath d='M1 1L19 19' stroke='black' stroke-width='1.5'/%3E%3C/svg%3E%0A");
+    }
+
 }
 
 .book-header.fixed h1:before {
@@ -150,13 +216,14 @@ a,
 .book .book-body .page-wrapper .page-inner section.normal a {
     color: var(--link-color);
 }
+
 p a,
 section li a {
     margin-right: 10px;
 }
+
 a:hover {
     text-decoration: none !important;
-
 }
 
 .page-inner a:after {
@@ -169,6 +236,7 @@ a:hover {
     transition: 0.1s;
     background-image: url("data:image/svg+xml,%3Csvg width='12' height='12' viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1L11 1L11 11' stroke='%23593DD8'/%3E%3Cpath d='M1 11L11 1' stroke='%23593DD8'/%3E%3C/svg%3E%0A");
 }
+
 /*.book-header a:after {}*/
 /*.book-summary a:after {*/
 /*    display: none;*/
@@ -180,6 +248,7 @@ a:hover:after {
 
 #contact iframe {
     margin-top: 50px;
+    max-width: 100%;
 }
 
 p.highlight {
@@ -195,6 +264,7 @@ img {
     margin-right: 20px;
     border: 1px solid black !important;
 }
+
 .anchor-section {
     display: none;
 }
@@ -219,6 +289,11 @@ img {
     align-content: start;
     /*column-gap: 80px;*/
 }
+@media (max-width: 767px) {
+    .two-columns section .section.level2 {
+        display: unset;
+    }
+}
 
 .two-columns .book .book-body .page-wrapper .page-inner section,
 .research-grants-page .book .book-body .page-wrapper .page-inner section {
@@ -229,22 +304,11 @@ img {
     grid-column: span 2;
 }
 
-#papers-and-books > *:not(h2) {
-    padding-right: 50px;
-}
 #papers-and-books div img {
     width: 100%;
     height: auto;
     max-height: 225px;
     margin-bottom: 30px;
-}
-
-#papers-and-books div {
-    margin-bottom: 100px;
-}
-#papers-and-books div a {
-    margin-bottom: 20px;
-    font-size: 20px;
 }
 
 #papers-and-books div p {
@@ -266,22 +330,21 @@ img {
 }
 
 
-#teaching h4 {
-    margin-top: 60px !important;
-}
-
-
 #teaching ul {
     padding-left: 0;
 }
 
+#teaching h2 + .section.level3  h3 {
+    margin-top: 0;
+}
 
 
 .page-inner ul ul {
-    padding-left: 20px;
+    padding-left: 20px !important;
     padding-top: 20px !important;
     padding-bottom: 20px !important;
 }
+
 .page-inner ul li {
     list-style-type: none;
 }
@@ -291,4 +354,52 @@ img {
     /*width: 10px;*/
     text-indent: -5px;
     margin-right: 5px;
+}
+
+#papers-and-books div {
+    margin-bottom: 60px;
+}
+#papers-and-books div a {
+    margin-bottom: 20px;
+    font-size: 17px;
+}
+#papers-and-books div p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.book .book-summary ul.summary li a:hover,
+.book .book-summary ul.summary li.active>a,
+.book .book-summary ul.summary li a:active,
+.book .book-summary ul.summary li a:focus-within,
+.book .book-summary ul.summary li a:focus,
+.book .book-summary ul.summary li a:focus-visible {
+    color: white
+}
+
+
+@media (min-width: 768px) {
+    .book .book-summary ul.summary li a:hover,
+    .book .book-summary ul.summary li.active>a {
+        color: var(--link-color)
+    }
+
+    #papers-and-books div a {
+        font-size: 20px;
+    }
+    #papers-and-books div p {
+        font-size: 16px;
+    }
+    #papers-and-books div {
+        margin-bottom: 100px;
+    }
+    #papers-and-books > *:not(h2) {
+        padding-right: 50px;
+    }
+}
+@media (max-width: 1240px) {
+    .book .book-body.fixed {
+        top: 0px !important;
+    }
 }

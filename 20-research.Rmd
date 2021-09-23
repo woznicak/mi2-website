@@ -2,7 +2,7 @@
 
 # MI² Research  {-}
 
-<p class="highlight">On a mission to responsibly build <br/>machine learning predictive models.</p>
+On a mission to responsibly build <br/>machine learning predictive models.
 
 ####   {-}
 
@@ -105,7 +105,9 @@ document.body.classList.add("research-grants-page")
 
 #### X-LUNGS: Responsible Artificial Intelligence for Lung Diseases {-}
 
-<img src="images/projects_xlungs.jpg">
+![images/projects_xlungs.jpg](images/projects_xlungs.jpg)
+
+[comment]: <> (<img src="images/projects_xlungs.jpg">)
 
 The aim of the project is to support the process of identification of lesions visible on CT and lung x-rays. We intend to achieve this goal by building an information system based on artificial intelligence (AI) that will support the radiologist's work by enriching the images with additional information.
 
@@ -143,9 +145,6 @@ The particular directions I consider are (1) developing an uniform grammar for v
 
 ![images/project-decovid](images/project-decovid.png)
 
-<br />
-<br />
-<br />
 <br />
 <br />
 
@@ -200,7 +199,7 @@ Here is the skeleton for our approach: (1) Use ensembles in order to building a 
 
 #### OECD grant title  {-}
 
-<img src="" >
+![](images/mi-logo-placeholder.png)
 
 OECD grant description
 
@@ -208,6 +207,6 @@ OECD grant description
 
 #### NCBR grant title  {-}
 
-<img src="" >
+![](images/mi-logo-placeholder.png)
 
 Innowacyjny moduł systemu analizy danych medycznych i leków dedykowany dla sektora medycznego. Polish Centre for Research and Development POIR.01.01.0100-0328/17

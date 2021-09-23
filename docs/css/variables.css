@@ -1,6 +1,13 @@
 :root {
     --padding-m: 50px;
     --menu-width: 350px;
+    --menu-width-mobile: 286px;
     --link-color: #593DD8;
     --ruler-line-color: rgba(0,0,0,.3);
+}
+
+@media (min-width: 768px) and (max-width: 1300px) {
+    :root {
+        --menu-width: 250px;
+    }
 }

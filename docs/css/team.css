@@ -10,6 +10,9 @@
 /** * * * * * * * { background-color: rgba(0,255,0,.2); }*/
 /** * * * * * * * * { background-color: rgba(0,0,255,.2); }*/
 
+.book .book-body.fixed,
+.book .book-body.fixed .body-inner,
+.book .book-body .page-wrapper,
 .book .book-body .page-wrapper .page-inner section.normal {
     overflow: visible;
 }
@@ -26,11 +29,7 @@
     height: 300px;
     width: calc(100vw - var(--menu-width));
     background-repeat: no-repeat;
-}
-
-#the-team div[id=trainees] h4,
-#the-team div[id=alumni] h4 {
-    margin-top: 80px !important;
+    max-height: calc((100vw - 40px) * 120 / 436);
 }
 
 #the-team div[id=trainees] h4:after,
@@ -74,6 +73,10 @@
     margin-bottom: 17px;
 }
 
+#the-team ul li:before {
+    display: none;
+}
+
 /*#the-team [id]:nth-child(2n-1) {*/
 #the-team [id] {
     margin-right: 50px;
@@ -99,10 +102,6 @@
     left: calc(100% + 50px - 225px/2);
 }
 
-
-#the-team [id]:nth-child(2n + 10):not([id=hubert-baniecki]) {
-    margin-top: -300px;
-}
 #the-team [id] h3  {
     margin-top: 100px;
     font-size: 20px;
@@ -121,3 +120,78 @@
     border:1px solid black;
     margin-right: 20px;
 }
+
+@media (min-width: 768px) {
+    #the-team div[id=trainees] h4,
+    #the-team div[id=alumni] h4 {
+        margin-top: 80px !important;
+    }
+
+    #the-team [id]:nth-child(2n + 10):not([id=hubert-baniecki]) {
+        margin-top: -300px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .book .book-body .page-wrapper .page-inner section.normal #the-team h4 {
+        margin-top: 60px;
+    }
+
+    #team-cover-img {
+        width: 100%;
+    }
+
+    #przemysław-biecek:before {
+        grid-column: span 2;
+        content: '';
+        width: 168px;
+        height:2px;
+        background-color: black;
+        /*margin: auto;*/
+        position: relative;
+        left: calc(50% - 168px/2);
+    }
+
+    #the-team [id] {
+        margin-right: 0px;
+    }
+
+    #team-cover-img {
+        position: unset;
+        /*background-image: url("/images/mi2_2021.jpg");*/
+        /*background-size: contain;*/
+        height:120px;
+        /*width: calc(100vw - var(--menu-width));*/
+        /*background-repeat: no-repeat;*/
+    }
+
+    #the-team #members,
+    #the-team #collaborators {
+        margin-top: 60px;
+    }
+
+    #the-team h4:after {
+        top: 40px;
+    }
+
+    #the-team div[id=trainees] h4:after,
+    #the-team div[id=alumni] h4:after {
+        top: 40px;
+    }
+
+    #the-team [id]:not([id=przemysław-biecek]) h3 {
+        margin-top: 60px;
+    }
+
+    #hubert-baniecki {
+        margin-top: 0px;
+    }
+
+    #the-team .section.level3 img {
+        width: 50%;
+        height: auto;
+        margin-left: -1px;
+    }
+}
+

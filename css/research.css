@@ -2,42 +2,15 @@
     position: relative;
     margin-bottom: 100px;
 }
-#research-grants .section h3:after {
-    content: '';
-    width: 40px;
-    border-bottom: 2px solid black;
-}
-#research-grants .section h3 {
-    margin-top: 0;
-    max-width: 50%;
-    margin-left: 50%;
-    position: absolute;
-}
+/*#research-grants .section h3:after {*/
+/*    content: '';*/
+/*    width: 40px;*/
+/*    border-bottom: 2px solid black;*/
+/*}*/
 
-#research-grants .section .section.level4 h4 {
-    max-width: 50%;
-    margin-left: 50%;
-    margin-top: 100px;
-    position: absolute;
-}
-
-#research-grants .section .section.level4 .figure,
-#research-grants .section .section.level4 center {
-    max-width: 50% !important;
-}
-
-#research-grants img {
-    width: 400px;
-    height: 200px;
-}
 
 #research-grants .section h3 {
     margin-top: -8px;
-}
-#research-grants h3,
-#research-grants h4,
-#research-grants p {
-    margin-right: 50px;
 }
 
 #seminars img {
@@ -49,4 +22,72 @@
 
 #seminars p:nth-of-type(2) {
     margin-top: -20px;
+}
+
+#research-grants img {
+    width: 100%;
+}
+
+
+:root {
+    --mobile-image-height: calc((100vw - 2 * 20px) * 260/370);
+}
+@media (max-width: 767px) {
+    #research-grants br {
+        display: none;
+    }
+
+
+    #research-grants img {
+        min-height: var(--mobile-image-height);
+    }
+
+    #research-grants .section h3 {
+        margin-top: calc(var(--mobile-image-height) + 40px);
+        position: absolute;
+    }
+
+    #research-grants .section.level4 {
+        display: flex;
+        flex-direction: column;
+    }
+    #research-grants .section.level4 > * {
+        order: 3
+    }
+
+    #research-grants .section.level4 > *:nth-child(1) {
+        order: 2
+    }
+
+    #research-grants .section.level4 > *:nth-child(2) {
+        order: 1
+    }
+}
+
+@media (min-width: 768px) {
+    #research-grants img {
+        width: 400px;
+        height: 200px;
+        max-width: calc(50% - 50px);
+    }
+
+    #research-grants h3,
+    #research-grants h4,
+    #research-grants p {
+        margin-right: 50px;
+    }
+
+    #research-grants .section h3 {
+        margin-top: 0;
+        max-width: 50%;
+        margin-left: 50%;
+        position: absolute;
+    }
+
+    #research-grants .section .section.level4 h4 {
+        max-width: 50%;
+        margin-left: 50%;
+        margin-top: 100px;
+        position: absolute;
+    }
 }

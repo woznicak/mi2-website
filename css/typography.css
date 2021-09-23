@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,200;0,300;0,400;0,500;1,300&display=block');
 
+
 /*Extralight (h1):*/
 h1, h2 {
     font-family: 'IBM Plex Mono', monospace;
-    font-weight: 200;
+    font-weight: 200 !important;
     font-style: normal;
 }
+
 /*Light (większość):*/
 * {
     font-family: 'IBM Plex Mono', monospace;
@@ -13,9 +15,11 @@ h1, h2 {
     font-style: normal;
     letter-spacing: -0.02em;
 }
+
 .book .book-body .page-wrapper .page-inner section.normal {
     line-height: 30px;
 }
+
 /*Light italic:*/
 /*font-family: 'IBM Plex Mono', monospace;*/
 /*font-weight: 300;*/
@@ -27,6 +31,7 @@ h1, h2 {
     font-size: 13px;
     line-height: 18px;
 }
+
 /*Medium (do boldów w body i nagłówkach):*/
 .book-body strong,
 .book-body b {
@@ -34,6 +39,7 @@ h1, h2 {
     font-weight: 500;
     font-style: normal;
 }
+
 .book .book-body .page-wrapper .page-inner section.normal b, .book .book-body .page-wrapper .page-inner section.normal strong {
     font-weight: 500;
 }
@@ -53,6 +59,23 @@ h1,
     font-size: 87px;
     line-height: 87px;
     letter-spacing: -0.05em;
+
+    margin-top: calc(60px + .85em);
+    margin-bottom: calc(40px + .85em);
+}
+
+@media (max-width: 767px) {
+    h1, h2 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1300px) {
+    h1, .book .book-body .page-wrapper .page-inner section.normal h1, .book .book-body .page-wrapper .page-inner section.normal h2 {
+        margin-top: 90px;
+        margin-bottom: 70px;
+    }
 }
 .section {
     position: relative;
@@ -63,16 +86,11 @@ h1,
 }
 
 .section.level1 > p:first-of-type {
+    margin-bottom: 50px !important;
     font-weight: 300;
     font-size: 20px;
     line-height: 36px;
     letter-spacing: -0.03em;
-}
-
-.book .book-body .page-wrapper .page-inner section.normal h1,
-.book .book-body .page-wrapper .page-inner section.normal h2 {
-    margin-top: calc(60px + .85em);
-    margin-bottom: calc(40px + .85em);
 }
 
 h4,
@@ -84,12 +102,13 @@ h4,
     margin-bottom: 50px;
     font-size: 20px;
     line-height: 32px;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.2em;
     text-transform: uppercase;
 }
 
 #research-grants h4 {
     text-transform: unset;
+    letter-spacing: -0.02em;
 }
 
 h4:after,
@@ -109,11 +128,6 @@ h4:after,
     display: none;
 }
 
-/*#teaching h3 {*/
-/*    text-transform: uppercase;*/
-/*    letter-spacing: 0.2em;*/
-/*}*/
-
 #teaching h4 {
     letter-spacing: -0.03em;
     text-transform: unset;
@@ -122,8 +136,62 @@ h4:after,
 .search-highlight {
     background-color: #E4E7FF !important;
 }
+h1 .search-highlight,
+h2 .search-highlight {
+    font-weight: 200 !important;
+}
 
 *::selection {
     color: white;
     background-color: #593DD8;
+}
+
+#teaching h4 {
+    margin-top: 60px !important;
+}
+
+@media (max-width: 767px) {
+    .book .book-body .page-wrapper .page-inner section {
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .section.level1 > p:first-of-type {
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+    #teaching h3 {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    #teaching h4 {
+        margin-bottom: 20px;
+    }
+
+    h1,
+    .book .book-body .page-wrapper .page-inner section.normal h1,
+    .book .book-body .page-wrapper .page-inner section.normal h2 {
+        font-weight: 200;
+        font-size: 40px;
+        line-height: 40px;
+        letter-spacing: -0.05em;
+        margin-top: 120px;
+        margin-bottom: 40px;
+    }
+
+    h4,
+    #teaching h3,
+    #research-grants h3,
+    .book .book-body .page-wrapper .page-inner section.normal h4 {
+        margin-top: 60px;
+        font-size: 17px;
+        line-height: 32px;
+    }
+
+    .book .book-body .page-wrapper .page-inner section.normal #research-grants h4 {
+        /*margin-top: 80px;*/
+    }
 }

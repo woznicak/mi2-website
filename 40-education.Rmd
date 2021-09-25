@@ -6,6 +6,9 @@ We take social responsibility seriously and as part of our activities we support
 
 
 ## Teaching {-}
+<script>
+document.body.classList.add("teaching-page")
+</script>
 
 ### Classes at MiNI {-}
 
@@ -13,22 +16,22 @@ We take social responsibility seriously and as part of our activities we support
 
 - [Introduction to exploratory data analysis](https://github.com/mini-pw/2021L-ExploratoryDataAnalysis) for Mathematics and data analysis studies
   - lectures, laboratory, project - Anna Kozak
-  - laboratory - *Krzysztof Spaliński* 
-  
+  - laboratory - *Krzysztof Spaliński*
+
 - [Case Studies](https://github.com/mini-pw/2021L-WarsztatyBadawcze) for Data Science studies
   - lectures - Katarzyna Woźnica
   - [XAI1](https://github.com/mini-pw/2021L-WB-XAI-1) - laboratory, project - Anna Kozak
   - [XAI2](https://github.com/mini-pw/2021L-WB-XAI-2) - laboratory, project - Szymon Maksymiuk
   - [DL1](https://github.com/mini-pw/2021L-WB-DL-1) - laboratory, project - Weronika Hryniewska
   - [DL2](https://github.com/mini-pw/2021L-WB-DL-2) - laboratory, project - Paulina Tomaszewska
-  - [ML](https://github.com/mini-pw/2021L-WB-ML) - laboratory, project - Hubert Baniecki 
+  - [ML](https://github.com/mini-pw/2021L-WB-ML) - laboratory, project - Hubert Baniecki
   - [RashomonML](https://github.com/mini-pw/2021L-WB-RashomonML) - laboratory, project - Katarzyna Woźnica
 
 #### Winter 2020/2021 {-}
 
 - [Data Visualization Techniques](https://github.com/mini-pw/2021Z-DataVisualizationTechniques) for Data Science studies
   - lectures, laboratory - Alicja Gosiewska
-  - project - Hubert Baniecki 
+  - project - Hubert Baniecki
 
 #### Summer 2019/2020 {-}
 
@@ -39,8 +42,8 @@ We take social responsibility seriously and as part of our activities we support
   - [Interpretability](https://github.com/mini-pw/2020L-WarsztatyBadawcze-InzynieriaCech) - laboratory, project - Katarzyna Kobylińska
 
 - [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2020) for Data Science studies
-  - lectures, project - Przemysław Biecek  
-  
+  - lectures, project - Przemysław Biecek
+
 - [Data Visualization](https://github.com/mini-pw/2020L-WizualizacjaDanych) for Data Science studies
   - lectures, project - Michał Burdukiewicz
 
@@ -48,10 +51,10 @@ We take social responsibility seriously and as part of our activities we support
 
 - [Data Visualization Techniques](https://github.com/mini-pw/2020Z-TechnikiWizualizacjiDanych) for Data Science studies
   - lectures, laboratory, project - Michał Burdukiewicz
-  
+
 - [Advanced Programming in R](https://github.com/mini-pw/2020Z-ProgramowanieWR)
   - lectures, laboratory, project - Michał Burdukiewicz
-  
+
 #### Summer 2018/2019 {-}
 
 - [Case Studies](https://github.com/mini-pw/2019L-WarsztatyBadawcze) for Data Science studies
@@ -59,35 +62,35 @@ We take social responsibility seriously and as part of our activities we support
 
 - [Data Visualization](https://github.com/mini-pw/WizualizacjaDanych2018)
   - lectures, project - Michał Burdukiewicz
-  
+
 - [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2018S)
   - lectures, project - Przemysław Biecek
-  
+
 - Advanced R
   - lectures, laboratory, project - Przemysław Biecek
 
 - [Data Visualization Techniques](https://github.com/pbiecek/TechnikiWizualizacjiDanych2018)  for Data Science studies
   - lectures, project - Przemysław Biecek
   - laboratory, project - Michał Burdukiewicz
-  
+
 ### Classes at MIM{-}
 
 #### Summer 2020/2021 {-}
 
 - [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2021)
   - lectures, project - Przemysław Biecek
-  
+
 #### Summer 2019/2020 {-}
 
 - [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2020)
-  - lectures, project - Przemysław Biecek  
-  
+  - lectures, project - Przemysław Biecek
+
 #### Summer 2018/2019 {-}
 
 - [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2018S)
   - lectures, project - Przemysław Biecek
 
-## Beta Bit {-} 
+## Beta Bit {-}
 
 TODO - books, projects + StatTuba
 

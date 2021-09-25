@@ -25,12 +25,6 @@ is.html = !is.null(output) && output == "html"
 <script>
 document.body.classList.add("index-page")
 </script>
-<style>
-a[href^=the-team] + ul {
-  display: none;
-}
-
-</style>
 
 MI² is a group of mathematicians and computer scientists that love to play with data.
 We are spread between [Warsaw University of Technology](https://www.pw.edu.pl/) and [University of Warsaw](http://uw.edu.pl/).

@@ -165,7 +165,8 @@ h4:after,
     height: 2px;
     background-color: black;
     position: absolute;
-    top: 40px;
+    /*top: 40px;*/
+    bottom: -5px;
     left: 0;
 }
 

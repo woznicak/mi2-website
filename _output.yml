@@ -1,11 +1,8 @@
 bookdown::gitbook:
   css: [css/typography.css, css/style.css, css/toc.css, css/variables.css, css/research.css, css/icons.css, css/team.css]
+  includes:
+    after_body: scripts.html
   split_by: section
-  output:
-    html_document:
-      template: template.html
-      includes:
-        after_body: header.html
   config:
     toc:
       collapse: subsection

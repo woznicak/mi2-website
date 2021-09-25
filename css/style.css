@@ -177,40 +177,6 @@ a[href^=the-team] + ul {
 }
 
 
-h1, h2 {
-    display: inline-flex;
-    line-height: 87px;
-}
-
-
-h2:before,
-h1:before {
-    min-width: 64px;
-    content: '';
-    background-image: url("data:image/svg+xml,%3Csvg width='64' height='64' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M62 2V62H2' stroke='black' stroke-width='3'/%3E%3Cpath d='M2 2L62 62' stroke='black' stroke-width='3'/%3E%3C/svg%3E%0A");
-    width: 64px;
-    height: 64px;
-    margin-right: 23px;
-    margin-left: -2px;
-    margin-top: 10px;
-}
-@media (max-width: 767px) {
-    h2:before,
-    h1:before {
-        min-width: 20px;
-        z-index: 10;
-        margin-right: 10px;
-        margin-top: 15px;
-        width: 20px;
-        height: 20px;
-        background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M19 1V19H1' stroke='black' stroke-width='1.5'/%3E%3Cpath d='M1 1L19 19' stroke='black' stroke-width='1.5'/%3E%3C/svg%3E%0A");
-    }
-
-}
-
-.book-header.fixed h1:before {
-    display: none;
-}
 
 a,
 .book .book-body .page-wrapper .page-inner section.normal a {

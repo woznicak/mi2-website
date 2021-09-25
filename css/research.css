@@ -14,10 +14,11 @@
 }
 
 #seminars img {
-    width: 400px;
-    height: 200px;
-    margin-right: 50px;
-    margin-bottom: 80px;
+    /*width: 400px;*/
+    /*height: 200px;*/
+    width: 50%;
+    margin-right: 30px;
+    margin-bottom: 20px;
 }
 
 #seminars p:nth-of-type(2) {
@@ -32,6 +33,15 @@
 :root {
     --mobile-image-height: calc((100vw - 2 * 20px) * 260/370);
 }
+@media (min-width: 767px) and (max-width: 1300px) {
+    #research-grants br {
+        display: block;
+        margin: 20px;
+height: 50px;
+        content: ''
+    }
+}
+
 @media (max-width: 767px) {
     #research-grants br {
         display: none;

@@ -199,7 +199,7 @@ Here is the skeleton for our approach: (1) Use ensembles in order to building a 
 
 #### OECD grant title  {-}
 
-![](images/mi-logo-placeholder.png)
+![images/mi-logo-placeholder.png](images/mi-logo-placeholder.png)
 
 OECD grant description
 
@@ -207,6 +207,6 @@ OECD grant description
 
 #### NCBR grant title  {-}
 
-![](images/mi-logo-placeholder.png)
+![images/mi-logo-placeholder.png](images/mi-logo-placeholder.png)
 
 Innowacyjny moduł systemu analizy danych medycznych i leków dedykowany dla sektora medycznego. Polish Centre for Research and Development POIR.01.01.0100-0328/17

@@ -63,6 +63,39 @@ h1,
     margin-top: calc(60px + .85em);
     margin-bottom: calc(40px + .85em);
 }
+h1, h2 {
+    display: inline-flex;
+    line-height: 87px;
+}
+
+
+h2:before,
+h1:before {
+    content: '';
+    background-image: url("data:image/svg+xml,%3Csvg width='64' height='64' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M62 2V62H2' stroke='black' stroke-width='3'/%3E%3Cpath d='M2 2L62 62' stroke='black' stroke-width='3'/%3E%3C/svg%3E%0A");
+    width: 64px;
+    height: 64px;
+    margin-right: 23px;
+    margin-left: -2px;
+    margin-top: 10px;
+}
+@media (max-width: 767px) {
+    h2:before,
+    h1:before {
+        min-width: 20px;
+        z-index: 10;
+        margin-right: 10px;
+        margin-top: 15px;
+        width: 20px;
+        height: 20px;
+        background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M19 1V19H1' stroke='black' stroke-width='1.5'/%3E%3Cpath d='M1 1L19 19' stroke='black' stroke-width='1.5'/%3E%3C/svg%3E%0A");
+    }
+
+}
+
+.book-header.fixed h1:before {
+    display: none;
+}
 
 @media (max-width: 767px) {
     h1, h2 {
@@ -72,9 +105,22 @@ h1,
 }
 
 @media (min-width: 768px) and (max-width: 1300px) {
-    h1, .book .book-body .page-wrapper .page-inner section.normal h1, .book .book-body .page-wrapper .page-inner section.normal h2 {
+    .book .book-body .page-wrapper .page-inner section.normal h1:before,
+    .book .book-body .page-wrapper .page-inner section.normal h2:before {
+        background-image: url("data:image/svg+xml,%3Csvg width='32' height='32' viewBox='0 0 32 32' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M31 1V31H1' stroke='black' stroke-width='1.5'/%3E%3Cpath d='M1 1L31 31' stroke='black' stroke-width='1.5'/%3E%3C/svg%3E%0A");
+        width: 32px;
+        height: 32px;
+        margin-right: 14px;
+        margin-top: 20px;
+    }
+
+    h1,
+    .book .book-body .page-wrapper .page-inner section.normal h1,
+    .book .book-body .page-wrapper .page-inner section.normal h2 {
         margin-top: 90px;
         margin-bottom: 70px;
+        font-size: 60px;
+        line-height: 60px;
     }
 }
 .section {

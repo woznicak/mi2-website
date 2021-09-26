@@ -190,3 +190,21 @@
         left: calc(50vw - 640px);
     }
 }
+
+@media (max-width: 899px) {
+    .book .book-summary ul.summary li a:hover,
+    .book .book-summary ul.summary li.active > a,
+    .book .book-summary ul.summary li a:active,
+    .book .book-summary ul.summary li a:focus-within,
+    .book .book-summary ul.summary li a:focus,
+    .book .book-summary ul.summary li a:focus-visible {
+        color: white !important;
+    }
+
+    .book .book-summary ul.summary .chapter a[href^=index],
+    .book .book-summary ul.summary .chapter a[href^=mi²-solutions],
+    .book .book-summary ul.summary .chapter a[href^=mi²-research],
+    .book .book-summary ul.summary .chapter a[href^=mi²-education] {
+        color: transparent !important;
+    }
+}

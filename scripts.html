@@ -14,7 +14,7 @@
     const height = Math.max( body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight,
       html.offsetHeight );
 
-    if (height > window.innerHeight + 100) {
+    if (height > window.innerHeight ) {
       document.querySelector(".page-inner section").innerHTML +=
         `<div id="top-button-wrapper" onclick="window.scrollTo({top: 0, left: 0,behavior: 'smooth'})"><svg id="top-button" width="59" height="96" viewBox="0 0 59 96" fill="none"
      xmlns="http://www.w3.org/2000/svg">

@@ -12,6 +12,12 @@ document.body.classList.add("teaching-page")
 
 ### Classes at MiNI {-}
 
+#### Winter 2021/2022 {-}
+
+- [Data Visualization Techniques](https://github.com/mini-pw/2022Z-DataVisualizationTechniques) for Data Science studies
+  - lectures, laboratory, project - Anna Kozak
+  - laboratory, project - Hubert Baniecki 
+
 #### Summer 2020/2021 {-}
 
 - [Introduction to exploratory data analysis](https://github.com/mini-pw/2021L-ExploratoryDataAnalysis) for Mathematics and data analysis studies

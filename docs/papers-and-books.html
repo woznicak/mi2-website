@@ -51,12 +51,20 @@
 
 <link href="libs/anchor-sections/anchor-sections.css" rel="stylesheet" />
 <script src="libs/anchor-sections/anchor-sections.js"></script>
+<style type="text/css">
+    .book .book-body .body-inner {
+        position: absolute;
+        top: -50px;
+    }
+</style>
+
+<link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
 
 
 
 
-<link rel="stylesheet" href="css/typography.css" type="text/css" />
 <link rel="stylesheet" href="css/style.css" type="text/css" />
+<link rel="stylesheet" href="css/typography.css" type="text/css" />
 <link rel="stylesheet" href="css/toc.css" type="text/css" />
 <link rel="stylesheet" href="css/variables.css" type="text/css" />
 <link rel="stylesheet" href="css/research.css" type="text/css" />
@@ -255,16 +263,18 @@ Paper and package: <a href="https://github.com/pbiecek/archivist">Model governan
 <a href ="/" class="mobile-logo"><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M28.6799 1.36802V28.68H1.31982V1.32004H28.6799V1.36802ZM30 0H0V30H30V0Z" fill="black"/><path d="M21.6357 21.0469V9.04688H22.9556V21.0469H21.6357Z" fill="black"/><path d="M18.5639 9.04688V21.0469H17.2439V11.0629L13.4039 21.0469H12.2039L8.36395 11.0629V21.0469H7.04395V9.04688H8.95195L12.8039 19.0789L16.6559 9.04688H18.5639Z" fill="black"/></svg></a>
 
 <script>
-  setTimeout(()=> {
+  window.addEventListener('load', (event) => {
     const searchInput = document.getElementById('search-box')
+
     searchInput.setAttribute('placeholder', 'Search...')
+
     searchInput.parentElement.innerHTML += `<svg class="input-clear" width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><line x1="15.6729" y1="0.53033" x2="1.53077" y2="14.6725" stroke="black" stroke-width="1.5"/><line x1="15.6122" y1="14.6724" x2="1.47011" y2="0.530286" stroke="black" stroke-width="1.5"/></svg>
 `
-    var body = document.body,
-      html = document.documentElement;
+    const body = document.body;
+    const html = document.documentElement;
 
-    var height = Math.max( body.scrollHeight, body.offsetHeight,
-      html.clientHeight, html.scrollHeight, html.offsetHeight );
+    const height = Math.max( body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight,
+      html.offsetHeight );
 
     if (height > window.innerHeight + 100) {
       document.querySelector(".page-inner section").innerHTML +=
@@ -275,9 +285,9 @@ Paper and package: <a href="https://github.com/pbiecek/archivist">Model governan
     <path d="M29.2842 58.5686V2.00006" stroke="black" stroke-width="2"/>
 </svg></div>`
     }
-  }, 1000)
 
-  window.sessionStorage.clear()
+    window.sessionStorage.clear()
+  });
 </script>
             </section>
 

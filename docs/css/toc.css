@@ -67,7 +67,6 @@
     }
 
     .book-header.fixed .btn[title=Search] {
-        /*left: -16px;*/
         display: none;
         position: fixed;
         right: 35px;
@@ -101,16 +100,6 @@
         left: -16px;
     }
 }
-/*.book-header.fixed .btn[title=Search] {*/
-/*    position: relative;*/
-/*    left: calc(100% - 45px);*/
-/*    top: 85px;*/
-/*}*/
-
-/*.book-header.fixed .btn[title='Toggle Sidebar'] {*/
-/*    left: 16px;*/
-/*    top: 85px;*/
-/*}*/
 
 .search-box {
     border: none;
@@ -201,12 +190,3 @@
         left: calc(50vw - 640px);
     }
 }
-
-/*body,*/
-/*.book {*/
-/*    max-width: 1300px !important;*/
-/*    margin: auto !important;*/
-/*}*/
-/*.book.with-summary .book-summary {*/
-/*    left: calc(50vw - 620px);*/
-/*}*/

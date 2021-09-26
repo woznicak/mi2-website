@@ -1,15 +1,3 @@
-
-/** {outline: 1px dashed #f00}*/
-/** { background-color: rgba(255,0,0,.2); }*/
-/** * { background-color: rgba(0,255,0,.2); }*/
-/** * * { background-color: rgba(0,0,255,.2); }*/
-/** * * * { background-color: rgba(255,0,255,.2); }*/
-/** * * * * { background-color: rgba(0,255,255,.2); }*/
-/** * * * * * { background-color: rgba(255,255,0,.2); }*/
-/** * * * * * * { background-color: rgba(255,0,0,.2); }*/
-/** * * * * * * * { background-color: rgba(0,255,0,.2); }*/
-/** * * * * * * * * { background-color: rgba(0,0,255,.2); }*/
-
 .book .book-body.fixed,
 .book .book-body.fixed .body-inner,
 .book .book-body .page-wrapper,
@@ -65,14 +53,6 @@
     grid-area: image 2 / 1 / 2 / 3
 }
 
-/*#the-team {*/
-/*    display: grid;*/
-/*    grid-template-columns: repeat(2, 1fr);*/
-
-/*    align-content: start;*/
-/*    !*column-gap: 80px;*!*/
-/*}*/
-
 #the-team h4:after {
     top: 140px;
 }
@@ -91,14 +71,9 @@
     display: none;
 }
 
-/*#the-team [id]:nth-child(2n-1) {*/
 #the-team [id] {
     margin-right: 50px;
 }
-
-/*#przemysław-biecek {*/
-/*    grid-column: span 2;*/
-/*}*/
 
 #przemysław-biecek,
 #hubert-baniecki {
@@ -111,7 +86,6 @@
     width: 225px;
     height:2px;
     background-color: black;
-    /*margin: auto;*/
     position: relative;
     left: calc(100% + 50px - 225px/2);
 }
@@ -163,7 +137,6 @@
         width: 168px;
         height:2px;
         background-color: black;
-        /*margin: auto;*/
         position: relative;
         left: calc(50% - 168px/2);
     }
@@ -174,11 +147,7 @@
 
     #team-cover-img {
         position: unset;
-        /*background-image: url("/images/mi2_2021.jpg");*/
-        /*background-size: contain;*/
         height:120px;
-        /*width: calc(100vw - var(--menu-width));*/
-        /*background-repeat: no-repeat;*/
     }
 
     #the-team h4:after {

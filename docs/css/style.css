@@ -1,4 +1,3 @@
-
 p.caption {
     color: white;
     margin-top: 10px;
@@ -48,7 +47,6 @@ a[href^=the-team] + ul {
     height: 0 !important;
     overflow: hidden;
 }
-
 
 *,
 .book .book-summary {
@@ -140,11 +138,7 @@ img {
     margin-left: 0;
     padding-bottom: 0;
     padding-top: 0px;
-    /*border-right: 1px solid var(--ruler-line-color);*/
     max-width: 900px;
-    /*left: var(--menu-width);*/
-    /*max-width: 850px;*/
-    /*padding: 0;*/
 }
 
 .book .book-body .page-wrapper .page-inner section {
@@ -194,8 +188,6 @@ img {
         left: var(--menu-width);
     }
 }
-
-
 
 a,
 .book .book-body .page-wrapper .page-inner section.normal a {
@@ -279,19 +271,6 @@ img {
     display: none;
 }
 
-
-/*
-    PAPERS AND BOOKS
-*/
-
-/*#papers-and-books {*/
-/*    display: grid;*/
-/*    grid-template-columns: repeat(2, 1fr);*/
-
-/*    align-content: start;*/
-/*    !*column-gap: 80px;*!*/
-/*}*/
-
 .two-columns section .section.level2 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -303,6 +282,9 @@ img {
     .two-columns section .section.level2 {
         display: unset;
     }
+}
+.book .book-body .page-wrapper .page-inner section {
+    padding-top: 0;
 }
 
 .two-columns .book .book-body .page-wrapper .page-inner section,
@@ -348,7 +330,6 @@ img {
 #teaching h2 + .section.level3  h3 {
     margin-top: 0;
 }
-
 
 .page-inner ul ul {
     padding-left: 20px !important;
@@ -413,6 +394,10 @@ img {
     .book .book-body.fixed {
         top: 0px !important;
     }
+}
+
+.book .book-body .page-wrapper .page-inner section.normal img {
+    max-width: calc(100% + 2px);
 }
 
 #top-button-wrapper {

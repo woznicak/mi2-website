@@ -28,7 +28,7 @@
 #research-grants img {
     object-fit: contain;
 }
-@media (min-width: 600px) and (max-width: 767px) {
+@media (min-width: 600px) and (max-width: 899px) {
     #research-grants img {
         width: calc(50vw - 40px);
         height: calc((50vw - 40px) / 2);
@@ -43,7 +43,22 @@
         margin: 30px 0 40px;
     }
 }
-@media (min-width: 767px) and (max-width: 1300px) {
+
+@media (min-width: 768px) and (max-width: 899px) {
+    #research-grants .section h3 {
+        margin-top: 0;
+        position: absolute;
+        left: 50%;
+    }
+
+    .book .book-body .page-wrapper .page-inner section.normal #research-grants h4 {
+        margin: -30px 0 40px;
+        /*position: absolute;*/
+        /*left: 50%;*/
+    }
+}
+
+@media (min-width: 899px) and (max-width: 1300px) {
     #research-grants br {
         display: block;
         margin: 20px;
@@ -58,7 +73,7 @@ height: 50px;
         position: absolute;
     }
 }
-@media (max-width: 767px) {
+@media (max-width: 899px) {
     #research-grants br {
         display: none;
     }
@@ -80,7 +95,7 @@ height: 50px;
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 900px) {
     #research-grants img {
         width: 400px;
         height: 200px;

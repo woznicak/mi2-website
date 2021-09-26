@@ -62,7 +62,7 @@ a[href^=the-team] + ul {
 .mobile-logo:after {
     content: unset !important;
 }
-@media (max-width: 767px) {
+@media (max-width: 899px) {
     .mobile-logo svg {
         background-color: white;
     }
@@ -106,6 +106,8 @@ img {
         position: absolute;
     }
 }
+
+
 @media (min-width: 1140px) {
     .book .book-body .page-wrapper .page-inner section:before {
         left: 449px;
@@ -123,7 +125,7 @@ img {
     min-height: 100vh;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 899px) {
     .book .book-body .page-wrapper .page-inner {
         padding: 0 20px;
     }
@@ -153,10 +155,6 @@ img {
     display: none;
 }
 
-.book .book-body .page-wrapper {
-    /*margin-top: -30px !important;*/
-}
-
 .book .book-body.fixed .body-inner {
     top: 0;
 }
@@ -178,12 +176,17 @@ img {
     transition: 0.2s;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 899px) {
+    .page-wrapper {
+        width: 100vw;
+    }
+}
+@media (max-width: 899px) {
     .book.with-summary .book-body {
         left: var(--menu-width-mobile);
     }
 }
-@media (min-width: 600px) {
+@media (min-width: 900px) {
     .book.with-summary .book-body {
         left: var(--menu-width);
     }
@@ -222,7 +225,7 @@ a:hover {
         }
 }
 
-@media  (min-width: 768px) {
+@media  (min-width: 900px) {
     .page-inner a:after {
         width: 11px;
         height: 11px;
@@ -247,7 +250,7 @@ a:hover:after {
     max-width: 100%;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 900px) {
     #contact iframe {
         max-width: calc(100% + 50px);
     }
@@ -274,10 +277,9 @@ img {
 .two-columns section .section.level2 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-
     align-content: start;
-    /*column-gap: 80px;*/
 }
+
 @media (max-width: 767px) {
     .two-columns section .section.level2 {
         display: unset;
@@ -298,10 +300,15 @@ img {
 
 #papers-and-books div img {
     width: 100%;
-    height: auto;
     height: 225px;
     margin-bottom: 30px;
     object-fit: contain;
+}
+
+@media (min-width: 768px) and (max-width: 899px) {
+    #papers-and-books > * {
+        margin-right: 40px;
+    }
 }
 
 #papers-and-books div p {
@@ -343,7 +350,6 @@ img {
 
 .page-inner li:before {
     content: "—";
-    /*width: 10px;*/
     text-indent: -5px;
     margin-right: 5px;
 }
@@ -371,7 +377,7 @@ img {
 }
 
 
-@media (min-width: 768px) {
+@media (min-width: 900px) {
     .book .book-summary ul.summary li a:hover,
     .book .book-summary ul.summary li.active>a {
         color: var(--link-color)

@@ -10,7 +10,7 @@
     margin-top: 60px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 900px) {
     #the-team #members,
     #the-team #collaborators {
         margin-top: 50%;
@@ -122,6 +122,33 @@
 }
 
 
+@media (min-width: 768px) and (max-width: 899px) {
+    #team-cover-img {
+        width: calc(100vw - 40px);
+        height: calc((100vw - 40px) * 120 / 436);
+        position: relative;
+    }
+    #the-team [id] {
+        margin-right: unset;
+        padding-right: 40px;
+    }
+    #the-team h4 {
+        margin-top: 0;
+    }
+
+    #the-team h4:after {
+        top: 40px;
+    }
+    #the-team div[id=trainees] h4,
+    #the-team div[id=alumni] h4 {
+        margin-top: 40px !important;
+    }
+
+    #the-team div[id=trainees] h4:after,
+    #the-team div[id=alumni] h4:after {
+        top: 80px;
+    }
+}
 @media (max-width: 767px) {
     .book .book-body .page-wrapper .page-inner section.normal #the-team h4 {
         margin-top: 60px;

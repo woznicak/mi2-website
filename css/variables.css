@@ -6,7 +6,7 @@
     --ruler-line-color: rgba(0,0,0,.3);
 }
 
-@media (min-width: 768px) and (max-width: 1300px) {
+@media (min-width: 900px) and (max-width: 1300px) {
     :root {
         --menu-width: 250px;
     }

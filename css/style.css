@@ -153,10 +153,6 @@ img {
     display: none;
 }
 
-.book .book-body .page-wrapper {
-    /*margin-top: -30px !important;*/
-}
-
 .book .book-body.fixed .body-inner {
     top: 0;
 }
@@ -274,10 +270,9 @@ img {
 .two-columns section .section.level2 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-
     align-content: start;
-    /*column-gap: 80px;*/
 }
+
 @media (max-width: 767px) {
     .two-columns section .section.level2 {
         display: unset;
@@ -343,7 +338,6 @@ img {
 
 .page-inner li:before {
     content: "—";
-    /*width: 10px;*/
     text-indent: -5px;
     margin-right: 5px;
 }

@@ -36,7 +36,6 @@ input::-webkit-search-cancel-button {
 
 @media (min-width: 1300px) {
     .book.with-summary .book-header.fixed {
-        /*transform: translateY(80px);*/
         left: calc(50vw - var(--menu-width));
         position: fixed;
     }

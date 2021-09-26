@@ -412,3 +412,7 @@ img {
 .teaching-page #top-button-wrapper {
     width: calc(100% + 51px);
 }
+
+#teaching h3:first-of-type {
+    margin-top: 0;
+}

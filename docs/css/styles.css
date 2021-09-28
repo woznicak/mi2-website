@@ -385,6 +385,10 @@ img {
     justify-content: center;
 }
 
+body:not(.two-columns) #top-button-wrapper{
+    width: calc(100% - 2px + 50px);
+}
+
 .teaching-page #top-button-wrapper {
     width: calc(100% + 51px);
 }

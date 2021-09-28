@@ -389,11 +389,14 @@ body:not(.two-columns) #top-button-wrapper{
     width: calc(100% - 2px + 50px);
 }
 
+@media (max-width: 899px) {
+    #top-button-wrapper {
+        width: calc(100% - 2px) !important;
+    }
+}
+
 .teaching-page #top-button-wrapper {
     width: calc(100% + 51px);
-}
-#top-button {
-    /*opacity: 0*/
 }
 
 #teaching h3:first-of-type {
@@ -439,4 +442,8 @@ body:not(.two-columns) #top-button-wrapper{
 
 .book .book-summary .book-search input, .book .book-summary .book-search input:focus, .book .book-summary .book-search input:hover {
     width: calc(100% - 20px);
+}
+
+.book-body.fixed {
+    overflow-x: hidden !important;
 }

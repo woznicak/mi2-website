@@ -19,9 +19,12 @@
     const height = Math.max( body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight,
       html.offsetHeight );
 
-    if (height < window.innerHeight + 100 && !document.getElementsByClassName("team-page")[0]) {
-      document.getElementById("top-button").style.opacity = 0
-    }
+    setTimeout(()=>{
+      if (height < window.document.getElementsByClassName(".page-inner")[0] + 100) {
+        document.getElementById("top-button").style.opacity = 0
+      }
+    }, 2000)
+
   })
   window.addEventListener('resize', (event) => {
     window.sessionStorage.clear()

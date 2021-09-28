@@ -181,14 +181,13 @@
 
     window.sessionStorage.clear()
 
-
     const body = document.body;
     const html = document.documentElement;
 
     const height = Math.max( body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight,
       html.offsetHeight );
 
-    if (height < window.innerHeight +100) {
+    if (height < window.innerHeight + 100 && !document.getElementsByClassName("team-page")[0]) {
       document.getElementById("top-button").style.opacity = 0
     }
   })

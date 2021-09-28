@@ -201,3 +201,6 @@
     }
 }
 
+.team-page .book .book-body.fixed .body-inner {
+    overflow-x: hidden;
+}

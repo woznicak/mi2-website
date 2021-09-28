@@ -17,13 +17,6 @@ h1, h2 {
     line-height: 30px;
 }
 
-.summary a {
-    font-family: IBM Plex Mono, monospace;
-    font-weight: 400 !important;
-    font-size: 13px;
-    line-height: 18px;
-}
-
 .book-body strong,
 .book-body b {
     font-family: 'IBM Plex Mono', monospace;

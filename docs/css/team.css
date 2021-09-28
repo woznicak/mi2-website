@@ -196,7 +196,7 @@
 
     #the-team .section.level3 img {
         width: 50%;
-        height: auto;
+        height: calc(50vw - var(--mobile-margins));
         margin-left: -1px;
     }
 }

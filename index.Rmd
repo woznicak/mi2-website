@@ -129,7 +129,7 @@ LinkedIn: [hbaniecki](https://www.linkedin.com/in/hbaniecki).
 
 <img src="images/sgizinski.jpg" >
 
-A Research Software Engineer and student of Interfaculty Individual Studies in Mathematics and Natural Sciences of University of Warsaw. His work in the lab focuses on using natural language processing and network analysis to better understand the spread of AI public policies. Interested also in applying machine learning in bioinformatics.
+A Research Software Engineer and student of Machine Learning at Faculty of Mathematics Informatics and Mechanic, University of Warsaw. His work in the lab focuses on using natural language processing and network analysis to better understand the spread of AI public policies. Interested also in applying machine learning in bioinformatics.
 
 Google Scholar: [Stanisław Giziński](https://scholar.google.com/citations?user=QVXc3jAAAAAJ)
 GitHub: [Gizzio](https://github.com/Gizzio)

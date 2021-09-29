@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,200;0,300;0,400;0,500;1,300&display=block');
+
+h1, h2 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 200 !important;
+    font-style: normal;
+}
+
+* {
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: -0.02em;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal {
+    line-height: 30px;
+}
+
+.book-body strong,
+.book-body b {
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal b, .book .book-body .page-wrapper .page-inner section.normal strong {
+    font-weight: 500;
+}
+
+.book-body em {
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
+    font-style: italic;
+}
+
+h1,
+.book .book-body .page-wrapper .page-inner section.normal h1,
+.book .book-body .page-wrapper .page-inner section.normal h2 {
+    font-size: 87px;
+    line-height: 87px;
+    letter-spacing: -0.05em;
+
+    margin-top: calc(60px + .85em);
+    margin-bottom: calc(40px + .85em);
+}
+h1, h2 {
+    display: inline-flex;
+    line-height: 87px;
+}
+
+
+h2:before,
+h1:before {
+    content: '';
+    background-image: url("data:image/svg+xml,%3Csvg width='64' height='64' viewBox='0 0 64 64' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M62 2V62H2' stroke='black' stroke-width='3'/%3E%3Cpath d='M2 2L62 62' stroke='black' stroke-width='3'/%3E%3C/svg%3E%0A");
+    width: 64px;
+    height: 64px;
+    margin-right: 23px;
+    margin-left: -2px;
+    margin-top: 10px;
+}
+@media (max-width: 767px) {
+    h2:before,
+    h1:before {
+        min-width: 20px;
+        z-index: 10;
+        margin-right: 10px;
+        margin-top: 15px;
+        width: 20px;
+        height: 20px;
+        background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M19 1V19H1' stroke='black' stroke-width='1.5'/%3E%3Cpath d='M1 1L19 19' stroke='black' stroke-width='1.5'/%3E%3C/svg%3E%0A");
+    }
+
+}
+
+.book-header.fixed h1:before {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    h1, h2 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1300px) {
+    .book .book-body .page-wrapper .page-inner section.normal h1:before,
+    .book .book-body .page-wrapper .page-inner section.normal h2:before {
+        background-image: url("data:image/svg+xml,%3Csvg width='32' height='32' viewBox='0 0 32 32' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M31 1V31H1' stroke='black' stroke-width='1.5'/%3E%3Cpath d='M1 1L31 31' stroke='black' stroke-width='1.5'/%3E%3C/svg%3E%0A");
+        width: 32px;
+        height: 32px;
+        margin-right: 14px;
+        margin-top: 20px;
+    }
+
+    h1,
+    .book .book-body .page-wrapper .page-inner section.normal h1,
+    .book .book-body .page-wrapper .page-inner section.normal h2 {
+        margin-top: 90px;
+        margin-bottom: 70px;
+        font-size: 60px;
+        line-height: 60px;
+    }
+}
+.section {
+    position: relative;
+}
+
+.section.level1 > p {
+
+}
+
+.section.level1 > p:first-of-type {
+    margin-bottom: 50px !important;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 36px;
+    letter-spacing: -0.03em;
+}
+
+h4,
+#teaching h3,
+#research-grants h3,
+.book .book-body .page-wrapper .page-inner section.normal h4 {
+    text-transform: uppercase;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+#research-grants h4 {
+    text-transform: unset;
+    letter-spacing: -0.02em;
+}
+
+h4:after,
+#research-grants h3:after,
+#teaching h3:after {
+    content: "";
+    width: 40px;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+    top: 40px;
+    left: 0;
+}
+
+#research-grants h3:after {
+    top: unset;
+    bottom: -5px;
+}
+
+#teaching h4:after,
+#research-grants h4:after {
+    display: none;
+}
+
+#teaching h4 {
+    letter-spacing: -0.03em;
+    text-transform: unset;
+}
+
+.search-highlight {
+    background-color: #E4E7FF !important;
+    letter-spacing: inherit !important;
+}
+
+h1 .search-highlight,
+h2 .search-highlight {
+    font-weight: 200 !important;
+}
+
+*::selection {
+    color: white;
+    background-color: #593DD8;
+}
+
+#teaching h4 {
+    margin-top: 60px !important;
+}
+
+@media (max-width: 767px) {
+    .book .book-body .page-wrapper .page-inner section {
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .section.level1 > p:first-of-type {
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+    #teaching h3 {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    #teaching h4 {
+        margin-bottom: 20px;
+    }
+
+    h1,
+    .book .book-body .page-wrapper .page-inner section.normal h1,
+    .book .book-body .page-wrapper .page-inner section.normal h2 {
+        font-weight: 200;
+        font-size: 40px;
+        line-height: 40px;
+        letter-spacing: -0.05em;
+        margin-top: 120px;
+        margin-bottom: 40px;
+    }
+
+    h4,
+    #teaching h3,
+    #research-grants h3,
+    .book .book-body .page-wrapper .page-inner section.normal h4 {
+        margin-top: 60px;
+        font-size: 17px;
+        line-height: 32px;
+    }
+}

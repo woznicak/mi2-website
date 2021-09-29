@@ -1,0 +1,11 @@
+:root {
+    --padding-m: 50px;
+    --menu-width: 250px;
+    --menu-width-mobile: 286px;
+    --link-color: #593DD8;
+    --ruler-line-color: rgba(0,0,0,.3);
+    --mobile-margins: 40px;
+    --mobile-image-height: 225px;
+}
+
+

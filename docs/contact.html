@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Contact | book.knit</title>
   <meta name="description" content="MI2" />
-  <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Contact | book.knit" />
   <meta property="og:type" content="book" />
@@ -32,7 +32,8 @@
 <link rel="prev" href="the-team.html"/>
 <link rel="next" href="mi²-research.html"/>
 <script src="libs/header-attrs/header-attrs.js"></script>
-<script src="libs/jquery/jquery-3.5.1.min.js"></script>
+<script src="libs/jquery/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-bookdown.css" rel="stylesheet" />
@@ -40,7 +41,6 @@
 <link href="libs/gitbook/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-fontsettings.css" rel="stylesheet" />
 <link href="libs/gitbook/css/plugin-clipboard.css" rel="stylesheet" />
-
 
 
 
@@ -201,8 +201,6 @@ document.body.classList.add("contact-page")
     const height = Math.max( body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight,
       html.offsetHeight );
 
-    console.log("_______ window.innerHeight", window.innerHeight)
-console.log("_______ ", body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight)
     setTimeout(()=>{
       if (height < window.document.getElementsByClassName(".page-inner")[0] + 100) {
         document.getElementById("top-button").style.opacity = 0
@@ -242,7 +240,6 @@ console.log("_______ ", body.scrollHeight, body.offsetHeight, html.clientHeight,
     </div>
   </div>
 <script src="libs/gitbook/js/app.min.js"></script>
-<script src="libs/gitbook/js/lunr.js"></script>
 <script src="libs/gitbook/js/clipboard.min.js"></script>
 <script src="libs/gitbook/js/plugin-search.js"></script>
 <script src="libs/gitbook/js/plugin-sharing.js"></script>
@@ -283,7 +280,7 @@ gitbook.start({
 },
 "download": null,
 "search": {
-"engine": "lunr",
+"engine": "fuse",
 "options": null
 },
 "toc": {

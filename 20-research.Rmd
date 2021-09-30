@@ -95,6 +95,13 @@ Grzegorz Juszczyk, Joanna Reszeć </p>
 <p>Paper and package: <a href="https://github.com/pbiecek/archivist">Model governance with R (MLOps)</a>
 </p>
 </div>
+</p>
+</div>
+<div>
+<img src="images/prevention_is_better.png" align="left"><a href="https://drive.google.com/file/d/1-B5T3FCAHzDJbOaPtBnf5l9NnK-yhJtZ/view">Prevention is better than cure: a case study of the abnormalities detection in the chest</a>
+<p>Weronika Hryniewska, Piotr Czarnecki, Jakub Wiśniewski, Przemysław Bombiński and Przemysław Biecek</p>
+<p><i>“Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision” CVPR Workshop (2021)</p></i>
+</div>
 
 ## Research grants  {-}
 <script>

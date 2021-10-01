@@ -103,6 +103,13 @@ Grzegorz Juszczyk, Joanna Reszeć </p>
 <p><i>“Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision” CVPR Workshop (2021)</p></i>
 </div>
 
+<div>
+<img src="images/xai_metalearning.png" align="left">
+<a href="https://kdd.isti.cnr.it/xkdd2021/">Towards explainable meta-learning.</a>
+<p>Katarzyna Woźnica, Przemyslaw Biecek.</p>
+<p><i>XKDD Workshop ECML (2021)</p></i>
+</div>
+
 ## Research grants  {-}
 <script>
 document.body.classList.add("research-grants-page")

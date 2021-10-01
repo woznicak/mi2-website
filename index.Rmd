@@ -48,9 +48,8 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 * [Przemysław Biecek, PhD (Team Leader)](the-team.html#przemysław-biecek)
 * [Hubert Baniecki](the-team.html#hubert-baniecki) MSc student
-* Piotr Czarnecki , PhD student
+* Piotr Czarnecki PhD student
 * [Stanisław Giziński](the-team.html#stanisław-giziński) BSc
-* [Alicja Gosiewska](the-team.html#alicja-gosiewska) PhD student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska) PhD student
 * [Anna Kozak](the-team.html#anna-kozak) MSc
 * [Piotr Piątyszek](the-team.html#piotr-piątyszek) BSc student
@@ -67,19 +66,14 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 * Przemysław Bombiński, PhD, MD
 * Marcin Luckner, PhD
-* [Tomasz Mikołajczyk](the-team.html#tomasz-mikołajczyk) PhD
 * Bartek Pieliński, PhD
 * [Hanna Piotrowska](the-team.html#hanna-piotrowska) MA
 * Elżbieta Sienkiewicz, PhD
 * Julian Sienkiewicz, PhD
-* Anna Wróblewska, PhD
 * Michał Sokólski, MSc student
 * Patryk Szatkowski, PhD student, MD
 * Katarzyna Kobylińska, PhD student
-* Wojciech Kretowicz, MSc Student
-* Michał Kuźba, MSc
 * Stanisław Łaniewski, PhD student
-* Szymon Maksymiuk, Msc Student
 * Katarzyna Pękala, MSc
 
 #### Trainees {-}
@@ -98,6 +92,12 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 #### Alumni {-}
 
+* [Tomasz Mikołajczyk](the-team.html#tomasz-mikołajczyk) PhD
+* Anna Wróblewska, PhD
+* Wojciech Kretowicz, MSc Student
+* Michał Kuźba, MSc
+* Szymon Maksymiuk, Msc Student
+* [Alicja Gosiewska](the-team.html#alicja-gosiewska) PhD student
 * Marcin Kosiński, MSc
 * Adam Rydelek, BSc
 

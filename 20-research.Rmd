@@ -110,6 +110,13 @@ Grzegorz Juszczyk, Joanna Reszeć </p>
 <p><i>XKDD Workshop ECML (2021)</p></i>
 </div>
 
+<div>
+<img src="images/mini_fairmodels.png" align="left">
+<a href="https://arxiv.org/abs/2104.00507">fairmodels: A Flexible Tool For Bias Detection, Visualization, And Mitigation.</a>
+<p>Jakub Wiśniewski, Przemyslaw Biecek.</p>
+<p><i>arXiv preprint (2021)</p></i>
+</div>
+
 ## Research grants  {-}
 <script>
 document.body.classList.add("research-grants-page")

@@ -224,3 +224,17 @@ OECD grant description
 ![images/mi-logo-placeholder.png](images/mi-logo-placeholder.png)
 
 Innowacyjny moduł systemu analizy danych medycznych i leków dedykowany dla sektora medycznego. Polish Centre for Research and Development POIR.01.01.0100-0328/17
+
+
+## Software {-}
+
+<script>
+document.body.classList.add("software-page")
+document.body.classList.add("two-columns")
+</script>
+
+<div>
+<img src="images/arena.png" align="left">
+<a href="https://arena.drwhy.ai/docs/">Arena</a>
+<p>Interactive tool for the exploration and comparison of models' explanations.</p>
+</div>

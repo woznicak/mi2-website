@@ -98,5 +98,16 @@ document.body.classList.add("teaching-page")
 
 ## Beta Bit {-}
 
-TODO - books, projects + StatTuba
+<script>
+document.body.classList.add("papers-and-books-page")
+document.body.classList.add("two-columns")
+</script>
+
+<div>
+<img src="images/bb_rml.png" align="left">
+<a href="https://betaandbit.github.io/RML/">The Hitchhiker's Guide to Responsible Machine Learning</a>
+<p>Przemysław Biecek, Anna Kozak, Aleksander Zawada.</p>
+<p><i>2021</i></p>
+</div>
+
 

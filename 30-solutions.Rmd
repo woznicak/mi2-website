@@ -17,9 +17,7 @@ We conduct trainings for data-science teams interested in the latest results in 
 
 ## Trainings {-}
 
-### DALEX for R {-}
-
-#### Explanation and exploration of machine learning models with R and DALEX {-}
+#### DALEX for R: Explanation and exploration of machine learning models with R and DALEX {-}
 
 ![images/training_xai](images/training_xai.png)
 
@@ -28,9 +26,7 @@ A brief introduction to tools for local and global explanations of predictive mo
 Find more materials here: https://github.com/pbiecek/XAIatERUM2020
 
 
-### Fairmodels {-}
-
-#### Explaining and Checking Fairness for Predictive Models {-}
+#### Fairmodels: Explaining and Checking Fairness for Predictive Models {-}
 
 ![images/training_fairness](images/training_fairness.png)
 

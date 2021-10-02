@@ -95,15 +95,16 @@ Grzegorz Juszczyk, Joanna Reszeć </p>
 <p>Paper and package: <a href="https://github.com/pbiecek/archivist">Model governance with R (MLOps)</a>
 </p>
 </div>
-</p>
-</div>
-<div>
-<img src="images/prevention_is_better.png" align="left"><a href="https://drive.google.com/file/d/1-B5T3FCAHzDJbOaPtBnf5l9NnK-yhJtZ/view">Prevention is better than cure: a case study of the abnormalities detection in the chest</a>
+
+<div class="software">
+<img src="images/prevention_is_better.png" align="left"><a
+href="https://drive.google.com/file/d/1-B5T3FCAHzDJbOaPtBnf5l9NnK-yhJtZ/view">Prevention is better than cure: a
+case study of the abnormalities detection in the chest</a>
 <p>Weronika Hryniewska, Piotr Czarnecki, Jakub Wiśniewski, Przemysław Bombiński and Przemysław Biecek</p>
 <p><i>“Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision” CVPR Workshop (2021)</p></i>
 </div>
 
-<div>
+<div class="software">
 <img src="images/xai_metalearning.png" align="left">
 <a href="https://kdd.isti.cnr.it/xkdd2021/">Towards explainable meta-learning.</a>
 <p>Katarzyna Woźnica, Przemyslaw Biecek.</p>
@@ -234,7 +235,11 @@ document.body.classList.add("two-columns")
 </script>
 
 <div>
-<img src="images/arena.png" align="left">
-<a href="https://arena.drwhy.ai/docs/">Arena</a>
-<p>Interactive tool for the exploration and comparison of models' explanations.</p>
+<img src="images/mini_ema.png" align="left">
+<a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis.</a>
+<p>Explore, Explain, and Examine Predictive Models. With examples in R and Python.</p>
+<p>Przemysław Biecek, Tomasz Burzykowski.</p>
+<p><i>Chapman and Hall/CRC, New York (2021)</i></p>
 </div>
+
+

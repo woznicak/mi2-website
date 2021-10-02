@@ -16,7 +16,7 @@ document.body.classList.add("teaching-page")
 
 - [Data Visualization Techniques](https://github.com/mini-pw/2022Z-DataVisualizationTechniques) for Data Science studies
   - lectures, laboratory, project - Anna Kozak
-  - laboratory, project - Hubert Baniecki 
+  - laboratory, project - Hubert Baniecki
 
 #### Summer 2020/2021 {-}
 
@@ -99,7 +99,7 @@ document.body.classList.add("teaching-page")
 ## Beta Bit {-}
 
 <script>
-document.body.classList.add("papers-and-books-page")
+document.body.classList.add("beta-bit-page")
 document.body.classList.add("two-columns")
 </script>
 

@@ -22,10 +22,14 @@
     height: var(--mobile-image-height)
 }
 
+#beta-bit h2,
+#software h2,
 #papers-and-books h2 {
     grid-column: span 2;
 }
 
+#beta-bit div img,
+#software div img,
 #research-grants div img,
 #papers-and-books div img {
     width: 100%;
@@ -36,6 +40,8 @@
 }
 
 @media (max-width: 600px) {
+    #beta-bit div img,
+    #software div img,
     #research-grants div img,
     #papers-and-books div img  {
         width: calc(100% + 2px);
@@ -43,30 +49,42 @@
     }
 }
 @media (min-width: 768px) and (max-width: 899px) {
+    #beta-bit > *,
+    #software > *,
     #papers-and-books > * {
         margin-right: 40px;
     }
 }
 
+#beta-bit div p,
+#software div p,
 #papers-and-books div p {
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 16px;
 }
 
+#beta-bit div i,
+#software div i,
 #papers-and-books div i {
     font-size: 13px;
 }
 
+#beta-bit div.software img,
+#software div.software img,
 #papers-and-books div.software img {
     margin-bottom: 0;
 }
 
+#beta-bit div.software p,
+#software div.software p,
 #papers-and-books div.software p {
     font-size: 20px;
 }
 
 @media (min-width: 600px) and (max-width: 899px) {
+    #beta-bit div img,
+    #software div img,
     #research-grants div img,
     #papers-and-books div img  {
         display: flex;

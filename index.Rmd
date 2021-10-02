@@ -166,10 +166,12 @@ LinkedIn: [weronikahryniewska](https://www.linkedin.com/in/weronikahryniewska)
 
 <img src="images/akozak.jpg" >
 
-Graduated in mathematical statistics at the Warsaw University of Technology. Interested in explainable artificial intelligence and data visualization. Organizes projects related to education.
+Graduated in mathematical statistics at Warsaw University of Technology. Interested in explainable artificial intelligence and data visualization. Organizes projects related to education.
 
 Google Scholar: [JIrqf9kAAAAJ](https://scholar.google.pl/citations?user=JIrqf9kAAAAJ).
+
 GitHub: [kozaka93](https://github.com/kozaka93).
+
 LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna).
 
 

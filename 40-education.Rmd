@@ -75,6 +75,8 @@ document.body.classList.add("teaching-page")
 - Advanced R
   - lectures, laboratory, project - Przemysław Biecek
 
+#### Winter 2018/2019 {-}
+
 - [Data Visualization Techniques](https://github.com/pbiecek/TechnikiWizualizacjiDanych2018)  for Data Science studies
   - lectures, project - Przemysław Biecek
   - laboratory, project - Michał Burdukiewicz

@@ -89,6 +89,8 @@ a[href^=the-team] + ul {
         margin: 0 20px;
     }
 
+    #beta-bit h2,
+    #software h2,
     #papers-and-books h2,
     #seminars h2,
     #research-grants h2 {
@@ -334,13 +336,19 @@ img {
     margin-right: 5px;
 }
 
+#beta-bit div,
+#software div,
 #papers-and-books div {
     margin-bottom: 60px;
 }
+#beta-bit div a,
+#software div a,
 #papers-and-books div a {
     margin-bottom: 20px;
     font-size: 17px;
 }
+#beta-bit div p,
+#software div p,
 #papers-and-books div p {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -354,15 +362,23 @@ img {
         color: var(--link-color)
     }
 
+    #beta-bit div a,
+    #software div a,
     #papers-and-books div a {
         font-size: 20px;
     }
+    #beta-bit div p,
+    #software div p,
     #papers-and-books div p {
         font-size: 16px;
     }
+    #beta-bit div,
+    #software div,
     #papers-and-books div {
         margin-bottom: 100px;
     }
+    #beta-bit > *:not(h2),
+    #software > *:not(h2),
     #papers-and-books > *:not(h2) {
         padding-right: 50px;
     }

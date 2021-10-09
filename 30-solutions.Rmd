@@ -13,7 +13,9 @@ We conduct trainings for data-science teams interested in the latest results in 
 
 ## Solutions  {-}
 
+Need support with fairness and XAI analysis of your models? 
 
+Contact us!
 
 ## Trainings {-}
 
@@ -33,7 +35,6 @@ Find more materials here: https://github.com/pbiecek/XAIatERUM2020
 The tutorial is divided into three parts. First, I talk about fairness in general. Do we have a problem with discrimination, and which areas are affected by it? The second part is related to fairness measures. We  discuss the most common statistics for the detection of discrimination. The third part is the hands-on presentation of software that helps to check and visualize fairness.
 
 Find more materials here: https://github.com/pbiecek/fairness_xkdd_2021
-
 
 
 

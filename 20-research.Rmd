@@ -1,5 +1,3 @@
-
-
 # MI² Research  {-}
 
 On a mission to responsibly build <br/>machine learning predictive models.
@@ -13,21 +11,7 @@ As part of our this effort, we develop open source software packages (usually in
 If you want to find out more about what we are working on, check out our seminar, which is always open to those interested in responsible and sustainable data science.
 
 
-## Seminars {-}
-<div class="two-column-entry">
-<div class="two-column-entry-image">
-<div><img src="images/seminar.png"></div>
-</div>
-<div class="two-column-entry-text">
-We meet every Monday, 10:00 online or at MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
-
-Join us at http://meet.google.com/rbo-kgmm-orb
-
-Materials from past seminars: https://github.com/mi2-warsaw/MI2DataLab_Seminarium
-</div>
-</div>
-
-## Papers and Books {-}
+## Papers {-}
 
 <script>
 document.body.classList.add("papers-and-books-page")
@@ -39,14 +23,6 @@ document.body.classList.add("two-columns")
 <a href="https://www.jmlr.org/papers/v22/20-1473">dalex: Responsible Machine Learning with Interactive Explainability and Fairness in Python</a>
 <p>Hubert Baniecki, Wojciech Kretowicz, Piotr Piątyszek, Jakub Wiśniewski, Przemyslaw Biecek</p>
 <p><i>Journal of Machine Learning Research (2021)</i></p>
-</div>
-
-<div>
-<img src="images/mini_ema.png">
-<a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis</a>
-<p>Explore, Explain, and Examine Predictive Models. With examples in R and Python</p>
-<p>Przemysław Biecek, Tomasz Burzykowski</p>
-<p><i>Chapman and Hall/CRC, New York (2021)</i></p>
 </div>
 
 <div>
@@ -133,7 +109,52 @@ case study of the abnormalities detection in the chest</a>
 <p><i>arXiv preprint (2021)</i></p>
 </div>
 
+## Software {-}
+
+<script>
+document.body.classList.add("software-page")
+document.body.classList.add("two-columns")
+</script>
+
+<div>
+<img src="images/arena.png" align="left">
+<a href="https://arena.drwhy.ai/docs/">Arena</a>
+<p>Interactive tool for the exploration and comparison of models' explanations.</p>
+</div>
+
+
+## Books {-}
+
+<script>
+document.body.classList.add("papers-and-books-page")
+document.body.classList.add("two-columns")
+</script>
+
+<div>
+<img src="images/mini_ema.png">
+<a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis</a>
+<p>Explore, Explain, and Examine Predictive Models. With examples in R and Python</p>
+<p>Przemysław Biecek, Tomasz Burzykowski</p>
+<p><i>Chapman and Hall/CRC, New York (2021)</i></p>
+</div>
+
+## Seminars {-}
+
+<div class="two-column-entry">
+<div class="two-column-entry-image">
+<div><img src="images/seminar.png"></div>
+</div>
+<div class="two-column-entry-text">
+We meet every Monday, 10:00 online or at MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
+
+Join us at http://meet.google.com/rbo-kgmm-orb
+
+Materials from past seminars: https://github.com/mi2-warsaw/MI2DataLab_Seminarium
+</div>
+</div>
+
 ## Research grants  {-}
+
 <script>
 document.body.classList.add("research-grants-page")
 </script>
@@ -248,17 +269,4 @@ OECD grant description
 
 Innowacyjny moduł systemu analizy danych medycznych i leków dedykowany dla sektora medycznego. Polish Centre for Research and Development POIR.01.01.0100-0328/17
 
-
-## Software {-}
-
-<script>
-document.body.classList.add("software-page")
-document.body.classList.add("two-columns")
-</script>
-
-<div>
-<img src="images/arena.png" align="left">
-<a href="https://arena.drwhy.ai/docs/">Arena</a>
-<p>Interactive tool for the exploration and comparison of models' explanations.</p>
-</div>
 

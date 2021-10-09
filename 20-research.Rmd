@@ -14,7 +14,7 @@ If you want to find out more about what we are working on, check out our seminar
 ## Papers {-}
 
 <script>
-document.body.classList.add("papers-and-books-page")
+document.body.classList.add("papers-page")
 document.body.classList.add("two-columns")
 </script>
 
@@ -126,7 +126,7 @@ document.body.classList.add("two-columns")
 ## Books {-}
 
 <script>
-document.body.classList.add("papers-and-books-page")
+document.body.classList.add("books-page")
 document.body.classList.add("two-columns")
 </script>
 

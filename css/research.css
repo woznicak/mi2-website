@@ -8,13 +8,9 @@
 }
 
 #seminars img {
-    width: 50%;
-    margin-right: 30px;
+    width: calc(50% - 50px);
+    margin-right: 80px;
     margin-bottom: 20px;
-}
-
-#seminars p:nth-of-type(2) {
-    margin-top: -20px;
 }
 
 #research-grants img {
@@ -22,12 +18,14 @@
     height: var(--mobile-image-height)
 }
 
+#seminars h2,
 #beta-bit h2,
 #software h2,
 #papers-and-books h2 {
     grid-column: span 2;
 }
 
+#trainings div img,
 #beta-bit div img,
 #software div img,
 #research-grants div img,
@@ -40,6 +38,8 @@
 }
 
 @media (max-width: 600px) {
+    #seminars div img,
+    #trainings div img,
     #beta-bit div img,
     #software div img,
     #research-grants div img,
@@ -52,10 +52,11 @@
     #beta-bit > *,
     #software > *,
     #papers-and-books > * {
-        margin-right: 40px;
+        /*margin-right: 60px;*/
     }
 }
 
+#seminars div p,
 #beta-bit div p,
 #software div p,
 #papers-and-books div p {
@@ -64,18 +65,21 @@
     font-size: 16px;
 }
 
+#trainings div img,
 #beta-bit div i,
 #software div i,
 #papers-and-books div i {
     font-size: 13px;
 }
 
+#trainings div img,
 #beta-bit div.software img,
 #software div.software img,
 #papers-and-books div.software img {
     margin-bottom: 0;
 }
 
+#trainings div img,
 #beta-bit div.software p,
 #software div.software p,
 #papers-and-books div.software p {
@@ -83,6 +87,7 @@
 }
 
 @media (min-width: 600px) and (max-width: 899px) {
+    #trainings div img,
     #beta-bit div img,
     #software div img,
     #research-grants div img,
@@ -90,8 +95,6 @@
         display: flex;
         flex-direction: column;
         width: calc(50vw - var(--mobile-margins));
-        margin-right: calc(50vw);
-
     }
 
     .book .book-body .page-wrapper .page-inner section.normal #research-grants h4 {
@@ -156,10 +159,11 @@
         max-width: 50%;
         margin-left: 50%;
         margin-top: 70px;
-        position: absolute;
+        position: absolute !important;
     }
 }
 @media (min-width: 900px) {
+    #trainings img,
     #research-grants img {
         width: 400px;
         height: 200px;
@@ -176,7 +180,7 @@
         margin-top: 0;
         max-width: 50%;
         margin-left: 50%;
-        position: absolute;
+        position: absolute !important;
     }
 }
 

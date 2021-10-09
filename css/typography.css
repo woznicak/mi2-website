@@ -121,6 +121,7 @@ h1:before {
 }
 
 h4,
+#trainings h3,
 #teaching h3,
 #research-grants h3,
 .book .book-body .page-wrapper .page-inner section.normal h4 {
@@ -130,7 +131,7 @@ h4,
     font-size: 20px;
     line-height: 32px;
     letter-spacing: 0.2em;
-    position: relative !important;
+    position: relative;
 }
 
 #research-grants h4 {
@@ -146,7 +147,7 @@ h4:after,
     height: 2px;
     background-color: black;
     position: absolute;
-    bottom: 0;
+    bottom: -6px;
     left: 0;
 }
 
@@ -196,13 +197,16 @@ h2 .search-highlight {
         line-height: 30px;
     }
 
+    #trainings h3,
     #teaching h3 {
         margin-top: 40px;
         margin-bottom: 40px;
     }
 
+    #trainings h4,
     #teaching h4 {
         margin-bottom: 20px;
+        position: relative;
     }
 
     h1,
@@ -223,5 +227,6 @@ h2 .search-highlight {
         margin-top: 60px;
         font-size: 17px;
         line-height: 32px;
+        position: relative;
     }
 }

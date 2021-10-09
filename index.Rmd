@@ -48,8 +48,8 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 * [Przemysław Biecek, PhD (Team Leader)](the-team.html#przemysław-biecek)
 * [Hubert Baniecki](the-team.html#hubert-baniecki) MSc student
-* Piotr Czarnecki PhD student
-* [Stanisław Giziński](the-team.html#stanisław-giziński) BSc
+* Piotr Czarnecki, PhD student
+* [Stanisław Giziński](the-team.html#stanisław-giziński) MSc student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska) PhD student
 * [Anna Kozak](the-team.html#anna-kozak) MSc
 * [Piotr Piątyszek](the-team.html#piotr-piątyszek) BSc student
@@ -65,16 +65,16 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 #### Collaborators {-}
 
 * Przemysław Bombiński, PhD, MD
+* Katarzyna Kobylińska, PhD student
 * Marcin Luckner, PhD
+* Stanisław Łaniewski, PhD student
+* Katarzyna Pękala, MSc
 * Bartek Pieliński, PhD
 * [Hanna Piotrowska](the-team.html#hanna-piotrowska) MA
 * Elżbieta Sienkiewicz, PhD
 * Julian Sienkiewicz, PhD
 * Michał Sokólski, MSc student
 * Patryk Szatkowski, PhD student, MD
-* Katarzyna Kobylińska, PhD student
-* Stanisław Łaniewski, PhD student
-* Katarzyna Pękala, MSc
 
 #### Trainees {-}
 
@@ -92,14 +92,14 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 #### Alumni {-}
 
-* [Tomasz Mikołajczyk](the-team.html#tomasz-mikołajczyk) PhD
-* Anna Wróblewska, PhD
+* [Alicja Gosiewska](the-team.html#alicja-gosiewska) PhD student
+* Marcin Kosiński, MSc
 * Wojciech Kretowicz, MSc Student
 * Michał Kuźba, MSc
 * Szymon Maksymiuk, Msc Student
-* [Alicja Gosiewska](the-team.html#alicja-gosiewska) PhD student
-* Marcin Kosiński, MSc
+* [Tomasz Mikołajczyk](the-team.html#tomasz-mikołajczyk) PhD
 * Adam Rydelek, BSc
+* Anna Wróblewska, PhD
 
 
 ### Przemysław Biecek {-}
@@ -110,9 +110,12 @@ Associate professor at [Warsaw University of Technology](http://www.mini.pw.edu.
 
 Research visits: University of California, Davis (2018, USA), Nanyang Technological University (2018, Singapore), Auckland University (2014, 2015, New Zeland), Hasselt University (2010, 2011, 2017, Belgium), Toronto University (2007, Canada), OECD (2013, France), Vienna University (2004, 2005, Austria), Purdue University (2004, USA).
 
-Google Scholar: [Af0O75cAAAAJ](https://scholar.google.pl/citations?user=Af0O75cAAAAJ).
-GitHub: [pbiecek](https://github.com/pbiecek).
-LinkedIn: [pbiecek](https://www.linkedin.com/in/pbiecek/).
+Google Scholar: [Af0O75cAAAAJ](https://scholar.google.pl/citations?user=Af0O75cAAAAJ)
+
+GitHub: [pbiecek](https://github.com/pbiecek)
+
+LinkedIn: [pbiecek](https://www.linkedin.com/in/pbiecek/)
+
 
 ### Hubert Baniecki {-}
 
@@ -127,7 +130,6 @@ GitHub: [hbaniecki](https://github.com/hbaniecki)
 LinkedIn: [hbaniecki](https://www.linkedin.com/in/hbaniecki)
 
 
-
 ### Stanisław Giziński {-}
 
 <img src="images/sgizinski.jpg" >
@@ -135,7 +137,9 @@ LinkedIn: [hbaniecki](https://www.linkedin.com/in/hbaniecki)
 A Research Software Engineer and student of Machine Learning at Faculty of Mathematics Informatics and Mechanic, University of Warsaw. His work in the lab focuses on using natural language processing and network analysis to better understand the spread of AI public policies. Interested also in applying machine learning in bioinformatics.
 
 Google Scholar: [Stanisław Giziński](https://scholar.google.com/citations?user=QVXc3jAAAAAJ)
+
 GitHub: [Gizzio](https://github.com/Gizzio)
+
 LinkedIn: [stanislaw-gizinski](https://www.linkedin.com/in/stanislaw-gizinski/)
 
 
@@ -145,8 +149,10 @@ LinkedIn: [stanislaw-gizinski](https://www.linkedin.com/in/stanislaw-gizinski/)
 
 PhD student in Computer Science at Warsaw University of Technology, holds a Master’s degree in Mathematics. Interested in Machine Learning benchmarks and eXplainable Artificial Intelligence for tabular data.
 
-Google Scholar: [YiwwR6EAAAAJ](https://scholar.google.pl/citations?user=YiwwR6EAAAAJ&hl=pl).
-GitHub: [agosiewska](https://github.com/agosiewska).
+Google Scholar: [YiwwR6EAAAAJ](https://scholar.google.pl/citations?user=YiwwR6EAAAAJ&hl=pl)
+
+GitHub: [agosiewska](https://github.com/agosiewska)
+
 LinkedIn: [alicja-gosiewska](https://www.linkedin.com/in/alicja-gosiewska/)
 
 
@@ -157,8 +163,10 @@ LinkedIn: [alicja-gosiewska](https://www.linkedin.com/in/alicja-gosiewska/)
 
 PhD candidate in computer science at Warsaw University of Technology. Interested in deep learning modelling on medical images in the context of explainability and responsible AI.
 
-Google Scholar: [aJeg3IQAAAAJ](https://scholar.google.pl/citations?user=aJeg3IQAAAAJ).
-GitHub: [Hryniewska](https://github.com/Hryniewska).
+Google Scholar: [aJeg3IQAAAAJ](https://scholar.google.pl/citations?user=aJeg3IQAAAAJ)
+
+GitHub: [Hryniewska](https://github.com/Hryniewska)
+
 LinkedIn: [weronikahryniewska](https://www.linkedin.com/in/weronikahryniewska)
 
 
@@ -168,11 +176,11 @@ LinkedIn: [weronikahryniewska](https://www.linkedin.com/in/weronikahryniewska)
 
 Graduated in mathematical statistics at Warsaw University of Technology. Interested in explainable artificial intelligence and data visualization. Organizes projects related to education.
 
-Google Scholar: [JIrqf9kAAAAJ](https://scholar.google.pl/citations?user=JIrqf9kAAAAJ).
+Google Scholar: [JIrqf9kAAAAJ](https://scholar.google.pl/citations?user=JIrqf9kAAAAJ)
 
-GitHub: [kozaka93](https://github.com/kozaka93).
+GitHub: [kozaka93](https://github.com/kozaka93)
 
-LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna).
+LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna)
 
 
 ### Barbara Rychalska {-}
@@ -181,8 +189,9 @@ LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna).
 
 PhD candidate in computer science at Warsaw University of Technology. Mainly interested in deep learning for natural language processing (NLP), recommender systems and graph-based learning.
 
-Google Scholar: [Wp0wHJoAAAAJ](https://scholar.google.com/citations?user=Wp0wHJoAAAAJ).
-LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/).
+Google Scholar: [Wp0wHJoAAAAJ](https://scholar.google.com/citations?user=Wp0wHJoAAAAJ)
+
+LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/)
 
 
 ### Tomasz Stanisławek {-}
@@ -191,9 +200,11 @@ LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-9782
 
 PhD candidate in computer science at Warsaw University of Technology. Mainly interested in deep learning for natural language processing (NLP).
 
-Google Scholar: [gq8NY_UAAAAJ](https://scholar.google.pl/citations?user=gq8NY_UAAAAJ).
-GitHub: [tstanislawek](https://github.com/tstanislawek/).
-LinkedIn: [Tomasz-Stanisławek](https://pl.linkedin.com/in/tomasz-stanis%C5%82awek-91092729/).
+Google Scholar: [gq8NY_UAAAAJ](https://scholar.google.pl/citations?user=gq8NY_UAAAAJ)
+
+GitHub: [tstanislawek](https://github.com/tstanislawek/)
+
+LinkedIn: [Tomasz-Stanisławek](https://pl.linkedin.com/in/tomasz-stanis%C5%82awek-91092729/)
 
 
 ### Paulina Tomaszewska {-}
@@ -202,8 +213,9 @@ LinkedIn: [Tomasz-Stanisławek](https://pl.linkedin.com/in/tomasz-stanis%C5%82aw
 
 PhD candidate in Computer Science at Warsaw University of Technology. Gained experience in AI at leading universities during: Deep Learning Summer School at Tsinghua University (China), one-semester exchange at Nanyang Technological University (Singapore) and research internships at Gwangju Institute of Science and Technology (South Korea) and Institute of Science and Technology (Austria). Mainly interested in Deep Learning, Computer Vision and Transfer Learning.
 
-Google Scholar: [eO245iMAAAAJ](https://scholar.google.com/citations?user=eO245iMAAAAJ).
-LinkedIn: [paulina-tomaszewska](https://www.linkedin.com/in/paulina-tomaszewska-2a8517109/).
+Google Scholar: [eO245iMAAAAJ](https://scholar.google.com/citations?user=eO245iMAAAAJ)
+
+LinkedIn: [paulina-tomaszewska](https://www.linkedin.com/in/paulina-tomaszewska-2a8517109/)
 
 
 ### Jakub Wiśniewski {-}
@@ -212,9 +224,11 @@ LinkedIn: [paulina-tomaszewska](https://www.linkedin.com/in/paulina-tomaszewska-
 
 Research Software Engineer and third year Data Science student at Warsaw University of Technology. Developer of tools for bias detection and fairness. Currently researching responsible applications of deep learning. President of Data Science Science Club at WUT.
 
-Google Scholar: [_6eQsXMAAAAJ](https://scholar.google.com/citations?user=_6eQsXMAAAAJ).
-GitHub: [jakwisn](https://github.com/jakwisn).
-LinkedIn: [jakwisn](https://www.linkedin.com/in/jakwisn).
+Google Scholar: [_6eQsXMAAAAJ](https://scholar.google.com/citations?user=_6eQsXMAAAAJ)
+
+GitHub: [jakwisn](https://github.com/jakwisn)
+
+LinkedIn: [jakwisn](https://www.linkedin.com/in/jakwisn)
 
 
 ### Piotr Piątyszek {-}
@@ -232,9 +246,11 @@ Github: [piotrpiatyszek](https://github.com/piotrpiatyszek)
 
 PhD candidate in computer science at Warsaw University of Technology. Graduated in mathematical statistics. Interested in automated machine learning especially in hyperparameter tuning for tabular data. Carrying statistical analysis and predictive modelling for healthcare.
 
-Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQAAAAJ).
-GitHub: [woznicak](https://github.com/woznicak).
-LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak).
+Google Scholar: [tAQS1gQAAAAJ](https://scholar.google.pl/citations?user=tAQS1gQAAAAJ)
+
+GitHub: [woznicak](https://github.com/woznicak)
+
+LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak)
 
 
 ### Hanna Zdulska {-}
@@ -243,29 +259,32 @@ LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak).
 
 Software engineer and Data Science BSc student at Warsaw University of Technology. Experienced in web scraping, interested in natural language processing (NLP) and legal status of Artificial Intelligence. Beginner chess players.</p>
 
-GitHub: [HaZdula](https://github.com/hazdula).
-LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/).
+GitHub: [HaZdula](https://github.com/hazdula)
+
+LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/)
 
 
 ### Tomasz Mikołajczyk {-}
 
 <img src="images/tomekm.jpg" >
 
-PhD in social sciences, but in recent years has devoted himself to the area of data analysis and visualization. He is interested in the development of the area of artificial explanatory intelligence.
+PhD in social sciences, but in recent years has devoted himself to the area of data analysis and visualization. He is interested in the development of the area of explainable artificial intelligence.
 
-GitHub: [tmikolajczyk](https://github.com/tmikolajczyk).
-LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds).
+GitHub: [tmikolajczyk](https://github.com/tmikolajczyk)
+
+LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds)
 
 
 ### Hanna Piotrowska {-}
 
 <img src="images/HannaPiotrowska-kwadrat.jpg" >
 
-
 Information designer, focusing mainly on data visualization, branding and book design, with a strong interest in Data Science and perception studies. Winner of numerous awards, including The Kantar Information Is Beautiful Awards, HOW International Design Awards, Polish Graphic Design Awards and KTR.
 
-LinkedIn: [hanna-piotrowska](https://www.linkedin.com/in/hanna-piotrowska-2536214b/).
-Twitter: [hannapio](https://twitter.com/hannapio).
+LinkedIn: [hanna-piotrowska](https://www.linkedin.com/in/hanna-piotrowska-2536214b/)
+
+Twitter: [hannapio](https://twitter.com/hannapio)
+
 Behance: [hannapio](https://www.behance.net/hannapio).
 
 
@@ -275,7 +294,7 @@ Behance: [hannapio](https://www.behance.net/hannapio).
 
 A BSc Data Science student at Warsaw University of Technology. Interested in artificial intelligence, data visualization and metaheuristic optimization.
 
-GitHub: [PlentyCoups](https://github.com/PlentyCoups).
+GitHub: [PlentyCoups](https://github.com/PlentyCoups)
 
 
 ### Hoang Thien Ly {-}
@@ -284,8 +303,9 @@ GitHub: [PlentyCoups](https://github.com/PlentyCoups).
 
 Pursuing B.S Degree in Mathematics and Data Analysis at Warsaw University of Technology. Interested in working with data, and learning Machine Learning methods.
 
-GitHub: [lhthien09](https://github.com/lhthien09).
-LinkedIn:[hthienly](https://www.linkedin.com/in/hthienly/).
+GitHub: [lhthien09](https://github.com/lhthien09)
+
+LinkedIn: [hthienly](https://www.linkedin.com/in/hthienly/)
 
 
 ### Mateusz Krzyziński {-}
@@ -294,9 +314,11 @@ LinkedIn:[hthienly](https://www.linkedin.com/in/hthienly/).
 
 BSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, machine learning on graphs and data visualization.
 
-Google Scholar: [i_r7EUgAAAAJ](https://scholar.google.com/citations?user=i_r7EUgAAAAJ).
-GitHub: [krzyzinskim](https://github.com/krzyzinskim).
-LinkedIn: [krzyzinskim](https://www.linkedin.com/in/krzyzinskim/).
+Google Scholar: [i_r7EUgAAAAJ](https://scholar.google.com/citations?user=i_r7EUgAAAAJ)
+
+GitHub: [krzyzinskim](https://github.com/krzyzinskim)
+
+LinkedIn: [krzyzinskim](https://www.linkedin.com/in/krzyzinskim/)
 
 
 ### Bartosz Sawicki {-}
@@ -305,7 +327,7 @@ LinkedIn: [krzyzinskim](https://www.linkedin.com/in/krzyzinskim/).
 
 Works towards BSc degree in Data Science at Warsaw University of Technology. Interested in data visualization.
 
-GitHub: [SawickiBartosz](https://github.com/SawickiBartosz).
+GitHub: [SawickiBartosz](https://github.com/SawickiBartosz)
 
 
 ### Szymon Szmajdziński {-}
@@ -314,7 +336,9 @@ GitHub: [SawickiBartosz](https://github.com/SawickiBartosz).
 
 Data Science student at Warsaw University of Technology. Machine learning enthusiast. Interested in automated machine learning and explainable artificial intelligence.
 
-GitHub: [Szmajsz](https://github.com/Szmajasz). LinkedIn: [szymszmaj](https://www.linkedin.com/in/szymszmaj/).
+GitHub: [Szmajsz](https://github.com/Szmajasz)
+
+LinkedIn: [szymszmaj](https://www.linkedin.com/in/szymszmaj/)
 
 
 ### Hubert Ruczyński {-}
@@ -323,7 +347,7 @@ GitHub: [Szmajsz](https://github.com/Szmajasz). LinkedIn: [szymszmaj](https://ww
 
 Works towards Bachelor's degree in Data Science at Warsaw University of Technology. Interested in Maching Learning, Neural Networks and Fairness.
 
-GitHub: [HubertR21](https://github.com/HubertR21).
+GitHub: [HubertR21](https://github.com/HubertR21)
 
 
 ### Zuzanna Trafas {-}
@@ -332,8 +356,9 @@ GitHub: [HubertR21](https://github.com/HubertR21).
 
 A third-year Computer Science student at Poznan University of Technology. Interested in explainable artificial intelligence and computer vision.
 
-GitHub: [Zuzanna-Trafas](https://github.com/Zuzanna-Trafas).
-LinkedIn: [zuzanna-trafas](https://www.linkedin.com/in/zuzanna-trafas/).
+GitHub: [Zuzanna-Trafas](https://github.com/Zuzanna-Trafas)
+
+LinkedIn: [zuzanna-trafas](https://www.linkedin.com/in/zuzanna-trafas/)
 
 
 ### Kinga Ułasik {-}
@@ -342,7 +367,7 @@ LinkedIn: [zuzanna-trafas](https://www.linkedin.com/in/zuzanna-trafas/).
 
 A Data Science student at the Warsaw University of Technology. Interested in data vizualization, machine learning and programming. Besides studies, an astronomy amateur and a musician.
 
-GitHub: [ARUMHC](https://github.com/ARUMHC).
+GitHub: [ARUMHC](https://github.com/ARUMHC)
 
 
 ### Maria Kałuska {-}
@@ -351,7 +376,8 @@ GitHub: [ARUMHC](https://github.com/ARUMHC).
 
 Pursuing a Bachelor's degree in Data Science at Warsaw University of Technology. Interested in machine learning and neural networks for computer vision.
 
-GitHub: [kaluskam](https://github.com/kaluskam).
+GitHub: [kaluskam](https://github.com/kaluskam)
+
 LinkedIn: [Maria-Kałuska](https://www.linkedin.com/in/marysia-ka%C5%82uska-ba16bb208/)
 
 
@@ -361,7 +387,8 @@ LinkedIn: [Maria-Kałuska](https://www.linkedin.com/in/marysia-ka%C5%82uska-ba16
 
 Bachelor Data Science student at Warsaw University of Technology. Interested in machine learning and explainable artificial intelligence.
 
-GitHub: [arturzolkowski](https://github.com/arturzolkowski).
+GitHub: [arturzolkowski](https://github.com/arturzolkowski)
+
 LinkedIn: [azolkowski](https://www.linkedin.com/in/azolkowski/)
 
 

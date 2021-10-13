@@ -120,6 +120,11 @@ h1:before {
     letter-spacing: -0.03em;
 }
 
+#trainings > div:first-of-type > h3 {
+    margin-top: 0;
+}
+
+
 h4,
 #trainings h3,
 #teaching h3,

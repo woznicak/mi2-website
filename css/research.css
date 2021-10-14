@@ -21,7 +21,7 @@
 #seminars h2,
 #beta-bit h2,
 #software h2,
-#papers-and-books h2 {
+#papers h2 {
     grid-column: span 2;
 }
 #papers h2 {
@@ -35,7 +35,7 @@
 #beta-bit div img,
 #software div img,
 #research-grants div img,
-#papers-and-books div img {
+#papers div img {
     width: 100%;
     height: 225px;
     margin-bottom: 30px;
@@ -63,7 +63,7 @@
     #beta-bit div img,
     #software div img,
     #research-grants div img,
-    #papers-and-books div img  {
+    #papers div img  {
         width: calc(100% + 2px);
 
     }
@@ -71,7 +71,7 @@
 @media (min-width: 768px) and (max-width: 899px) {
     #beta-bit > *,
     #software > *,
-    #papers-and-books > * {
+    #papers > * {
         /*margin-right: 60px;*/
     }
 }
@@ -79,7 +79,7 @@
 #seminars div p,
 #beta-bit div p,
 #software div p,
-#papers-and-books div p {
+#papers div p {
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 16px;
@@ -98,21 +98,21 @@
 #trainings div img,
 #beta-bit div i,
 #software div i,
-#papers-and-books div i {
+#papers div i {
     font-size: 13px;
 }
 
 #trainings div img,
 #beta-bit div.software img,
 #software div.software img,
-#papers-and-books div.software img {
+#papers div.software img {
     margin-bottom: 0;
 }
 
 #trainings div img,
 #beta-bit div.software p,
 #software div.software p,
-#papers-and-books div.software p {
+#papers div.software p {
     font-size: 20px;
 }
 
@@ -121,7 +121,7 @@
     #beta-bit div img,
     #software div img,
     #research-grants div img,
-    #papers-and-books div img  {
+    #papers div img  {
         display: flex;
         flex-direction: column;
         width: calc(50vw - var(--mobile-margins));

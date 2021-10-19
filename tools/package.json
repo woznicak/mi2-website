@@ -1,0 +1,19 @@
+{
+  "name": "mi2-website-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server ../docs -p 1111",
+    "cypress:open": "cypress open",
+    "cypress:run:report": "cypress run --reporter cypress-image-snapshot/reporter --env failOnSnapshotDiff=false",
+    "cypress:run:update": "cypress run --env updateSnapshots=true",
+    "cypress:run": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.6.0",
+    "cypress-image-snapshot": "^4.0.1"
+  }
+}

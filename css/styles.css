@@ -444,6 +444,3 @@ body:not(.two-columns) #top-button-wrapper{
     width: calc(100% - 20px);
 }
 
-.book-body.fixed {
-    overflow-x: hidden !important;
-}

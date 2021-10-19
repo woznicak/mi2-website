@@ -41,10 +41,14 @@
   window.addEventListener('load', (event) => {
     const searchInput = document.getElementById('search-box')
 
-    searchInput.setAttribute('placeholder', 'Search...')
+    if (searchInput) {
+      searchInput.setAttribute('placeholder', 'Search...')
 
-    searchInput.parentElement.innerHTML += `<svg class="input-clear" width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><line x1="15.6729" y1="0.53033" x2="1.53077" y2="14.6725" stroke="black" stroke-width="1.5"/><line x1="15.6122" y1="14.6724" x2="1.47011" y2="0.530286" stroke="black" stroke-width="1.5"/></svg>
-`
+      searchInput.parentElement.innerHTML += `<svg class="input-clear" width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><line x1="15.6729" y1="0.53033" x2="1.53077" y2="14.6725" stroke="black" stroke-width="1.5"/><line x1="15.6122" y1="14.6724" x2="1.47011" y2="0.530286" stroke="black" stroke-width="1.5"/></svg>
+    `
+    }
+
+    return false
   });
 
 </script>

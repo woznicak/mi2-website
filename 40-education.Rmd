@@ -10,21 +10,21 @@ We take social responsibility seriously and as part of our activities we support
 document.body.classList.add("teaching-page")
 </script>
 
-### Classes at MiNI {-}
+### Data Visualization 21/22 Winter {-}
 
-#### Winter 2021/2022 {-}
-
-- [Data Visualization Techniques](https://github.com/mini-pw/2022Z-DataVisualizationTechniques) for Data Science studies
+[Data Visualization Techniques](https://github.com/mini-pw/2022Z-DataVisualizationTechniques) for Data Science studies
   - lectures, laboratory, project - Anna Kozak
-  - laboratory, project - Hubert Baniecki 
+  - laboratory, project - Hubert Baniecki
 
-#### Summer 2020/2021 {-}
+### Exploratory Data Analysis 20/21 Summer {-}
 
-- [Introduction to exploratory data analysis](https://github.com/mini-pw/2021L-ExploratoryDataAnalysis) for Mathematics and data analysis studies
+[Introduction to exploratory data analysis](https://github.com/mini-pw/2021L-ExploratoryDataAnalysis) for Mathematics and data analysis studies
   - lectures, laboratory, project - Anna Kozak
   - laboratory - *Krzysztof Spaliński*
 
-- [Case Studies](https://github.com/mini-pw/2021L-WarsztatyBadawcze) for Data Science studies
+### Case Studies 20/21 Summer {-}
+
+[Case Studies](https://github.com/mini-pw/2021L-WarsztatyBadawcze) for Data Science studies
   - lectures - Katarzyna Woźnica
   - [XAI1](https://github.com/mini-pw/2021L-WB-XAI-1) - laboratory, project - Anna Kozak
   - [XAI2](https://github.com/mini-pw/2021L-WB-XAI-2) - laboratory, project - Szymon Maksymiuk
@@ -33,25 +33,31 @@ document.body.classList.add("teaching-page")
   - [ML](https://github.com/mini-pw/2021L-WB-ML) - laboratory, project - Hubert Baniecki
   - [RashomonML](https://github.com/mini-pw/2021L-WB-RashomonML) - laboratory, project - Katarzyna Woźnica
 
-#### Winter 2020/2021 {-}
+### Data Visualization 20/21 Winter {-}
 
-- [Data Visualization Techniques](https://github.com/mini-pw/2021Z-DataVisualizationTechniques) for Data Science studies
+[Data Visualization Techniques](https://github.com/mini-pw/2021Z-DataVisualizationTechniques) for Data Science studies
   - lectures, laboratory - Alicja Gosiewska
   - project - Hubert Baniecki
 
-#### Summer 2019/2020 {-}
+### Case Studies 19/20 Summer {-}
 
-- [Case Studies](https://github.com/mini-pw/2020L-WarsztatyBadawcze) for Data Science studies
+[Case Studies](https://github.com/mini-pw/2020L-WarsztatyBadawcze) for Data Science studies
   - lectures - Alicja Gosiewska
   - [Imputation](https://github.com/mini-pw/2020L-WarsztatyBadawcze-Imputacja) - laboratory, project - Katarzyna Woźnica
   - [Reproducibility of scientific papers](https://github.com/mini-pw/2020L-WarsztatyBadawcze-Reprodukowalnosc) - laboratory, project - Alicja Gosiewska
   - [Interpretability](https://github.com/mini-pw/2020L-WarsztatyBadawcze-InzynieriaCech) - laboratory, project - Katarzyna Kobylińska
 
-- [Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2020) for Data Science studies
+### Interpretable Machine Learning 19/20 Summer {-}
+
+[Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2020) for Data Science studies
   - lectures, project - Przemysław Biecek
 
-- [Data Visualization](https://github.com/mini-pw/2020L-WizualizacjaDanych) for Data Science studies
+### Data Visualization 19/20 Summer {-}
+
+[Data Visualization](https://github.com/mini-pw/2020L-WizualizacjaDanych) for Data Science studies
   - lectures, project - Michał Burdukiewicz
+
+### Classes at MINI{-}
 
 #### Winter 2019/2020 {-}
 
@@ -74,6 +80,8 @@ document.body.classList.add("teaching-page")
 
 - Advanced R
   - lectures, laboratory, project - Przemysław Biecek
+
+#### Winter 2018/2019 {-}
 
 - [Data Visualization Techniques](https://github.com/pbiecek/TechnikiWizualizacjiDanych2018)  for Data Science studies
   - lectures, project - Przemysław Biecek
@@ -98,5 +106,16 @@ document.body.classList.add("teaching-page")
 
 ## Beta Bit {-}
 
-TODO - books, projects + StatTuba
+<script>
+document.body.classList.add("beta-bit-page")
+document.body.classList.add("two-columns")
+</script>
+
+<div>
+<img src="images/bb_rml.png" align="left">
+<a href="https://betaandbit.github.io/RML/">The Hitchhiker's Guide to Responsible Machine Learning</a>
+<p>Przemysław Biecek, Anna Kozak, Aleksander Zawada.</p>
+<p><i>2021</i></p>
+</div>
+
 

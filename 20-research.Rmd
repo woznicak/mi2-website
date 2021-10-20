@@ -1,5 +1,3 @@
-
-
 # MI² Research  {-}
 
 On a mission to responsibly build <br/>machine learning predictive models.
@@ -13,90 +11,150 @@ As part of our this effort, we develop open source software packages (usually in
 If you want to find out more about what we are working on, check out our seminar, which is always open to those interested in responsible and sustainable data science.
 
 
+## Papers {-}
+
+<script>
+document.body.classList.add("papers-page")
+document.body.classList.add("two-columns")
+</script>
+
+<div>
+<img src="images/python_dalex.png">
+<a href="https://www.jmlr.org/papers/v22/20-1473">dalex: Responsible Machine Learning with Interactive Explainability and Fairness in Python</a>
+<p>Hubert Baniecki, Wojciech Kretowicz, Piotr Piątyszek, Jakub Wiśniewski, Przemyslaw Biecek</p>
+<p><i>Journal of Machine Learning Research (2021)</i></p>
+</div>
+
+<div>
+<img src="images/checklist.png">
+<a href="https://www.sciencedirect.com/science/article/pii/S0031320321002223">Checklist for responsible deep
+learning modeling of medical images based on COVID-19 detection studies</a>
+<p>Weronika Hryniewska, Przemysław Bombiński, Patryk Szatkowski, Paulina Tomaszewska, Artur Przelaskowski,
+Przemysław Biecek</p>
+<p><i>Pattern Recognition (2021)</i></p>
+</div>
+
+<div>
+<img src="images/safe.png">
+<p><a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X">Simpler is better: Lifting interpretability-performance trade-off via automated feature engineering</a></p>
+<p>Alicja Gosiewska, Anna Kozak, Przemysław Biecek</p>
+<p><i>Decision Support Systems (2021)</i></p>
+</div>
+
+<div>
+<img src="images/sarscov2.png">
+<a href="https://www.sciencedirect.com/science/article/pii/S1896112621000201">The first SARS-CoV-2 genetic variants
+of concern (VOC) in Poland: The concept of a comprehensive approach to monitoring and surveillance of emerging
+variants</a>
+<p>Radosław Charkiewicz, Jacek Nikliński, Przemysław Biecek, Joanna Kiśluk, Sławomir Pancewicz, Anna
+Moniuszko-Malinowska, Robert Flisiak, Adam Krętowski, Janusz Dzięcioł, Marcin Moniuszko, Rafał Gierczyński,
+Grzegorz Juszczyk, Joanna Reszeć</p>
+<p><i>Advances in Medical Sciences (2021)</i></p>
+</div>
+
+<div>
+<img src="images/responsiblecovid.png">
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17874">Responsible Prediction Making of COVID-19 Mortality
+(Student Abstract)</a>
+<p>Hubert Baniecki, Przemyslaw Biecek</p>
+<p><i>AAAI Conference on Artificial Intelligence (2021)</i></p>
+</div>
+
+<div class="software">
+<img src="images/mini_dalex.png">
+<p><strong>Paper and package:</strong> <a href="http://dalex.drwhy.ai/">XAI with DALEX for R and Python</a></p>
+</div>
+
+<div class="software">
+<img src="images/mini_fairmodels.png">
+<p>Package: <a href="https://modeloriented.github.io/fairmodels/">Fairness with fairmodels</a></p>
+</div>
+
+<div>
+<img src="images/mini_lungs.png">
+<a href="http://xai-tools.drwhy.ai/">Landscape of R packages for XAI</a>
+<p>Szymon Maksymiuk, Alicja Gosiewska, Przemyslaw Biecek</p>
+<p><i>arXiv preprint (2021)</i></p>
+</div>
+
+<div class="software">
+<img src="images/mini_crs.png">
+<p>Software: <a href="https://crs19.pl/">COVID-19 Risk Score</a></p>
+</div>
+
+<div class="software">
+<img src="images/mini_archivist.png">
+<p>Paper and package: <a href="https://github.com/pbiecek/archivist">Model governance with R (MLOps)</a></p>
+</div>
+
+<div>
+<img src="images/prevention_is_better.png">
+<a href="https://drive.google.com/file/d/1-B5T3FCAHzDJbOaPtBnf5l9NnK-yhJtZ/view">Prevention is better than cure: a
+case study of the abnormalities detection in the chest</a>
+<p>Weronika Hryniewska, Piotr Czarnecki, Jakub Wiśniewski, Przemysław Bombiński, Przemysław Biecek</p>
+<p><i>“Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision” CVPR Workshop (2021)</i></p>
+</div>
+
+<div>
+<img src="images/xai_metalearning.png">
+<a href="https://kdd.isti.cnr.it/xkdd2021/">Towards explainable meta-learning</a>
+<p>Katarzyna Woźnica, Przemyslaw Biecek</p>
+<p><i>XKDD Workshop ECML (2021)</i></p>
+</div>
+
+<div>
+<img src="images/mini_fairmodels.png">
+<a href="https://arxiv.org/abs/2104.00507">fairmodels: A Flexible Tool For Bias Detection, Visualization, And Mitigation</a>
+<p>Jakub Wiśniewski, Przemyslaw Biecek</p>
+<p><i>arXiv preprint (2021)</i></p>
+</div>
+
+## Software {-}
+
+<script>
+document.body.classList.add("software-page")
+document.body.classList.add("two-columns")
+</script>
+
+<div>
+<img src="images/arena.png" align="left">
+<a href="https://arena.drwhy.ai/docs/">Arena</a>
+<p>Interactive tool for the exploration and comparison of models' explanations.</p>
+</div>
+
+
+## Books {-}
+
+<script>
+document.body.classList.add("books-page")
+document.body.classList.add("two-columns")
+</script>
+
+<div>
+<img src="images/mini_ema.png">
+<a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis</a>
+<p>Explore, Explain, and Examine Predictive Models. With examples in R and Python</p>
+<p>Przemysław Biecek, Tomasz Burzykowski</p>
+<p><i>Chapman and Hall/CRC, New York (2021)</i></p>
+</div>
+
 ## Seminars {-}
 
-<img src="images/seminar.png" align="left">
-
+<div class="two-column-entry">
+<div class="two-column-entry-image">
+<div><img src="images/seminar.png"></div>
+</div>
+<div class="two-column-entry-text">
 We meet every Monday, 10:00 online or at MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
 
 Join us at http://meet.google.com/rbo-kgmm-orb
 
 Materials from past seminars: https://github.com/mi2-warsaw/MI2DataLab_Seminarium
-
-
-## Papers and Books {-}
-
-<script>
-document.body.classList.add("papers-and-books-page")
-document.body.classList.add("two-columns")
-</script>
-
-<div>
-<img src="images/mini_ema.png" align="left">
-<a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis.</a>
-<p>Explore, Explain, and Examine Predictive Models. With examples in R and Python.</p>
-<p>Przemysław Biecek, Tomasz Burzykowski.</p>
-<p><i>Chapman and Hall/CRC, New York (2021)</i></p>
 </div>
-
-<div>
-<img src="images/checklist.png" align="left">
-<a href="https://www.sciencedirect.com/science/article/pii/S0031320321002223">Checklist for responsible deep
-learning modeling of medical images based on COVID-19 detection studies.</a>
-<p>Weronika Hryniewska, Przemysław Bombiński, Patryk Szatkowski, Paulina Tomaszewska, Artur Przelaskowski,
-Przemysław Biecek.</p>
-<p><i>Pattern Recognition (2021)</i></p>
-</div>
-
-<div>
-<img src="images/safe.png" align="left"><a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X">Simpler is better: Lifting interpretability-performance trade-off via automated feature engineering.</a>
-<p>Alicja Gosiewska, Anna Kozak, Przemysław Biecek.</p>
-<p><i>Decision Support Systems (2021)</p></i>
-</div>
-
-<div>
-<img src="images/sarscov2.png" align="left"><a href="https://www.sciencedirect.com/science/article/pii/S1896112621000201">The first SARS-CoV-2 genetic variants
-of concern (VOC) in Poland: The concept of a comprehensive approach to monitoring and surveillance of emerging
-variants.</a>
-<p>Radosław Charkiewicz, Jacek Nikliński, Przemysław Biecek, Joanna Kiśluk, Sławomir Pancewicz, Anna
-Moniuszko-Malinowska, Robert Flisiak, Adam Krętowski, Janusz Dzięcioł, Marcin Moniuszko, Rafał Gierczyński,
-Grzegorz Juszczyk, Joanna Reszeć </p>
-<p><i>Advances in Medical Sciences (2021)</p></i>
-</div>
-
-<div>
-<img src="images/responsiblecovid.png" align="left">
-<a href="https://www.aaai.org/AAAI21Papers/SA-299.BanieckiH.pdf">Responsible Prediction Making of COVID-19 Mortality
-(Student Abstract).</a>
-<p>Hubert Baniecki, Przemyslaw Biecek.</p>
-<p><i>AAAI Conference (2021)</p></i>
-</div>
-
-<div class="software">
-<img src="images/mini_dalex.png" height="180">
-<p><strong>Paper and package:</strong> <a href="http://dalex.drwhy.ai/">XAI with DALEX for R and Python</a>
-</div>
-<div class="software">
-<img src="images/mini_fairmodels.png" height="180"></a>
-<p>Package: <a href="https://modeloriented.github.io/fairmodels/">Fairness with fairmodels</a></p>
-</div>
-<div class="software">
-<img src="images/mini_lungs.png" height="180">
-<p>Paper: <a href="http://xai-tools.drwhy.ai/">Landscape of R packages for XAI</a>
-</p>
-</div>
-<div class="software">
-<img src="images/mini_crs.png" height="180"></a>
-<p>Software: <a href="https://crs19.pl/">COVID-19 Risk Score</a>
-</p>
-</div>
-<div class="software">
-<img src="images/mini_archivist.png" height="180"></a>
-<p>Paper and package: <a href="https://github.com/pbiecek/archivist">Model governance with R (MLOps)</a>
-</p>
 </div>
 
 ## Research grants  {-}
+
 <script>
 document.body.classList.add("research-grants-page")
 </script>
@@ -210,3 +268,5 @@ OECD grant description
 ![images/mi-logo-placeholder.png](images/mi-logo-placeholder.png)
 
 Innowacyjny moduł systemu analizy danych medycznych i leków dedykowany dla sektora medycznego. Polish Centre for Research and Development POIR.01.01.0100-0328/17
+
+

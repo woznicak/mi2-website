@@ -13,8 +13,29 @@ We conduct trainings for data-science teams interested in the latest results in 
 
 ## Solutions  {-}
 
+Need support with fairness and XAI analysis of your models? 
 
+Contact us!
 
 ## Trainings {-}
+
+#### DALEX for R: Explanation and exploration of machine learning models with R and DALEX {-}
+
+![images/training_xai](images/training_xai.png)
+
+A brief introduction to tools for local and global explanations of predictive models using the DALEX library. The short version is 3 hours, the long version is a 2-day training. During the training you will build several predictive models and take a closer look at how they work.
+
+Find more materials here: https://github.com/pbiecek/XAIatERUM2020
+
+
+#### Fairmodels: Explaining and Checking Fairness for Predictive Models {-}
+
+![images/training_fairness](images/training_fairness.png)
+
+The tutorial is divided into three parts. First, I talk about fairness in general. Do we have a problem with discrimination, and which areas are affected by it? The second part is related to fairness measures. We  discuss the most common statistics for the detection of discrimination. The third part is the hands-on presentation of software that helps to check and visualize fairness.
+
+Find more materials here: https://github.com/pbiecek/fairness_xkdd_2021
+
+
 
 

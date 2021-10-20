@@ -34,7 +34,7 @@
     handleMenu()
 
     setTimeout(()=>{
-      if (window.innerHeight < window.document.getElementsByClassName("page-inner")[0].clientHeight + 100) {
+      if (window.innerHeight < window.document.getElementsByClassName("page-inner")[0].clientHeight - 10) {
         document.getElementById("top-button").style.opacity = 1
       }
     }, 2000)

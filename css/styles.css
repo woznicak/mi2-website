@@ -413,6 +413,10 @@ img {
     justify-content: center;
 }
 
+#top-button {
+    transition: .3s;
+}
+
 body:not(.two-columns) #top-button-wrapper {
     width: calc(100% - 2px + 50px);
 }

@@ -1,5 +1,5 @@
-describe('Snapshot testing - ipad vertical', () => {
-  before(()=>{
+describe.only('Snapshot testing - ipad vertical', () => {
+  beforeEach(()=>{
     cy.viewport('ipad-2') // Set viewport to 375px x 667px
   })
 
@@ -20,8 +20,23 @@ describe('Snapshot testing - ipad vertical', () => {
     cy.matchImageSnapshot({ capture: 'fullPage' });
   })
 
-  it('papers and books', () => {
-    cy.visit('http://127.0.0.1:1111/papers-and-books.html')
+  it('papers', () => {
+    cy.visit('http://127.0.0.1:1111/papers.html')
+    cy.matchImageSnapshot({ capture: 'fullPage' });
+  })
+
+  it('books', () => {
+    cy.visit('http://127.0.0.1:1111/books.html')
+    cy.matchImageSnapshot({ capture: 'fullPage' });
+  })
+
+  it('software', () => {
+    cy.visit('http://127.0.0.1:1111/software.html')
+    cy.matchImageSnapshot({ capture: 'fullPage' });
+  })
+
+  it('seminars', () => {
+    cy.visit('http://127.0.0.1:1111/seminars.html')
     cy.matchImageSnapshot({ capture: 'fullPage' });
   })
 

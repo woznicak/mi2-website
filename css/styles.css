@@ -1,3 +1,7 @@
+h1.title {
+    display: none;
+}
+
 p.caption {
     color: transparent;
     margin-top: 10px;
@@ -6,10 +10,6 @@ p.caption {
 .book .book-summary ul.summary li a:hover,
 .book .book-summary ul.summary li.active > a {
     color: unset
-}
-
-a[href^=the-team] + ul {
-    display: none;
 }
 
 .divider {
@@ -47,11 +47,6 @@ blockquote > p:first-child {
     text-align: inherit;
 }
 
-a[href^=the-team] + ul {
-    display: none !important;
-    height: 0 !important;
-    overflow: hidden;
-}
 *,
 .book .book-summary {
     background: transparent;
@@ -372,27 +367,6 @@ img {
     .book .book-summary ul.summary li a:hover,
     .book .book-summary ul.summary li.active > a {
         color: var(--link-color)
-    }
-
-    #beta-bit div a,
-    #software div a,
-    #papers div a {
-        font-size: 20px;
-    }
-    #beta-bit div p,
-    #software div p,
-    #papers div p {
-        font-size: 16px;
-    }
-    #beta-bit div,
-    #software div,
-    #papers div {
-        margin-bottom: 100px;
-    }
-    #beta-bit > *:not(h2),
-    #software > *:not(h2),
-    #papers > *:not(h2) {
-        padding-right: 50px;
     }
 }
 @media (max-width: 1240px) {

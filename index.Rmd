@@ -19,8 +19,6 @@ options(
 output <- knitr::opts_knit$get("rmarkdown.pandoc.to")
 is.html = !is.null(output) && output == "html"
 ```
-
-
 # MI² Data Lab {-}
 <script>
 document.body.classList.add("index-page")
@@ -41,6 +39,9 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 
 
 ## The Team  {-}
+<script>
+document.querySelector(".page-inner section > *:first-child").classList.add("team-layout")
+</script>
 
 <div id="team-cover-img" ></div>
 

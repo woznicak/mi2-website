@@ -14,8 +14,8 @@ If you want to find out more about what we are working on, check out our seminar
 ## Papers {-}
 
 <script>
-document.body.classList.add("papers-page")
 document.body.classList.add("two-columns")
+document.querySelector(".page-inner section > *:first-child").classList.add("two-columns-layout")
 </script>
 
 <div>
@@ -112,8 +112,8 @@ case study of the abnormalities detection in the chest</a>
 ## Software {-}
 
 <script>
-document.body.classList.add("software-page")
 document.body.classList.add("two-columns")
+document.querySelector(".page-inner section > *:first-child").classList.add("two-columns-layout")
 </script>
 
 <div>
@@ -126,8 +126,8 @@ document.body.classList.add("two-columns")
 ## Books {-}
 
 <script>
-document.body.classList.add("books-page")
 document.body.classList.add("two-columns")
+document.querySelector(".page-inner section > *:first-child").classList.add("two-columns-layout")
 </script>
 
 <div>

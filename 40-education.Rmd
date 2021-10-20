@@ -107,7 +107,6 @@ document.body.classList.add("teaching-page")
 ## Beta Bit {-}
 
 <script>
-document.body.classList.add("beta-bit-page")
 document.body.classList.add("two-columns")
 </script>
 

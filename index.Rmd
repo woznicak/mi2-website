@@ -9,7 +9,7 @@ site: bookdown::bookdown_site
 description: MI2
 graphics: yes
 cover-image: images/cover.png
-
+title: MI² Data Lab
 ---
 
 ```{r setup, include=FALSE}

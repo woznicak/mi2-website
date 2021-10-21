@@ -65,7 +65,7 @@
     margin-top: 100px;
 }
 
-#przemysław-biecek:before {
+.masonry:before {
     grid-column: span 2;
     content: '';
     width: 225px;
@@ -101,9 +101,6 @@
         margin-top: 80px !important;
     }
 
-    .team-layout [id]:nth-child(2n + 11):not([id=hubert-baniecki]) {
-        margin-top: -300px;
-    }
 }
 
 
@@ -138,7 +135,7 @@
         width: 100%;
     }
 
-    #przemysław-biecek:before {
+    .masonry:before {
         grid-column: span 2;
         content: '';
         width: 168px;
@@ -166,9 +163,6 @@
         top: 40px;
     }
 
-    .team-layout [id]:not([id=przemysław-biecek]) h3 {
-        margin-top: 60px;
-    }
 
     #hubert-baniecki {
         margin-top: 0px;
@@ -193,3 +187,36 @@
     overflow: hidden;
 }
 
+.team-layout #members a,
+.team-layout #alumni a,
+.team-layout #collaborators a,
+.team-layout #trainees a {
+    padding-right: 0;
+}
+
+.team-layout #members a:after,
+.team-layout #alumni a:after,
+.team-layout #collaborators a:after,
+.team-layout #trainees a:after {
+    display: none;
+}
+
+.team-layout .masonry {
+    grid-column: span 2
+}
+
+@media (min-width: 900px) {
+    .team-layout .masonry > div {
+        display: block;
+        width: calc(50% - 30px);
+        margin: 0 0 2%;
+        float: left;
+        clear: left;
+    }
+
+    .team-layout .masonry > div.right {
+        float: right;
+        clear: right;
+        margin-right: 30px;
+    }
+}

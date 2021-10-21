@@ -41,25 +41,49 @@ MI² is a group of experts supporting global initiatives aimed at responsible an
 ## The Team  {-}
 <script>
 document.querySelector(".page-inner section > *:first-child").classList.add("team-layout")
+document.body.classList.add("team-page")
+document.body.classList.add("two-columns")
+
+ $(function() {
+      // Thanks to Mark Avery
+      // http://stackoverflow.com/questions/8191015/how-do-i-lay-out-my-content-divs-in-a-similar-manner-to-facebook-timeline
+      var adjustArticleHeights = (function () {
+
+        var leftColumnHeight = 0,
+          rightColumnHeight = 0,
+          $articles = $('.masonry > *');
+
+        for (var i = 0; i < $articles.length; i++) {
+
+          if (leftColumnHeight > rightColumnHeight) {
+            rightColumnHeight += $articles.eq(i).addClass('right').outerHeight(true);
+          } else {
+            leftColumnHeight += $articles.eq(i).outerHeight(true);
+          }
+        }
+
+        return $articles;
+      })();
+    });
 </script>
 
 <div id="team-cover-img" ></div>
 
 #### Members {-}
 
-* [Przemysław Biecek, PhD (Team Leader)](the-team.html#przemysław-biecek)
-* [Hubert Baniecki](the-team.html#hubert-baniecki) MSc student
+* [Przemysław Biecek](the-team.html#przemysław-biecek), PhD (Team Leader)
+* [Hubert Baniecki](the-team.html#hubert-baniecki), MSc student
 * Piotr Czarnecki, PhD student
-* [Stanisław Giziński](the-team.html#stanisław-giziński) MSc student
-* [Weronika Hryniewska](the-team.html#weronika-hryniewska) PhD student
-* [Anna Kozak](the-team.html#anna-kozak) MSc
-* [Piotr Piątyszek](the-team.html#piotr-piątyszek) BSc student
-* [Barbara Rychalska](the-team.html#barbara-rychalska) PhD student
-* [Tomasz Stanisławek](the-team.html#tomasz-stanisławek) PhD student
-* [Paulina Tomaszewska](the-team.html#paulina-tomaszewska) PhD student
-* [Jakub Wiśniewski](the-team.html#jakub-wiśniewski) BSc student
-* [Katarzyna Woźnica](the-team.html#katarzyna-woźnica) PhD student
-* [Hanna Zdulska](the-team.html#hanna-zdulska) BSc student
+* [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
+* [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
+* [Anna Kozak](the-team.html#anna-kozak), MSc
+* [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
+* [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
+* [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD student
+* [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
+* [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), BSc student
+* [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
+* [Hanna Zdulska](the-team.html#hanna-zdulska), BSc student
 
 
 
@@ -71,7 +95,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("tea
 * Stanisław Łaniewski, PhD student
 * Katarzyna Pękala, MSc
 * Bartek Pieliński, PhD
-* [Hanna Piotrowska](the-team.html#hanna-piotrowska) MA
+* [Hanna Piotrowska](the-team.html#hanna-piotrowska), MA
 * Elżbieta Sienkiewicz, PhD
 * Julian Sienkiewicz, PhD
 * Michał Sokólski, MSc student
@@ -80,29 +104,29 @@ document.querySelector(".page-inner section > *:first-child").classList.add("tea
 #### Trainees {-}
 
 * Adrianna Grudzień, BSc student
-* [Mateusz Grzyb](the-team.html#mateusz-grzyb) BSc student
-* [Hoang Thien Ly](the-team.html#hoang-thien-ly) BSc student
-* [Maria Kałuska](the-team.html#maria-kałuska) BSc student
-* [Mateusz Krzyziński](the-team.html#mateusz-krzyziński) BSc student
-* [Hubert Ruczyński](the-team.html#hubert-ruczyński) BSc student
-* [Bartosz Sawicki](the-team.html#bartosz-sawicki) BSc student
-* [Szymon Szmajdziński](the-team.html#szymon-szmajdziński) BSc student
-* [Zuzanna Trafas](the-team.html#zuzanna-trafas) BSc student
-* [Kinga Ułasik](the-team.html#kinga-ułasik) BSc student
-* [Artur Żółkowski](the-team.html#artur-żółkowski) BSc student
+* [Mateusz Grzyb](the-team.html#mateusz-grzyb), BSc student
+* [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
+* [Maria Kałuska](the-team.html#maria-kałuska), BSc student
+* [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), BSc student
+* [Hubert Ruczyński](the-team.html#hubert-ruczyński), BSc student
+* [Bartosz Sawicki](the-team.html#bartosz-sawicki), BSc student
+* [Szymon Szmajdziński](the-team.html#szymon-szmajdziński), BSc student
+* [Zuzanna Trafas](the-team.html#zuzanna-trafas), BSc student
+* [Kinga Ułasik](the-team.html#kinga-ułasik), BSc student
+* [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
 
 #### Alumni {-}
 
-* [Alicja Gosiewska](the-team.html#alicja-gosiewska) PhD student
+* [Alicja Gosiewska](the-team.html#alicja-gosiewska), PhD student
 * Marcin Kosiński, MSc
 * Wojciech Kretowicz, MSc Student
 * Michał Kuźba, MSc
 * Szymon Maksymiuk, Msc Student
-* [Tomasz Mikołajczyk](the-team.html#tomasz-mikołajczyk) PhD
+* [Tomasz Mikołajczyk](the-team.html#tomasz-mikołajczyk), PhD
 * Adam Rydelek, BSc
 * Anna Wróblewska, PhD
 
-
+<div class="masonry">
 ### Przemysław Biecek {-}
 
 <img src="images/przemek.jpg" >
@@ -392,11 +416,8 @@ GitHub: [arturzolkowski](https://github.com/arturzolkowski)
 
 LinkedIn: [azolkowski](https://www.linkedin.com/in/azolkowski/)
 
+</div>
 
-<script>
-document.body.classList.add("team-page")
-document.body.classList.add("two-columns")
-</script>
 ## Contact {-}
 
 Faculty of Mathematics and Information Science,

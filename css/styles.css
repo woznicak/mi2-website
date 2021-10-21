@@ -83,14 +83,6 @@ blockquote > p:first-child {
     .page-inner {
         margin: 0 20px;
     }
-
-    #beta-bit h2,
-    #software h2,
-    #papers h2,
-    #seminars h2,
-    #research-grants h2 {
-        margin-bottom: 60px;
-    }
 }
 img {
     margin-left: -1px;
@@ -342,26 +334,6 @@ img {
     text-indent: -5px;
     margin-right: 5px;
 }
-
-#beta-bit div,
-#software div,
-#papers div {
-    margin-bottom: 60px;
-}
-#beta-bit div a,
-#software div a,
-#papers div a {
-    margin-bottom: 20px;
-    font-size: 17px;
-}
-#beta-bit div p,
-#software div p,
-#papers div p {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    font-size: 14px;
-}
-
 
 @media (min-width: 900px) {
     .book .book-summary ul.summary li a:hover,

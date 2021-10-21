@@ -261,7 +261,7 @@ a:hover {
     }
 }
 a:hover:after {
-    margin-top: 1px;
+    margin-bottom: 3px;
     margin-left: 5px;
 }
 

@@ -257,7 +257,7 @@ a:hover:after {
     margin-left: 5px;
 }
 
-#contact iframe {
+iframe {
     margin-top: 50px;
     max-width: 100%;
 }
@@ -267,7 +267,7 @@ a:hover:after {
         padding-bottom: 100px;
     }
 
-    #contact iframe {
+    iframe {
         max-width: calc(100% + 50px);
     }
 }
@@ -469,8 +469,4 @@ body:not(.two-columns) #top-button-wrapper {
 
 .two-column-entry-text {
     width: 50%;
-}
-
-#beta-bit ul {
-    padding-left: 0;
 }

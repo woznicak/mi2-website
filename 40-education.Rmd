@@ -108,6 +108,7 @@ document.body.classList.add("teaching-page")
 
 <script>
 document.body.classList.add("two-columns")
+document.querySelector(".page-inner section > *:first-child").classList.add("two-columns-layout")
 </script>
 
 <div>

@@ -60,12 +60,12 @@ Grzegorz Juszczyk, Joanna Reszeć</p>
 <p><i>AAAI Conference on Artificial Intelligence (2021)</i></p>
 </div>
 
-<div class="software">
+<div>
 <img src="images/mini_dalex.png">
 <p><strong>Paper and package:</strong> <a href="http://dalex.drwhy.ai/">XAI with DALEX for R and Python</a></p>
 </div>
 
-<div class="software">
+<div>
 <img src="images/mini_fairmodels.png">
 <p>Package: <a href="https://modeloriented.github.io/fairmodels/">Fairness with fairmodels</a></p>
 </div>
@@ -77,12 +77,12 @@ Grzegorz Juszczyk, Joanna Reszeć</p>
 <p><i>arXiv preprint (2021)</i></p>
 </div>
 
-<div class="software">
+<div>
 <img src="images/mini_crs.png">
 <p>Software: <a href="https://crs19.pl/">COVID-19 Risk Score</a></p>
 </div>
 
-<div class="software">
+<div>
 <img src="images/mini_archivist.png">
 <p>Paper and package: <a href="https://github.com/pbiecek/archivist">Model governance with R (MLOps)</a></p>
 </div>
@@ -157,6 +157,7 @@ Materials from past seminars: https://github.com/mi2-warsaw/MI2DataLab_Seminariu
 
 <script>
 document.body.classList.add("research-grants-page")
+document.querySelector(".page-inner section > *:first-child").classList.add("research-grants-layout")
 </script>
 
 ### X-LUNGS 2021-2024 {-}

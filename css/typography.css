@@ -120,15 +120,9 @@ h1:before {
     letter-spacing: -0.03em;
 }
 
-#trainings > div:first-of-type > h3 {
-    margin-top: 0;
-}
-
-
 h4,
-#trainings h3,
-#teaching h3,
-#research-grants h3,
+.teaching-layout h3,
+.research-grants-layout h3,
 .book .book-body .page-wrapper .page-inner section.normal h4 {
     text-transform: uppercase;
     margin-top: 100px;
@@ -138,15 +132,26 @@ h4,
     letter-spacing: 0.2em;
     position: relative;
 }
+.book .book-body .page-wrapper .page-inner section.normal .teaching-layout script + div > h3:first-of-type {
+    margin-top: 0;
+}
 
-#research-grants h4 {
+.book .book-body .page-wrapper .page-inner section.normal .teaching-layout h3 {
+    margin-top: 100px;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal .teaching-layout h3 + p {
+    margin-top: 50px;
+}
+.book .book-body .page-wrapper .page-inner section.normal .teaching-layout h4,
+.book .book-body .page-wrapper .page-inner section.normal .research-grants-layout h4 {
     text-transform: unset;
     letter-spacing: -0.02em;
 }
 
 h4:after,
-#research-grants h3:after,
-#teaching h3:after {
+.research-grants-layout h3:after,
+.book .book-body .page-wrapper .page-inner section.normal .teaching-layout h3:after {
     content: "";
     width: 40px;
     height: 2px;
@@ -156,17 +161,17 @@ h4:after,
     left: 0;
 }
 
-#research-grants h3:after {
+.research-grants-layout h3:after {
     top: unset;
     bottom: -5px;
 }
 
-#teaching h4:after,
-#research-grants h4:after {
+.book .book-body .page-wrapper .page-inner section.normal .teaching-layout h4:after,
+.book .book-body .page-wrapper .page-inner section.normal .research-grants-layout h4:after {
     display: none;
 }
 
-#teaching h4 {
+.book .book-body .page-wrapper .page-inner section.normal .teaching-layout h4 {
     letter-spacing: -0.03em;
     text-transform: unset;
 }
@@ -186,7 +191,7 @@ h2 .search-highlight {
     background-color: #593DD8;
 }
 
-#teaching h4 {
+.book .book-body .page-wrapper .page-inner section.normal .teaching-layout h4 {
     margin-top: 60px !important;
 }
 
@@ -202,16 +207,9 @@ h2 .search-highlight {
         line-height: 30px;
     }
 
-    #trainings h3,
-    #teaching h3 {
+    .book .book-body .page-wrapper .page-inner section.normal .teaching-layout h3 {
         margin-top: 40px;
         margin-bottom: 40px;
-    }
-
-    #trainings h4,
-    #teaching h4 {
-        margin-bottom: 20px;
-        position: relative;
     }
 
     h1,
@@ -226,8 +224,8 @@ h2 .search-highlight {
     }
 
     h4,
-    #teaching h3,
-    #research-grants h3,
+    .book .book-body .page-wrapper .page-inner section.normal .teaching-layout h3,
+    .research-grants-layout h3,
     .book .book-body .page-wrapper .page-inner section.normal h4 {
         margin-top: 60px;
         font-size: 17px;

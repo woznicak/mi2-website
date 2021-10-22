@@ -7,7 +7,8 @@ We take social responsibility seriously and as part of our activities we support
 
 ## Teaching {-}
 <script>
-document.body.classList.add("teaching-page")
+  document.body.classList.add("teaching-page")
+  document.querySelector(".page-inner section > *:first-child").classList.add("teaching-layout")
 </script>
 
 ### Data Visualization 21/22 Winter {-}
@@ -107,8 +108,8 @@ document.body.classList.add("teaching-page")
 ## Beta Bit {-}
 
 <script>
-document.body.classList.add("beta-bit-page")
 document.body.classList.add("two-columns")
+document.querySelector(".page-inner section > *:first-child").classList.add("two-columns-layout")
 </script>
 
 <div>

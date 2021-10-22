@@ -442,13 +442,15 @@ body:not(.two-columns) #top-button-wrapper {
 
 .book-summary::-webkit-scrollbar,
 .book-summary *::-webkit-scrollbar,
-.summary::-webkit-scrollbar {
+.summary::-webkit-scrollbar,
+.body-inner::-webkit-scrollbar {
     display: none !important;
 }
 
 /* Hide scrollbar for IE, Edge and Firefox */
 .book-summary,
 .book-summary *,
+.body-inner,
 .summary {
     -ms-overflow-style: none !important; /* IE and Edge */
     scrollbar-width: none !important; /* Firefox */
@@ -477,9 +479,6 @@ body:not(.two-columns) #top-button-wrapper {
     width: calc(100% - 20px);
 }
 
-.book-body.fixed {
-    overflow-x: hidden !important;
-}
 
 @media (max-width: 900px) {
     .two-column-entry {

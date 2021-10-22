@@ -1,0 +1,103 @@
+
+.research-grants-layout .section {
+    position: relative;
+    margin-bottom: 100px;
+}
+
+   .book .book-body .page-wrapper .page-inner section.normal .research-grants-layout .section h3 {
+    margin-top: -8px;
+}
+.research-grants-layout img {
+    width: calc(100% + 2px);
+    height: var(--mobile-image-height)
+}
+
+@media (min-width: 768px) and (max-width: 899px) {
+       .book .book-body .page-wrapper .page-inner section.normal .research-grants-layout .section h3 {
+        margin-top: 0;
+        position: absolute;
+        left: 50%;
+    }
+
+    .research-grants-layout .figure img {
+        margin-bottom: 10px;
+    }
+    .research-grants-layout .figure .caption {
+        display: none;
+    }
+}
+
+@media (min-width: 899px) and (max-width: 1300px) {
+    .research-grants-layout br {
+        display: block;
+        margin: 20px;
+        height: 50px;
+        content: ''
+    }
+}
+
+@media (max-width: 767px) {
+       .book .book-body .page-wrapper .page-inner section.normal .research-grants-layout .section h3 {
+        margin-top: calc(var(--mobile-image-height) + 20px);
+        position: absolute;
+    }
+}
+
+@media (max-width: 899px) {
+    .research-grants-layout br {
+        display: none;
+    }
+
+    .research-grants-layout .section.level4 {
+        display: flex;
+        flex-direction: column;
+    }
+    .research-grants-layout .section.level4 > * {
+        order: 3
+    }
+
+    .research-grants-layout .section.level4 > *:nth-child(1) {
+        order: 2
+    }
+
+    .research-grants-layout .section.level4 > *:nth-child(2) {
+        order: 1
+    }
+}
+
+@media (min-width: 900px) {
+    .book .book-body .page-wrapper .page-inner section.normal .research-grants-layout h4  {
+        font-size: 20px;
+        max-width: 50%;
+        margin-left: 50%;
+        margin-top: 70px;
+        position: absolute !important;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 899px) {
+    .book .book-body .page-wrapper .page-inner section.normal .research-grants-layout h4 {
+        margin: 10px 0 30px;
+    }
+}
+
+@media (min-width: 900px) {
+    .book .book-body .page-wrapper .page-inner section.normal .research-grants-layout .section h3 {
+        margin-top: 0 !important;
+        max-width: 50%;
+        margin-left: 50%;
+        position: absolute !important;
+    }
+}
+
+.research-grants-layout h4 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+@media (min-width: 600px) and (max-width: 767px) {
+    .research-grants-layout h4 {
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }
+}

@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+/tools/node_modules/
+/tools/cypress/snapshots/**/__diff_output__/

@@ -8,18 +8,24 @@ We take care of the whole life cycle of the predictive models, from reproducibil
 
 We audit models and analyse the sensitivity and vulnerability of the model to incorrect or unexpected behaviours.
 
-We conduct trainings for data-science teams interested in the latest results in the area of responsible predictive modelling. 
+We conduct trainings for data-science teams interested in the latest results in the area of responsible predictive modelling.
 
 
 ## Solutions  {-}
 
-Need support with fairness and XAI analysis of your models? 
+Need support with fairness and XAI analysis of your models?
 
 Contact us!
 
 ## Trainings {-}
 
-#### DALEX for R: Explanation and exploration of machine learning models with R and DALEX {-}
+<script>
+    document.body.classList.add("research-grants-page")
+    document.querySelector(".page-inner section > *:first-child").classList.add("research-grants-layout")
+</script>
+
+### DALEX for R {-}
+#### Explanation and exploration of machine learning models with R and DALEX {-}
 
 ![images/training_xai](images/training_xai.png)
 
@@ -27,8 +33,8 @@ A brief introduction to tools for local and global explanations of predictive mo
 
 Find more materials here: https://github.com/pbiecek/XAIatERUM2020
 
-
-#### Fairmodels: Explaining and Checking Fairness for Predictive Models {-}
+### Fairmodels {-}
+#### Explaining and Checking Fairness for Predictive Models {-}
 
 ![images/training_fairness](images/training_fairness.png)
 

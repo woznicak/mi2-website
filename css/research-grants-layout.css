@@ -67,6 +67,7 @@
 
 @media (min-width: 900px) {
     .book .book-body .page-wrapper .page-inner section.normal .research-grants-layout h4  {
+        font-size: 20px;
         max-width: 50%;
         margin-left: 50%;
         margin-top: 70px;
@@ -82,7 +83,7 @@
 
 @media (min-width: 900px) {
     .book .book-body .page-wrapper .page-inner section.normal .research-grants-layout .section h3 {
-        margin-top: 0;
+        margin-top: 0 !important;
         max-width: 50%;
         margin-left: 50%;
         position: absolute !important;

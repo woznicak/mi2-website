@@ -7,23 +7,23 @@ There are a few layouts available. Applying any non-default layout to a new page
 * [Default](#default)
 * [Two Columns](#two-columns)
 * [Research Grants](#research-grants)
-* [Trainigs](#trainigs)
 * [Teaching](#teaching)
+* [Seaminars](#seminars)
 * [Team](#Team)
 
 ___
 
 #### Default
 
-Follows the home page layout. Suitable for long blocks of text; enlarges the first paragraph a little. 
-  Reusing this layout does not require adding any snippets to markdown.
+Follows the home page layout. Suitable for long blocks of text. Reusing this layout does not require adding any snippets to markdown.
 
 #### Two Columns
 
-- two-columns-layout - used to display a list with images and descriptions, as in papers or books pages.
+Use to display a list with images and descriptions, as in papers or books pages.
+
 Snippet to add to a new page:
 ```mdxjs
-## PAGE TITLE GOES HERE {-}
+## __PAGE_TITLE__ {-}
 
 <script>
   document.body.classList.add("two-columns")
@@ -46,12 +46,56 @@ Each section should match the following pattern:
 </div>
 ```
 #### Research Grants
-- TODO
-#### Trainigs
-- TODO
-#### Teaching
-- TODO
 
+Snippet to add to a new page:
+
+```mdxjs
+## __PAGE_TITLE__ {-}
+
+<script>
+    document.body.classList.add("research-grants-page")
+    document.querySelector(".page-inner section > *:first-child").classList.add("research-grants-layout")
+</script>
+```
+Each section should match the following pattern:
+
+```mdx
+### __TITLE__ {-}
+#### __SUBTITLE__ {-}
+
+![](__IMAGE_URL__)
+
+__CONTENT__
+```
+
+#### Teaching
+Snippet to add to a new page:
+```mdxjs
+## __PAGE_TITLE__ {-}
+
+<script>
+      document.body.classList.add("teaching-page")
+      document.querySelector(".page-inner section > *:first-child").classList.add("teaching-layout")
+</script>
+```
+#### Seminars
+
+This simple layout does not require adding any snippets, but needs to follow the below pattern for the topmost 
+content with the image (note the **lack of indentation**):
+
+```mdxjs
+<div class="two-column-entry">
+<div class="two-column-entry-image">
+<img src="__IMAGE_URL__">
+</div>
+<div class="two-column-entry-text">
+__TEXT_CONTENT_NEXT_TO_IMAGE__
+</div>
+</div>
+
+__OTPIONAL_FOLLOWING_MARKDOWN_CONTENT__
+
+```
 #### Team
 This one is complicated, and it is not recommended to create a new page based on it. 
 

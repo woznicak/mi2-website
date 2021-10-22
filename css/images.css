@@ -4,6 +4,10 @@
     margin-bottom: 20px;
 }
 
+.research-grants-layout h3 + .figure + p {
+    padding-top: 20px;
+}
+
 .research-grants-layout div img,
 .two-columns-layout div img {
     width: 100%;
@@ -13,14 +17,6 @@
     object-position: top;
 }
 
-#trainings div img {
-    margin-bottom: 0;
-}
-
-#trainings div img {
-    font-size: 20px;
-}
-
 @media (max-width: 600px) {
     .research-grants-layout div img,
     .two-columns-layout  div img  {
@@ -28,7 +24,6 @@
     }
 }
 @media (min-width: 600px) and (max-width: 899px) {
-    #trainings div img,
     .research-grants-layout div img,
     .two-columns-layout div img   {
         display: flex;
@@ -42,7 +37,6 @@
 }
 
 @media (min-width: 900px) {
-    #trainings img,
     .book .book-body .page-wrapper .page-inner section.normal .research-grants-layout div img {
         width: 400px;
         height: 200px;

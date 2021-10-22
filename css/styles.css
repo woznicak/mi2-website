@@ -311,11 +311,11 @@ img {
 }
 
 
-#teaching ul {
+.teaching-layout ul {
     padding-left: 0;
 }
 
-#teaching h2 + .section.level3 h3 {
+.teaching-layout h2 + .section.level3 h3 {
     margin-top: 0;
 }
 
@@ -374,6 +374,7 @@ body:not(.two-columns) #top-button-wrapper {
 @media (max-width: 899px) {
     #top-button-wrapper {
         margin-top: 100px !important;
+        margin-bottom: 50px !important;
         width: calc(100% - 2px) !important;
     }
 }
@@ -382,7 +383,7 @@ body:not(.two-columns) #top-button-wrapper {
     width: calc(100% + 51px);
 }
 
-#teaching h3:first-of-type {
+.teaching-layout h3:first-of-type {
     margin-top: 0;
 }
 ::-webkit-scrollbar {
@@ -443,7 +444,7 @@ body:not(.two-columns) #top-button-wrapper {
     }
 
     .two-column-entry-image {
-        width: 100% !important;
+        width: calc(100% + 2px) !important;
         padding: 0 !important;
     }
 

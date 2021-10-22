@@ -1,0 +1,45 @@
+#seminars img {
+    width: calc(50% - 50px);
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
+
+.research-grants-layout h3 + .figure + p {
+    padding-top: 20px;
+}
+
+.research-grants-layout div img,
+.two-columns-layout div img {
+    width: 100%;
+    height: 225px;
+    margin-bottom: 30px;
+    object-fit: cover;
+    object-position: top;
+}
+
+@media (max-width: 600px) {
+    .research-grants-layout div img,
+    .two-columns-layout  div img  {
+        width: calc(100% + 2px);
+    }
+}
+@media (min-width: 600px) and (max-width: 899px) {
+    .research-grants-layout div img,
+    .two-columns-layout div img   {
+        display: flex;
+        flex-direction: column;
+        width: calc(50vw - var(--mobile-margins));
+    }
+
+    .research-grants-layout div img {
+        width: calc(50% - 40px);
+    }
+}
+
+@media (min-width: 900px) {
+    .book .book-body .page-wrapper .page-inner section.normal .research-grants-layout div img {
+        width: 400px;
+        height: 200px;
+        max-width: calc(50% - 50px);
+    }
+}

@@ -1,3 +1,7 @@
+h1.title {
+    display: none;
+}
+
 p.caption {
     color: transparent;
     margin-top: 10px;
@@ -6,10 +10,6 @@ p.caption {
 .book .book-summary ul.summary li a:hover,
 .book .book-summary ul.summary li.active > a {
     color: unset
-}
-
-a[href^=the-team] + ul {
-    display: none;
 }
 
 .divider {
@@ -47,11 +47,6 @@ blockquote > p:first-child {
     text-align: inherit;
 }
 
-a[href^=the-team] + ul {
-    display: none !important;
-    height: 0 !important;
-    overflow: hidden;
-}
 *,
 .book .book-summary {
     background: transparent;
@@ -87,14 +82,6 @@ a[href^=the-team] + ul {
 
     .page-inner {
         margin: 0 20px;
-    }
-
-    #beta-bit h2,
-    #software h2,
-    #papers h2,
-    #seminars h2,
-    #research-grants h2 {
-        margin-bottom: 60px;
     }
 }
 img {
@@ -266,11 +253,11 @@ a:hover {
     }
 }
 a:hover:after {
-    margin-top: 1px;
+    margin-bottom: 3px;
     margin-left: 5px;
 }
 
-#contact iframe {
+iframe {
     margin-top: 50px;
     max-width: 100%;
 }
@@ -280,7 +267,7 @@ a:hover:after {
         padding-bottom: 100px;
     }
 
-    #contact iframe {
+    iframe {
         max-width: calc(100% + 50px);
     }
 }
@@ -324,11 +311,11 @@ img {
 }
 
 
-#teaching ul {
+.teaching-layout ul {
     padding-left: 0;
 }
 
-#teaching h2 + .section.level3 h3 {
+.teaching-layout h2 + .section.level3 h3 {
     margin-top: 0;
 }
 
@@ -348,51 +335,10 @@ img {
     margin-right: 5px;
 }
 
-#beta-bit div,
-#software div,
-#papers div {
-    margin-bottom: 60px;
-}
-#beta-bit div a,
-#software div a,
-#papers div a {
-    margin-bottom: 20px;
-    font-size: 17px;
-}
-#beta-bit div p,
-#software div p,
-#papers div p {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    font-size: 14px;
-}
-
-
 @media (min-width: 900px) {
     .book .book-summary ul.summary li a:hover,
     .book .book-summary ul.summary li.active > a {
         color: var(--link-color)
-    }
-
-    #beta-bit div a,
-    #software div a,
-    #papers div a {
-        font-size: 20px;
-    }
-    #beta-bit div p,
-    #software div p,
-    #papers div p {
-        font-size: 16px;
-    }
-    #beta-bit div,
-    #software div,
-    #papers div {
-        margin-bottom: 100px;
-    }
-    #beta-bit > *:not(h2),
-    #software > *:not(h2),
-    #papers > *:not(h2) {
-        padding-right: 50px;
     }
 }
 @media (max-width: 1240px) {
@@ -413,6 +359,10 @@ img {
     justify-content: center;
 }
 
+#top-button {
+    transition: .3s;
+}
+
 body:not(.two-columns) #top-button-wrapper {
     width: calc(100% - 2px + 50px);
 }
@@ -424,6 +374,7 @@ body:not(.two-columns) #top-button-wrapper {
 @media (max-width: 899px) {
     #top-button-wrapper {
         margin-top: 100px !important;
+        margin-bottom: 50px !important;
         width: calc(100% - 2px) !important;
     }
 }
@@ -432,7 +383,7 @@ body:not(.two-columns) #top-button-wrapper {
     width: calc(100% + 51px);
 }
 
-#teaching h3:first-of-type {
+.teaching-layout h3:first-of-type {
     margin-top: 0;
 }
 ::-webkit-scrollbar {
@@ -493,7 +444,7 @@ body:not(.two-columns) #top-button-wrapper {
     }
 
     .two-column-entry-image {
-        width: 100% !important;
+        width: calc(100% + 2px) !important;
         padding: 0 !important;
     }
 
@@ -519,8 +470,4 @@ body:not(.two-columns) #top-button-wrapper {
 
 .two-column-entry-text {
     width: 50%;
-}
-
-#beta-bit ul {
-    padding-left: 0;
 }

@@ -1,0 +1,76 @@
+.two-columns-layout ul {
+    padding-left: 0;
+}
+.two-columns-layout h2 {
+    grid-column: span 2;
+}
+
+.two-columns-layout div {
+    margin-bottom: 60px;
+}
+
+.two-columns-layout img + a,
+.two-columns-layout img + p {
+    font-size: 17px;
+}
+
+.two-columns-layout img + a {
+    display: block;
+}
+.two-columns-layout div a {
+    margin-bottom: 20px;
+}
+
+.two-columns-layout div a:after {
+    bottom: 17px;
+}
+
+.two-columns-layout div p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.two-columns-layout  div p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.two-columns-layout div i {
+    font-size: 13px;
+}
+
+@media (max-width: 899px) {
+    .two-columns-layout h2 {
+        margin-bottom: 60px !important;
+    }
+}
+
+@media (min-width: 600px) {
+    .two-columns-layout > div {
+        margin-right: 40px;
+    }
+
+    .two-columns-layout img + p,
+    .two-columns-layout div a {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 900px) {
+    .two-columns-layout img + p,
+    .two-columns-layout div a {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .two-columns-layout p {
+        font-size: 16px;
+    }
+    .two-columns-layout  div {
+        margin-bottom: 100px;
+    }
+    .two-columns-layout > div {
+        margin-right: 50px;
+    }
+}

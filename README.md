@@ -1,1 +1,2 @@
-# test-mi2-website
+# MI² website
+

@@ -15,7 +15,7 @@ We take social responsibility seriously and as part of our activities we support
 
 [Data Visualization Techniques](https://github.com/mini-pw/2022Z-DataVisualizationTechniques) for Data Science studies
 
-- lectures, labs, project - Anna Kozak
+- lectures, labs, projects - Anna Kozak
 - labs, projects - Hubert Baniecki
 
 ### Exploratory Data Analysis 20/21 Summer {-}

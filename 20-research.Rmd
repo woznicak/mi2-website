@@ -1,4 +1,4 @@
-# MI²Research  {-}
+# MI² Research  {-}
 
 On a mission to responsibly build <br/>machine learning predictive models.
 

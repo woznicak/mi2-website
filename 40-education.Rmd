@@ -1,4 +1,4 @@
-# MI²Education {-}
+# MI² Education {-}
 
 The demand for predictive modelling skills is growing at a furious rate. Part of our mission is to develop human capital so that predictive modelling is applied responsibly and safely.
 

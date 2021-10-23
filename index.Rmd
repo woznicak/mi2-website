@@ -19,7 +19,7 @@ options(
 output <- knitr::opts_knit$get("rmarkdown.pandoc.to")
 is.html = !is.null(output) && output == "html"
 ```
-# MI² DataLab {-}
+# MI²DataLab {-}
 <script>
 document.body.classList.add("index-page")
 </script>

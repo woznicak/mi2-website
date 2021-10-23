@@ -166,6 +166,7 @@ Hubert Baniecki, Wojciech Kretowicz, Piotr Piątyszek, Jakub Wiśniewski, Przemy
 <p>
 <i>Journal of Machine Learning Research (2021)</i>
 </p>
+<p>We introduce dalex, a Python package which implements a model-agnostic interface for interactive explainability and fairness. It adopts the design crafted through the development of various tools for explainable machine learning; thus, it aims at the unification of existing solutions. This library’s source code and documentation are available under open license at <a href="https://python.drwhy.ai" class="uri">https://python.drwhy.ai</a>.</p>
 </div>
 <div>
 <img src="images/checklist.png">
@@ -178,6 +179,30 @@ Przemysław Biecek
 <p>
 <i>Pattern Recognition (2021)</i>
 </p>
+<p>Our analysis revealed numerous mistakes made at different stages of data acquisition, model development, and explanation construction. In this work, we overview the approaches proposed in the surveyed Machine Learning articles and indicate typical errors emerging from the lack of deep understanding of the radiography domain. The final result is a proposed checklist with the minimum conditions to be met by a reliable COVID-19 diagnostic model.</p>
+</div>
+<div>
+<img src="images/xai_metalearning.png">
+<a href="https://arxiv.org/abs/2002.04276">Towards explainable meta-learning</a>
+<p>
+Katarzyna Woźnica, Przemyslaw Biecek
+</p>
+<p>
+<i>XKDD Workshop ECML (2021)</i>
+</p>
+<p>To build a new generation of meta-models we need a deeper understanding of the importance and effect of meta-features on the model tunability. In this paper, we propose techniques developed for eXplainable Artificial Intelligence (XAI) to examine and extract knowledge from black-box surrogate models. To our knowledge, this is the first paper that shows how post-hoc explainability can be used to improve the meta-learning.</p>
+</div>
+<div>
+<img src="images/prevention_is_better.png">
+<a href="https://drive.google.com/file/d/1-B5T3FCAHzDJbOaPtBnf5l9NnK-yhJtZ/view">Prevention is better than cure: a
+case study of the abnormalities detection in the chest</a>
+<p>
+Weronika Hryniewska, Piotr Czarnecki, Jakub Wiśniewski, Przemysław Bombiński, Przemysław Biecek
+</p>
+<p>
+<i>“Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision” CVPR Workshop (2021)</i>
+</p>
+<p>In this paper, we analyze in detail a single use case - a Kaggle competition related to the detection of abnormalities in X-ray lung images. We demonstrate how a series of simple tests for data imbalance exposes faults in the data acquisition and annotation process. Complex models are able to learn such artifacts and it is difficult to remove this bias during or after the training.</p>
 </div>
 <div>
 <img src="images/safe.png">
@@ -190,6 +215,7 @@ Alicja Gosiewska, Anna Kozak, Przemysław Biecek
 <p>
 <i>Decision Support Systems (2021)</i>
 </p>
+<p>We propose a framework that uses elastic black boxes as supervisor models to create simpler, less opaque, yet still accurate and interpretable glass box models. The new models were created using newly engineered features extracted with the help of a supervisor model. We supply the analysis using a large-scale benchmark on several tabular data sets from the OpenML database.</p>
 </div>
 <div>
 <img src="images/sarscov2.png">
@@ -204,6 +230,7 @@ Grzegorz Juszczyk, Joanna Reszeć
 <p>
 <i>Advances in Medical Sciences (2021)</i>
 </p>
+<p>This study shows the first confirmed case of SARS-CoV-2 in Poland with the lineage B.1.351 (known as 501Y.V2 South African variant), as well as another 18 cases with epidemiologically relevant lineage B.1.1.7, known as British variant.</p>
 </div>
 <div>
 <img src="images/responsiblecovid.png">
@@ -215,61 +242,7 @@ Hubert Baniecki, Przemyslaw Biecek
 <p>
 <i>AAAI Conference on Artificial Intelligence (2021)</i>
 </p>
-</div>
-<div>
-<img src="images/mini_dalex.png">
-<p>
-<strong>Paper and package:</strong> <a href="http://dalex.drwhy.ai/">XAI with DALEX for R and Python</a>
-</p>
-</div>
-<div>
-<img src="images/mini_fairmodels.png">
-<p>
-Package: <a href="https://modeloriented.github.io/fairmodels/">Fairness with fairmodels</a>
-</p>
-</div>
-<div>
-<img src="images/mini_lungs.png">
-<a href="http://xai-tools.drwhy.ai/">Landscape of R packages for XAI</a>
-<p>
-Szymon Maksymiuk, Alicja Gosiewska, Przemyslaw Biecek
-</p>
-<p>
-<i>arXiv preprint (2021)</i>
-</p>
-</div>
-<div>
-<img src="images/mini_crs.png">
-<p>
-Software: <a href="https://crs19.pl/">COVID-19 Risk Score</a>
-</p>
-</div>
-<div>
-<img src="images/mini_archivist.png">
-<p>
-Paper and package: <a href="https://github.com/pbiecek/archivist">Model governance with R (MLOps)</a>
-</p>
-</div>
-<div>
-<img src="images/prevention_is_better.png">
-<a href="https://drive.google.com/file/d/1-B5T3FCAHzDJbOaPtBnf5l9NnK-yhJtZ/view">Prevention is better than cure: a
-case study of the abnormalities detection in the chest</a>
-<p>
-Weronika Hryniewska, Piotr Czarnecki, Jakub Wiśniewski, Przemysław Bombiński, Przemysław Biecek
-</p>
-<p>
-<i>“Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision” CVPR Workshop (2021)</i>
-</p>
-</div>
-<div>
-<img src="images/xai_metalearning.png">
-<a href="https://kdd.isti.cnr.it/xkdd2021/">Towards explainable meta-learning</a>
-<p>
-Katarzyna Woźnica, Przemyslaw Biecek
-</p>
-<p>
-<i>XKDD Workshop ECML (2021)</i>
-</p>
+<p>During the literature review of COVID-19 related prognosis and diagnosis, we found out that most of the predictive models are not faithful to the RAI principles, which can lead to biassed results and wrong reasoning. To solve this problem, we show how novel XAI techniques boost transparency, reproducibility and quality of models.</p>
 </div>
 <div>
 <img src="images/mini_fairmodels.png">
@@ -280,6 +253,18 @@ Jakub Wiśniewski, Przemyslaw Biecek
 <p>
 <i>arXiv preprint (2021)</i>
 </p>
+<p>This article introduces an R package fairmodels that helps to validate fairness and eliminate bias in classification models in an easy and flexible fashion. The fairmodels package offers a model-agnostic approach to bias detection, visualization and mitigation. The implemented set of functions and fairness metrics enables model fairness validation from different perspectives. The package includes a series of methods for bias mitigation that aim to diminish the discrimination in the model.</p>
+</div>
+<div>
+<img src="images/mini_archivist.png">
+<a href="https://github.com/pbiecek/archivist">archivist: An R Package for Managing, Recording and Restoring Data Analysis Results</a>
+<p>
+Przemyslaw Biecek, Marcin Kosiński
+</p>
+<p>
+<i>Journal of Statistical Software (2017)</i>
+</p>
+<p>Everything that exists in R is an object (Chambers 2016). This article examines what would be possible if we kept copies of all R objects that have ever been created. Not only objects but also their properties, meta-data, relations with other objects and information about context in which they were created. We introduce archivist, an R package designed to improve the management of results of data analysis.</p>
 </div>
 </div>
 <a href ="/" class="mobile-logo"><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M28.6799 1.36802V28.68H1.31982V1.32004H28.6799V1.36802ZM30 0H0V30H30V0Z" fill="black"/><path d="M21.6357 21.0469V9.04688H22.9556V21.0469H21.6357Z" fill="black"/><path d="M18.5639 9.04688V21.0469H17.2439V11.0629L13.4039 21.0469H12.2039L8.36395 11.0629V21.0469H7.04395V9.04688H8.95195L12.8039 19.0789L16.6559 9.04688H18.5639Z" fill="black"/></svg></a>

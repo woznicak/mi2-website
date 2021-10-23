@@ -1,23 +1,28 @@
 # MI² Solutions  {-}
 
+The methods we work on are based on principles of open science. And are available to everyone
+
+The tools we develop are created in the spirit of open software. And are available to everyone
+
+If you need tailor-made solutions for your individual needs, we are happy to help you too. Contact us, we can develop software for you, deploy it, provide training, discuss your needs, verify the quality of your existing solutions.
+
+Below you will find a sample offer for trainings or deployments.
+
+## Solutions  {-}
+
 Our team has experience not only in groundbreaking research, but also in deploying these research into business.
 
-We perform champion-challenger evaluations in which we look for potential to increase the effectiveness of predictive models in your company.
+We help in delivery of champion-challenger evaluations in which we look for potential to increase the effectiveness of predictive models in your company.
 
 We take care of the whole life cycle of the predictive models, from reproducibility of results to constant monitoring and continuous improvement of the model.
 
 We audit models and analyse the sensitivity and vulnerability of the model to incorrect or unexpected behaviours.
 
-We conduct trainings for data-science teams interested in the latest results in the area of responsible predictive modelling.
-
-
-## Solutions  {-}
-
-Need support with fairness and XAI analysis of your models?
-
-Contact us!
+We would be happy to discuss how we could help with your organisation!
 
 ## Trainings {-}
+
+We conduct trainings for data-science teams interested in the latest results in the area of responsible predictive modelling.
 
 <script>
     document.body.classList.add("research-grants-page")

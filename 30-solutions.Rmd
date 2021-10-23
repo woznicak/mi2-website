@@ -12,11 +12,11 @@ Below you will find a sample offer for trainings or deployments.
 
 Our team has experience not only in groundbreaking research, but also in deploying these research into business.
 
-We help in delivery of champion-challenger evaluations in which we look for potential to increase the effectiveness of predictive models in your company.
+There are many ways we can help, for example
 
-We take care of the whole life cycle of the predictive models, from reproducibility of results to constant monitoring and continuous improvement of the model.
-
-We audit models and analyse the sensitivity and vulnerability of the model to incorrect or unexpected behaviours.
+- help in delivery of champion-challenger evaluations in which we look for potential to increase the effectiveness of predictive models in your company.
+- take care of the whole life cycle of the predictive models, from reproducibility of results to constant monitoring and continuous improvement of the model.
+- audit models and analyse the sensitivity and vulnerability of the model to incorrect or unexpected behaviours.
 
 We would be happy to discuss how we could help with your organisation!
 
@@ -31,6 +31,15 @@ We conduct trainings for data-science teams interested in the latest results in 
     document.body.classList.add("research-grants-page")
     document.querySelector(".page-inner section > *:first-child").classList.add("research-grants-layout")
 </script>
+
+### DALEX for R {-}
+#### Explanation and exploration of machine learning models with R and DALEX {-}
+
+![images/workshop_user2021](images/workshop_user2021.png)
+
+How to perform responsible modeling from the concept to delivery? A brief overview of DALEXverse, learn new tools and methods for responsible predictive models.
+
+Find more materials here: https://github.com/MI2DataLab/ResponsibleML-UseR2021
 
 ### DALEX for R {-}
 #### Explanation and exploration of machine learning models with R and DALEX {-}

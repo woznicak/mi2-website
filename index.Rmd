@@ -27,7 +27,7 @@ document.body.classList.add("index-page")
 MI² is a group of mathematicians and computer scientists that love to play with data.
 We are spread between [Warsaw University of Technology](https://www.pw.edu.pl/) and [University of Warsaw](http://uw.edu.pl/).
 
-Data Lab is our creative space, place in which we have workshops, seminars and some experiments. Feel free to jump in. Here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude.
+DataLab is our creative space, place in which we have workshops, seminars and some experiments. Feel free to jump in. Here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude.
 
 #### Mission {-}
 

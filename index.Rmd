@@ -73,13 +73,14 @@ document.body.classList.add("two-columns")
 
 * [Przemysław Biecek](the-team.html#przemysław-biecek), PhD (Team Leader)
 * [Hubert Baniecki](the-team.html#hubert-baniecki), MSc student
-* Piotr Czarnecki, PhD student
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
 * [Anna Kozak](the-team.html#anna-kozak), MSc
+* [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), BSc student
 * [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
 * [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD student
+* [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
 * [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), BSc student
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
@@ -90,6 +91,7 @@ document.body.classList.add("two-columns")
 #### Collaborators {-}
 
 * Przemysław Bombiński, PhD, MD
+* Piotr Czarnecki, PhD student
 * Katarzyna Kobylińska, PhD student
 * Marcin Luckner, PhD
 * Stanisław Łaniewski, PhD student
@@ -105,9 +107,7 @@ document.body.classList.add("two-columns")
 
 * Adrianna Grudzień, BSc student
 * [Mateusz Grzyb](the-team.html#mateusz-grzyb), BSc student
-* [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * [Maria Kałuska](the-team.html#maria-kałuska), BSc student
-* [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), BSc student
 * [Hubert Ruczyński](the-team.html#hubert-ruczyński), BSc student
 * [Bartosz Sawicki](the-team.html#bartosz-sawicki), BSc student
 * [Szymon Szmajdziński](the-team.html#szymon-szmajdziński), BSc student
@@ -131,9 +131,9 @@ document.body.classList.add("two-columns")
 
 <img src="images/przemek.jpg" >
 
-Associate professor at [Warsaw University of Technology](http://www.mini.pw.edu.pl/) and the [University of Warsaw](https://www.mimuw.edu.pl/). Interested in model visualisation, explanatory model analysis, predictive modelling and data science for healthcare. Graduated in software engineering and mathematical statistics. In 2016, he formed the research group MI² which develops methods and tools for predictive model analysis.
+My personal mission is to enhance human capabilities by supporting them through access to data-driven and knowledge-based predictions. I execute it by developing methods and tools for responsible machine learning, trustworthy artificial intelligence and reliable software engineering.
 
-Research visits: University of California, Davis (2018, USA), Nanyang Technological University (2018, Singapore), Auckland University (2014, 2015, New Zeland), Hasselt University (2010, 2011, 2017, Belgium), Toronto University (2007, Canada), OECD (2013, France), Vienna University (2004, 2005, Austria), Purdue University (2004, USA).
+I work as an associate professor at [Warsaw University of Technology](http://www.mini.pw.edu.pl/) and the [University of Warsaw](https://www.mimuw.edu.pl/). I graduated in software engineering and mathematical statistics and now work on model visualisation, explanatory model analysis, predictive modelling and data science for healthcare.  In 2016, I formed the research group MI² which develops methods and tools for predictive model analysis.
 
 Google Scholar: [Af0O75cAAAAJ](https://scholar.google.pl/citations?user=Af0O75cAAAAJ)
 
@@ -168,23 +168,9 @@ GitHub: [Gizzio](https://github.com/Gizzio)
 LinkedIn: [stanislaw-gizinski](https://www.linkedin.com/in/stanislaw-gizinski/)
 
 
-### Alicja Gosiewska {-}
-
-<img src="images/alicja_gosiewska.jpg" >
-
-PhD student in Computer Science at Warsaw University of Technology, holds a Master’s degree in Mathematics. Interested in Machine Learning benchmarks and eXplainable Artificial Intelligence for tabular data.
-
-Google Scholar: [YiwwR6EAAAAJ](https://scholar.google.pl/citations?user=YiwwR6EAAAAJ&hl=pl)
-
-GitHub: [agosiewska](https://github.com/agosiewska)
-
-LinkedIn: [alicja-gosiewska](https://www.linkedin.com/in/alicja-gosiewska/)
-
-
 ### Weronika Hryniewska{-}
 
 <img src="images/whryniewska.png" >
-
 
 PhD candidate in computer science at Warsaw University of Technology. Interested in deep learning modelling on medical images in the context of explainability and responsible AI.
 
@@ -206,6 +192,26 @@ Google Scholar: [JIrqf9kAAAAJ](https://scholar.google.pl/citations?user=JIrqf9kA
 GitHub: [kozaka93](https://github.com/kozaka93)
 
 LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna)
+
+### Mateusz Krzyziński {-}
+
+<img src="images/krzyzinskim.jpg" >
+
+BSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, machine learning on graphs and data visualization.
+
+Google Scholar: [i_r7EUgAAAAJ](https://scholar.google.com/citations?user=i_r7EUgAAAAJ)
+
+GitHub: [krzyzinskim](https://github.com/krzyzinskim)
+
+LinkedIn: [krzyzinskim](https://www.linkedin.com/in/krzyzinskim/)
+
+### Piotr Piątyszek {-}
+
+<img src="images/piotr_piatyszek.jpg" >
+
+Undergraduate Data Science student at Warsaw University of Technology. Works as a research software engineer on enhancing accessibility and completeness of explainable AI. During pandemic contributes to a system of monitoring covid variants.
+
+Github: [piotrpiatyszek](https://github.com/piotrpiatyszek)
 
 
 ### Barbara Rychalska {-}
@@ -243,6 +249,17 @@ Google Scholar: [eO245iMAAAAJ](https://scholar.google.com/citations?user=eO245iM
 LinkedIn: [paulina-tomaszewska](https://www.linkedin.com/in/paulina-tomaszewska-2a8517109/)
 
 
+### Hoang Thien Ly {-}
+
+<img src="images/lhthien.jpeg" >
+
+Pursuing B.S Degree in Mathematics and Data Analysis at Warsaw University of Technology. Interested in working with data, and learning Machine Learning methods.
+
+GitHub: [lhthien09](https://github.com/lhthien09)
+
+LinkedIn: [hthienly](https://www.linkedin.com/in/hthienly/)
+
+
 ### Jakub Wiśniewski {-}
 
 <img src="images/jakwisn.jpg" >
@@ -255,14 +272,6 @@ GitHub: [jakwisn](https://github.com/jakwisn)
 
 LinkedIn: [jakwisn](https://www.linkedin.com/in/jakwisn)
 
-
-### Piotr Piątyszek {-}
-
-<img src="images/piotr_piatyszek.jpg" >
-
-Undergraduate Data Science student at Warsaw University of Technology. Works as a research software engineer on enhancing accessibility and completeness of explainable AI. During pandemic contributes to a system of monitoring covid variants.
-
-Github: [piotrpiatyszek](https://github.com/piotrpiatyszek)
 
 
 ### Katarzyna Woźnica {-}
@@ -289,16 +298,6 @@ GitHub: [HaZdula](https://github.com/hazdula)
 LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/)
 
 
-### Tomasz Mikołajczyk {-}
-
-<img src="images/tomekm.jpg" >
-
-PhD in social sciences, but in recent years has devoted himself to the area of data analysis and visualization. He is interested in the development of the area of explainable artificial intelligence.
-
-GitHub: [tmikolajczyk](https://github.com/tmikolajczyk)
-
-LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds)
-
 
 ### Hanna Piotrowska {-}
 
@@ -321,29 +320,6 @@ A BSc Data Science student at Warsaw University of Technology. Interested in art
 
 GitHub: [PlentyCoups](https://github.com/PlentyCoups)
 
-
-### Hoang Thien Ly {-}
-
-<img src="images/lhthien.jpeg" >
-
-Pursuing B.S Degree in Mathematics and Data Analysis at Warsaw University of Technology. Interested in working with data, and learning Machine Learning methods.
-
-GitHub: [lhthien09](https://github.com/lhthien09)
-
-LinkedIn: [hthienly](https://www.linkedin.com/in/hthienly/)
-
-
-### Mateusz Krzyziński {-}
-
-<img src="images/krzyzinskim.jpg" >
-
-BSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, machine learning on graphs and data visualization.
-
-Google Scholar: [i_r7EUgAAAAJ](https://scholar.google.com/citations?user=i_r7EUgAAAAJ)
-
-GitHub: [krzyzinskim](https://github.com/krzyzinskim)
-
-LinkedIn: [krzyzinskim](https://www.linkedin.com/in/krzyzinskim/)
 
 
 ### Bartosz Sawicki {-}
@@ -415,6 +391,32 @@ Bachelor Data Science student at Warsaw University of Technology. Interested in 
 GitHub: [arturzolkowski](https://github.com/arturzolkowski)
 
 LinkedIn: [azolkowski](https://www.linkedin.com/in/azolkowski/)
+
+### Alicja Gosiewska {-}
+
+<img src="images/alicja_gosiewska.jpg" >
+
+PhD student in Computer Science at Warsaw University of Technology, holds a Master’s degree in Mathematics. Interested in Machine Learning benchmarks and eXplainable Artificial Intelligence for tabular data.
+
+Google Scholar: [YiwwR6EAAAAJ](https://scholar.google.pl/citations?user=YiwwR6EAAAAJ&hl=pl)
+
+GitHub: [agosiewska](https://github.com/agosiewska)
+
+LinkedIn: [alicja-gosiewska](https://www.linkedin.com/in/alicja-gosiewska/)
+
+
+### Tomasz Mikołajczyk {-}
+
+<img src="images/tomekm.jpg" >
+
+PhD in social sciences, but in recent years has devoted himself to the area of data analysis and visualization. He is interested in the development of the area of explainable artificial intelligence.
+
+GitHub: [tmikolajczyk](https://github.com/tmikolajczyk)
+
+LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds)
+
+
+
 
 </div>
 

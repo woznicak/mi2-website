@@ -1,4 +1,4 @@
-# MI² Solutions  {-}
+# MI²Solutions  {-}
 
 The methods we work on are based on principles of open science. And are available to everyone
 

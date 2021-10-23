@@ -9,7 +9,7 @@ site: bookdown::bookdown_site
 description: MI2
 graphics: yes
 cover-image: images/cover.png
-title: MI² Data Lab
+title: MI²
 ---
 
 ```{r setup, include=FALSE}
@@ -117,11 +117,11 @@ document.body.classList.add("two-columns")
 
 #### Alumni {-}
 
-* [Alicja Gosiewska](the-team.html#alicja-gosiewska), PhD student
+* [Alicja Gosiewska](the-team.html#alicja-gosiewska), MSc
 * Marcin Kosiński, MSc
-* Wojciech Kretowicz, MSc Student
-* Michał Kuźba, MSc
-* Szymon Maksymiuk, Msc Student
+* Wojciech Kretowicz, MSc student
+* Michał Kuźba, MSc student
+* Szymon Maksymiuk, Msc student
 * [Tomasz Mikołajczyk](the-team.html#tomasz-mikołajczyk), PhD
 * Adam Rydelek, BSc
 * Anna Wróblewska, PhD

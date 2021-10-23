@@ -92,6 +92,38 @@ This article introduces an R package fairmodels that helps to validate fairness 
 </div>
 
 <div>
+<img src="images/paper_wildnlp.png">
+<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-36718-3_20">Models in the Wild: On Corruption Robustness of Neural NLP Systems</a>
+<p>Barbara Rychalska, Dominika Basaj, Alicja Gosiewska, Przemyslaw Biecek</p>
+<p><i>International Conference on Neural Information Processing (2019)</i></p>
+Natural Language Processing models lack a unified approach to robustness testing. In this paper we introduce WildNLP - a framework for testing model stability in a natural setting where text corruptions such as keyboard errors or misspelling occur. We compare robustness of deep learning models from 4 popular NLP tasks: Q&A, NLI, NER and Sentiment Analysis by testing their performance on aspects introduced in the framework. In particular, we focus on a comparison between recent state-of-the-art text representations and non-contextualized word embeddings. In order to improve robustness, we perform adversarial training on selected aspects and check its transferability to the improvement of models with various corruption types. We find that the high performance of models does not ensure sufficient robustness, although modern embedding techniques help to improve it. We release the code of WildNLP framework for the community.
+</div>
+
+<div>
+<img src="images/paper_auditor.png">
+<a href="https://doi.org/10.32614/RJ-2019-036">auditor: an R Package for Model-Agnostic Visual Validation and Diagnostics</a>
+<p>Alicja Gosiewska, Przemyslaw Biecek</p>
+<p><i>The R Journal (2019)</i></p>
+Machine learning models have successfully been applied to challenges in applied in biology, medicine, finance, physics, and other fields. With modern software it is easy to train even a complex model that fits the training data and results in high accuracy on test set. However, problems often arise when models are confronted with the real-world data. This paper describes methodology and tools for model-agnostic auditing. It provides functinos for assessing and comparing the goodness of fit and performance of models. In addition, the package may be used for analysis of the similarity of residuals and for identification of outliers and influential observations. The examination is carried out by diagnostic scores and visual verification. The code presented in this paper are implemented in the auditor package. Its flexible and consistent grammar facilitates the validation models of a large class of models.
+</div>
+
+<div>
+<img src="images/paper_breakdown.png">
+<a href="https://doi.org/10.32614/RJ-2018-072">Explanations of Model Predictions with live and breakDown Packages</a>
+<p>Mateusz Staniak, Przemyslaw Biecek</p>
+<p><i>The R Journal (2018)</i></p>
+Complex models are commonly used in predictive modeling. In this paper we present R packages that can be used for explaining predictions from complex black box models and attributing parts of these predictions to input features. We introduce two new approaches and corresponding packages for such attribution, namely live and breakDown. We also compare their results with existing implementations of state-of-the-art solutions, namely, lime (Pedersen and Benesty, 2018) which implements Locally Interpretable Model-agnostic Explanations and iml (Molnar et al., 2018) which implements Shapley values.
+</div>
+
+<div>
+<img src="images/project-dalex.png">
+<a href="https://www.jmlr.org/papers/v22/20-1473">DALEX: Explainers for Complex Predictive Models in R</a>
+<p>Przemyslaw Biecek</p>
+<p><i>Journal of Machine Learning Research (2018)</i></p>
+Predictive modeling is invaded by elastic, yet complex methods such as neural networks or ensembles (model stacking, boosting or bagging). Such methods are usually described by a large number of parameters or hyper parameters - a price that one needs to pay for elasticity. The very number of parameters makes models hard to understand. This paper describes a consistent collection of explainers for predictive models, a.k.a. black boxes. Each explainer is a technique for exploration of a black box model. Presented approaches are model-agnostic, what means that they extract useful information from any predictive method irrespective of its internal structure. Each explainer is linked with a specific aspect of a model. Some are useful in decomposing predictions, some serve better in understanding performance, while others are useful in understanding importance and conditional responses of a particular variable. Every explainer presented here works for a single model or for a collection of models. In the latter case, models can be compared against each other. Such comparison helps to find strengths and weaknesses of different models and gives additional tools for model validation. Presented explainers are implemented in the DALEX package for R. They are based on a uniform standardized grammar of model exploration which may be easily extended.
+</div>
+
+<div>
 <img src="images/mini_archivist.png">
 <a href="https://github.com/pbiecek/archivist">archivist: An R Package for Managing, Recording and Restoring Data Analysis Results</a>
 <p>Przemyslaw Biecek, Marcin Kosiński</p>
@@ -154,19 +186,19 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 </div>
 
 <div>
-<img src="images/bookMieszane.png">
-<a href="http://www.biecek.pl/Analiza.Danych/">Analiza danych z programem R. Modele liniowe z efektami stałymi, losowymi i mieszanymi</a>
-<p>Linear models with fixed, random and mixed effects</p>
-<p>Przemysław Biecek</p>
-<p><i>PWN (2013)</i></p>
-</div>
-
-<div>
 <img src="images/bookEseje.png">
 <a href="http://www.biecek.pl/Eseje/">Odkrywać! Ujawniać! Objaśniać! Zbiór esejów o sztuce prezentowania danych</a>
 <p>Essays on the art of data visualisation</p>
 <p>Przemysław Biecek</p>
 <p><i>WUW (2016)</i></p>
+</div>
+
+<div>
+<img src="images/bookMieszane.png">
+<a href="http://www.biecek.pl/Analiza.Danych/">Analiza danych z programem R. Modele liniowe z efektami stałymi, losowymi i mieszanymi</a>
+<p>Data analysis in R. Linear models with fixed, random and mixed effects</p>
+<p>Przemysław Biecek</p>
+<p><i>PWN (2013)</i></p>
 </div>
 
 ## Seminars {-}
@@ -176,7 +208,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <img src="images/seminar.png">
 </div>
 <div class="two-column-entry-text">
-We meet every Monday, 10:00 online or at MI2 DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
+We meet every Monday, at 10 am online or in MI2DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
 
 Join us at http://meet.google.com/rbo-kgmm-orb
 

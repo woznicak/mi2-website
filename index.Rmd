@@ -419,9 +419,9 @@ LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk
 
 ## Positions {-}
 
-<img src="images/positions.jpg" style="width: 100%;">
-
 There are currently no open lab positions, but this page shall be updated with upcoming opportunities.
+
+<img src="images/positions.jpg" style="width: 100%;">
 
 In summer 2021, we opened a summer internship program for students motivated to work on challenging problems concerning automated machine learning, explainability, fairness, and visualization. 
 It was over 2 months of creative work in exciting projects for 12 interns, some of which decided to continue their research in the lab. See you next summer!

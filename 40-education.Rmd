@@ -116,7 +116,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <img src="images/rml.png">
 </div>
 <div class="two-column-entry-text">
-Read more about the research, solutions and education on our blog: [Tools for Explainable, Fair and Responsible](https://medium.com/responsibleml)
+Read more about the research, solutions and education on our blog: [Tools for Explainable, Fair and Responsible ML](https://medium.com/responsibleml)
 </div>
 </div>
 

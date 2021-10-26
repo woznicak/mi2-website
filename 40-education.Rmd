@@ -109,7 +109,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Fundacja Naukowa SmarterPoland.pl. <i>2015</i></p>
 </div>
 
-## ResponsibleML {-}
+## ResponsibleML Blog {-}
 
 <div class="two-column-entry">
 <div class="two-column-entry-image">

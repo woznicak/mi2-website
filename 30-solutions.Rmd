@@ -22,7 +22,9 @@ We would be happy to discuss how we could help with your organisation!
 
 ## Trainings {-}
 
-We conduct trainings for data-science teams interested in the latest results in the area of responsible predictive modelling.
+We would like to invite you to our training.
+
+Based on our experience in the area of Responsible Machine Learning, developed a unique two-day hands-on training. Jump into the topic of eXplainable Artificial Intelligence with our trainers.
 
 <br/>
 <br/>
@@ -35,30 +37,42 @@ We conduct trainings for data-science teams interested in the latest results in 
 ### Responsible ML {-}
 #### Introduction to Responsible Machie Learning {-}
 
-![images/workshop_user2021](images/workshop_user2021.png)
-
-How to perform responsible modeling from the concept to delivery? A brief overview of DALEXverse, learn new tools and methods for responsible predictive models.
-
-Find more materials here: https://github.com/MI2DataLab/ResponsibleML-UseR2021
-
-### DALEX for R {-}
-#### Explanation and exploration of machine learning models with R and DALEX {-}
-
 ![images/training_xai](images/training_xai.png)
 
-A brief introduction to tools for local and global explanations of predictive models using the DALEX library. The short version is 3 hours, the long version is a 2-day training. During the training you will build several predictive models and take a closer look at how they work.
 
-Find more materials here: https://github.com/pbiecek/XAIatERUM2020
+The training is conducted once a month in small groups online. Small groups encourage questions and the interactions within the group. 
 
-### Fairmodels {-}
-#### Explaining and Checking Fairness for Predictive Models {-}
+Dates of upcoming trainings in 2022: 21-22 January, 18-19 February, 18-19 March, 22-23 April, 20-21 May.
 
-![images/training_fairness](images/training_fairness.png)
+**Agenda**
 
-The tutorial is divided into three parts. First, I talk about fairness in general. Do we have a problem with discrimination, and which areas are affected by it? The second part is related to fairness measures. We  discuss the most common statistics for the detection of discrimination. The third part is the hands-on presentation of software that helps to check and visualize fairness.
+Day 1: We will start with a brief introduction to predictive modelling, then discuss tree based methods and ensembles like random forest and gradient boosting. We will end the day by discussing the hyperparameter tuning procedure. 
 
-Find more materials here: https://github.com/pbiecek/fairness_xkdd_2021
+Day 2: We will start the second day with an introduction to explainable artificial intelligence. We discuss variable importance followed by Partial Dependence profiles, Shapley values, the LIME method and Ceteris Paribus profiles.
 
+Each block includes a presentation on the method, a hands-on session and Q&A.
 
+**Prerequisites**
 
+We assume that participants have a basic knowledge of the language in which the training is conducted (R or Python). They can load data, perform simple EDA and build any predictive model, e.g. regression model.
+
+**Language**
+
+Depending on the group's preference, the hands-on part can be carried out in R (mlr3 + DALEX) or Python (scikit-learn + dalex). 
+
+The methodology part does not depend on the language.
+
+**Price**
+
+Price of the two-day online training: 899 EUR / 999 USD.
+
+Discounts available for groups of more than one person.
+
+If you are interested in private training for a group from your company please contact with us.
+
+Each participant will receive a paper materials in a form of a comic book https://betaandbit.github.io/RML/.
+
+**Book your training**
+
+To book a training please contact with [trainings(at)solutions42.ai](mailto:trainings@solutions42.ai?subject=Training%20in%20RML).
 

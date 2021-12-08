@@ -242,7 +242,7 @@ The unique feature of the proposed system is a trustworthy artificial intelligen
 
 
 
-### HOMER 2019-2024 {-}
+### HOMER 2020-2025 {-}
 
 #### HOMER: Human Oriented autoMated machinE leaRning {-}
 

@@ -91,6 +91,9 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <div>
 <img src="images/bookNieskonczonosc.png" align="left">
 <a href="https://www.wuw.pl/product-pol-8579-W-pogoni-za-nieskonczonoscia.html">W pogoni za nieskończonością</a>
+<p>EN: Two mathematicians share stories about infinity. In the first Beta attends a lecture on the properties of prime numbers. In the second, Bit breaks into the Palace of Culture and Science. How should we talk about mathematics?</p>
+<p>PL: Dwójka matematyków wymienia się opowiadaniami o nieskończoności. W pierwszym Beta bierze udział w wykładzie o właściwościach liczb pierwszych. W drugim Bit włamuje się do Pałacu Kultury i Nauki. Jak opowiadać o matematyce?</p>
+<p><a href="https://betaandbit.github.io/Nieskonczonosc/">Flipbook online</a>, <a href="https://www.wuw.pl/product-pol-8579-W-pogoni-za-nieskonczonoscia.html">Komiks w księgarnii</a>.</p>
 <p>Przemysław Biecek, Łukasz Maciejewski, Tomasz Samojlik, Sebastian Szpakowski</p>
 <p>Fundacja Naukowa SmarterPoland.pl. <i>2018</i></p>
 </div>
@@ -98,13 +101,19 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <div>
 <img src="images/bookMufinki.png" align="left">
 <a href="https://www.empik.com/jak-dlugo-zyja-muffinki-biecek-przemyslaw,p1135934167,ksiazka-p">Jak długo żyją Muffinki?</a>
+<p>EN: A collection of three stories for children showing statistical relationships in the world around us. Beautifully illustrated stories about the distribution of height according to age, the life span of dogs or measuring the weight of trees.</p>
+<p>PL: Zbiór trzech opowiadań dla dzieci pokazującym zależności statystyczne w świecie wokół nas. Pięknie ilustrowane opowiadania o rozkładzie wzrostu w zależności od wieku, czasie życia psów czy pomiarze wagi drzew.</p>
+<p>Online: <a href="http://betabit.wiki/story/muffinkiRozdzial1.pdf">Jak szybko urosnę</a>, <a href="http://betabit.wiki/story/muffinkiRozdzial2.pdf">Jak długo żyją Muffinki</a>.</p>
 <p>Przemysław Biecek</p>
-<p>Fundacja Naukowa SmarterPoland.pl. <i>2016</i></p>
+<p>Fundacja Naukowa SmarterPoland.pl.<i>2016</i></p>
 </div>
 
 <div>
 <img src="images/bookPieczara.png" align="left">
 <a href="https://www.empik.com/pieczara-pietraszki-chudzian-magdalena-biecek-przemyslaw,p1119203030,ksiazka-p">Pieczara Pietraszki</a>
+<p>EN: How linear regression can help in getting home, and why it's not worth hacking into a mad mathematician's office. A short story describing the adventures of two teenagers Beta and Bit moving around historic Warsaw.</p>
+<p>PL: W jaki sposób regresja liniowa może pomóc w powrocie do domu, oraz dlaczego nie warto włamywać się do pokoju szalonego matematyka? Lekkie opowiadanie opisujące przygody dwójki nastolatków Bety i Bita w historycznej Warszawie.</p>
+<p>Online: <a href="http://biecek.pl/BetaBit/Warszawa/">W jezyku Polskim</a>, <a href="http://biecek.pl/BetaBit/Warsaw/">In English</a>, <a href="http://biecek.pl/BetaBit/Barsaba/">По-Русски</a>.</p>
 <p>Magda Chudzian, Przemysław Biecek</p>
 <p>Fundacja Naukowa SmarterPoland.pl. <i>2015</i></p>
 </div>

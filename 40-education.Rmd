@@ -81,7 +81,17 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>PL: Jedyna w swoim rodzaju 52-stronicowa opowieść o odpowiedzialnym uczeniu maszynowym. Beta i Bit używają drzew decyzyjnych, lasów losowych i narzędzi AutoML do budowy modelu ryzyka po zakażeniu covid, a następnie używają narzędzi wyjaśnialnej sztucznej inteligencji by przeanalizować działanie tego modelu. Opis procesu analizy danych przeplata się na opisem kolejnych narzędzi i przykładami kodu. Wszystkie wyniki są całkowicie odtwarzalne!</p>
 <p><a href="https://betaandbit.github.io/RML/">Flipbook online</a></p>
 <p>Przemysław Biecek, Anna Kozak, Aleksander Zawada</p>
-<p>Fundacja Naukowa SmarterPoland.pl. <i>2021</i></p>
+<p>Fundacja Naukowa SmarterPoland.pl. <i>2022</i></p>
+</div>
+
+<div>
+<img src="images/bookSzeregi.png" align="left">
+<a href="#">W pogoni za nieskończonością. Szeregi</a>
+<p>EN: What does hiking in the mountains have to do with the convergence of series? Quite a lot! We start with the paradoxes related to infinity, but step by step we learn the techniques of geometric series. In this book, the conditions for convergence are explained, together with numerous examples. The comic ends with a collection of exercises with different levels of difficulty.</p>
+<p>PL: Co wspólnego ma chodzenie po górach ze zbieżnością szeregów? Otóż całkiem sporo! Zaczynamy od paradoksów związanych z nieskończonością, ale krok po kroku poznajemy techniki szeregów geometrycznych. W tej pozycji wyjaśnione są warunki zbieżności wraz z licznymi przykładami. Komiks kończy zbiór zadań o różnych poziomach trudności.</p>
+<p><a href="https://betaandbit.github.io/Szeregi/">Flipbook online</a></p>
+<p>Przemysław Biecek, Łukasz Maciejewski, Aleksander Zawada</p>
+<p>Fundacja Naukowa SmarterPoland.pl. <i>2022</i></p>
 </div>
 
 <div>
@@ -122,6 +132,28 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <p>Online: <a href="http://biecek.pl/BetaBit/Warszawa/">W jezyku Polskim</a>, <a href="http://biecek.pl/BetaBit/Warsaw/">In English</a>, <a href="http://biecek.pl/BetaBit/Barsaba/">По-Русски</a>.</p>
 <p>Magda Chudzian, Przemysław Biecek</p>
 <p>Fundacja Naukowa SmarterPoland.pl. <i>2015</i></p>
+</div>
+
+
+<div>
+<img src="images/bookAdventures.png" align="left">
+<a href="https://github.com/BetaAndBit/ComicBooks">How to weight a dog with a ruler?</a>
+<p>EN: Workshop materials for children aged 8-10. Kids measure different parameters of their body, such as arm span or height. Then they create a graph summarizing the collected data and look for relations between the measured features. It just so happens that parts of the human body are proportional to each other and you can use a ruler to find this relationship. Part of the StatTub project.</p>
+<p>PL: Materiały do warsztaty dla dzieci w wieku 8-10. Dzieci mierzą różne parametry swojego ciała, takie jak rozpiętość ramion lub wzrost. Następnie tworzą wykres podsumowujący zebrane dane i szukają zależności pomiędzy zmierzonymi cechami. Tak się składa, że części ciała ludzkiego są do siebie proporcjonalne i można z użyciem linijki znaleźć tę relację. Część projektu StatTuba.</p>
+<p>Online: 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/en/HeavyDog_en.pdf">English</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/pl/JakZwazycPsa/JakZwazycPsa.pdf">Polish</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/cn/HeavyDog_cn.pdf">Chinese</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/cn/HeavyDog_cn_simplified.pdf">Simplified Chinese</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/cz/HeavyDog_cz.pdf">Czech</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/de/HeavyDog_de.pdf">German</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/es/HeavyDog_es.pdf">Spanish</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/es_la/HeavyDog_es_la.pdf">Spanish (Latin America)</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/fr/HeavyDog_fr.pdf">French</a>, 
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/nl/HeavyDog_nl.pdf">Dutch</a>,
+<a href="https://github.com/BetaAndBit/ComicBooks/blob/master/vn/heavy_dog_vn.pdf">Vietnamese</a>.</p>
+<p>Przemysław Biecek, Klaudia Korniluk</p>
+<p>Fundacja Naukowa SmarterPoland.pl.<i>2016-2021</i></p>
 </div>
 
 ## ResponsibleML Blog {-}

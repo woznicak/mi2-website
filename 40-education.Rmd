@@ -115,6 +115,26 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 </div>
 
 <div>
+<img src="images/bookEseje2.png" align="left">
+<a href="http://biecek.pl/Eseje/">Eseje o sztuce wizualizacji danych</a>
+<p>EN: Discover! Reveal! Explain! These three roles can be fulfilled by good statistical graphics. Good means understandable, faithful to the data, aesthetic. How to create such graphics? A collection of essays on the art of displaying data systematises knowledge useful in designing and producing good data visualisations. It is not easy. On the one hand, we can fall into the trap of a colourful mush full of numbers, which is sometimes proudly called infographics. On the other hand, we can fall into the trap of graphics that perfectly reproduce the complexity of numbers, and thus completely incomprehensible. Somewhere in the middle is a graphic that explains, that informs, that is aesthetically pleasing and informative.</p>
+<p>PL: Odkrywać! Ujawniać! Objaśniać! Te trzy role może spełniać dobra grafika statystyczna. Dobra czyli zrozumiała, wierna danym, estetyczna. Jak tworzyć taką grafikę? Zbiór esejów o sztuce pokazywania danych systematyzuje wiedzę przydatną do projektowania i wykonania dobrej wizualizacji danych. Nie jest to proste. Z jednej strony możemy wpaść w pułapkę pstrokatej papki najeżonej liczbami, którą czasem dumnie nazywa się infografiką. Z drugiej strony wpaść można w pułapkę grafiki idealnie odwzorowującej złożoność liczb a przez to zupełnie niezrozumiałej. Gdzieś po środku jest grafika, która wyjaśnia, która informuje, która jest estetyczna i informatywna.</p>
+<p><a href="http://biecek.pl/Eseje/">Książka online</a>, <a href="http://biecek.pl/Eseje/">Książka w księgarnii</a>.</p>
+<p>Przemysław Biecek</p>
+<p>Wydawnictwo SmarterPoland <i>2008-2021</i></p>
+</div>
+
+<div>
+<img src="images/bookPogromcy.png" align="left">
+<a href="http://www.pogromcydanych.icm.edu.pl/">Pogromcy Danych</a>
+<p>EN: Data Crunchers is the first MOOC (Massive Open Online Course) developed in Polish for data scientists. Two modules were developed in 2015: the first one is an introduction to R, with loading data, overview of syntax, basic data types, descriptive statistics and pipelined processing. The second module is dedicated to data visualisation and statistical modelling. More than 8,000 people have registered on the Data Crunchers platform.</p>
+<p>PL: Pogromcy Danych to pierwszy MOOC (Massive Open Online Course) opracowany w języku polskim do analizy danych. W roku 2015 powstały dwa moduły: pierwszy jest wprowadzeniem do programu R, przez wczytywanie danych, omówienie składni, podstawowych typów danych, statystyk opisowych oraz przetwarzania potokowego. Drugi moduł poświęcony jest wizualizacji danych oraz modelowaniu statystycznemu. W platformie Pogromców Danych zarejestrowało się ponad 8000 osób.</p>
+<p><a href="http://tofesi.mimuw.edu.pl/~cogito/PogromcyDanych/Pogromcy%20Danych%20Przetwarzanie%20danych%20w%20programie%20R%20-%20Przemyslaw%20Biecek%20Uniwersytet%20Warszawski.epub">Przetwarzanie danych w programie R</a>, <a href="http://tofesi.mimuw.edu.pl/~cogito/PogromcyDanych/Pogromcy%20Danych%20Wizualizacja%20i%20modelowanie%20-%20Przemyslaw%20Biecek%20Uniwersytet%20Warszawski.epub">Wizualizacja i modelowanie</a>, <a href="http://www.pogromcydanych.icm.edu.pl/">Strona WWW</a>.</p>
+<p>Przemysław Biecek</p>
+<p>ICM UW. <i>2015</i></p>
+</div>
+
+<div>
 <img src="images/bookWykresy.png" align="left">
 <a href="https://www.wuw.pl/product-pol-8576-Wykresy-unplugged.html">Wykresy unplugged</a>
 <p>EN: Can you create clear charts without any electricity? An illustrated collection of exercises showing eight of the most popular ways to visualise data, with do-it-yourself challenges. Grab your crayons and start creating fantastic charts.</p>

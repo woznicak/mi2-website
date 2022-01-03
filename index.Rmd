@@ -407,6 +407,8 @@ LinkedIn: [alicja-gosiewska](https://www.linkedin.com/in/alicja-gosiewska/)
 
 <img src="images/Michal Kuzba.png " >
 
+Data Scientist, holds a Master's degree in Computer Science from University of Warsaw. Interested in NLP, conversational explanations of AI, human aspects of Machine Learning and geographical data.  
+
 Google Scholar: [9RU1uwcAAAAJ](https://scholar.google.com/citations?user=9RU1uwcAAAAJ)
 
 GitHub: [kmichael08](https://github.com/kmichael08)

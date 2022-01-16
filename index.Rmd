@@ -119,7 +119,7 @@ document.body.classList.add("two-columns")
 * [Alicja Gosiewska](the-team.html#alicja-gosiewska), MSc
 * Marcin Kosiński, MSc
 * Wojciech Kretowicz, MSc student
-* [Michał Kuźba](the-team.html#michal-kuzba), MSc
+* [Michał Kuźba](the-team.html#michał-kuźba), MSc
 * Szymon Maksymiuk, Msc student
 * [Tomasz Mikołajczyk](the-team.html#tomasz-mikołajczyk), PhD
 * Adam Rydelek, BSc
@@ -413,7 +413,7 @@ Google Scholar: [9RU1uwcAAAAJ](https://scholar.google.com/citations?user=9RU1uwc
 
 GitHub: [kmichael08](https://github.com/kmichael08)
 
-LinkedIn: [pbiecek](https://www.linkedin.com/in/michalkuzba/)
+LinkedIn: [michalkuzba](https://www.linkedin.com/in/michalkuzba/)
 
 
 ### Tomasz Mikołajczyk {-}

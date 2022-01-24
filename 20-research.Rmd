@@ -220,7 +220,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <div class="two-column-entry-text">
 We meet every Monday, at 10 am online or in MI2DataLab (room 044, Faculty of Mathematics and Information Science, Warsaw University of Technology).
 
-Join us at http://meet.google.com/rbo-kgmm-orb
+Join us at https://meet.google.com/nno-okiz-bxy (or http://meet.drwhy.ai/)
 
 List of topics and materials from past seminars: https://github.com/mi2-warsaw/MI2DataLab_Seminarium
 </div>

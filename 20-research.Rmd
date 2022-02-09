@@ -250,6 +250,7 @@ The unique feature of the proposed system is a trustworthy artificial intelligen
 - will provide image and textual explanations indicating the rationale behind the proposed recommendation,
 - will be verified for effective collaboration with the radiologist.
 
+**Work on this project is financially supported by the NCBiR grant INFOSTRATEG-I/0022/2021-00.**
 
 
 ### HOMER 2020-2025 {-}

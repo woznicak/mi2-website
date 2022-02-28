@@ -73,6 +73,7 @@ document.body.classList.add("two-columns")
 
 * [Przemysław Biecek](the-team.html#przemysław-biecek), PhD, DSc (Team Leader)
 * [Hubert Baniecki](the-team.html#hubert-baniecki), MSc student
+* [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
 * [Anna Kozak](the-team.html#anna-kozak), MSc
@@ -152,6 +153,21 @@ Google Scholar: [H72DRC0AAAAJ](https://scholar.google.pl/citations?user=H72DRC0A
 GitHub: [hbaniecki](https://github.com/hbaniecki)
 
 LinkedIn: [hbaniecki](https://www.linkedin.com/in/hbaniecki)
+  
+  
+### Mustafa Cavus {-}
+
+<img src="images/mcavus.jpg" >
+
+I work as an assistant professor at [Warsaw University of Technology](http://www.mini.pw.edu.pl/) and the [Eskisehir Technical University](https://www.eskisehir.edu.tr/). I joined the MI² DataLab as a post-doc researcher in 2021. I work on explainable artificial intelligence and AutoML.
+
+Google Scholar: [I63d1WIAAAAJ&hl](https://scholar.google.com.tr/citations?user=I63d1WIAAAAJ&hl)
+
+GitHub: [mcavus](https://github.com/mcavs)
+
+LinkedIn: [mcavus](https://www.linkedin.com/in/mustafacavusphd)
+
+Twitter: [mcavus](https://twitter.com/mustafa__cavus)
 
 
 ### Stanisław Giziński {-}

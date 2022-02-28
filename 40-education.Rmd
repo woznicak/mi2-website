@@ -11,6 +11,27 @@ We take social responsibility seriously and as part of our activities we support
   document.querySelector(".page-inner section > *:first-child").classList.add("teaching-layout")
 </script>
 
+### Exploratory Data Analysis 21/22 Summer {-}
+
+[Introduction to exploratory data analysis](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis) for Mathematics and data analysis studies
+
+- lectures, labs, projects - Anna Kozak
+- labs - Katatzyna Woźnica 
+
+### Case Studies 21/22 Summer {-}
+
+[Case Studies]() for Data Science studies
+
+- lectures - Weronika Hryniewska
+- [ML-1](https://github.com/MI2-Education/2022L-WB-ML-1) - labs, projects - Anna Kozak
+- [ML-2](https://github.com/MI2-Education/2022L-WB-ML-2) - labs, projects - *Bartłomiej Eljasiak*
+- [XAI-tabular](https://github.com/MI2-Education/2022L-WB-XAI-tabular) - labs, projects - Mustafa Cavus 
+- [AutoML](https://github.com/MI2-Education/2022L-WB-AutoML) - labs, projects - Katarzyna Woźnica
+- [XIC](https://github.com/MI2-Education/2022L-WB-XIC) - labs, projects - Hubert Baniecki
+- [TL](https://github.com/MI2-Education/2022L-WB-TL) - labs, projects - Paulina Tomaszewska
+- [Data](https://github.com/MI2-Education/2022L-WB-data) - labs, projects - Weronika Hryniewska
+- [NLP](https://github.com/MI2-Education/2022L-WB-NLP) - labs, projects - Stanisław Giziński
+
 ### Data Visualization 21/22 Winter {-}
 
 [Data Visualization Techniques](https://github.com/mini-pw/2022Z-DataVisualizationTechniques) for Data Science studies

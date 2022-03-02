@@ -18,6 +18,12 @@ We take social responsibility seriously and as part of our activities we support
 - lectures, labs, projects - Anna Kozak
 - labs - Katatzyna Woźnica 
 
+### Interpretable Machine Learning 21/22 Summer {-}
+
+[Interpretable Machine Learning](https://github.com/MI2-Education/InterpretableMachineLearning2022) 
+
+- lectures, projects - Przemysław Biecek
+
 ### Case Studies 21/22 Summer {-}
 
 [Case Studies]() for Data Science studies
@@ -57,6 +63,14 @@ We take social responsibility seriously and as part of our activities we support
 - [DL2](https://github.com/mini-pw/2021L-WB-DL-2) - labs, projects - Paulina Tomaszewska
 - [ML](https://github.com/mini-pw/2021L-WB-ML) - labs, projects - Hubert Baniecki
 - [RashomonML](https://github.com/mini-pw/2021L-WB-RashomonML) - labs, projects - Katarzyna Woźnica
+
+### Interpretable Machine Learning 20/21 Summer {-}
+
+[Interpretable Machine Learning](https://github.com/pbiecek/InterpretableMachineLearning2021) for Data Science studies
+
+[XAI stories 2](https://pbiecek.github.io/xai_stories_2/)
+
+- lectures, projects - Przemysław Biecek
 
 ### Data Visualization 20/21 Winter {-}
 

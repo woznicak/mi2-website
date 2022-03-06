@@ -244,21 +244,21 @@ Read more about the research, solutions and education on our blog: [Tools for Ex
 </div>
 </div>
 
-<div>
+<div class="two-column-entry-image">
 <img src="images/blog-basicXAI.png">
 <p><a href="https://medium.com/responsibleml/basic-xai-with-dalex-part-1-introduction-e68f65fa2889">BASIC XAI with DALEX— Part 1: Introduction</a></p>
 <p>Anna Kozak</p>
 In this post, we will take a closer look at some algorithms used in explainable artificial intelligence. You will find here an introduction to methods of global and local model evaluation. Each description will include a technical introduction, example analysis, and code in R and Python.
 </div>
 
-<div>
+<div class="two-column-entry-image">
 <img src="images/blog-RpackagesXAI.png">
 <p><a href="https://medium.com/responsibleml/r-packages-for-explainable-artificial-intelligence-7b3536423d2b">R packages for eXplainable Artificial Intelligence</a></p>
 <p>Przemysław Biecek</p>
 We have prepared an overview of the most popular R-packages, which can be used to build interpretable models or to explore complex ones. Examples of knitr notebooks for more than 30 packages are available at http://xai-tools.drwhy.ai/.
 </div>
 
-<div>
+<div class="two-column-entry-image">
 <img src="images/blog-adversarialattacks.png">
 <p><a href="https://medium.com/responsibleml/adversarial-attacks-on-explainable-ai-f65d41e83c5f">Adversarial attacks on Explainable AI</a></p>
 <p>Hubert Baniecki</p>

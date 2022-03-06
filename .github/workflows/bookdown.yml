@@ -44,6 +44,8 @@ jobs:
           R -e 'install.packages("corrplot")'
           R -e 'install.packages("tidyr")'   
           R -e 'install.packages("reshape2")'   
+          R -e '
+install.packages("http://cran.r-project.org/src/contrib/Archive/rmarkdown/rmarkdown_2.11.tar.gz", repos=NULL, type="source")'
           R -e 'renv::restore()'
       
       - name: Build site

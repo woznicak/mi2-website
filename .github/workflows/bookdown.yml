@@ -44,6 +44,7 @@ jobs:
           R -e 'install.packages("corrplot")'
           R -e 'install.packages("tidyr")'   
           R -e 'install.packages("reshape2")'   
+          # rmarkdown v2.12 breaks the webpage like in https://github.com/pbiecek/mi2-website/commit/8ba905b
           R -e 'install.packages("http://cran.r-project.org/src/contrib/Archive/rmarkdown/rmarkdown_2.11.tar.gz", repos=NULL, type="source")'
           R -e 'renv::restore()'
       

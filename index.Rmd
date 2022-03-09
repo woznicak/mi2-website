@@ -78,6 +78,7 @@ document.body.classList.add("two-columns")
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
 * [Anna Kozak](the-team.html#anna-kozak), MSc
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), BSc student
+* [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
 * [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
 * [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD student
@@ -94,7 +95,6 @@ document.body.classList.add("two-columns")
 * [André Fonseca](https://www.immune-stats.net), PhD student
 * Katarzyna Kobylińska, PhD student
 * Marcin Luckner, PhD
-* Stanisław Łaniewski, PhD student
 * [João Malato](https://www.immune-stats.net), PhD student
 * Bartek Pieliński, PhD, DSc
 * [Hanna Piotrowska](the-team.html#hanna-piotrowska), MA
@@ -222,6 +222,15 @@ Google Scholar: [i_r7EUgAAAAJ](https://scholar.google.com/citations?user=i_r7EUg
 GitHub: [krzyzinskim](https://github.com/krzyzinskim)
 
 LinkedIn: [krzyzinskim](https://www.linkedin.com/in/krzyzinskim/)
+  
+### Stanisław Łaniewski {-}
+
+<img src="images/Stanislaw Laniewski.jpg" >
+
+PhD student in Quantitative Psychology and Economics at University of Warsaw, Machine Learning Researcher at MI2 Data Lab, Msc in Actuarial Science and Mathematical Finance at University of Amsterdam, former Quantitative Researcher at Flow Traders
+His research focuses on enhancing classical methods used in discrete choice and finance with machine learning and how to apply them to explain behavioral phenomena and heuristics. He is also keen on finding balance between best predictive models and their explainability. Avid gamer who applies statistical techniques to deepen the understanding of best strategies
+  
+LinkedIn: [Stanisław-Łaniewski](https://www.linkedin.com/in/stanislawlaniewski/)
 
 ### Piotr Piątyszek {-}
 

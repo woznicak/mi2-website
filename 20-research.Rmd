@@ -325,6 +325,29 @@ Here is the skeleton for our approach: (1) Use ensembles in order to building a 
 
 **Work on this project is financially supported by the NCN Opus grant 2016/21/B/ST6/02176.**
 
+### DARLING 2022-2024   {-}
+
+#### DARLING: Deep Analysis of Regulations with Language Inference, Network analysis and institutional Grammar  {-}
+
+
+**Aim of the project**
+
+Developing the tools for automated analysis of content of legal documents leveraging Natural Language Processing, that will help understand the dynamic of change in public policies and variables influencing those changes.
+
+Those tools will be firstly used to analyse the case of development of policy subsystem regulating usage of AI in the European Union. 
+
+**Specific goals of the project**
+
+1. Developing and evaluating multilingual models for issue classification for legal and public policy documents.
+2. Developing embedding-based topic modeling methods for legal and public policy documents suited for analysis of change of the topics between documents.
+3. Institutional grammar based analysis of changes in topics between different public policy documents, regulations and public consultation documents.
+4. Agent-based models predicting diffusion of issues in public policy documents.
+
+**Methodology**
+
+The core of the DARLING project is the issues and topic analysis in documents connected with regulations development using NLP tools. Issues analysis shall allow tracking how different options of AI operationalisation, ways the AI-connected threats are perceived as well as ideas regarding AI regulations are shared among three different types of texts: scientific, expert and legal ones. The extracted issues will then be subject to complex networks analysis and institutional grammar approach. The network analysis, backed by agent-based modeling, will be used to examine the flow of issues among the documents based on their vector-formed characteristics. On the other hand, the Institutional Grammar (IG) will be used to analyze the modality of issues, e.g., the tendency to regulate a specific aspect of AI in a given issue, its deontic character or its conditionality.
+
+In result the DARLING project will effect in the development of new methods to analyze legal documents connected to regulation based on deep text processing and links among the documents. An inter-institutional and interdisciplinary team of computer, political sciences and physics of complex systems scientists will elaborate new machine learning approaches to examine the regulation corpora, issues recognition, issues analysis by the means of IG as well as propose new methods of modeling the flow/changes of regulations based on complex networks tools
 
 
 

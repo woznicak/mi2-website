@@ -329,6 +329,7 @@ Here is the skeleton for our approach: (1) Use ensembles in order to building a 
 
 #### DARLING: Deep Analysis of Regulations with Language Inference, Network analysis and institutional Grammar  {-}
 
+![images/project-darling](images/project-darling.png)
 
 **Aim of the project**
 

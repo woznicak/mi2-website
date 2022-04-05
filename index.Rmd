@@ -459,7 +459,87 @@ LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk
 
 ## Positions {-}
 
-There are currently no open lab positions, but this page shall be updated with upcoming opportunities.
+We have open call for following positions. If you are interested in any of them please send your CV and Motivation Letter to przemyslaw.biecek at gmail.com. We reserve the right to contact only selected candidates.
+
+
+### Research Software Engineer {-}
+
+Required:
+
+* Background in Computer Science, Mathematics, Statistics or similar. 
+* Experience in Scientific Programming (R and/or Python and/or C++)
+* Interest in applications, machine learning and explainable artificial intelligence.
+
+Scope of work:
+
+* Training of machine learning models for tabular and image data
+* Interpretable solutions for tabular and image data
+* Interactive interfaces 
+* Responsible ML solutions for healthcare domain
+
+Offer:
+
+* Excellent atmosphere for work in a young and very active lab
+* Conferences and training budget
+* Short visits in cooperating abroad group
+* Access to CPU / GPU clusters
+* Elastic working hours that can be combines with studies
+
+### Post-doc {-}
+
+Required:
+
+* PhD in Computer Science, Mathematics, Statistics or similar. (Different background? We encourage cross-domain short research visits).
+* Experience in Scientific Programming (R and/or Python and/or C++)
+* Good track of Scientific Records
+
+Scope of work:
+
+* Automated model exploration
+* Interpretable measures for model performance
+* Meta/transfer learning in automated model development
+* Automated model validation
+* Experiments with XAI for deep learning
+
+Offer:
+
+* Excellent atmosphere for work in a young and very active ML lab
+* Conferences and training budget
+* Short visits in cooperating abroad group
+* Access to CPU / GPU clusters
+* Full-time job at Warsaw University of Technology
+* plus results-driven extras
+* contract for 6 months (short visit) / 12 months or 24 months (long visit)
+
+### PhD student {-}
+
+Required:
+
+* MSc in Computer Science, Mathematics, Statistics or similar.  (Different background? We encourage cross-domain research short visits).
+* Experience in Scientific Programming (R and/or Python and/or C++)
+* Strong motivation 
+
+Scope of work:
+
+* Automated model exploration
+* Conferences and training budget
+* Concept drift detection
+* Reinforcement learning for Human Centered AI
+* Knowledge extraction from representations
+* Experiments with XAI for deep learning
+
+Offer:
+
+* Excellent atmosphere for work in a young and very active ML lab
+* Conferences and training budget
+* Short visits in cooperating abroad group
+* Access to CPU / GPU clusters
+* PhD scholarship
+* plus results-driven extras
+* contract for 6 months (short visit) / 3.5 years (full PhD)
+
+
+### Summer Internships {-}
 
 <img src="images/positions.jpg" style="width: 100%;">
 
@@ -470,7 +550,7 @@ It was over 2 months of creative work in exciting projects for 12 interns, some 
 ## Contact {-}
 
 
-Our rooms: 44 (DataLab - separate entrance in front of the main entrance), 317 (DataPlot), 316 (xLungs)
+Our rooms: 44 (DataLab - separate entrance in front of the main entrance), 317 (HOMER), 316 (xLungs)
 
 Faculty of Mathematics and Information Science,
 

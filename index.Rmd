@@ -457,10 +457,49 @@ LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk
 
 </div>
 
-## Positions {-}
+## Open Positions {-}
 
 We have open call for [HOMER](https://www.mi2.ai/research-grants.html#homer-2020-2025) and [xLungs](https://www.mi2.ai/research-grants.html#x-lungs-2021-2024) projects for following positions. If you are interested in any of them please send your CV and Motivation Letter to przemyslaw.biecek at gmail.com. We reserve the right to contact only selected candidates.
 
+### Summer Internships 22 {-}
+
+<img src="images/positions.jpg" style="width: 100%;">
+
+This year we have 6 projects open for summer internships!
+
+The time to apply is **May 8 - by the end of the day**.
+
+**Applications must be submitted through [the form](https://forms.gle/qsuiwg3xYFLdQGyZ6).**
+
+Project descriptions can be found on [this GitHub page](https://github.com/pbiecek/mi2-summer-22/blob/main/README.md).
+
+Each of the projects assumes a full-time commitment for two months during the summer break. Exact dates can be specified with a mentor.
+
+The internships are funded from HOMER and xLungs projects.
+
+Participation in the internship is connected with the fix remuneration in the amount of 6k PLN (umowa o dzieło). 
+
+
+### Deep Learning Engineer {-}
+
+Required:
+
+* Background in Computer Science, Mathematics, Statistics or similar. 
+* Experience in Deep Learning for 2d/3d image data (*torch is a plus)
+* Interest in mediacal applications
+
+Scope of work:
+
+* Training of machine learning models for tabular and image data
+* Responsible ML solutions for healthcare domain
+
+Offer:
+
+* Excellent atmosphere for work in a young and very active lab
+* Conferences and training budget
+* Short visits in cooperating abroad group
+* Access to CPU / GPU clusters
+* Elastic working hours that can be combines with studies
 
 ### Research Software Engineer {-}
 
@@ -539,9 +578,7 @@ Offer:
 * contract for 6 months (short visit) / 3.5 years (full PhD)
 
 
-### Summer Internships {-}
-
-<img src="images/positions.jpg" style="width: 100%;">
+### Summer Internships 21 {-}
 
 In summer 2021, we opened a summer internship program for students motivated to work on challenging problems concerning automated machine learning, explainability, fairness, and visualization. 
 It was over 2 months of creative work in exciting projects for 12 interns, some of which decided to continue their research in the lab. See you next summer!

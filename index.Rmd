@@ -486,12 +486,12 @@ Required:
 
 * Background in Computer Science, Mathematics, Statistics or similar. 
 * Experience in Deep Learning for 2d/3d image data (*torch is a plus)
-* Interest in mediacal applications
+* Interest in medical applications
 
 Scope of work:
 
 * Training of machine learning models for tabular and image data
-* Responsible ML solutions for healthcare domain
+* Responsible ML solutions for the healthcare domain
 
 Offer:
 
@@ -499,7 +499,7 @@ Offer:
 * Conferences and training budget
 * Short visits in cooperating abroad group
 * Access to CPU / GPU clusters
-* Elastic working hours that can be combines with studies
+* Elastic working hours that can be combined with studies
 
 ### Research Software Engineer {-}
 
@@ -514,7 +514,7 @@ Scope of work:
 * Training of machine learning models for tabular and image data
 * Interpretable solutions for tabular and image data
 * Interactive interfaces 
-* Responsible ML solutions for healthcare domain
+* Responsible ML solutions for the healthcare domain
 
 Offer:
 
@@ -522,7 +522,7 @@ Offer:
 * Conferences and training budget
 * Short visits in cooperating abroad group
 * Access to CPU / GPU clusters
-* Elastic working hours that can be combines with studies
+* Elastic working hours that can be combined with studies
 
 ### Post-doc {-}
 
@@ -563,7 +563,7 @@ Scope of work:
 * Automated model exploration
 * Conferences and training budget
 * Concept drift detection
-* Reinforcement learning for Human Centered AI
+* Reinforcement learning for Human-Centered AI
 * Knowledge extraction from representations
 * Experiments with XAI for deep learning
 

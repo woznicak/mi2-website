@@ -552,14 +552,14 @@ Offer:
 
 ### ARES {-}
 
-PhD position funded by PRELUDIUM BIS grant ARES (*Attack-Resistant Explanations toward Secure and trustworthy AI*) funded by PRELUDIUM BIS grant.
+PhD position funded by PRELUDIUM BIS grant ARES (*Attack-Resistant Explanations toward Secure and trustworthy AI*) funded by the PRELUDIUM BIS grant.
 
 Machine learning explainability, fairness, robustness, and security are critical elements of trustworthy Artificial Intelligence, an area of strategic importance. The main goals:
 
 * develop adversarial attacks on state-of-the-art explanations to investigate  vulnerabilities and limitations of the existing explainability and fairness approaches  in machine learning, and
 * introduce novel robust explanations that are stable against manipulation and intuitive to evaluate.
 
-These are targeted at progressing explainable machine learning toward a secure and trustworthy adoption of AI solutions. 
+These are targeted at progressing responsible machine learning toward a secure and trustworthy adoption of AI solutions. 
 
 **Join us, and change the way how ML models will be explained and evaluated.**
 

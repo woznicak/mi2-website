@@ -550,6 +550,23 @@ Offer:
 * plus results-driven extras
 * contract for 6 months (short visit) / 12 months or 24 months (long visit)
 
+### ARES {-}
+
+PhD position in ARES project (Attack-Resistant Explanations toward Secure and trustworthy AI) funded by PRELUDIUM BIS grant.
+
+Machine learning explainability, fairness, robustness, and security are critical elements of trustworthy Artificial Intelligence, an area of strategic importance. The main goals:
+
+* develop adversarial attacks on state-of-the-art explanations to investigate  vulnerabilities and limitations of the existing explainability and fairness approaches  in machine learning, and
+* introduce novel robust explanations that are stable against manipulation and 
+        intuitive to evaluate.
+
+These are targeted at progressing explainable machine learning toward a secure and trustworthy adoption of AI solutions. 
+
+
+<img src="<img src="images/positions.jpg" style="width: 100%;">
+" style="width: 100%;">
+
+
 ### PhD student {-}
 
 Required:

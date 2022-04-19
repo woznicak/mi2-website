@@ -552,20 +552,18 @@ Offer:
 
 ### ARES {-}
 
-PhD position in ARES project (Attack-Resistant Explanations toward Secure and trustworthy AI) funded by PRELUDIUM BIS grant.
+PhD position funded by PRELUDIUM BIS grant ARES (Attack-Resistant Explanations toward Secure and trustworthy AI) funded by PRELUDIUM BIS grant.
 
 Machine learning explainability, fairness, robustness, and security are critical elements of trustworthy Artificial Intelligence, an area of strategic importance. The main goals:
 
 * develop adversarial attacks on state-of-the-art explanations to investigate  vulnerabilities and limitations of the existing explainability and fairness approaches  in machine learning, and
-* introduce novel robust explanations that are stable against manipulation and 
-        intuitive to evaluate.
+* introduce novel robust explanations that are stable against manipulation and intuitive to evaluate.
 
 These are targeted at progressing explainable machine learning toward a secure and trustworthy adoption of AI solutions. 
 
+Join us, and change the way how ML models will be explained and evaluated.
 
-<img src="<img src="images/positions.jpg" style="width: 100%;">
-" style="width: 100%;">
-
+<img src="<img src="images/mi2-ares.png" style="width: 100%;">
 
 ### PhD student {-}
 
@@ -594,11 +592,6 @@ Offer:
 * plus results-driven extras
 * contract for 6 months (short visit) / 3.5 years (full PhD)
 
-
-### Summer Internships 21 {-}
-
-In summer 2021, we opened a summer internship program for students motivated to work on challenging problems concerning automated machine learning, explainability, fairness, and visualization. 
-It was over 2 months of creative work in exciting projects for 12 interns, some of which decided to continue their research in the lab. See you next summer!
 
 
 ## Contact {-}

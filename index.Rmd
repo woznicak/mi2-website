@@ -552,7 +552,7 @@ Offer:
 
 ### ARES {-}
 
-PhD position funded by PRELUDIUM BIS grant ARES (*Attack-Resistant Explanations toward Secure and trustworthy AI*) funded by the PRELUDIUM BIS grant.
+PhD position funded by the PRELUDIUM BIS grant ARES (*Attack-Resistant Explanations toward Secure and trustworthy AI*).
 
 Machine learning explainability, fairness, robustness, and security are critical elements of trustworthy Artificial Intelligence, an area of strategic importance. The main goals:
 
@@ -576,7 +576,6 @@ Required:
 Scope of work:
 
 * Automated model exploration
-* Conferences and training budget
 * Concept drift detection
 * Reinforcement learning for Human-Centered AI
 * Knowledge extraction from representations

@@ -222,7 +222,7 @@ We meet every Monday, at 10 am online or in MI2DataLab (room 044, Faculty of Mat
 
 Join us at https://meet.google.com/nno-okiz-bxy (or http://meet.drwhy.ai/)
 
-List of topics and materials from past seminars: https://github.com/mi2-warsaw/MI2DataLab_Seminarium
+List of topics and materials from past seminars: https://github.com/MI2DataLab/MI2DataLab_Seminarium
 </div>
 </div>
 

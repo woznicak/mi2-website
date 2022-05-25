@@ -74,12 +74,15 @@ document.body.classList.add("two-columns")
 * [Przemysław Biecek](the-team.html#przemysław-biecek), PhD, DSc (Team Leader)
 * [Hubert Baniecki](the-team.html#hubert-baniecki), MSc student
 * [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
+* Adrianna Grudzień, BSc student
+* [Mateusz Grzyb](the-team.html#mateusz-grzyb), BSc
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
 * [Anna Kozak](the-team.html#anna-kozak), MSc
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), BSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
 * [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
+* [Hubert Ruczyński](the-team.html#hubert-ruczyński), BSc student
 * [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
 * [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
@@ -91,7 +94,6 @@ document.body.classList.add("two-columns")
 #### Collaborators {-}
 
 * Przemysław Bombiński, PhD, MD
-* Piotr Czarnecki, PhD student
 * [André Fonseca](https://www.immune-stats.net), PhD student
 * Katarzyna Kobylińska, PhD student
 * Marcin Luckner, PhD
@@ -101,24 +103,20 @@ document.body.classList.add("two-columns")
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
 * Elżbieta Sienkiewicz, PhD
 * Julian Sienkiewicz, PhD
-* Michał Sokólski, MSc
 * Patryk Szatkowski, PhD student, MD
 
 #### Summer Interns {-}
 
-* Adrianna Grudzień, BSc student
-* [Mateusz Grzyb](the-team.html#mateusz-grzyb), BSc student
-* [Maria Kałuska](the-team.html#maria-kałuska), BSc student
-* [Hubert Ruczyński](the-team.html#hubert-ruczyński), BSc student
-* [Bartosz Sawicki](the-team.html#bartosz-sawicki), BSc student
-* [Szymon Szmajdziński](the-team.html#szymon-szmajdziński), BSc student
-* [Zuzanna Trafas](the-team.html#zuzanna-trafas), BSc student
-* [Kinga Ułasik](the-team.html#kinga-ułasik), BSc student
-* [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
+* Patryk Słowakiewicz, BSc student
+* Mikołaj Spytek, BSc student
+* Mateusz Stączek, BSc student
+* Piotr Wilczyński, BSc student
 
 #### Alumni {-}
 
+* Piotr Czarnecki, MSc
 * [Alicja Gosiewska](the-team.html#alicja-gosiewska), MSc
+* [Maria Kałuska](the-team.html#maria-kałuska), BSc student
 * Marcin Kosiński, MSc
 * Wojciech Kretowicz, BSc
 * [Michał Kuźba](the-team.html#michał-kuźba), MSc
@@ -126,9 +124,15 @@ document.body.classList.add("two-columns")
 * [Tomasz Mikołajczyk](the-team.html#tomasz-mikołajczyk), PhD
 * Katarzyna Pękala, MSc
 * Adam Rydelek, BSc
+* [Bartosz Sawicki](the-team.html#bartosz-sawicki), BSc student
+* Michał Sokólski, MSc
+* [Szymon Szmajdziński](the-team.html#szymon-szmajdziński), BSc student
+* [Zuzanna Trafas](the-team.html#zuzanna-trafas), BSc student
+* [Kinga Ułasik](the-team.html#kinga-ułasik), BSc student
 * Anna Wróblewska, PhD
 * [Hanna Zdulska](the-team.html#hanna-zdulska), BSc
-  
+* [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
+
 <div class="masonry">
 ### Przemysław Biecek {-}
 
@@ -136,7 +140,7 @@ document.body.classList.add("two-columns")
 
 My personal mission is to enhance human capabilities by supporting them through access to data-driven and knowledge-based predictions. I execute it by developing methods and tools for responsible machine learning, trustworthy artificial intelligence and reliable software engineering.
 
-I work as an associate professor at [Warsaw University of Technology](http://www.mini.pw.edu.pl/) and the [University of Warsaw](https://www.mimuw.edu.pl/). I graduated in software engineering and mathematical statistics and now work on model visualisation, explanatory model analysis, predictive modelling and data science for healthcare.  In 2016, I formed the research group MI² which develops methods and tools for predictive model analysis.
+I work as an associate professor at [Warsaw University of Technology](http://www.mini.pw.edu.pl/) and the [University of Warsaw](https://www.mimuw.edu.pl/). I graduated in software engineering and mathematical statistics and now work on model visualisation, explanatory model analysis, predictive modelling and data science for healthcare. In 2016, I formed the research group MI² which develops methods and tools for predictive model analysis.
 
 Google Scholar: [Af0O75cAAAAJ](https://scholar.google.pl/citations?user=Af0O75cAAAAJ)
 

@@ -599,8 +599,12 @@ Offer:
 
 ## Contact {-}
 
+Our rooms: 
 
-Our rooms: 44 (DataLab - separate entrance in front of the main entrance), 317 (HOMER), 316 (xLungs)
+* 44 (DataLab - separate entrance in front of the main entrance)
+* 316 (xLungs)
+* 317 (HOMER) 
+
 
 Faculty of Mathematics and Information Science,
 

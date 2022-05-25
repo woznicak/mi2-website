@@ -115,23 +115,23 @@ document.body.classList.add("two-columns")
 #### Alumni {-}
 
 * Piotr Czarnecki, MSc
-* [Alicja Gosiewska](the-team.html#alicja-gosiewska), MSc
-* [Maria Kałuska](the-team.html#maria-kałuska), BSc student
+* Alicja Gosiewska, MSc
+* Maria Kałuska, BSc student
 * Marcin Kosiński, MSc
 * Wojciech Kretowicz, BSc
-* [Michał Kuźba](the-team.html#michał-kuźba), MSc
+* Michał Kuźba, MSc
 * Szymon Maksymiuk, BSc
-* [Tomasz Mikołajczyk](the-team.html#tomasz-mikołajczyk), PhD
+* Tomasz Mikołajczyk, PhD
 * Katarzyna Pękala, MSc
 * Adam Rydelek, BSc
-* [Bartosz Sawicki](the-team.html#bartosz-sawicki), BSc student
+* Bartosz Sawicki, BSc student
 * Michał Sokólski, MSc
-* [Szymon Szmajdziński](the-team.html#szymon-szmajdziński), BSc student
-* [Zuzanna Trafas](the-team.html#zuzanna-trafas), BSc student
-* [Kinga Ułasik](the-team.html#kinga-ułasik), BSc student
+* Szymon Szmajdziński, BSc student
+* Zuzanna Trafas, BSc student
+* Kinga Ułasik, BSc student
 * Anna Wróblewska, PhD
-* [Hanna Zdulska](the-team.html#hanna-zdulska), BSc
-* [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
+* Hanna Zdulska, BSc
+* Artur Żółkowski, BSc student
 
 <div class="masonry">
 ### Przemysław Biecek {-}
@@ -318,7 +318,7 @@ GitHub: [woznicak](https://github.com/woznicak)
 LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak)
 
 
-### Hanna Zdulska {-}
+<!-- ### Hanna Zdulska {-}
 
 <img src="images/zdulskah.jpg" ></p>
 
@@ -326,7 +326,7 @@ Software engineer and Data Science BSc student at Warsaw University of Technolog
 
 GitHub: [HaZdula](https://github.com/hazdula)
 
-LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/)
+LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/) -->
 
 
 
@@ -353,7 +353,7 @@ GitHub: [PlentyCoups](https://github.com/PlentyCoups)
 
 
 
-### Bartosz Sawicki {-}
+<!-- ### Bartosz Sawicki {-}
 
 <img src="images/sawickib.jpeg" >
 
@@ -370,7 +370,7 @@ Data Science student at Warsaw University of Technology. Machine learning enthus
 
 GitHub: [Szmajsz](https://github.com/Szmajasz)
 
-LinkedIn: [szymszmaj](https://www.linkedin.com/in/szymszmaj/)
+LinkedIn: [szymszmaj](https://www.linkedin.com/in/szymszmaj/) -->
 
 
 ### Hubert Ruczyński {-}
@@ -381,7 +381,7 @@ Works towards Bachelor's degree in Data Science at Warsaw University of Technolo
 
 GitHub: [HubertR21](https://github.com/HubertR21)
 
-
+<!-- 
 ### Zuzanna Trafas {-}
 
 <img src="images/ztrafas.png" >
@@ -456,7 +456,7 @@ PhD in social sciences, but in recent years has devoted himself to the area of d
 
 GitHub: [tmikolajczyk](https://github.com/tmikolajczyk)
 
-LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds)
+LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds) -->
 
 
 </div>

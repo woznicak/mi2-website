@@ -84,6 +84,7 @@ document.body.classList.add("two-columns")
 * [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
 * [Hubert Ruczyński](the-team.html#hubert-ruczyński), BSc student
 * [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
+* [Nuno Sepúlveda](https://www.immune-stats.net), PhD
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
 * [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
@@ -100,7 +101,6 @@ document.body.classList.add("two-columns")
 * [João Malato](https://www.immune-stats.net), PhD student
 * Bartek Pieliński, PhD, DSc
 * [Hanna Piotrowska](the-team.html#hanna-piotrowska), MA
-* [Nuno Sepúlveda](https://www.immune-stats.net), PhD
 * Elżbieta Sienkiewicz, PhD
 * Julian Sienkiewicz, PhD
 * Patryk Szatkowski, PhD student, MD

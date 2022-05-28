@@ -85,6 +85,7 @@ document.body.classList.add("two-columns")
 * [Hubert Ruczyński](the-team.html#hubert-ruczyński), BSc student
 * [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
+* [Bartek Sobieski](the-team.html#bartek-sobieski), BSc student
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
 * [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
@@ -215,6 +216,7 @@ GitHub: [kozaka93](https://github.com/kozaka93)
 
 LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna)
 
+  
 ### Mateusz Krzyziński {-}
 
 <img src="images/krzyzinskim.jpg" >
@@ -227,6 +229,7 @@ GitHub: [krzyzinskim](https://github.com/krzyzinskim)
 
 LinkedIn: [krzyzinskim](https://www.linkedin.com/in/krzyzinskim/)
   
+  
 ### Stanisław Łaniewski {-}
 
 <img src="images/Stanislaw Laniewski.jpg" >
@@ -236,6 +239,7 @@ His research focuses on enhancing classical methods used in discrete choice and 
   
 LinkedIn: [Stanisław-Łaniewski](https://www.linkedin.com/in/stanislawlaniewski/)
 
+  
 ### Piotr Piątyszek {-}
 
 <img src="images/piotr_piatyszek.jpg" >
@@ -255,7 +259,16 @@ Google Scholar: [Wp0wHJoAAAAJ](https://scholar.google.com/citations?user=Wp0wHJo
 
 LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/)
 
+  
+### Bartek Sobieski {-}
 
+<img src="images/bsobieski.jpg" >
+
+BSc student in Mathematics and Data Analysis at Warsaw University of Technology. Interested in deep learning and hyperparameter optimization.
+
+GitHub: [sob1eski](https://github.com/sob1eski)
+  
+  
 ### Tomasz Stanisławek {-}
 
 <img src="images/ts.jpg" >
@@ -302,7 +315,6 @@ Google Scholar: [_6eQsXMAAAAJ](https://scholar.google.com/citations?user=_6eQsXM
 GitHub: [jakwisn](https://github.com/jakwisn)
 
 LinkedIn: [jakwisn](https://www.linkedin.com/in/jakwisn)
-
 
 
 ### Katarzyna Woźnica {-}
@@ -457,7 +469,6 @@ PhD in social sciences, but in recent years has devoted himself to the area of d
 GitHub: [tmikolajczyk](https://github.com/tmikolajczyk)
 
 LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds) -->
-
 
 </div>
 

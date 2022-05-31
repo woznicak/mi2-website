@@ -110,6 +110,7 @@ document.body.classList.add("two-columns")
 
 * Patryk Słowakiewicz, BSc student
 * Mikołaj Spytek, BSc student
+* Adrian Stańdo, BSc student
 * Mateusz Stączek, BSc student
 * Piotr Wilczyński, BSc student
 

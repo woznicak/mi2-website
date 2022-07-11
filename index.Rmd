@@ -298,8 +298,10 @@ LinkedIn: [paulina-tomaszewska](https://www.linkedin.com/in/paulina-tomaszewska-
 
 <img src="images/lhthien.jpeg" >
 
-Pursuing B.S Degree in Mathematics and Data Analysis at Warsaw University of Technology. Interested in working with data, and learning Machine Learning methods.
+Bachelor student in Maths and Data Analysis at Warsaw University of Technology. Interested in working with data, and learning explainable artificial intelligence methods.
 
+Google Scholar: [JkysewYAAAAJ](https://scholar.google.com/citations?hl=en&authuser=1&user=JkysewYAAAAJ)
+  
 GitHub: [lhthien09](https://github.com/lhthien09)
 
 LinkedIn: [hthienly](https://www.linkedin.com/in/hthienly/)

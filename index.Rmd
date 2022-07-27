@@ -111,7 +111,7 @@ document.body.classList.add("two-columns")
 #### Summer Interns {-}
 
 * Patryk Słowakiewicz, BSc student
-* Mikołaj Spytek, BSc student
+* [Mikołaj Spytek](the-team.html#mikołaj-spytek), BSc student
 * Adrian Stańdo, BSc student
 * Mateusz Stączek, BSc student
 * Piotr Wilczyński, BSc student
@@ -289,6 +289,16 @@ LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-9782
 BSc student in Mathematics and Data Analysis at Warsaw University of Technology. Interested in deep learning and hyperparameter optimization.
 
 GitHub: [sob1eski](https://github.com/sob1eski)
+  
+### Mikołaj Spytek {-}
+
+<img src="images/spytekm.jpeg">
+  
+BSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, data vizualization and survival analysis.
+  
+GitHub: [mikolajsp](https://github.com/mikolajsp)
+  
+LinkedIn: [Mikołaj-Spytek](https://www.linkedin.com/in/miko%C5%82aj-spytek-154760212/)
   
   
 ### Tomasz Stanisławek {-}

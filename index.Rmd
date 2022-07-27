@@ -74,6 +74,7 @@ document.body.classList.add("two-columns")
 * [Przemysław Biecek](the-team.html#przemysław-biecek), PhD, DSc (Team Leader)
 * [Hubert Baniecki](the-team.html#hubert-baniecki), MSc student
 * [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
+* [Maciej Chrabąszcz](docs/the-team.html#maciej-chrabaszcz), MSc student
 * Adrianna Grudzień, BSc student
 * [Mateusz Grzyb](the-team.html#mateusz-grzyb), BSc
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
@@ -179,6 +180,13 @@ LinkedIn: [mcavus](https://www.linkedin.com/in/mustafacavusphd)
 
 Twitter: [mcavus](https://twitter.com/mustafa__cavus)
 
+### Maciej Chrabąszcz {-}
+<img src="images/maciej_chrabaszcz.jpg">
+Master's student in mathematical statisctics at Warsaw University of Technology. Interested in deep learning on text and images, explainable and responsible AI.
+
+GitHub: [maciejchrabaszcz](https://github.com/maciejchrabaszcz)
+
+LinkedIn: [maciej-chrabaszcz](https://www.linkedin.com/in/maciej-chrabaszcz/)
 
 ### Stanisław Giziński {-}
 

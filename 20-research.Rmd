@@ -24,7 +24,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <a href="https://arxiv.org/abs/2105.12837">Fooling Partial Dependence via Data Poisoning</a>
 <p>Hubert Baniecki, Wojciech Kretowicz, Przemyslaw Biecek</p>
 <p><i>ECML PKDD (2022)</i></p>
-We introduce a model-agnostic algorithm for manipulating SHapley Additive exPlanations (SHAP) with perturbation of tabular data. It is evaluated on predictive tasks from healthcare and financial domains to illustrate how crucial is the context of data distribution in interpreting machine learning models. Our method supports checking the stability of the explanations used by various stakeholders apparent in the domain of responsible AI; moreover, the result highlights the explanations' vulnerability that can be exploited by an adversary.
+We showcase that PD can be manipulated in an adversarial manner, which is alarming, especially in financial or medical applications where auditability became a must-have trait supporting black-box machine learning. The fooling is performed via poisoning the data to bend and shift explanations in the desired direction using genetic and gradient algorithms.
 </div>
 
 

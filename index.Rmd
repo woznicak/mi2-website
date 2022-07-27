@@ -79,6 +79,7 @@ document.body.classList.add("two-columns")
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
 * [Anna Kozak](the-team.html#anna-kozak), MSc
+* [Adam Kozłowski](the-team.html#adam-kozlowski), MSc
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), BSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
 * [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
@@ -216,6 +217,16 @@ Google Scholar: [JIrqf9kAAAAJ](https://scholar.google.pl/citations?user=JIrqf9kA
 GitHub: [kozaka93](https://github.com/kozaka93)
 
 LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna)
+  
+### Adam Kozłowski {-}
+
+<img src="images/akozlowski.jpg" >
+
+Graduated in Computer Science at ICM at the University of Warsaw. Currently working in a lab as Research Software Engineer in xLungs. Interested in image processing, deep learning on medical images, and computation acceleration.
+
+GitHub: [adam-kozlowski-280](https://github.com/adam-kozlowski-280)
+
+LinkedIn: [akozowski280](https://www.linkedin.com/in/adam-kozlowski-akozowski280/)
 
   
 ### Mateusz Krzyziński {-}

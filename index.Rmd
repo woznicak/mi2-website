@@ -74,13 +74,13 @@ document.body.classList.add("two-columns")
 * [Przemysław Biecek](the-team.html#przemysław-biecek), PhD, DSc (Team Leader)
 * [Hubert Baniecki](the-team.html#hubert-baniecki), MSc student
 * [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
-* [Maciej Chrabąszcz](docs/the-team.html#maciej-chrabaszcz), MSc student
+* [Maciej Chrabąszcz](docs/the-team.html#maciej-chrabąszcz), MSc student
 * Adrianna Grudzień, BSc student
 * [Mateusz Grzyb](the-team.html#mateusz-grzyb), BSc
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
 * [Anna Kozak](the-team.html#anna-kozak), MSc
-* [Adam Kozłowski](the-team.html#adam-kozlowski), MSc
+* [Adam Kozłowski](the-team.html#adam-kozłowski), MSc
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), BSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
 * [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student

@@ -92,6 +92,7 @@ document.body.classList.add("two-columns")
 * [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
 * [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), BSc
+* [Emilia Wiśnios](the-team.html#emilia-wiśnios), MSc student
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 
 
@@ -349,6 +350,17 @@ Google Scholar: [_6eQsXMAAAAJ](https://scholar.google.com/citations?user=_6eQsXM
 GitHub: [jakwisn](https://github.com/jakwisn)
 
 LinkedIn: [jakwisn](https://www.linkedin.com/in/jakwisn)
+
+
+### Emilia Wiśnios {-}
+
+<img src="images/ewisnios.jpg" >
+
+Research Software Engineer and student of Machine Learning at Faculty of Mathematics, Informatics and Mechanics, University of Warsaw. Interested in natural language processing and reinforcement learning.
+
+GitHub: [emiliawisnios](https://github.com/emiliawisnios)
+
+LinkedIn: [emilia-wisnios](https://www.linkedin.com/in/emilia-wisnios/)
 
 
 ### Katarzyna Woźnica {-}

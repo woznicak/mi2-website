@@ -20,6 +20,15 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 
 
 <div>
+<img src="images/limecraft.png">
+<a href="https://link.springer.com/article/10.1007/s10994-022-06204-w">LIMEcraft: handcrafted superpixel selection and inspection for Visual eXplanations</a>
+<p>Weronika Hryniewska, Adrianna Grudzień, Przemysław Biecek</p>
+<p><i>Machine Learning (2022)</i></p>
+LIMEcraft enhances the process of explanation by allowing a user to interactively select semantically consistent areas and thoroughly examine the prediction for the image instance in case of many image features. Experiments on several models show that our tool improves model safety by inspecting model fairness for image pieces that may indicate model bias. The code is available at: https://github.com/MI2DataLab/LIMEcraft.
+</div>
+
+
+<div>
 <img src="images/foolingpd.png">
 <a href="https://arxiv.org/abs/2105.12837">Fooling Partial Dependence via Data Poisoning</a>
 <p>Hubert Baniecki, Wojciech Kretowicz, Przemyslaw Biecek</p>

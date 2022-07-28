@@ -24,7 +24,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <a href="https://link.springer.com/article/10.1007/s10994-022-06204-w">LIMEcraft: handcrafted superpixel selection and inspection for Visual eXplanations</a>
 <p>Weronika Hryniewska, Adrianna Grudzień, Przemysław Biecek</p>
 <p><i>Machine Learning (2022)</i></p>
-LIMEcraft enhances the process of explanation by allowing a user to interactively select semantically consistent areas and thoroughly examine the prediction for the image instance in case of many image features. Experiments on several models show that our tool improves model safety by inspecting model fairness for image pieces that may indicate model bias. The code is available at: https://github.com/MI2DataLab/LIMEcraft.
+LIMEcraft enhances the process of explanation by allowing a user to interactively select semantically consistent areas and thoroughly examine the prediction for the image instance in case of many image features. Experiments on several models show that our tool improves model safety by inspecting model fairness for image pieces that may indicate model bias. The code is available at: <a href="https://github.com/MI2DataLab/LIMEcraft">this URL</a>. 
 </div>
 
 
@@ -60,7 +60,7 @@ The aim of the study was the appraisal of the diagnostic value of 14 differentia
 <a href="https://www.jmlr.org/papers/v22/20-1473">dalex: Responsible Machine Learning with Interactive Explainability and Fairness in Python</a>
 <p>Hubert Baniecki, Wojciech Kretowicz, Piotr Piątyszek, Jakub Wiśniewski, Przemyslaw Biecek</p>
 <p><i>Journal of Machine Learning Research (2021)</i></p>
-We introduce dalex, a Python package which implements a model-agnostic interface for interactive explainability and fairness. It adopts the design crafted through the development of various tools for explainable machine learning; thus, it aims at the unification of existing solutions. This library's source code and documentation are available under open license at https://python.drwhy.ai.
+We introduce dalex, a Python package which implements a model-agnostic interface for interactive explainability and fairness. It adopts the design crafted through the development of various tools for explainable machine learning; thus, it aims at the unification of existing solutions. This library's source code and documentation are available under open license at <a href="https://python.drwhy.ai">this URL</a>.
 </div>
 
 

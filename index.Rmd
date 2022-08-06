@@ -114,7 +114,7 @@ document.body.classList.add("two-columns")
 * Patryk Słowakiewicz, BSc student
 * [Mikołaj Spytek](the-team.html#mikołaj-spytek), BSc student
 * Adrian Stańdo, BSc student
-* Mateusz Stączek, BSc student
+* [Mateusz Stączek](the-team.html#mateusz-stączek), BSc student
 * Piotr Wilczyński, BSc student
 
 #### Alumni {-}
@@ -313,6 +313,15 @@ Google Scholar: [gq8NY_UAAAAJ](https://scholar.google.pl/citations?user=gq8NY_UA
 GitHub: [tstanislawek](https://github.com/tstanislawek/)
 
 LinkedIn: [Tomasz-Stanisławek](https://pl.linkedin.com/in/tomasz-stanis%C5%82awek-91092729/)
+
+
+### Mateusz Stączek {-}
+
+<img src="images/mstaczek.jpg">
+
+BSc student in Data Science at the Warsaw University of Technology. Interested in exploring various explanation methods for image classification models and visualizing the results. 
+
+GitHub: [mstaczek](https://github.com/mstaczek)
 
 
 ### Paulina Tomaszewska {-}

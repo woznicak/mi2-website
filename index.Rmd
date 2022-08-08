@@ -595,6 +595,12 @@ Offer:
 * Elastic working hours that can be combined with studies
 
 ### Post-doc {-}
+  
+I am looking for a post-doc to join the MI2.AI team for one or two years within [HOMER](https://www.mi2.ai/research-grants.html#homer-2020-2025) project.
+The ideal fit is someone with (experience in Medical Image Analysis with deep learning models) OR (someone with experience in AutoML for tabular data).
+Experience or interest in **XAI** / **fairness** will always be a huge plus in our team.
+
+We have a young and very energetic team focused on growth in AI. Full time position. Salary above academic average. Little or no didactics. Strong focus on doing things that are **meaningful**.
 
 Required:
 

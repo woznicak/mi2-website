@@ -448,6 +448,17 @@ Works towards Bachelor's degree in Data Science at Warsaw University of Technolo
 
 GitHub: [HubertR21](https://github.com/HubertR21)
 
+
+### Patryk Słowakiewicz {-}
+  
+<img src="images/PatrykSlowakieiwcz.jpg" >
+  
+Student of Data Science at Warsaw University of Technology. Intrested in Tree-Based Machine Learning Models.
+
+GitHub: [PSlowakiewicz](https://github.com/PSlowakiewicz)
+  
+LinkedIn: [Patryk Słowakiewicz](https://www.linkedin.com/in/patryk-s%C5%82owakiewicz-b0310723a/)
+  
 <!-- 
 ### Zuzanna Trafas {-}
 

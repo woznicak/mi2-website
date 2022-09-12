@@ -72,7 +72,7 @@ document.body.classList.add("two-columns")
 #### Members {-}
 
 * [Przemysław Biecek](the-team.html#przemysław-biecek), PhD, DSc (Team Leader)
-* [Hubert Baniecki](the-team.html#hubert-baniecki), MSc student
+* [Hubert Baniecki](the-team.html#hubert-baniecki), PhD student
 * [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
 * [Maciej Chrabąszcz](the-team.html#maciej-chrabąszcz), MSc student
 * Adrianna Grudzień, BSc student
@@ -158,13 +158,9 @@ LinkedIn: [pbiecek](https://www.linkedin.com/in/pbiecek/)
 
 <img src="images/hbaniecki.jpg" >
 
-Master's student in Data Science at Warsaw University of Technology. Developing and maintaining open-source Python & R packages for explainability of predictive models. Researching explainable machine learning, responsibility, evaluation and adversarial attacks.
+I'm a PhD student in Computer Science at the University of Warsaw. I previously did my MSc (2022) and BSc (2021) in Data Science at Warsaw University of Technology. My main research interest is explainable machine learning, with particular emphasis on adversarial attacks & evaluation of explanations. I care about human-model interaction with applications in biomedicine. I support the development and maintenance of several open-source Python & R packages for building predictive models responsibly.
 
-Google Scholar: [H72DRC0AAAAJ](https://scholar.google.pl/citations?user=H72DRC0AAAAJ)
-
-GitHub: [hbaniecki](https://github.com/hbaniecki)
-
-LinkedIn: [hbaniecki](https://www.linkedin.com/in/hbaniecki)
+Website: [hbaniecki.com](https://hbaniecki.com)
   
   
 ### Mustafa Cavus {-}

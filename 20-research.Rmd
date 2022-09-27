@@ -20,7 +20,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 
 <div>
 <img src="images/epp_diagram.png">
-<a href="https://www.nature.com/articles/s42256-022-00531-2">Interpretable Meta-Measure for Model Performance</a>
+<a href="https://www.nature.com/articles/s42256-022-00531-2">Interpretable meta-score for model performance</a>
 <p>Alicja Gosiewska, Katarzyna Woźnica, Przemysław Biecek</p>
 <p><i>Nature Machine Intelligence (2022)</i></p>
 Elo-based predictive power (EPP) meta-score that is built on other performance measures and allows for interpretable comparisons of models. Differences between this score have a probabilistic interpretation and can be compared directly between data sets. Furthermore, this meta-score allows for an assessment of ranking fitness. We prove the properties of the Elo-based predictive power meta-score and support them with empirical results on a large-scale benchmark of 30 classification data sets. Additionally, we propose a unified benchmark ontology that provides a uniform description of benchmarks.

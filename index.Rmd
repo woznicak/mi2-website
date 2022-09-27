@@ -633,7 +633,7 @@ Offer:
 * plus results-driven extras
 * contract for 6 months (short visit) / 12 months or 24 months (long visit)
 
-### ARES {-}
+<!-- ### ARES {-}
 
 PhD position funded by the PRELUDIUM BIS grant ARES (*Attack-Resistant Explanations toward Secure and trustworthy AI*).
 
@@ -646,7 +646,7 @@ These are targeted at progressing responsible machine learning toward a secure a
 
 **Join us, and change the way how ML models will be explained and evaluated.**
 
-<img src="images/mi2-ares.png" style="width: 100%;">
+<img src="images/mi2-ares.png" style="width: 100%;"> -->
 
 ### PhD student {-}
 

@@ -290,6 +290,25 @@ List of topics and materials from past seminars: https://github.com/MI2DataLab/M
 </script>
 
 
+
+### ARES 2022-2026 {-}
+
+#### ARES: Attack-resistant Explanations toward Secure and trustworthy AI {-}
+
+![images/mi2-ares.png](images/mi2-ares.png)
+
+Machine learning explainability, fairness, robustness, and security are key elements of trustworthy Artificial
+Intelligence, an area of strategic importance. In this context, the main goals of the ARES project are:
+
+1. Develop adversarial attacks on state-of-the-art explanations to investigate vulnerabilities and
+limitations of the existing explainability and fairness approaches in machine learning.
+2. Introduce novel robust explanations that are stable against manipulation and intuitive to evaluate.
+
+Achieving the first goal primarily impacts various domains of research, which currently use (and explain) black-box models for knowledge discovery and decision-making, by highlighting vulnerabilities and limitations of their explanations. Achieving the second goal impacts more the broad machine learning domain as it aims at improving state-of-the-art by introducing robust explanations toward secure and trustworthy AI.
+
+**Work on this project is financially supported by the NCN Preludium Bis grant 2021/43/O/ST6/00347.**
+
+
 ### DARLING 2022-2024   {-}
 
 #### DARLING: Deep Analysis of Regulations with Language Inference, Network analysis and institutional Grammar  {-}

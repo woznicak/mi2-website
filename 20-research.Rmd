@@ -27,6 +27,14 @@ Elo-based predictive power (EPP) meta-score that is built on other performance m
 </div>
 
 
+<div>
+<img src="images/mini_fairmodels.png">
+<a href="http://doi.org/10.32614/RJ-2022-019">fairmodels: a Flexible Tool for Bias Detection, Visualization, and Mitigation in Binary Classification Models</a>
+<p>Jakub Wiśniewski, Przemyslaw Biecek</p>
+<p><i>The R Journal (2022)</i></p>
+Machine learning decision systems are becoming omnipresent in our lives. From dating apps to rating loan seekers, algorithms affect both our well-being and future. Typically, however, these systems are not infallible. Moreover, complex predictive models are eager to learn social biases present in historical data that may increase discrimination. If we want to create models responsibly, we need tools for in-depth validation of models also from potential discrimination. This article introduces an R package fairmodels that helps to validate fairness and eliminate bias in binary classification models quickly and flexibly. The fairmodels package offers a model-agnostic approach to bias detection, visualization, and mitigation. The implemented functions and fairness metrics enable model fairness validation from different perspectives. In addition, the package includes a series of methods for bias mitigation that aim to diminish the discrimination in the model. The package is designed to examine a single model and facilitate comparisons between multiple models.
+</div>
+
 
 <div>
 <img src="images/xai-alzheimer.png">
@@ -141,15 +149,6 @@ This study shows the first confirmed case of SARS-CoV-2 in Poland with the linea
 <p>Hubert Baniecki, Przemyslaw Biecek</p>
 <p><i>AAAI Conference on Artificial Intelligence (2021)</i></p>
 During the literature review of COVID-19 related prognosis and diagnosis, we found out that most of the predictive models are not faithful to the RAI principles, which can lead to biassed results and wrong reasoning. To solve this problem, we show how novel XAI techniques boost transparency, reproducibility and quality of models.
-</div>
-
-
-<div>
-<img src="images/mini_fairmodels.png">
-<a href="https://arxiv.org/abs/2104.00507">fairmodels: A Flexible Tool For Bias Detection, Visualization, And Mitigation</a>
-<p>Jakub Wiśniewski, Przemyslaw Biecek</p>
-<p><i>arXiv preprint (2021)</i></p>
-This article introduces an R package fairmodels that helps to validate fairness and eliminate bias in classification models in an easy and flexible fashion. The fairmodels package offers a model-agnostic approach to bias detection, visualization and mitigation. The implemented set of functions and fairness metrics enables model fairness validation from different perspectives. The package includes a series of methods for bias mitigation that aim to diminish the discrimination in the model. 
 </div>
 
 

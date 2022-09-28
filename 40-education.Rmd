@@ -11,6 +11,13 @@ We take social responsibility seriously and as part of our activities we support
   document.querySelector(".page-inner section > *:first-child").classList.add("teaching-layout")
 </script>
 
+### Data Visualization 22/23 Winter {-}
+
+[Data Visualization Techniques](https://github.com/mini-pw/2023Z-DataVisualizationTechniques) for Data Science studies
+
+- lectures, labs, projects - Anna Kozak
+- labs, projects - Mateusz Krzyziński, Hubert Ruczyński, Mikołaj Spytek
+
 ### Exploratory Data Analysis 21/22 Summer {-}
 
 [Introduction to exploratory data analysis](https://github.com/MI2-Education/2022L-ExploratoryDataAnalysis) for Mathematics and data analysis studies

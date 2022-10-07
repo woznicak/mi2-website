@@ -98,6 +98,7 @@ document.body.classList.add("two-columns")
 
 #### Collaborators {-}
 
+* [Mariusz Adamek](https://www.mariuszadamek.io/), Prof, MD
 * Przemysław Bombiński, PhD, MD
 * [André Fonseca](https://www.immune-stats.net), PhD student
 * Katarzyna Kobylińska, PhD student
@@ -153,16 +154,23 @@ GitHub: [pbiecek](https://github.com/pbiecek)
 
 LinkedIn: [pbiecek](https://www.linkedin.com/in/pbiecek/)
 
+### Mariusz Adamek {-}
+
+<img src="images/mariusz_adamek.jpg" >
+
+I work at two Medical Universities (Silesia and Gdańsk) holding a Professorship in Medicine and Health Sciences. My interests are focused on lung cancer prevention and screening, the latter by means of low-dose computed tomography (LDCT) with special emphasis put on molecular biology methods, prediction models and image analysis aimed to enhance the performance of lung screening outcomes.
+
+Website: [www.mariuszadamek.io](https://www.mariuszadamek.io/)
 
 ### Hubert Baniecki {-}
 
 <img src="images/hbaniecki.jpg" >
 
-I'm a PhD student in Computer Science at the University of Warsaw. I previously did my MSc (2022) and BSc (2021) in Data Science at Warsaw University of Technology. My main research interest is explainable machine learning, with particular emphasis on adversarial attacks & evaluation of explanations. I care about human-model interaction with applications in biomedicine. I support the development and maintenance of several open-source Python & R packages for building predictive models responsibly.
+I’m a PhD student in Computer Science at the University of Warsaw. I previously did my MSc (2022) and BSc (2021) in Data Science at Warsaw University of Technology. My main research interest is explainable machine learning, with particular emphasis on adversarial attacks & evaluation of explanations. I care about human-model interaction with applications in biomedicine. I support the development and maintenance of several open-source Python & R packages for building predictive models responsibly.
 
-Website: [hbaniecki.com](https://hbaniecki.com)
-  
-  
+Website: [hbaniecki.com](https://hbaniecki.com/)
+
+
 ### Mustafa Cavus {-}
 
 <img src="images/mcavus.jpg" >
@@ -447,7 +455,7 @@ GitHub: [HubertR21](https://github.com/HubertR21)
 
 ### Patryk Słowakiewicz {-}
   
-<img src="images/PatrykSlowakieiwcz.jpg" >
+<img src="images/PatrykSlowakiewicz.jpg" >
   
 Student of Data Science at Warsaw University of Technology. Intrested in Tree-Based Machine Learning Models.
 

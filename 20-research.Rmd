@@ -415,7 +415,7 @@ More information: https://github.com/MI2DataLab/DeCoviD.
 
 **Expected impact on the development of science.** Explanations of black boxes have fundamental implications for the field of predictive and statistical modelling. The advent of big data forces imposes usage of black boxes that are easily able to overperform classical methods. But the high performance itself does not imply that the model is appropriate. Thus, especially in applications to personalized medicine or some regulated fields, one should scrutinize decision rules incorporated in the model. New methods and tools for exploration of black-box models are useful for quick identification of problems with the model structure and increase the interpretability of a black-box
 
-**Work on this project is financially supported by the NCN Opus grant 2017/27/B/ST6/0130.**
+**Work on this project is financially supported by the NCN Opus grant 2017/27/B/ST6/01307.**
 
 
 

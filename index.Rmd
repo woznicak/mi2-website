@@ -116,7 +116,7 @@ document.body.classList.add("two-columns")
 * [Mikołaj Spytek](the-team.html#mikołaj-spytek), BSc student
 * Adrian Stańdo, BSc student
 * [Mateusz Stączek](the-team.html#mateusz-stączek), BSc student
-* Piotr Wilczyński, BSc student
+* [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
 
 #### Alumni {-}
 
@@ -351,6 +351,17 @@ GitHub: [lhthien09](https://github.com/lhthien09)
 
 LinkedIn: [hthienly](https://www.linkedin.com/in/hthienly/)
 
+
+### Piotr Wilczyński {-}
+
+<img src="images/pwilczynski.jpg">
+
+BSc student in Data Science at Warsaw University of Technology. Interested in ontologies, semantic similarity, hyperparameter optimization and NLP.
+
+GitHub: [wi1lku](https://github.com/wi1lku)
+
+LinkedIn: [Piotr-Wilczyński](https://www.linkedin.com/in/piotr-wilczy%C5%84ski-5a529320b/)
+ 
 
 ### Jakub Wiśniewski {-}
 

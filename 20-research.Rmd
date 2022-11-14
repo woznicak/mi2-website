@@ -124,7 +124,7 @@ Our analysis revealed numerous mistakes made at different stages of data acquisi
 <img src="images/xai_metalearning.png">
 <a href="https://arxiv.org/abs/2002.04276">Towards explainable meta-learning</a>
 <p>Katarzyna Woźnica, Przemyslaw Biecek</p>
-<p><i>XKDD Workshop ECML PKDD (2021)</i></p>
+<p><i>ECML PKDD Workshop on eXplainable Knowledge Discovery in Data Mining (2021)</i></p>
 To build a new generation of meta-models we need a deeper understanding of the importance and effect of meta-features on the model tunability. In this paper, we propose techniques developed for eXplainable Artificial Intelligence (XAI) to examine and extract knowledge from black-box surrogate models. To our knowledge, this is the first paper that shows how post-hoc explainability can be used to improve the meta-learning.
 </div>
 
@@ -134,7 +134,7 @@ To build a new generation of meta-models we need a deeper understanding of the i
 <a href="https://drive.google.com/file/d/1-B5T3FCAHzDJbOaPtBnf5l9NnK-yhJtZ/view">Prevention is better than cure: a
 case study of the abnormalities detection in the chest</a>
 <p>Weronika Hryniewska, Piotr Czarnecki, Jakub Wiśniewski, Przemysław Bombiński, Przemysław Biecek</p>
-<p><i>“Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision” CVPR Workshop (2021)</i></p>
+<p><i>CVPR Workshop on “Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision” (2021)</i></p>
 In this paper, we analyze in detail a single use case - a Kaggle competition related to the detection of abnormalities in X-ray lung images. We demonstrate how a series of simple tests for data imbalance exposes faults in the data acquisition and annotation process. Complex models are able to learn such artifacts and it is difficult to remove this bias during or after the training. 
 </div>
 
@@ -203,7 +203,7 @@ Complex models are commonly used in predictive modeling. In this paper we presen
 <a href="https://www.jmlr.org/papers/v22/20-1473">DALEX: Explainers for Complex Predictive Models in R</a>
 <p>Przemyslaw Biecek</p>
 <p><i>Journal of Machine Learning Research (2018)</i></p>
-Predictive modeling is invaded by elastic, yet complex methods such as neural networks or ensembles (model stacking, boosting or bagging). Such methods are usually described by a large number of parameters or hyper parameters - a price that one needs to pay for elasticity. The very number of parameters makes models hard to understand. This paper describes a consistent collection of explainers for predictive models, a.k.a. black boxes. Each explainer is a technique for exploration of a black box model. Presented approaches are model-agnostic, what means that they extract useful information from any predictive method irrespective of its internal structure. Each explainer is linked with a specific aspect of a model. Some are useful in decomposing predictions, some serve better in understanding performance, while others are useful in understanding importance and conditional responses of a particular variable. Every explainer presented here works for a single model or for a collection of models. In the latter case, models can be compared against each other. Such comparison helps to find strengths and weaknesses of different models and gives additional tools for model validation. Presented explainers are implemented in the DALEX package for R. They are based on a uniform standardized grammar of model exploration which may be easily extended.
+This paper describes a consistent collection of explainers for predictive models, a.k.a. black boxes. Each explainer is a technique for exploration of a black box model. Presented approaches are model-agnostic, what means that they extract useful information from any predictive method irrespective of its internal structure. Each explainer is linked with a specific aspect of a model. Every explainer presented here works for a single model or for a collection of models. In the latter case, models can be compared against each other. Presented explainers are implemented in the DALEX package for R. They are based on a uniform standardized grammar of model exploration which may be easily extended.
 </div>
 
 

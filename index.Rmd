@@ -94,6 +94,7 @@ document.body.classList.add("two-columns")
 * [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), BSc
 * [Emilia Wiśnios](the-team.html#emilia-wiśnios), MSc student
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
+* [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
 
 
 #### Collaborators {-}
@@ -137,7 +138,6 @@ document.body.classList.add("two-columns")
 * Kinga Ułasik, BSc student
 * Anna Wróblewska, PhD
 * Hanna Zdulska, BSc
-* Artur Żółkowski, BSc student
 
 <div class="masonry">
 ### Przemysław Biecek {-}
@@ -399,6 +399,16 @@ GitHub: [woznicak](https://github.com/woznicak)
 
 LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak)
 
+### Artur Żółkowski {-}
+
+<img src="images/zolkowskia.jpg">
+
+BSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, computer vision and NLP.
+
+GitHub: [arturzolkowski](https://github.com/arturzolkowski)
+
+LinkedIn: [Artur-Żółkowski](https://www.linkedin.com/in/azolkowski/)
+
 
 <!-- ### Hanna Zdulska {-}
 
@@ -505,16 +515,6 @@ GitHub: [kaluskam](https://github.com/kaluskam)
 
 LinkedIn: [Maria-Kałuska](https://www.linkedin.com/in/marysia-ka%C5%82uska-ba16bb208/)
 
-
-### Artur Żółkowski {-}
-
-<img src="images/zolkowskia.jpg" >
-
-Bachelor Data Science student at Warsaw University of Technology. Interested in machine learning and explainable artificial intelligence.
-
-GitHub: [arturzolkowski](https://github.com/arturzolkowski)
-
-LinkedIn: [azolkowski](https://www.linkedin.com/in/azolkowski/)
 
 ### Alicja Gosiewska {-}
 

@@ -20,6 +20,15 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 
 
 <div>
+<img src="images/climate_policy_tracker.png">
+<a href="http://arxiv.org/abs/2211.05852 ">Climate Policy Tracker: Pipeline for automated analysis of public climate policies</a>
+<p>Artur Żółkowski, Mateusz Krzyziński, Piotr Wilczyński, Stanisław Giziński, Emilia Wiśnios, Bartosz Pieliński, Julian Sienkiewicz, Przemysław Biecek</p>
+<p><i>NeurIPS Workshop on Tackling Climate Change with Machine Learning (2022)</i></p>
+ In this work, we use a Latent Dirichlet Allocation-based pipeline for the automatic summarization and analysis of 10-years of national energy and climate plans (NECPs) for the period from 2021 to 2030, established by 27 Member States of the European Union. We focus on analyzing policy framing, the language used to describe specific issues, to detect essential nuances in the way governments frame their climate policies and achieve climate goals.
+</div>
+
+
+<div>
 <img src="images/gdf.png">
 <a href="https://doi.org/10.1038/s41598-022-21417-8">Multi-omics disease module detection with an explainable Greedy Decision Forest</a>
 <p>Bastian Pfeifer, Hubert Baniecki, Anna Saranti, Przemyslaw Biecek, Andreas Holzinger</p>

@@ -88,6 +88,7 @@ document.body.classList.add("two-columns")
 * [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
 * [Bartek Sobieski](the-team.html#bartek-sobieski), BSc student
+* [Mikołaj Spytek](the-team.html#mikołaj-spytek), BSc student
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
 * [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
@@ -114,7 +115,6 @@ document.body.classList.add("two-columns")
 #### Summer Interns {-}
 
 * Patryk Słowakiewicz, BSc student
-* [Mikołaj Spytek](the-team.html#mikołaj-spytek), BSc student
 * Adrian Stańdo, BSc student
 * [Mateusz Stączek](the-team.html#mateusz-stączek), BSc student
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student

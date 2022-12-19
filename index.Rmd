@@ -109,7 +109,7 @@ document.body.classList.add("two-columns")
 * Bartek Pieliński, PhD, DSc
 * [Hanna Piotrowska](the-team.html#hanna-piotrowska), MA
 * Elżbieta Sienkiewicz, PhD
-* Julian Sienkiewicz, PhD
+* [Julian Sienkiewicz](the-team.html#julian-sienkiewicz), PhD
 * Patryk Szatkowski, PhD student, MD
 
 #### Summer Interns {-}
@@ -184,6 +184,16 @@ GitHub: [mcavus](https://github.com/mcavs)
 LinkedIn: [mcavus](https://www.linkedin.com/in/mustafacavusphd)
 
 Twitter: [mcavus](https://twitter.com/mustafa__cavus)
+
+### Julian Sienkiewicz {-}
+
+<img src="images/jsienkiewicz.jpg" >
+
+I work as an assistant professor at [Faculty of Physics, WUT](https://www.fizyka.pw.edu.pl). My main research area links with sociophysics, complex networks and agent-based models. In the scope of MI² DataLab I follow my other interest - scientometrics.
+
+Google Scholar: [mIwu11QAAAAJ](https://scholar.google.pl/citations?user=mIwu11QAAAAJ)
+
+LinkedIn: [julek-sienkiewicz-873829](https://www.linkedin.com/in/julek-sienkiewicz-873829/)
 
 ### Maciej Chrabąszcz {-}
 

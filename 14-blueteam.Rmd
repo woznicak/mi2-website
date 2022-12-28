@@ -1,0 +1,28 @@
+# MI²BlueTeam  {-}
+
+The MI2.AI Blue Team develops predictive models and other artificial intelligence solutions, with a special focus on the health sector. The developed models are transparent, cooperative with human operators, high-performance and, above all, safe. Also develops methods and tools for automated model development (AutoEDA).
+
+####   {-}
+
+Our blue team is a group of experienced data scientist who explore data and train secure high-performance models. We use state-of-the-art methods and toolbox and develop new approaches to transfer hyperparameters, impute missing data and above all - create good predictive models. 
+
+There are many different ways that our blue team can help in developing of good predictive modes. Some common techniques used by our blue team include:
+
+- **Use explainability tools**: There are several tools and techniques available that can help to make machine learning models more transparent, such as local interpretable model-agnostic explanations (LIME) and Shapley values (SHAP).
+- **Document the model development process**, including the data used, the modeling techniques applied, and the results obtained. 
+- **Use visualizations**, such as decision trees or feature importance plots, can help to make the model's decision-making process more transparent and easier to understand.
+- **Use feature importance measures**, which can help to identify the most important features in the model and how they contribute to the model's predictions. This can help to make the model more transparent and easier to understand.
+- **Use interpretable models**, such as decision trees and linear regression, that can make it easier to understand how the model is making predictions and why certain predictions are being made.
+
+Overall, the goal of our blue team is to create transparent, high-performance predictive models, as well as documenting and explaining the model development process.
+
+
+**Example solutions** developed by our blue team:
+
+- [survminer](https://cran.r-project.org/web/packages/survminer/index.html) for visualisation of survival models
+- [Explainable Meta-learning](https://link.springer.com/chapter/10.1007/978-3-030-93736-2_38)
+- [Transparent Credit Scoring](https://www.tandfonline.com/doi/full/10.1080/01605682.2021.1922098)
+- [interpretable meta-score](https://www.nature.com/articles/s42256-022-00531-2)
+- [forester](https://github.com/ModelOriented/forester) for automated training of tree-based models
+- predictive models for [uveal melanoma](https://www.sciencedirect.com/science/article/pii/S0959804922004658), [lung cancer](https://www.mdpi.com/2076-3417/12/4/1926), [sepsis](https://www.mdpi.com/2073-4409/11/15/2433), [breast cancer](https://www.nature.com/articles/s41598-019-43556-1), [NSCLC](https://www.mdpi.com/2072-6694/14/2/439)
+

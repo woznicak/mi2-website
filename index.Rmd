@@ -87,7 +87,7 @@ document.body.classList.add("two-columns")
 * [Hubert Ruczyński](the-team.html#hubert-ruczyński), BSc student
 * [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
-* [Bartek Sobieski](the-team.html#bartek-sobieski), BSc student
+* [Bartek Sobieski](the-team.html#bartek-sobieski), MSc student
 * [Mikołaj Spytek](the-team.html#mikołaj-spytek), BSc student
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
 * [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
@@ -313,9 +313,11 @@ LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-9782
 
 <img src="images/bsobieski.jpg" >
 
-BSc student in Mathematics and Data Analysis at Warsaw University of Technology. Interested in deep learning and hyperparameter optimization.
+MSc student in Data Science at Warsaw University of Technology. Interested in deep learning and hyperparameter optimization.
 
-GitHub: [sob1eski](https://github.com/sob1eski)
+GitHub: [sobieskibj](https://github.com/sobieskibj)
+  
+LinkedIn: [Bartłomiej-Sobieski](www.linkedin.com/in/bartłomiej-sobieski)
   
 ### Mikołaj Spytek {-}
 

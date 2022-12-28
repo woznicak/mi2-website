@@ -19,15 +19,13 @@ options(
 output <- knitr::opts_knit$get("rmarkdown.pandoc.to")
 is.html = !is.null(output) && output == "html"
 ```
-# MI²DataLab {-}
+# MI².AI {-}
 <script>
 document.body.classList.add("index-page")
 </script>
 
-MI² is a group of mathematicians and computer scientists that love to play with data.
-We are spread between [Warsaw University of Technology](https://www.pw.edu.pl/engpw) and [University of Warsaw](https://en.uw.edu.pl).
-
-DataLab is our creative space, place in which we have workshops, seminars and some experiments. Feel free to jump in. Here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude.
+MI².AI is a group of mathematicians and computer scientists that love to play with predictive models.
+We are spread between [Warsaw University of Technology](https://www.pw.edu.pl/engpw) and [University of Warsaw](https://en.uw.edu.pl). Here we have workshops, seminars, here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude. Feel free to jump in. 
 
 #### Mission {-}
 

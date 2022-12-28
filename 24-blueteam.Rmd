@@ -20,9 +20,9 @@ Overall, the goal of our blue team is to create transparent, high-performance pr
 **Example solutions** developed by our blue team:
 
 - [survminer](https://cran.r-project.org/web/packages/survminer/index.html) for visualisation of survival models
-- [Explainable Meta-learning](https://link.springer.com/chapter/10.1007/978-3-030-93736-2_38)
-- [Transparent Credit Scoring](https://www.tandfonline.com/doi/full/10.1080/01605682.2021.1922098)
-- [interpretable meta-score](https://www.nature.com/articles/s42256-022-00531-2)
 - [forester](https://github.com/ModelOriented/forester) for automated training of tree-based models
 - predictive models for [uveal melanoma](https://www.sciencedirect.com/science/article/pii/S0959804922004658), [lung cancer](https://www.mdpi.com/2076-3417/12/4/1926), [sepsis](https://www.mdpi.com/2073-4409/11/15/2433), [breast cancer](https://www.nature.com/articles/s41598-019-43556-1), [NSCLC](https://www.mdpi.com/2072-6694/14/2/439)
+- [explainable meta-learning](https://link.springer.com/chapter/10.1007/978-3-030-93736-2_38) for AutoML
+- [transparent credit scoring](https://www.tandfonline.com/doi/full/10.1080/01605682.2021.1922098) processes, tools and applications
+- [interpretable meta-score](https://www.nature.com/articles/s42256-022-00531-2) for benchmarking of predictive solutions
 

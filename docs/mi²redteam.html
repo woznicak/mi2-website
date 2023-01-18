@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>MI²RedTeam | MI²</title>
   <meta name="description" content="MI2" />
-  <meta name="generator" content="bookdown 0.31 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.32 and GitBook 2.6.7" />
 
   <meta property="og:title" content="MI²RedTeam | MI²" />
   <meta property="og:type" content="book" />
@@ -163,26 +163,43 @@
             <section class="normal" id="section-">
 <div id="mi²redteam" class="section level1 unnumbered hasAnchor">
 <h1>MI²RedTeam<a href="mi²redteam.html#mi²redteam" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p>The MI2.AI Red Team analyses predictive models and other artificial intelligence solutions, identifies vulnerabilities and weaknesses in order to improve its security and robustness. Also develops methods and tools for explanatory model analysis (EMA).</p>
+<p><strong>MI²RedTeam</strong> analyses machine and deep learning predictive models through the lens of AI explainability, fairness, security and human trust. We develop methods and tools for explanatory model analysis and apply them in practice.</p>
 <div id="section-2" class="section level4 unnumbered">
 <h4 class="unnumbered"></h4>
-<p>Our red team is a group of experienced XAI researchers who look for vulnerabilities and weaknesses in order to improve its security and robustness of AI solutions. We use state-of-the-art methods and develop new methods and software to test the security and robustness of predictive models.</p>
-<p>There are many different ways that our red team can test the resilience of an AI system, depending on the specific goals and objectives of the exercise. Some common techniques used by our red team include:</p>
+<p><strong>MI²RedTeam</strong> is a group of researchers experienced in <a href="https://doi.org/10.1016/j.inffus.2019.12.012">XAI</a> who perform a rigorous evaluation of AI solutions in order to improve their transparency and security. We apply state-of-the-art methods and introduce new ones to tailor our analysis to the specific predictive task.</p>
+<p>Our current <em>core</em> research topics of interest include:</p>
+<ol style="list-style-type: decimal">
+<li>[<strong>ARES</strong>] Attack-Resistant Explanations towards Secure AI, i.e. a critical evaluation of the state-of-the-art analysis techniques</li>
+<li>[<strong>xSurvival</strong>] Explanatory analysis of machine learning survival models</li>
+<li>[<strong>Large Model Analysis</strong>] Explanatory analysis of large models, e.g. transformers</li>
+</ol>
+<blockquote>
+<p>We openly collaborate on various topics related to explainable and interpretable machine learning. Feel free to <a href="mailto:przemyslaw.biecek@gmail.com">reach out to us</a> with research ideas and development opportunities. We help organizations to better understand the vulnerabilities of their AI systems, and take steps to mitigate them.</p>
+</blockquote>
+<p><strong>Methods and methodologies</strong> introduced by our team:</p>
 <ul>
-<li>Testing <strong>the robustness of an AI system to adversarial examples</strong>: An adversarial example is an input to an AI system that has been modified in some way to cause the system to make a wrong prediction, in order to test the system’s robustness.</li>
-<li>Testing <strong>the security of an AI system</strong> by attempting to access or modify data, or reverse engineering the training data.</li>
-<li>Testing <strong>the robustness of an AI system to changing conditions</strong>, such as introducing noise or introducing new data that the system has not seen before.</li>
+<li><a href="https://iema.drwhy.ai">InteractiveEMA</a> towards human-model interaction in explainable machine learning for tabular data</li>
+<li><a href="https://doi.org/10.1016/j.knosys.2022.110234">SurvSHAP(t)</a> for time-dependent analysis of machine learning survival models</li>
+<li><a href="https://doi.org/10.1007/s10994-022-06204-w">LIMEcraft</a> for human-guided visual explanations of deep neural networks</li>
+<li><a href="https://arxiv.org/abs/2105.12837">Fooling PD</a> &amp; <a href="https://doi.org/10.1609/aaai.v36i11.21590">Manipulating SHAP</a> for stress-testing widely-applied explanation methods</li>
+<li><a href="https://doi.org/10.1016/j.patcog.2021.108035">Checklist</a> towards responsible deep learning on medical images</li>
+<li><a href="https://doi.org/10.1016/j.dss.2021.113556">SAFE</a> for lifting interpretability-performance trade-off via automated feature engineering</li>
+<li><a href="https://doi.org/10.1007/978-3-030-36718-3_20">WildNLP</a> for stress-testing deep learning models in NLP</li>
+<li><a href="https://ema.drwhy.ai">Explanatory Model Analysis</a> towards comprehensive examination of predictive models</li>
 </ul>
-<p>Overall, the goal of our red team in the context of AI is to identify and exploit weaknesses in the system in order to improve the system’s robustness and security. This can help organizations to better understand the vulnerabilities of their AI systems and take steps to mitigate them.</p>
-<p><strong>Example solutions</strong> developed by our red team:</p>
+<p><strong>Tools</strong> developed by our team:</p>
 <ul>
-<li><a href="https://dalex.drwhy.ai/">DALEX</a>, <a href="https://github.com/ModelOriented/modelStudio">modelStudio</a>, <a href="https://arxiv.org/abs/2005.00497">InteractiveEMA</a> for exploration of models for tabular data</li>
-<li><a href="https://arxiv.org/abs/2208.11080">SurvSHAP</a> for exploration of survival models</li>
-<li><a href="https://github.com/ModelOriented/treeshap">TreeSHAP</a>, <a href="https://github.com/ModelOriented/randomForestExplainer">randomForestExplainer</a>, <a href="https://github.com/ModelOriented/EIX">EIX</a> for exploration of tree models</li>
-<li><a href="https://github.com/ModelOriented/drifter">drifter</a> for concept drift analysis</li>
-<li><a href="https://fairmodels.drwhy.ai/">fairmodels</a> for fairness analysis</li>
-<li><a href="https://link.springer.com/chapter/10.1007/978-3-030-36718-3_20">Models in the Wild</a> for exploration of language models</li>
-<li><a href="https://link.springer.com/article/10.1007/s10994-022-06204-w">LIMEcraft</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0031320321002223">Checklist</a> for exploration of models for image data</li>
+<li><a href="https://dalex.drwhy.ai">DALEX</a>, <a href="https://doi.org/10.32614/RJ-2018-072">breakDown</a>, <a href="https://doi.org/10.32614/RJ-2019-036">auditor</a> &amp; <a href="https://github.com/ModelOriented/modelStudio">modelStudio</a> for explainable machine learning in R</li>
+<li><a href="http://python.drwhy.ai">dalex</a> for explainable and fair machine learning in Python</li>
+<li><a href="https://github.com/modeloriented/survex">survex</a> dedicated to explaining machine learning survival models</li>
+<li><a href="https://fairmodels.drwhy.ai">fairmodels</a> for fairness analysis of machine learning classification models</li>
+</ul>
+<p><strong>Applications</strong> supported by our team:</p>
+<ul>
+<li>In <strong>medicine</strong>, we analyzed hundreds of models predicting among others: <a href="https://doi.org/10.1016/j.ejca.2022.07.031">survival in uveal melanoma eye cancer</a>, <a href="https://doi.org/10.3390/cells11152433">survival in sepsis</a>, <a href="https://doi.org/10.3390/cancers14020439">type of lung cancer</a>, <a href="https://doi.org/10.3390/app12041926">lung cancer risk in screening</a>, <a href="https://doi.org/10.1007/978-3-030-37446-4_13">lung cancer mortality</a>, <a href="https://doi.org/10.1609/aaai.v35i18.17874">COVID-19 mortality</a>, <a href="https://doi.org/10.1186/s40708-022-00165-5">progression of Alzheimer’s disease</a>.</li>
+<li>In <strong>credit scoring</strong>, we analyzed the <a href="https://doi.org/10.1080/01605682.2021.1922098">transparency, auditability, and explainability of machine learning models</a>.</li>
+<li>In <strong>football analytics</strong>, we analyzed <a href="https://arxiv.org/abs/2206.07212">expected goal models for performance analysis</a>.</li>
+<li>…</li>
 </ul>
 
 </div>

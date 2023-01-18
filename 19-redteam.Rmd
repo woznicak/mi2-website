@@ -1,6 +1,6 @@
-# MI²RedTeam  {-}
+# MI²<span style="color:red">Red</span>Team  {-}
 
-**MI²RedTeam** analyses machine and deep learning predictive models through the lens of AI explainability, fairness, security and human trust. We develop methods and tools for explanatory model analysis and apply them in practice.
+**MI²<span style="color:red">Red</span>Team** analyses machine and deep learning predictive models through the lens of AI explainability, fairness, security and human trust. We develop methods and tools for explanatory model analysis and apply them in practice.
 
 ####  {-}
 

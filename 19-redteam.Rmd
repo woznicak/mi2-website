@@ -1,10 +1,10 @@
-# MI²<span style="color:red">Red</span>Team  {-}
+# MI²RedTeam  {-}
 
-**MI²<span style="color:red">Red</span>Team** analyses machine and deep learning predictive models through the lens of AI explainability, fairness, security and human trust. We develop methods and tools for explanatory model analysis and apply them in practice.
+**MI²<span style="color:red"><strong>Red</strong></span>Team** analyses machine and deep learning predictive models through the lens of AI explainability, fairness, security and human trust. We develop methods and tools for explanatory model analysis and apply them in practice.
 
 ####  {-}
 
-**MI²RedTeam** is a group of researchers experienced in [XAI](https://doi.org/10.1016/j.inffus.2019.12.012) who perform a rigorous evaluation of AI solutions in order to improve their transparency and security. We apply state-of-the-art methods and introduce new ones to tailor our analysis to the specific predictive task. 
+**MI²<span style="color:red"><strong>Red</strong></span>Team** is a group of researchers experienced in [XAI](https://doi.org/10.1016/j.inffus.2019.12.012) who perform a rigorous evaluation of AI solutions in order to improve their transparency and security. We apply state-of-the-art methods and introduce new ones to tailor our analysis to the specific predictive task. 
 
 Our current *core* research topics of interest include:
 

@@ -1,25 +1,40 @@
 # MI²RedTeam  {-}
 
-The MI2.AI Red Team analyses predictive models and other artificial intelligence solutions, identifies vulnerabilities and weaknesses in order to improve its security and robustness. Also develops methods and tools for explanatory model analysis (EMA).
+**MI²RedTeam** analyses machine and deep learning predictive models through the lens of AI explainability, fairness, security and human trust. We develop methods and tools for explanatory model analysis and apply them in practice.
 
 ####  {-}
 
-Our red team is a group of experienced XAI researchers who look for vulnerabilities and weaknesses in order to improve its security and robustness of AI solutions. We use state-of-the-art methods and develop new methods and software to test the security and robustness of predictive models. 
+**MI²RedTeam** is a group of researchers experienced in [XAI](https://doi.org/10.1016/j.inffus.2019.12.012) who perform a rigorous evaluation of AI solutions in order to improve their transparency and security. We apply state-of-the-art methods and introduce new ones to tailor our analysis to the specific predictive task. 
 
-There are many different ways that our red team can test the resilience of an AI system, depending on the specific goals and objectives of the exercise. Some common techniques used by our red team include:
+Our current *core* research topics of interest include:
 
-- Testing **the robustness of an AI system to adversarial examples**: An adversarial example is an input to an AI system that has been modified in some way to cause the system to make a wrong prediction, in order to test the system's robustness.
-- Testing **the security of an AI system** by attempting to access or modify data, or reverse engineering the training data.
-- Testing **the robustness of an AI system to changing conditions**, such as introducing noise or introducing new data that the system has not seen before.
+1. [**ARES**] Attack-Resistant Explanations towards Secure AI, i.e. a critical evaluation of the state-of-the-art analysis techniques 
+2. [**xSurvival**] Explanatory analysis of machine learning survival models
+3. [**Large Model Analysis**] Explanatory analysis of large models, e.g. transformers
 
-Overall, the goal of our red team in the context of AI is to identify and exploit weaknesses in the system in order to improve the system's robustness and security. This can help organizations to better understand the vulnerabilities of their AI systems and take steps to mitigate them.
+> We openly collaborate on various topics related to explainable and interpretable machine learning. Feel free to [reach out to us](mailto:przemyslaw.biecek@gmail.com) with research ideas and development opportunities. We help organizations to better understand the vulnerabilities of their AI systems, and take steps to mitigate them.
 
-**Example solutions** developed by our red team:
+**Methods and methodologies** introduced by our team:
 
-- [DALEX](https://dalex.drwhy.ai/), [modelStudio](https://github.com/ModelOriented/modelStudio), [InteractiveEMA](https://arxiv.org/abs/2005.00497) for exploration of models for tabular data
-- [SurvSHAP](https://arxiv.org/abs/2208.11080) for exploration of survival models
-- [TreeSHAP](https://github.com/ModelOriented/treeshap), [randomForestExplainer](https://github.com/ModelOriented/randomForestExplainer), [EIX](https://github.com/ModelOriented/EIX) for exploration of tree models
-- [drifter](https://github.com/ModelOriented/drifter) for concept drift analysis
-- [fairmodels](https://fairmodels.drwhy.ai/) for fairness analysis
-- [Models in the Wild](https://link.springer.com/chapter/10.1007/978-3-030-36718-3_20) for exploration of language models
-- [LIMEcraft](https://link.springer.com/article/10.1007/s10994-022-06204-w), [Checklist](https://www.sciencedirect.com/science/article/pii/S0031320321002223) for exploration of models for image data
+- [InteractiveEMA](https://iema.drwhy.ai) towards human-model interaction in explainable machine learning for tabular data
+- [SurvSHAP(t)](https://doi.org/10.1016/j.knosys.2022.110234) for time-dependent analysis of machine learning survival models
+- [LIMEcraft](https://doi.org/10.1007/s10994-022-06204-w) for human-guided visual explanations of deep neural networks 
+- [Fooling PD](https://arxiv.org/abs/2105.12837) & [Manipulating SHAP](https://doi.org/10.1609/aaai.v36i11.21590) for stress-testing widely-applied explanation methods
+- [Checklist](https://doi.org/10.1016/j.patcog.2021.108035) towards responsible deep learning on medical images
+- [SAFE](https://doi.org/10.1016/j.dss.2021.113556) for lifting interpretability-performance trade-off via automated feature engineering
+- [WildNLP](https://doi.org/10.1007/978-3-030-36718-3_20) for stress-testing deep learning models in NLP
+- [Explanatory Model Analysis](https://ema.drwhy.ai) towards comprehensive examination of predictive models
+
+**Tools** developed by our team:
+
+- [DALEX](https://dalex.drwhy.ai), [breakDown](https://doi.org/10.32614/RJ-2018-072), [auditor](https://doi.org/10.32614/RJ-2019-036) & [modelStudio](https://github.com/ModelOriented/modelStudio) for explainable machine learning in R
+- [dalex](http://python.drwhy.ai) for explainable and fair machine learning in Python
+- [survex](https://github.com/modeloriented/survex) dedicated to explaining machine learning survival models
+- [fairmodels](https://fairmodels.drwhy.ai) for fairness analysis of machine learning classification models
+
+**Applications** supported by our team:
+
+- In **medicine**, we analyzed hundreds of models predicting among others: [survival in uveal melanoma eye cancer](https://doi.org/10.1016/j.ejca.2022.07.031), [survival in sepsis](https://doi.org/10.3390/cells11152433), [type of lung cancer](https://doi.org/10.3390/cancers14020439), [lung cancer risk in screening](https://doi.org/10.3390/app12041926), [lung cancer mortality](https://doi.org/10.1007/978-3-030-37446-4_13), [COVID-19 mortality](https://doi.org/10.1609/aaai.v35i18.17874), [progression of Alzheimer’s disease](https://doi.org/10.1186/s40708-022-00165-5).
+- In **credit scoring**, we analyzed the [transparency, auditability, and explainability of machine learning models](https://doi.org/10.1080/01605682.2021.1922098).
+- In **football analytics**, we analyzed [expected goal models for performance analysis](https://arxiv.org/abs/2206.07212).
+- ...

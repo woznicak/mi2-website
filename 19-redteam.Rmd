@@ -4,7 +4,7 @@
 
 ####  {-}
 
-**MI²<span style="color:red"><strong>Red</strong></span>Team** is a group of researchers experienced in [XAI](https://doi.org/10.1016/j.inffus.2019.12.012) who perform a rigorous evaluation of AI solutions in order to improve their transparency and security. We apply state-of-the-art methods and introduce new ones to tailor our analysis to the specific predictive task. 
+**MI²<span style="color:red"><strong>Red</strong></span>Team** is a group of researchers experienced in [XAI](https://doi.org/10.1007/978-3-031-04083-2_2) who perform a rigorous evaluation of AI solutions in order to improve their transparency and security. We apply state-of-the-art methods and introduce new ones to tailor our analysis to the specific predictive task. 
 
 Our current *core* research topics of interest include:
 

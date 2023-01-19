@@ -8,9 +8,9 @@
 
 Our current *core* research topics of interest include:
 
-1. [**ARES**] Attack-Resistant Explanations towards Secure AI, i.e. a critical evaluation of the state-of-the-art analysis techniques 
-2. [**xSurvival**] Explanatory analysis of machine learning survival models
-3. [**Large Model Analysis**] Explanatory analysis of large models, e.g. transformers
+- [**ARES**] Attack-Resistant Explanations towards Secure AI, i.e. a critical evaluation of the state-of-the-art analysis techniques 
+- [**xSurvival**] Explanatory analysis of machine learning survival models
+- [**Large Model Analysis**] Explanatory analysis of large models, e.g. transformers
 
 > We openly collaborate on various topics related to explainable and interpretable machine learning. Feel free to [reach out to us](mailto:przemyslaw.biecek@gmail.com) with research ideas and development opportunities. We help organizations to better understand the vulnerabilities of their AI systems, and take steps to mitigate them.
 
@@ -38,3 +38,9 @@ Our current *core* research topics of interest include:
 - In **credit scoring**, we analyzed the [transparency, auditability, and explainability of machine learning models](https://doi.org/10.1080/01605682.2021.1922098).
 - In **football analytics**, we analyzed [expected goal models for performance analysis](https://arxiv.org/abs/2206.07212).
 - ...
+
+*This endevour is generously supported by the following institutions.*
+
+<img src="images/logo-ncn.png" style="width: 100%;">
+
+<img src="images/logo-ncbir.png" style="width: 75%;">

@@ -42,11 +42,11 @@ Our current *core* research topics of interest include:
 *This initiative is generously supported by the following institutions.*
 
 
-<div class="overlay" style="float:left;width:68%;">
+<p style="float:left;width:68%;">
     <img src="images/logo-ncn.png" style="width: 95%;"> 
     <img src="images/logo-ncbir.png" style="width: 95%;">
     <img src="images/logo-wut.png" style="width: 95%;">
-</div>
-<div id="right-side" style="float:right;width:32%;">
+</p>
+<p style="float:right;width:32%;">
     <img src="images/logo-idub.png" style="width: 95%;">
-</div>
+</p>

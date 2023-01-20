@@ -152,6 +152,7 @@ GitHub: [pbiecek](https://github.com/pbiecek)
 
 LinkedIn: [pbiecek](https://www.linkedin.com/in/pbiecek/)
 
+
 ### Mariusz Adamek {-}
 
 <img src="images/mariusz_adamek.jpg" >
@@ -159,6 +160,7 @@ LinkedIn: [pbiecek](https://www.linkedin.com/in/pbiecek/)
 I work at two Medical Universities (Silesia and Gdańsk) holding a Professorship in Medicine and Health Sciences. My interests are focused on lung cancer prevention and screening, the latter by means of low-dose computed tomography (LDCT) with special emphasis put on molecular biology methods, prediction models and image analysis aimed to enhance the performance of lung screening outcomes.
 
 Website: [www.mariuszadamek.io](https://www.mariuszadamek.io/)
+
 
 ### Hubert Baniecki {-}
 
@@ -183,6 +185,7 @@ LinkedIn: [mcavus](https://www.linkedin.com/in/mustafacavusphd)
 
 Twitter: [mcavus](https://twitter.com/mustafa__cavus)
 
+
 ### Julian Sienkiewicz {-}
 
 <img src="images/jsienkiewicz.jpg" >
@@ -193,6 +196,7 @@ Google Scholar: [mIwu11QAAAAJ](https://scholar.google.pl/citations?user=mIwu11QA
 
 LinkedIn: [julek-sienkiewicz-873829](https://www.linkedin.com/in/julek-sienkiewicz-873829/)
 
+
 ### Maciej Chrabąszcz {-}
 
 <img src="images/maciej_chrabaszcz.jpg">
@@ -202,6 +206,7 @@ Master's student in mathematical statisctics at Warsaw University of Technology.
 GitHub: [maciejchrabaszcz](https://github.com/maciejchrabaszcz)
 
 LinkedIn: [maciej-chrabaszcz](https://www.linkedin.com/in/maciej-chrabaszcz/)
+
 
 ### Stanisław Giziński {-}
 
@@ -214,6 +219,15 @@ Google Scholar: [Stanisław Giziński](https://scholar.google.com/citations?user
 GitHub: [Gizzio](https://github.com/Gizzio)
 
 LinkedIn: [stanislaw-gizinski](https://www.linkedin.com/in/stanislaw-gizinski/)
+
+
+### Mateusz Grzyb {-}
+
+<img src="images/mateusz_grzyb.jpg" >
+
+A BSc Data Science student at Warsaw University of Technology. Interested in artificial intelligence, data visualization and metaheuristic optimization.
+
+GitHub: [PlentyCoups](https://github.com/PlentyCoups)
 
 
 ### Weronika Hryniewska{-}
@@ -283,6 +297,7 @@ Undergraduate Data Science student at Warsaw University of Technology. Works as 
 
 Github: [piotrpiatyszek](https://github.com/piotrpiatyszek)
 
+
 ### Bartosz Pieliński {-}
 
 <img src="images/BPielinski.jpg" >
@@ -296,6 +311,28 @@ Google Scholar: [hnWiaVEAAAAJ](https://scholar.google.com/citations?user=hnWiaVE
 LinkedIn: [Bartosz Pieliński](https://www.linkedin.com/in/pielinski/)
 
 
+### Hanna Piotrowska {-}
+
+<img src="images/HannaPiotrowska-kwadrat.jpg" >
+
+Information designer, focusing mainly on data visualization, branding and book design, with a strong interest in Data Science and perception studies. Winner of numerous awards, including The Kantar Information Is Beautiful Awards, HOW International Design Awards, Polish Graphic Design Awards and KTR.
+
+LinkedIn: [hanna-piotrowska](https://www.linkedin.com/in/hanna-piotrowska-2536214b/)
+
+Twitter: [hannapio](https://twitter.com/hannapio)
+
+Behance: [hannapio](https://www.behance.net/hannapio).
+
+
+### Hubert Ruczyński {-}
+
+<img src="images/hubert_ruczyński.jpg" >
+
+Works towards Bachelor's degree in Data Science at Warsaw University of Technology. Interested in Maching Learning, Neural Networks and Fairness.
+
+GitHub: [HubertR21](https://github.com/HubertR21)
+
+
 ### Barbara Rychalska {-}
 
 <img src="images/basia.jpeg" >
@@ -307,6 +344,17 @@ Google Scholar: [Wp0wHJoAAAAJ](https://scholar.google.com/citations?user=Wp0wHJo
 LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/)
 
   
+### Patryk Słowakiewicz {-}
+  
+<img src="images/PatrykSlowakiewicz.jpg" >
+  
+Student of Data Science at Warsaw University of Technology. Intrested in Tree-Based Machine Learning Models.
+
+GitHub: [PSlowakiewicz](https://github.com/PSlowakiewicz)
+  
+LinkedIn: [Patryk Słowakiewicz](https://www.linkedin.com/in/patryk-s%C5%82owakiewicz-b0310723a/)
+
+
 ### Bartek Sobieski {-}
 
 <img src="images/bsobieski.jpg" >
@@ -317,6 +365,7 @@ GitHub: [sobieskibj](https://github.com/sobieskibj)
   
 LinkedIn: [Bartłomiej-Sobieski](www.linkedin.com/in/bartłomiej-sobieski)
   
+
 ### Mikołaj Spytek {-}
 
 <img src="images/spytekm.jpeg">
@@ -421,6 +470,7 @@ GitHub: [woznicak](https://github.com/woznicak)
 
 LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak)
 
+
 ### Artur Żółkowski {-}
 
 <img src="images/zolkowskia.jpg">
@@ -432,7 +482,8 @@ GitHub: [arturzolkowski](https://github.com/arturzolkowski)
 LinkedIn: [Artur-Żółkowski](https://www.linkedin.com/in/azolkowski/)
 
 
-<!-- ### Hanna Zdulska {-}
+<!-- 
+### Hanna Zdulska {-}
 
 <img src="images/zdulskah.jpg" ></p>
 
@@ -440,34 +491,10 @@ Software engineer and Data Science BSc student at Warsaw University of Technolog
 
 GitHub: [HaZdula](https://github.com/hazdula)
 
-LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/) -->
+LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/)
 
 
-
-### Hanna Piotrowska {-}
-
-<img src="images/HannaPiotrowska-kwadrat.jpg" >
-
-Information designer, focusing mainly on data visualization, branding and book design, with a strong interest in Data Science and perception studies. Winner of numerous awards, including The Kantar Information Is Beautiful Awards, HOW International Design Awards, Polish Graphic Design Awards and KTR.
-
-LinkedIn: [hanna-piotrowska](https://www.linkedin.com/in/hanna-piotrowska-2536214b/)
-
-Twitter: [hannapio](https://twitter.com/hannapio)
-
-Behance: [hannapio](https://www.behance.net/hannapio).
-
-
-### Mateusz Grzyb {-}
-
-<img src="images/mateusz_grzyb.jpg" >
-
-A BSc Data Science student at Warsaw University of Technology. Interested in artificial intelligence, data visualization and metaheuristic optimization.
-
-GitHub: [PlentyCoups](https://github.com/PlentyCoups)
-
-
-
-<!-- ### Bartosz Sawicki {-}
+### Bartosz Sawicki {-}
 
 <img src="images/sawickib.jpeg" >
 
@@ -484,29 +511,9 @@ Data Science student at Warsaw University of Technology. Machine learning enthus
 
 GitHub: [Szmajsz](https://github.com/Szmajasz)
 
-LinkedIn: [szymszmaj](https://www.linkedin.com/in/szymszmaj/) -->
+LinkedIn: [szymszmaj](https://www.linkedin.com/in/szymszmaj/)
 
 
-### Hubert Ruczyński {-}
-
-<img src="images/hubert_ruczyński.jpg" >
-
-Works towards Bachelor's degree in Data Science at Warsaw University of Technology. Interested in Maching Learning, Neural Networks and Fairness.
-
-GitHub: [HubertR21](https://github.com/HubertR21)
-
-
-### Patryk Słowakiewicz {-}
-  
-<img src="images/PatrykSlowakiewicz.jpg" >
-  
-Student of Data Science at Warsaw University of Technology. Intrested in Tree-Based Machine Learning Models.
-
-GitHub: [PSlowakiewicz](https://github.com/PSlowakiewicz)
-  
-LinkedIn: [Patryk Słowakiewicz](https://www.linkedin.com/in/patryk-s%C5%82owakiewicz-b0310723a/)
-  
-<!-- 
 ### Zuzanna Trafas {-}
 
 <img src="images/ztrafas.png" >
@@ -550,6 +557,7 @@ GitHub: [agosiewska](https://github.com/agosiewska)
 
 LinkedIn: [alicja-gosiewska](https://www.linkedin.com/in/alicja-gosiewska/)
 
+
 ### Michał Kuźba {-}
 
 <img src="images/Michal Kuzba.png" >
@@ -571,7 +579,9 @@ PhD in social sciences, but in recent years has devoted himself to the area of d
 
 GitHub: [tmikolajczyk](https://github.com/tmikolajczyk)
 
-LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds) -->
+LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds) 
+-->
+
 
 </div>
 

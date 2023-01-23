@@ -6,13 +6,13 @@
 
 **MI²<span style="color:red"><strong>Red</strong></span>Team** is a group of researchers experienced in [XAI](https://doi.org/10.1007/978-3-031-04083-2_2) who perform a rigorous evaluation of AI solutions in order to improve their transparency and security. We apply state-of-the-art methods and introduce new ones to tailor our analysis to the specific predictive task. 
 
+> We openly collaborate on various topics related to explainable and interpretable machine learning. Feel free to [reach out to us](mailto:przemyslaw.biecek@gmail.com) with research ideas and development opportunities. We help organizations to better understand the vulnerabilities of their AI systems, and take steps to mitigate them.
+
 Our current *core* research topics of interest include:
 
 - [**ARES**] Attack-Resistant Explanations towards Secure AI, i.e. a critical evaluation of the state-of-the-art analysis techniques 
 - [**xSurvival**] Explanatory analysis of machine learning survival models
 - [**Large Model Analysis**] Explanatory analysis of large models, e.g. transformers
-
-> We openly collaborate on various topics related to explainable and interpretable machine learning. Feel free to [reach out to us](mailto:przemyslaw.biecek@gmail.com) with research ideas and development opportunities. We help organizations to better understand the vulnerabilities of their AI systems, and take steps to mitigate them.
 
 **Methods and methodologies** introduced by our team:
 
@@ -40,7 +40,6 @@ Our current *core* research topics of interest include:
 - ...
 
 *This initiative is generously supported by the following institutions.*
-
 
 <p style="float:left;width:56%;">
     <img src="images/logo-ncn.png" style="width: 95%;"> 

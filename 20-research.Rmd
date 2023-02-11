@@ -38,7 +38,7 @@ In this work, we use a Latent Dirichlet Allocation-based pipeline for the automa
 
 
 <div>
-<img src="images/xg.png">
+<img src="images/paper_xg.png">
 <a href="https://doi.org/10.1109/DSAA54385.2022.10032440">Explainable expected goal models for performance analysis in football analytics</a>
 <p>Mustafa Cavus, Przemyslaw Biecek</p>
 <p><i>International Conference on Data Science and Advanced Analytics (2022)</i></p>
@@ -47,7 +47,7 @@ The expected goal provides a more representative measure of the team and player 
 
 
 <div>
-<img src="images/paper_xg.png">
+<img src="images/paper_gdf.png"> 
 <a href="https://doi.org/10.1038/s41598-022-21417-8">Multi-omics disease module detection with an explainable Greedy Decision Forest</a>
 <p>Bastian Pfeifer, Hubert Baniecki, Anna Saranti, Przemyslaw Biecek, Andreas Holzinger</p>
 <p><i>Scientific Reports (2022)</i></p>

@@ -36,7 +36,7 @@ Our current *core* research topics of interest include:
 
 - In **medicine**, we analyzed hundreds of models predicting among others: [survival in uveal melanoma eye cancer](https://doi.org/10.1016/j.ejca.2022.07.031), [survival in sepsis](https://doi.org/10.3390/cells11152433), [type of lung cancer](https://doi.org/10.3390/cancers14020439), [lung cancer risk in screening](https://doi.org/10.3390/app12041926), [lung cancer mortality](https://doi.org/10.1007/978-3-030-37446-4_13), [COVID-19 mortality](https://doi.org/10.1609/aaai.v35i18.17874), [progression of Alzheimer’s disease](https://doi.org/10.1186/s40708-022-00165-5).
 - In **credit scoring**, we analyzed the [transparency, auditability, and explainability of machine learning models](https://doi.org/10.1080/01605682.2021.1922098).
-- In **football analytics**, we analyzed [expected goal models for performance analysis](https://arxiv.org/abs/2206.07212).
+- In **football analytics**, we analyzed [expected goal models for performance analysis](https://ieeexplore.ieee.org/document/10032440).
 - ...
 
 *This initiative is generously supported by the following institutions.*

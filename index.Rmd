@@ -78,7 +78,7 @@ document.body.classList.add("two-columns")
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
 * [Anna Kozak](the-team.html#anna-kozak), MSc
 * [Adam Kozłowski](the-team.html#adam-kozłowski), MSc
-* [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), BSc student
+* [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
 * [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
 * [Hubert Ruczyński](the-team.html#hubert-ruczyński), BSc student
@@ -271,7 +271,7 @@ LinkedIn: [akozowski280](https://www.linkedin.com/in/adam-kozlowski-akozowski280
 
 <img src="images/krzyzinskim.jpg" >
 
-BSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, machine learning on graphs and data visualization.
+MSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, with particular emphasis on XAI methods for survival analysis models and XAI applications in the medical field. Also an enthusiast of data visualization. 
 
 Google Scholar: [i_r7EUgAAAAJ](https://scholar.google.com/citations?user=i_r7EUgAAAAJ)
 

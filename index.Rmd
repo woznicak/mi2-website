@@ -73,7 +73,6 @@ document.body.classList.add("two-columns")
 * [Hubert Baniecki](the-team.html#hubert-baniecki), PhD student
 * [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
 * [Maciej Chrabąszcz](the-team.html#maciej-chrabąszcz), MSc student
-* Adrianna Grudzień, BSc student
 * [Mateusz Grzyb](the-team.html#mateusz-grzyb), BSc
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
@@ -88,8 +87,10 @@ document.body.classList.add("two-columns")
 * [Bartek Sobieski](the-team.html#bartek-sobieski), MSc student
 * [Mikołaj Spytek](the-team.html#mikołaj-spytek), MSc student
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
+* [Mateusz Stączek](the-team.html#mateusz-stączek), MSc student
 * [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
+* [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
 * [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), BSc
 * [Emilia Wiśnios](the-team.html#emilia-wiśnios), MSc student
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
@@ -108,20 +109,18 @@ document.body.classList.add("two-columns")
 * [Hanna Piotrowska](the-team.html#hanna-piotrowska), MA
 * Elżbieta Sienkiewicz, PhD
 * [Julian Sienkiewicz](the-team.html#julian-sienkiewicz), PhD
+* Adrian Stańdo, MSc student
 * Patryk Szatkowski, PhD student, MD
 
-#### Summer Interns {-}
+<!-- #### Summer Interns {-} -->
 
-* Patryk Słowakiewicz, BSc student
-* Adrian Stańdo, BSc student
-* [Mateusz Stączek](the-team.html#mateusz-stączek), BSc student
-* [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
 
 #### Alumni {-}
 
 * Piotr Czarnecki, MSc
 * Alicja Gosiewska, MSc
-* Maria Kałuska, BSc student
+* Adrianna Grudzień, BSc
+* Maria Kałuska, BSc
 * Marcin Kosiński, MSc
 * Wojciech Kretowicz, BSc
 * Michał Kuźba, MSc
@@ -129,15 +128,17 @@ document.body.classList.add("two-columns")
 * Tomasz Mikołajczyk, PhD
 * Katarzyna Pękala, MSc
 * Adam Rydelek, BSc
-* Bartosz Sawicki, BSc student
+* Bartosz Sawicki, BSc
+* Patryk Słowakiewicz, BSc
 * Michał Sokólski, MSc
-* Szymon Szmajdziński, BSc student
-* Zuzanna Trafas, BSc student
-* Kinga Ułasik, BSc student
+* Szymon Szmajdziński, BSc
+* Zuzanna Trafas, BSc
+* Kinga Ułasik, BSc
 * Anna Wróblewska, PhD
 * Hanna Zdulska, BSc
 
 <div class="masonry">
+
 ### Przemysław Biecek {-}
 
 <img src="images/przemek.jpg" >
@@ -344,7 +345,7 @@ Google Scholar: [Wp0wHJoAAAAJ](https://scholar.google.com/citations?user=Wp0wHJo
 LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/)
 
   
-### Patryk Słowakiewicz {-}
+<!-- ### Patryk Słowakiewicz {-}
   
 <img src="images/PatrykSlowakiewicz.jpg" >
   
@@ -352,7 +353,7 @@ Student of Data Science at Warsaw University of Technology. Intrested in Tree-Ba
 
 GitHub: [PSlowakiewicz](https://github.com/PSlowakiewicz)
   
-LinkedIn: [Patryk Słowakiewicz](https://www.linkedin.com/in/patryk-s%C5%82owakiewicz-b0310723a/)
+LinkedIn: [Patryk Słowakiewicz](https://www.linkedin.com/in/patryk-s%C5%82owakiewicz-b0310723a/) -->
 
 
 ### Bartek Sobieski {-}

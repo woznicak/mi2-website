@@ -86,7 +86,7 @@ document.body.classList.add("two-columns")
 * [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
 * [Bartek Sobieski](the-team.html#bartek-sobieski), MSc student
-* [Mikołaj Spytek](the-team.html#mikołaj-spytek), BSc student
+* [Mikołaj Spytek](the-team.html#mikołaj-spytek), MSc student
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
 * [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
@@ -370,7 +370,9 @@ LinkedIn: [Bartłomiej-Sobieski](www.linkedin.com/in/bartłomiej-sobieski)
 
 <img src="images/spytekm.jpeg">
   
-BSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, data vizualization and survival analysis.
+MSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, data vizualization and survival analysis.
+
+Google Scholar: [1u49AqYAAAAJ](https://scholar.google.com/citations?user=1u49AqYAAAAJ)
   
 GitHub: [mikolajsp](https://github.com/mikolajsp)
   

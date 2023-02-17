@@ -256,6 +256,12 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 </div>
 
 <div>
+<img src="images/survex.png" align="left">
+<a href="https://modeloriented.github.io/survex/">survex</a>
+<p>Explainable machine learning in survival analysis</p>
+</div>
+
+<div>
 <img src="images/arena.png" align="left">
 <a href="https://arena.drwhy.ai/docs/">Arena</a>
 <p>Interactive tool for the exploration and comparison of models' explanations</p>

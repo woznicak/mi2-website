@@ -131,6 +131,15 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 </script>
 
 <div>
+<img src="images/bb_chaos.png" align="left">
+<a href="https://github.com/BetaAndBit/ChaosGame">Chaos Game</a>
+<p>EN: Are you curious about fractals? The Chaos Game is the book for you. You will learn the mathematical basis behind these figures, find out what algorithm can be used to code them, write code in your favourite programming language (Python, R, Julia?) and also explore the bibliographies of three mathematicians associated with the development of mathematics around these shapes. This is the next book in the Beta Bit series for anyone interested in computational mathematics and data analysis.</p>
+<p>PL: Jesteś ciekawy czym są fraktale? Gra w Chaos to książka dla Ciebie. Poznasz matematyczne podstawy tych figur, dowiesz się, jaki algorytm można wykorzystać do ich zaprogramowania, napiszesz kod w swoim ulubionym języku programowania (Python, R, Julia?), a także poznasz bibliografie trzech matematyków związanych z rozwojem matematyki wokół tych kształtów. To kolejna książka z serii Beta Bit dla wszystkich zainteresowanych matematyką obliczeniową i analizą danych.</p>
+<p><a href="https://chaosgame.drwhy.ai/">Flipbook online [ENG]</a></p>
+<p><a href="https://chaos.drwhy.ai/">Flipbook online [POL]</a></p>
+</div>
+
+<div>
 <img src="images/bb_rml.png" align="left">
 <a href="https://betaandbit.github.io/RML/">The Hitchhiker's Guide to Responsible Machine Learning</a>
 <p>EN: A one-of-a-kind 52-page story about responsible machine learning. Beta and Bit use decision trees, random forests, and AutoML tools to build a risk model after a covid infection, and then use explainable artificial intelligence tools to analyze the behavior of that model. The description of the data analysis process is intertwined with descriptions of ML tools and code snippets. All examples are fully reproducible!</p>
@@ -142,7 +151,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 
 <div>
 <img src="images/bookSzeregi.png" align="left">
-<a href="#">W pogoni za nieskończonością. Szeregi</a>
+<a href="https://github.com/BetaAndBit/Szeregi">W pogoni za nieskończonością. Szeregi</a>
 <p>EN: What does hiking in the mountains have to do with the convergence of series? Quite a lot! We start with the paradoxes related to infinity, but step by step we learn the techniques of geometric series. In this book, the conditions for convergence are explained, together with numerous examples. The comic ends with a collection of exercises with different levels of difficulty.</p>
 <p>PL: Co wspólnego ma chodzenie po górach ze zbieżnością szeregów? Otóż całkiem sporo! Zaczynamy od paradoksów związanych z nieskończonością, ale krok po kroku poznajemy techniki szeregów geometrycznych. W tej pozycji wyjaśnione są warunki zbieżności wraz z licznymi przykładami. Komiks kończy zbiór zadań o różnych poziomach trudności.</p>
 <p><a href="https://betaandbit.github.io/Szeregi/">Flipbook online</a></p>

@@ -73,7 +73,7 @@ document.body.classList.add("two-columns")
 * [Hubert Baniecki](the-team.html#hubert-baniecki), PhD student
 * [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
 * [Maciej Chrabąszcz](the-team.html#maciej-chrabąszcz), MSc student
-* [Mateusz Grzyb](the-team.html#mateusz-grzyb), BSc
+* [Mateusz Grzyb](the-team.html#mateusz-grzyb), MSc student
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
 * [Anna Kozak](the-team.html#anna-kozak), MSc
@@ -224,11 +224,11 @@ LinkedIn: [stanislaw-gizinski](https://www.linkedin.com/in/stanislaw-gizinski/)
 
 ### Mateusz Grzyb {-}
 
-<img src="images/mateusz_grzyb.jpg" >
+<img src="images/mgrzyb.png">
 
-A BSc Data Science student at Warsaw University of Technology. Interested in artificial intelligence, data visualization and metaheuristic optimization.
+MSc student in Data Science at Warsaw University of Technology. Interested in artificial intelligence and scientific computing, but above all simply enjoys programming.
 
-GitHub: [PlentyCoups](https://github.com/PlentyCoups)
+GitHub: [mgrzyb99](https://github.com/mgrzyb99)
 
 
 ### Weronika Hryniewska{-}

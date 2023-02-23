@@ -91,7 +91,6 @@ document.body.classList.add("two-columns")
 * [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
-* [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), BSc
 * [Emilia Wiśnios](the-team.html#emilia-wiśnios), MSc student
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
@@ -111,6 +110,7 @@ document.body.classList.add("two-columns")
 * [Julian Sienkiewicz](the-team.html#julian-sienkiewicz), PhD
 * Adrian Stańdo, MSc student
 * Patryk Szatkowski, PhD student, MD
+* [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), MSc student
 
 <!-- #### Summer Interns {-} -->
 

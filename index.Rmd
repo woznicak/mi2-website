@@ -92,6 +92,7 @@ document.body.classList.add("two-columns")
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
 * [Emilia Wiśnios](the-team.html#emilia-wiśnios), MSc student
+* [Paweł Wojciechowski](the-team.html#paweł-wojciechowski)
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
 
@@ -461,6 +462,17 @@ Research Software Engineer and student of Machine Learning at Faculty of Mathema
 GitHub: [emiliawisnios](https://github.com/emiliawisnios)
 
 LinkedIn: [emilia-wisnios](https://www.linkedin.com/in/emilia-wisnios/)
+
+
+### Paweł Wojciechowski
+
+<img src="images/wojciechowskip.jpeg">
+
+Graduated with a bachelor's degree in Data Science from Warsaw University of Technology. Interested in explainable artificial intelligence, computer vision, and active learning.
+
+GitHub: [p-wojciechowski](https://github.com/p-wojciechowski)
+
+LinkedIn: [wojciechowski-p](https://www.linkedin.com/in/wojciechowski-p/)
 
 
 ### Katarzyna Woźnica {-}

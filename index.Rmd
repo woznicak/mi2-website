@@ -92,7 +92,7 @@ document.body.classList.add("two-columns")
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
 * [Emilia Wiśnios](the-team.html#emilia-wiśnios), MSc student
-* [Paweł Wojciechowski](the-team.html#paweł-wojciechowski)
+* [Paweł Wojciechowski](the-team.html#paweł-wojciechowski), BSc
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
 
@@ -464,7 +464,7 @@ GitHub: [emiliawisnios](https://github.com/emiliawisnios)
 LinkedIn: [emilia-wisnios](https://www.linkedin.com/in/emilia-wisnios/)
 
 
-### Paweł Wojciechowski
+### Paweł Wojciechowski {-}
 
 <img src="images/wojciechowskip.jpeg">
 

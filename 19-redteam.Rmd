@@ -19,7 +19,7 @@ Our current *core* research topics of interest include:
 - [InteractiveEMA](https://doi.org/10.1007/s10618-023-00924-w) towards human-model interaction in explainable machine learning for tabular data
 - [SurvSHAP(t)](https://doi.org/10.1016/j.knosys.2022.110234) for time-dependent analysis of machine learning survival models
 - [LIMEcraft](https://doi.org/10.1007/s10994-022-06204-w) for human-guided visual explanations of deep neural networks 
-- [Fooling PD](https://arxiv.org/abs/2105.12837) & [Manipulating SHAP](https://doi.org/10.1609/aaai.v36i11.21590) for stress-testing widely-applied explanation methods
+- [Fooling PD](https://doi.org/10.1007/978-3-031-26409-2_8) & [Manipulating SHAP](https://doi.org/10.1609/aaai.v36i11.21590) for stress-testing widely-applied explanation methods
 - [Checklist](https://doi.org/10.1016/j.patcog.2021.108035) towards responsible deep learning on medical images
 - [SAFE](https://doi.org/10.1016/j.dss.2021.113556) for lifting interpretability-performance trade-off via automated feature engineering
 - [WildNLP](https://doi.org/10.1007/978-3-030-36718-3_20) for stress-testing deep learning models in NLP

@@ -76,7 +76,6 @@ document.body.classList.add("two-columns")
 * [Mateusz Grzyb](the-team.html#mateusz-grzyb), MSc student
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
-* [Anna Kozak](the-team.html#anna-kozak), MSc
 * [Adam Kozłowski](the-team.html#adam-kozłowski), MSc
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
@@ -103,6 +102,7 @@ document.body.classList.add("two-columns")
 * Przemysław Bombiński, PhD, MD
 * [André Fonseca](https://www.immune-stats.net), PhD student
 * Katarzyna Kobylińska, PhD student
+* [Anna Kozak](the-team.html#anna-kozak), MSc
 * Marcin Luckner, PhD
 * [João Malato](https://www.immune-stats.net), PhD student
 * [Bartek Pieliński](the-team.html#bartosz-pieliński), PhD, DSc

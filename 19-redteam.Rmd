@@ -16,7 +16,7 @@ Our current *core* research topics of interest include:
 
 **Methods and methodologies** introduced by our team:
 
-- [Evaluating Explanations of Vision Transformers](https://arxiv.org/abs/2304.06133)
+- [Evaluating explanations of vision transformers](https://arxiv.org/abs/2304.06133)
 - [InteractiveEMA](https://doi.org/10.1007/s10618-023-00924-w) towards human-model interaction in explainable machine learning for tabular data
 - [SurvSHAP(t)](https://doi.org/10.1016/j.knosys.2022.110234) for time-dependent analysis of machine learning survival models
 - [LIMEcraft](https://doi.org/10.1007/s10994-022-06204-w) for human-guided visual explanations of deep neural networks 

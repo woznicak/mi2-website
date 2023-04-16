@@ -41,6 +41,10 @@
     font-size: 13px;
 }
 
+.two-columns-layout div strong {
+    font-size: 15px;
+}
+
 @media (max-width: 899px) {
     .two-columns-layout h2 {
         margin-bottom: 60px !important;

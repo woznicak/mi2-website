@@ -636,24 +636,6 @@ We look forward to receiving your applications and welcoming an enthusiastic and
 Apply before **June 30 the end of the day** (the sooner the better).
 
 
-### Summer Internships 22 {-}
-
-<img src="images/positions.jpg" style="width: 100%;">
-
-This year we have 6 projects open for summer internships!
-
-The time to apply is **May 8 - by the end of the day**.
-
-**Applications must be submitted through [the form](https://forms.gle/qsuiwg3xYFLdQGyZ6).**
-
-Project descriptions can be found on [this GitHub page](https://github.com/pbiecek/mi2-summer-22/blob/main/README.md).
-
-Each of the projects assumes a full-time commitment for two months during the summer break. Exact dates can be specified with a mentor.
-
-The internships are funded from HOMER and xLungs projects.
-
-Participation in the internship is connected with the fix remuneration in the amount of 6k PLN (umowa o dzieło). 
-
 
 ### Deep Learning Engineer {-}
 
@@ -745,33 +727,6 @@ These are targeted at progressing responsible machine learning toward a secure a
 **Join us, and change the way how ML models will be explained and evaluated.**
 
 <img src="images/mi2-ares.png" style="width: 100%;"> -->
-
-### PhD student {-}
-
-Required:
-
-* MSc in Computer Science, Mathematics, Statistics or similar.  (Different background? We encourage cross-domain research short visits).
-* Experience in Scientific Programming (R and/or Python and/or C++)
-* Strong motivation 
-
-Scope of work:
-
-* Automated model exploration
-* Concept drift detection
-* Reinforcement learning for Human-Centered AI
-* Knowledge extraction from representations
-* Experiments with XAI for deep learning
-
-Offer:
-
-* Excellent atmosphere for work in a young and very active ML lab
-* Conferences and training budget
-* Short visits in cooperating abroad group
-* Access to CPU / GPU clusters
-* PhD scholarship
-* plus results-driven extras
-* contract for 6 months (short visit) / 3.5 years (full PhD)
-
 
 
 ## Contact {-}

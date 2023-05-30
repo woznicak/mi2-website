@@ -610,15 +610,15 @@ We have open call for [HOMER](https://www.mi2.ai/research-grants.html#homer-2020
 
 <img src="images/redteaming_mi2.png" style="width: 100%;">
 
-Call for PhD Student: Research Opportunity in Foundation Model Readteaming
+**Call for PhD Student: Research Opportunity in Foundation Model Readteaming**
 
 We are seeking a highly motivated and talented PhD student to join MI2.AI research team in the exciting field of foundation model readteaming. As the advancements development of AI models, it becomes crucial to ensure the robustness and security of the foundation models that underlie these advancements.
 
-Project Description:
+**Project Description:**
 
 The selected PhD student will work on investigating potential vulnerabilities and biases in foundation models, such as language models (one position) and 2D/3D computer vision models (second position). Readteaming involves conducting adversarial assessments to identify weaknesses, uncover potential attack vectors, and develop defensive strategies for foundation models. The research will explore various aspects, including data poisoning attacks, adversarial samples generation, and the development of countermeasures.
 
-Requirements:
+**Requirements:**
 
 Proficiency in programming languages commonly used in AI research, such as Python, R or Julia.
 Familiarity with deep learning frameworks and libraries, such as PyTorch.

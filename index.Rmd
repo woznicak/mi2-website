@@ -604,19 +604,19 @@ LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk
 
 ## Open Positions {-}
 
-We have open call for [HOMER](https://www.mi2.ai/research-grants.html#homer-2020-2025) and [xLungs](https://www.mi2.ai/research-grants.html#x-lungs-2021-2024) projects for following positions. If you are interested in any of them please send your CV and Motivation Letter to przemyslaw.biecek at gmail.com. We reserve the right to contact only selected candidates.
+We have open call for [HOMER](https://www.mi2.ai/research-grants.html#homer-2020-2025) and [xLungs](https://www.mi2.ai/research-grants.html#x-lungs-2021-2024) projects for following positions. If you are interested in any of them please send your CV and Motivation Letter to przemyslaw.biecek at pw.edu.pl. We reserve the right to contact only selected candidates.
 
 ### PhD positions in 2023 {-}
 
 <img src="images/redteaming_mi2.png" style="width: 100%;">
 
-**Call for PhD Student: Research Opportunity in Foundation Model Readteaming**
+**Call for PhD Student: Research Opportunity in Foundation Model Redteaming**
 
-We are seeking a highly motivated and talented PhD student to join MI2.AI research team in the exciting field of foundation model readteaming. As the advancements development of AI models, it becomes crucial to ensure the robustness and security of the foundation models that underlie these advancements.
+We are seeking a highly motivated and talented PhD student to join MI2.AI research team in the exciting field of foundation model redteaming. As the advancements development of AI models (especially transformer based with attention mechanism), it becomes crucial to ensure the robustness and security of the foundation models that underlie these advancements.
 
 **Project Description:**
 
-The selected PhD student will work on investigating potential vulnerabilities and biases in foundation models, such as language models (one position) and 2D/3D computer vision models (second position). Readteaming involves conducting adversarial assessments to identify weaknesses, uncover potential attack vectors, and develop defensive strategies for foundation models. The research will explore various aspects, including data poisoning attacks, adversarial samples generation, and the development of countermeasures.
+The selected PhD student will work on investigating potential vulnerabilities and biases in foundation models, such as language models (one PhD position) and 2D/3D computer vision models (one PhD position). Redteaming involves conducting adversarial assessments to identify weaknesses, uncover potential attack vectors, and develop defensive strategies for foundation models/transformer models. The research will explore various aspects, including data poisoning attacks, adversarial samples generation, and the development of countermeasures.
 
 **Requirements:**
 
@@ -630,27 +630,27 @@ Good communication skills and proficiency in academic writing.
 Interested candidates are requested to submit the following documents to **przemyslaw.biecek at pw.edu.pl**.
 
 
-We look forward to receiving your applications and welcoming an enthusiastic and dedicated PhD student to contribute to our foundation model readteaming research endeavors.
+We look forward to receiving your applications and welcoming an enthusiastic and dedicated PhD student to contribute to our foundation model redteaming research endeavors.
 
 
-Apply before **June 30 the end of the day** (the sooner the better).
+Apply before **June 30 the end of the day** (**June 10 in case of interest in MIM UW**).
 
 
 
 ### Deep Learning Engineer {-}
 
-Required:
+**Required:**
 
 * Background in Computer Science, Mathematics, Statistics or similar. 
 * Experience in Deep Learning for 2d/3d image data (*torch is a plus)
 * Interest in medical applications
 
-Scope of work:
+**Scope of work:**
 
 * Training of machine learning models for tabular and image data
 * Responsible ML solutions for the healthcare domain
 
-Offer:
+**Offer:**
 
 * Excellent atmosphere for work in a young and very active lab
 * Conferences and training budget
@@ -660,20 +660,20 @@ Offer:
 
 ### Research Software Engineer {-}
 
-Required:
+**Required:**
 
 * Background in Computer Science, Mathematics, Statistics or similar. 
 * Experience in Scientific Programming (R and/or Python and/or C++)
 * Interest in applications, machine learning and explainable artificial intelligence.
 
-Scope of work:
+**Scope of work:**
 
 * Training of machine learning models for tabular and image data
 * Interpretable solutions for tabular and image data
 * Interactive interfaces 
 * Responsible ML solutions for the healthcare domain
 
-Offer:
+**Offer:**
 
 * Excellent atmosphere for work in a young and very active lab
 * Conferences and training budget
@@ -689,13 +689,13 @@ Experience or interest in **XAI** / **fairness** will always be a huge plus in o
 
 We have a young and very energetic team focused on growth in AI. Full time position. Salary above academic average. Little or no didactics. Strong focus on doing things that are **meaningful**.
 
-Required:
+**Required:**
 
 * PhD in Computer Science, Mathematics, Statistics or similar. (Different background? We encourage cross-domain short research visits).
 * Experience in Scientific Programming (R and/or Python and/or C++)
 * Good track of Scientific Records
 
-Scope of work:
+**Scope of work:**
 
 * Automated model exploration
 * Interpretable measures for model performance
@@ -703,7 +703,7 @@ Scope of work:
 * Automated model validation
 * Experiments with XAI for deep learning
 
-Offer:
+**Offer:**
 
 * Excellent atmosphere for work in a young and very active ML lab
 * Conferences and training budget

@@ -76,6 +76,7 @@ document.body.classList.add("two-columns")
 * [Mateusz Grzyb](the-team.html#mateusz-grzyb), MSc student
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
+* [Piotr Komorowski](the-team.html#piotr-komorowski), MSc student
 * [Adam Kozłowski](the-team.html#adam-kozłowski), MSc
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
@@ -243,6 +244,17 @@ Google Scholar: [aJeg3IQAAAAJ](https://scholar.google.pl/citations?user=aJeg3IQA
 GitHub: [Hryniewska](https://github.com/Hryniewska)
 
 LinkedIn: [weronikahryniewska](https://www.linkedin.com/in/weronikahryniewska)
+
+
+### Piotr Komorowski{-}
+
+<img src="images/pkomorowski.jpg" >
+
+Master's student in Machine Learning at the University of Warsaw. Mainly interested in image processing and XAI applied to medical images.
+
+GitHub: [piotr-komorowski](https://github.com/piotr-komorowski)
+
+LinkedIn: [Piotr-Komorowski](https://www.linkedin.com/in/piotr-komorowski/)
 
 
 ### Anna Kozak {-}

@@ -95,6 +95,7 @@ document.body.classList.add("two-columns")
 * [Paweł Wojciechowski](the-team.html#paweł-wojciechowski), BSc
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
+* [Tymoteusz Kwieciński](the-team.html#tymoteusz-kwiecinski), BSc student
 
 
 #### Collaborators {-}
@@ -509,6 +510,17 @@ BSc student in Data Science at Warsaw University of Technology. Interested in ex
 GitHub: [arturzolkowski](https://github.com/arturzolkowski)
 
 LinkedIn: [Artur-Żółkowski](https://www.linkedin.com/in/azolkowski/)
+
+
+### Tymoteusz Kwieciński {-}
+
+<img src="images/kwiecinskit.jpg">
+
+BSc student in Data Science at Warsaw University of Technology. Particularly interested in explainable artificial intelligence, computer vision and NLP.
+
+GitHub: [Fersoil](https://github.com/Fersoil)
+
+LinkedIn: [Tymoteusz-Kwieciński](https://www.linkedin.com/in/tymoteuszkwiecinski/)
 
 
 <!-- 

@@ -26,7 +26,7 @@
 
 #team-cover-img {
     position: absolute;
-    background-image: url("../images/mi2_2021.jpg");
+    background-image: url("../images/mi2_2023.jpg");
     background-size: contain;
     height: 300px;
     width: calc(100vw - var(--menu-width));

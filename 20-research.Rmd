@@ -18,9 +18,19 @@ document.body.classList.add("two-columns")
 document.querySelector(".page-inner section > *:first-child").classList.add("two-columns-layout")
 </script>
 
+
+<div>
+<img src="images/consolidated-learning.png">
+<a href="https://doi.org/10.1007/s10994-023-06359-0">Consolidated learning: a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks</a>
+<p>Katarzyna Woźnica, Mateusz Grzyb, Zuzanna Trafas, Przemysław Biecek </p>
+<p><strong>Machine Learning (2023)</strong></p>
+This paper proposes a new formulation of the tuning problem, called consolidated learning, more suited to practical challenges faced by model developers, in which a large number of predictive models are created on similar datasets. We show that a carefully selected static portfolio of hyperparameter configurations yields good results for anytime optimization, while maintaining the ease of use and implementation. We demonstrate the effectiveness of this approach through an empirical study for the XGBoost algorithm and the newly created metaMIMIC benchmarks of predictive tasks extracted from the MIMIC-IV medical database. 
+</div>
+
+
 <div>
 <img src="images/evaluating-vit-explanations.png">
-<a href="https://arxiv.org/abs/2304.06133">Towards Evaluating Explanations of Vision Transformers for Medical Imaging</a>
+<a href="https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/html/Komorowski_Towards_Evaluating_Explanations_of_Vision_Transformers_for_Medical_Imaging_CVPRW_2023_paper.html">Towards Evaluating Explanations of Vision Transformers for Medical Imaging</a>
 <p>Piotr Komorowski, Hubert Baniecki, Przemysław Biecek</p>
 <p><strong>CVPR Workshop on Explainable AI for Computer Vision (2023)</strong></p>
 This paper investigates the performance of various interpretation methods on a Vision Transformer (ViT) applied to classify chest X-ray images. We introduce the notion of evaluating faithfulness, sensitivity, and complexity of ViT explanations. The obtained results indicate that Layerwise relevance propagation for transformers outperforms Local interpretable model-agnostic explanations and Attention visualization, providing a more accurate and reliable representation of what a ViT has actually learned.
@@ -29,7 +39,7 @@ This paper investigates the performance of various interpretation methods on a V
 
 <div>
 <img src="images/tlos.png">
-<a href="https://arxiv.org/abs/2303.09817">Hospital Length of Stay Prediction Based on Multi-modal Data towards Trustworthy Human-AI Collaboration in Radiomics</a>
+<a href="https://doi.org/10.1007/978-3-031-34344-5_9">Hospital Length of Stay Prediction Based on Multi-modal Data towards Trustworthy Human-AI Collaboration in Radiomics</a>
 <p>Hubert Baniecki, Bartlomiej Sobieski, Przemysław Bombiński, Patryk Szatkowski, Przemysław Biecek</p>
 <p><strong>International Conference on Artificial Intelligence in Medicine (2023)</strong></p>
 To what extent can the patient's length of stay in a hospital be predicted using only an X-ray image? We answer this question by comparing the performance of machine learning survival models on a novel multi-modal dataset created from 1235 images with textual radiology reports annotated by humans. We introduce time-dependent model explanations into the human-AI decision making process. For reproducibility, we open-source code and the TLOS dataset at <a href="https://github.com/mi2datalab/xlungs-trustworthy-los-prediction">this URL</a>.
@@ -220,7 +230,7 @@ During the literature review of COVID-19 related prognosis and diagnosis, we fou
 <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-36718-3_20">Models in the Wild: On Corruption Robustness of Neural NLP Systems</a>
 <p>Barbara Rychalska, Dominika Basaj, Alicja Gosiewska, Przemyslaw Biecek</p>
 <p><strong>International Conference on Neural Information Processing (2019)</strong></p>
-Natural Language Processing models lack a unified approach to robustness testing. In this paper we introduce WildNLP - a framework for testing model stability in a natural setting where text corruptions such as keyboard errors or misspelling occur. We compare robustness of deep learning models from 4 popular NLP tasks: Q&A, NLI, NER and Sentiment Analysis by testing their performance on aspects introduced in the framework. In particular, we focus on a comparison between recent state-of-the-art text representations and non-contextualized word embeddings. In order to improve robustness, we perform adversarial training on selected aspects and check its transferability to the improvement of models with various corruption types. We find that the high performance of models does not ensure sufficient robustness, although modern embedding techniques help to improve it. We release the code of WildNLP framework for the community.
+In this paper we introduce WildNLP - a framework for testing model stability in a natural setting where text corruptions such as keyboard errors or misspelling occur. We compare robustness of deep learning models from 4 popular NLP tasks: Q&A, NLI, NER and Sentiment Analysis by testing their performance on aspects introduced in the framework. In particular, we focus on a comparison between recent state-of-the-art text representations and non-contextualized word embeddings. In order to improve robustness, we perform adversarial training on selected aspects and check its transferability to the improvement of models with various corruption types. We find that the high performance of models does not ensure sufficient robustness, although modern embedding techniques help to improve it.
 </div>
 
 
@@ -229,7 +239,7 @@ Natural Language Processing models lack a unified approach to robustness testing
 <a href="https://doi.org/10.32614/RJ-2019-036">auditor: an R Package for Model-Agnostic Visual Validation and Diagnostics</a>
 <p>Alicja Gosiewska, Przemyslaw Biecek</p>
 <p><strong>The R Journal (2019)</strong></p>
-Machine learning models have successfully been applied to challenges in applied in biology, medicine, finance, physics, and other fields. With modern software it is easy to train even a complex model that fits the training data and results in high accuracy on test set. However, problems often arise when models are confronted with the real-world data. This paper describes methodology and tools for model-agnostic auditing. It provides functinos for assessing and comparing the goodness of fit and performance of models. In addition, the package may be used for analysis of the similarity of residuals and for identification of outliers and influential observations. The examination is carried out by diagnostic scores and visual verification. The code presented in this paper are implemented in the auditor package. Its flexible and consistent grammar facilitates the validation models of a large class of models.
+This paper describes methodology and tools for model-agnostic auditing. It provides functinos for assessing and comparing the goodness of fit and performance of models. In addition, the package may be used for analysis of the similarity of residuals and for identification of outliers and influential observations. The examination is carried out by diagnostic scores and visual verification. The code presented in this paper are implemented in the auditor package. Its flexible and consistent grammar facilitates the validation models of a large class of models.
 </div>
 
 

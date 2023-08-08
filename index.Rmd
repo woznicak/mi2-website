@@ -77,8 +77,8 @@ document.body.classList.add("two-columns")
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
 * [Piotr Komorowski](the-team.html#piotr-komorowski), MSc student
-* [Adam Kozłowski](the-team.html#adam-kozłowski), MSc
 * [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc student
+* [Tymoteusz Kwieciński](the-team.html#tymoteusz-kwiecinski), BSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
 * [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
 * [Hubert Ruczyński](the-team.html#hubert-ruczyński), MSc student
@@ -87,7 +87,6 @@ document.body.classList.add("two-columns")
 * [Bartek Sobieski](the-team.html#bartek-sobieski), MSc student
 * [Mikołaj Spytek](the-team.html#mikołaj-spytek), MSc student
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
-* [Mateusz Stączek](the-team.html#mateusz-stączek), MSc student
 * [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
 * [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
@@ -95,7 +94,6 @@ document.body.classList.add("two-columns")
 * [Paweł Wojciechowski](the-team.html#paweł-wojciechowski), BSc
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
 * [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
-* [Tymoteusz Kwieciński](the-team.html#tymoteusz-kwiecinski), BSc student
 
 
 #### Collaborators {-}
@@ -125,6 +123,7 @@ document.body.classList.add("two-columns")
 * Adrianna Grudzień, BSc
 * Maria Kałuska, BSc
 * Marcin Kosiński, MSc
+* Adam Kozłowski, MSc
 * Wojciech Kretowicz, BSc
 * Michał Kuźba, MSc
 * Szymon Maksymiuk, BSc
@@ -134,6 +133,7 @@ document.body.classList.add("two-columns")
 * Bartosz Sawicki, BSc
 * Patryk Słowakiewicz, BSc
 * Michał Sokólski, MSc
+* Mateusz Stączek, BSc
 * Szymon Szmajdziński, BSc
 * Zuzanna Trafas, BSc
 * Kinga Ułasik, BSc
@@ -270,7 +270,7 @@ GitHub: [kozaka93](https://github.com/kozaka93)
 
 LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna)
   
-### Adam Kozłowski {-}
+<!-- ### Adam Kozłowski {-}
 
 <img src="images/akozlowski.jpg" >
 
@@ -278,7 +278,7 @@ Graduated in Computer Science at ICM at the University of Warsaw. Currently work
 
 GitHub: [adam-kozlowski-280](https://github.com/adam-kozlowski-280)
 
-LinkedIn: [akozowski280](https://www.linkedin.com/in/adam-kozlowski-akozowski280/)
+LinkedIn: [akozowski280](https://www.linkedin.com/in/adam-kozlowski-akozowski280/) -->
 
   
 ### Mateusz Krzyziński {-}
@@ -293,6 +293,17 @@ GitHub: [krzyzinskim](https://github.com/krzyzinskim)
 
 LinkedIn: [krzyzinskim](https://www.linkedin.com/in/krzyzinskim/)
   
+
+### Tymoteusz Kwieciński {-}
+
+<img src="images/kwiecinskit.jpg">
+
+BSc student in Data Science at Warsaw University of Technology. Particularly interested in explainable artificial intelligence, computer vision and NLP.
+
+GitHub: [Fersoil](https://github.com/Fersoil)
+
+LinkedIn: [Tymoteusz-Kwieciński](https://www.linkedin.com/in/tymoteuszkwiecinski/)
+
   
 ### Stanisław Łaniewski {-}
 
@@ -409,13 +420,13 @@ GitHub: [tstanislawek](https://github.com/tstanislawek/)
 LinkedIn: [Tomasz-Stanisławek](https://pl.linkedin.com/in/tomasz-stanis%C5%82awek-91092729/)
 
 
-### Mateusz Stączek {-}
+<!-- ### Mateusz Stączek {-}
 
 <img src="images/mstaczek.jpg">
 
 BSc student in Data Science at the Warsaw University of Technology. Interested in exploring various explanation methods for image classification models and visualizing the results. 
 
-GitHub: [mstaczek](https://github.com/mstaczek)
+GitHub: [mstaczek](https://github.com/mstaczek) -->
 
 
 ### Paulina Tomaszewska {-}
@@ -511,16 +522,6 @@ GitHub: [arturzolkowski](https://github.com/arturzolkowski)
 
 LinkedIn: [Artur-Żółkowski](https://www.linkedin.com/in/azolkowski/)
 
-
-### Tymoteusz Kwieciński {-}
-
-<img src="images/kwiecinskit.jpg">
-
-BSc student in Data Science at Warsaw University of Technology. Particularly interested in explainable artificial intelligence, computer vision and NLP.
-
-GitHub: [Fersoil](https://github.com/Fersoil)
-
-LinkedIn: [Tymoteusz-Kwieciński](https://www.linkedin.com/in/tymoteuszkwiecinski/)
 
 
 <!-- 

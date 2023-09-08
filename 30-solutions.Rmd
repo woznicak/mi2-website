@@ -1,14 +1,13 @@
 # MI²Solutions  {-}
 
-The methods we work on are based on principles of open science. And are available to everyone
+Hire a team of experienced researchers. **The blue team** will help you develop good predictive models, create a responsible solution tailored to your needs. **The red team** will help you find and analyse any weaknesses in your predictive models. It will help you confront them with domain knowledge and make sure they are resilient to future changes in the data.
 
-The tools we develop are created in the spirit of open software. And are available to everyone
 
 If you need tailor-made solutions for your individual needs, we are happy to help you too. Contact us, we can develop software for you, deploy it, provide training, discuss your needs, verify the quality of your existing solutions.
 
 Below you will find a sample offer for trainings or deployments.
 
-## Solutions  {-}
+**Research as a service**
 
 Our team has experience not only in groundbreaking research, but also in deploying these research into business.
 
@@ -20,9 +19,7 @@ There are many ways we can help, for example
 
 We would be happy to discuss how we could help with your organisation!
 
-## Trainings {-}
-
-We would like to invite you to our training.
+**Trainings**
 
 Based on our experience in the area of Responsible Machine Learning, developed a unique two-day hands-on training. Jump into the topic of eXplainable Artificial Intelligence with our trainers.
 
@@ -34,43 +31,18 @@ Based on our experience in the area of Responsible Machine Learning, developed a
     document.querySelector(".page-inner section > *:first-child").classList.add("research-grants-layout")
 </script>
 
-### Responsible ML {-}
-#### Introduction to Responsible Machie Learning {-}
+**Responsible Machine Learning**
 
 ![images/training_xai](images/training_xai.png)
 
 
 The training is conducted once a month in small groups online. Small groups encourage questions and the interactions within the group. 
 
-Dates of upcoming trainings in 2022: 21-22 January, 18-19 February, 18-19 March, 22-23 April, 20-21 May.
-
-**Agenda**
-
-Day 1: We will start with a brief introduction to predictive modelling, then discuss tree based methods and ensembles like random forest and gradient boosting. We will end the day by discussing the hyperparameter tuning procedure. 
-
-Day 2: We will start the second day with an introduction to explainable artificial intelligence. We discuss variable importance followed by Partial Dependence profiles, Shapley values, the LIME method and Ceteris Paribus profiles.
-
-Each block includes a presentation on the method, a hands-on session and Q&A.
-
-**Prerequisites**
-
-We assume that participants have a basic knowledge of the language in which the training is conducted (R or Python). They can load data, perform simple EDA and build any predictive model, e.g. regression model.
-
 **Language**
 
 Depending on the group's preference, the hands-on part can be carried out in R (mlr3 + DALEX) or Python (scikit-learn + dalex). 
 
 The methodology part does not depend on the language.
-
-**Price**
-
-Price of the two-day online training: 899 EUR / 999 USD.
-
-Discounts available for groups of more than one person.
-
-If you are interested in private training for a group from your company please contact with us.
-
-Each participant will receive a paper materials in a form of a comic book https://betaandbit.github.io/RML/.
 
 **Book your training**
 

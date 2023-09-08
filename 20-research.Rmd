@@ -18,21 +18,102 @@ document.body.classList.add("two-columns")
 document.querySelector(".page-inner section > *:first-child").classList.add("two-columns-layout")
 </script>
 
+
+<div>
+<img src="images/consolidated-learning.png">
+<a href="https://doi.org/10.1007/s10994-023-06359-0">Consolidated learning: a domain-specific model-free optimization strategy with validation on metaMIMIC benchmarks</a>
+<p>Katarzyna Woźnica, Mateusz Grzyb, Zuzanna Trafas, Przemysław Biecek </p>
+<p><strong>Machine Learning (2023)</strong></p>
+This paper proposes a new formulation of the tuning problem, called consolidated learning, more suited to practical challenges faced by model developers, in which a large number of predictive models are created on similar datasets. We show that a carefully selected static portfolio of hyperparameter configurations yields good results for anytime optimization, while maintaining the ease of use and implementation. We demonstrate the effectiveness of this approach through an empirical study for the XGBoost algorithm and the newly created metaMIMIC benchmarks of predictive tasks extracted from the MIMIC-IV medical database. 
+</div>
+
+
+<div>
+<img src="images/evaluating-vit-explanations.png">
+<a href="https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/html/Komorowski_Towards_Evaluating_Explanations_of_Vision_Transformers_for_Medical_Imaging_CVPRW_2023_paper.html">Towards Evaluating Explanations of Vision Transformers for Medical Imaging</a>
+<p>Piotr Komorowski, Hubert Baniecki, Przemysław Biecek</p>
+<p><strong>CVPR Workshop on Explainable AI for Computer Vision (2023)</strong></p>
+This paper investigates the performance of various interpretation methods on a Vision Transformer (ViT) applied to classify chest X-ray images. We introduce the notion of evaluating faithfulness, sensitivity, and complexity of ViT explanations. The obtained results indicate that Layerwise relevance propagation for transformers outperforms Local interpretable model-agnostic explanations and Attention visualization, providing a more accurate and reliable representation of what a ViT has actually learned.
+</div>
+
+
+<div>
+<img src="images/tlos.png">
+<a href="https://doi.org/10.1007/978-3-031-34344-5_9">Hospital Length of Stay Prediction Based on Multi-modal Data towards Trustworthy Human-AI Collaboration in Radiomics</a>
+<p>Hubert Baniecki, Bartlomiej Sobieski, Przemysław Bombiński, Patryk Szatkowski, Przemysław Biecek</p>
+<p><strong>International Conference on Artificial Intelligence in Medicine (2023)</strong></p>
+To what extent can the patient's length of stay in a hospital be predicted using only an X-ray image? We answer this question by comparing the performance of machine learning survival models on a novel multi-modal dataset created from 1235 images with textual radiology reports annotated by humans. We introduce time-dependent model explanations into the human-AI decision making process. For reproducibility, we open-source code and the TLOS dataset at <a href="https://github.com/mi2datalab/xlungs-trustworthy-los-prediction">this URL</a>.
+</div>
+
+
+<div>
+<img src="images/paper_survshap.png">
+<a href="https://doi.org/10.1016/j.knosys.2022.110234 ">SurvSHAP(t): Time-dependent explanations of machine learning survival models</a>
+<p>Mateusz Krzyziński, Mikołaj Spytek, Hubert Baniecki, Przemysław Biecek</p>
+<p><strong>Knowledge-Based Systems (2023)</strong></p>
+In this paper, we introduce SurvSHAP(t), the first time-dependent explanation that allows for interpreting survival black-box models. The proposed methods aim to enhance precision diagnostics and support domain experts in making decisions. SurvSHAP(t) is model-agnostic and can be applied to all models with functional output. We provide an accessible implementation of time-dependent explanations in Python at <a href="https://github.com/MI2DataLab/survshap">this URL</a>.
+</div>
+
+
+<div>
+<img src="images/paper_iema.png">
+<a href="https://doi.org/10.1007/s10618-023-00924-w ">The grammar of interactive explanatory model analysis</a>
+<p>Hubert Baniecki, Dariusz Parzych, Przemyslaw Biecek</p>
+<p><strong>Data Mining and Knowledge Discovery (2023)</strong></p>
+This paper proposes how different Explanatory Model Analysis (EMA) methods complement each other and discusses why it is essential to juxtapose them. The introduced process of Interactive EMA (IEMA) derives from the algorithmic side of explainable machine learning and aims to embrace ideas developed in cognitive sciences. We formalize the grammar of IEMA to describe human-model interaction. We conduct a user study to evaluate the usefulness of IEMA, which indicates that an interactive sequential analysis of a model may increase the accuracy and confidence of human decision making.
+</div>
+
+
+<div>
+<img src="images/climate_policy_tracker.png">
+<a href="http://arxiv.org/abs/2211.05852 ">Climate Policy Tracker: Pipeline for automated analysis of public climate policies</a>
+<p>Artur Żółkowski, Mateusz Krzyziński, Piotr Wilczyński, Stanisław Giziński, Emilia Wiśnios, Bartosz Pieliński, Julian Sienkiewicz, Przemysław Biecek</p>
+<p><strong>NeurIPS Workshop on Tackling Climate Change with Machine Learning (2022)</strong></p>
+In this work, we use a Latent Dirichlet Allocation-based pipeline for the automatic summarization and analysis of 10-years of national energy and climate plans (NECPs) for the period from 2021 to 2030, established by 27 Member States of the European Union. We focus on analyzing policy framing, the language used to describe specific issues, to detect essential nuances in the way governments frame their climate policies and achieve climate goals.
+</div>
+
+
+<div>
+<img src="images/paper_xg.png">
+<a href="https://doi.org/10.1109/DSAA54385.2022.10032440">Explainable expected goal models for performance analysis in football analytics</a>
+<p>Mustafa Cavus, Przemyslaw Biecek</p>
+<p><strong>International Conference on Data Science and Advanced Analytics (2022)</strong></p>
+The expected goal provides a more representative measure of the team and player performance which also suit the low-scoring nature of football instead of the score in modern football. This paper proposes an accurate expected goal model trained on 315,430 shots from seven seasons between 2014-15 and 2020-21 of the top-five European football leagues. Moreover, we demonstrate a practical application of aggregated profiles to explain a group of observations on an accurate expected goal model for monitoring the team and player performance.
+</div>
+
+
+<div>
+<img src="images/paper_gdf.png"> 
+<a href="https://doi.org/10.1038/s41598-022-21417-8">Multi-omics disease module detection with an explainable Greedy Decision Forest</a>
+<p>Bastian Pfeifer, Hubert Baniecki, Anna Saranti, Przemyslaw Biecek, Andreas Holzinger</p>
+<p><strong>Scientific Reports (2022)</strong></p>
+In this work, we demonstrate subnetwork detection based on multi-modal node features using a novel Greedy Decision Forest (GDF) with inherent interpretability. The latter will be a crucial factor to retain experts and gain their trust in such algorithms. To demonstrate a concrete application example, we focus on bioinformatics, systems biology and particularly biomedicine, but the presented methodology is applicable in many other domains as well. Our proposed explainable approach can help to uncover disease-causing network modules from multi-omics data to better understand complex diseases such as cancer.
+</div>
+
+
 <div>
 <img src="images/epp_diagram.png">
 <a href="https://www.nature.com/articles/s42256-022-00531-2">Interpretable meta-score for model performance</a>
 <p>Alicja Gosiewska, Katarzyna Woźnica, Przemysław Biecek</p>
-<p><i>Nature Machine Intelligence (2022)</i></p>
+<p><strong>Nature Machine Intelligence (2022)</strong></p>
 Elo-based predictive power (EPP) meta-score that is built on other performance measures and allows for interpretable comparisons of models. Differences between this score have a probabilistic interpretation and can be compared directly between data sets. Furthermore, this meta-score allows for an assessment of ranking fitness. We prove the properties of the Elo-based predictive power meta-score and support them with empirical results on a large-scale benchmark of 30 classification data sets. Additionally, we propose a unified benchmark ontology that provides a uniform description of benchmarks.
 </div>
 
+
+<div>
+<img src="images/mini_fairmodels.png">
+<a href="http://doi.org/10.32614/RJ-2022-019">fairmodels: a Flexible Tool for Bias Detection, Visualization, and Mitigation in Binary Classification Models</a>
+<p>Jakub Wiśniewski, Przemyslaw Biecek</p>
+<p><strong>The R Journal (2022)</strong></p>
+This article introduces an R package fairmodels that helps to validate fairness and eliminate bias in binary classification models quickly and flexibly. It offers a model-agnostic approach to bias detection, visualization, and mitigation. The implemented functions and fairness metrics enable model fairness validation from different perspectives. In addition, the package includes a series of methods for bias mitigation that aim to diminish the discrimination in the model. The package is designed to examine a single model and facilitate comparisons between multiple models.
+</div>
 
 
 <div>
 <img src="images/xai-alzheimer.png">
 <a href="https://doi.org/10.1186/s40708-022-00165-5">A robust framework to investigate the reliability and stability of explainable artificial intelligence markers of Mild Cognitive Impairment and Alzheimer’s Disease</a>
 <p>Angela Lombardi, Domenico Diacono, Nicola Amoroso, Przemysław Biecek, Alfonso Monaco, Loredana Bellantuono, Ester Pantaleo, Giancarlo Logroscino, Roberto De Blasi, Sabina Tangaro, Roberto Bellotti </p>
-<p><i>Brain Informatics (2022)</i></p>
+<p><strong>Brain Informatics (2022)</strong></p>
 In this work, we present a robust framework to (i) perform a threefold classification between healthy control subjects, individuals with cognitive impairment, and subjects with dementia using different cognitive indexes and (ii) analyze the variability of the explainability SHAP values associated with the decisions taken by the predictive models. We demonstrate that the SHAP values can accurately characterize how each index affects a patient’s cognitive status. Furthermore, we show that a longitudinal analysis of SHAP values can provide effective information on Alzheimer’s disease progression.
 </div>
 
@@ -41,16 +122,16 @@ In this work, we present a robust framework to (i) perform a threefold classific
 <img src="images/limecraft.png">
 <a href="https://link.springer.com/article/10.1007/s10994-022-06204-w">LIMEcraft: handcrafted superpixel selection and inspection for Visual eXplanations</a>
 <p>Weronika Hryniewska, Adrianna Grudzień, Przemysław Biecek</p>
-<p><i>Machine Learning (2022)</i></p>
+<p><strong>Machine Learning (2022)</strong></p>
 LIMEcraft enhances the process of explanation by allowing a user to interactively select semantically consistent areas and thoroughly examine the prediction for the image instance in case of many image features. Experiments on several models show that our tool improves model safety by inspecting model fairness for image pieces that may indicate model bias. The code is available at: <a href="https://github.com/MI2DataLab/LIMEcraft">this URL</a>. 
 </div>
 
 
 <div>
 <img src="images/foolingpd.png">
-<a href="https://arxiv.org/abs/2105.12837">Fooling Partial Dependence via Data Poisoning</a>
+<a href="https://doi.org/10.1007/978-3-031-26409-2_8">Fooling Partial Dependence via Data Poisoning</a>
 <p>Hubert Baniecki, Wojciech Kretowicz, Przemyslaw Biecek</p>
-<p><i>ECML PKDD (2022)</i></p>
+<p><strong>ECML PKDD (2022)</strong></p>
 We showcase that PD can be manipulated in an adversarial manner, which is alarming, especially in financial or medical applications where auditability became a must-have trait supporting black-box machine learning. The fooling is performed via poisoning the data to bend and shift explanations in the desired direction using genetic and gradient algorithms.
 </div>
 
@@ -59,7 +140,7 @@ We showcase that PD can be manipulated in an adversarial manner, which is alarmi
 <img src="images/manipulatingshap.png">
 <a href="https://doi.org/10.1609/aaai.v36i11.21590">Manipulating SHAP via Adversarial Data Perturbations (Student Abstract)</a>
 <p>Hubert Baniecki, Przemyslaw Biecek</p>
-<p><i>AAAI Conference on Artificial Intelligence (2022)</i></p>
+<p><strong>AAAI Conference on Artificial Intelligence (2022)</strong></p>
 We introduce a model-agnostic algorithm for manipulating SHapley Additive exPlanations (SHAP) with perturbation of tabular data. It is evaluated on predictive tasks from healthcare and financial domains to illustrate how crucial is the context of data distribution in interpreting machine learning models. Our method supports checking the stability of the explanations used by various stakeholders apparent in the domain of responsible AI; moreover, the result highlights the explanations' vulnerability that can be exploited by an adversary.
 </div>
 
@@ -68,7 +149,7 @@ We introduce a model-agnostic algorithm for manipulating SHapley Additive exPlan
 <img src="images/paper_lncrnas.png">
 <a href="https://www.mdpi.com/2072-6694/14/2/439">A Signature of 14 Long Non-Coding RNAs (lncRNAs) as a Step towards Precision Diagnosis for NSCLC</a>
 <p>Anetta Sulewska, Jacek Niklinski, Radoslaw Charkiewicz, Piotr Karabowicz, Przemyslaw Biecek, Hubert Baniecki, Oksana Kowalczuk, Miroslaw Kozlowski, Patrycja Modzelewska, Piotr Majewski et al.</p>
-<p><i>Cancers (2022)</i></p>
+<p><strong>Cancers (2022)</strong></p>
 The aim of the study was the appraisal of the diagnostic value of 14 differentially expressed long non-coding RNAs (lncRNAs) in the early stages of non-small-cell lung cancer (NSCLC). We established two classifiers. The first recognized cancerous from noncancerous tissues, the second successfully discriminated NSCLC subtypes (LUAD vs. LUSC). Our results indicate that the panel of 14 lncRNAs can be a promising tool to support a routine histopathological diagnosis of NSCLC.
 </div>
 
@@ -77,7 +158,7 @@ The aim of the study was the appraisal of the diagnostic value of 14 differentia
 <img src="images/python_dalex.png">
 <a href="https://www.jmlr.org/papers/v22/20-1473">dalex: Responsible Machine Learning with Interactive Explainability and Fairness in Python</a>
 <p>Hubert Baniecki, Wojciech Kretowicz, Piotr Piątyszek, Jakub Wiśniewski, Przemyslaw Biecek</p>
-<p><i>Journal of Machine Learning Research (2021)</i></p>
+<p><strong>Journal of Machine Learning Research (2021)</strong></p>
 We introduce dalex, a Python package which implements a model-agnostic interface for interactive explainability and fairness. It adopts the design crafted through the development of various tools for explainable machine learning; thus, it aims at the unification of existing solutions. This library's source code and documentation are available under open license at <a href="https://python.drwhy.ai">this URL</a>.
 </div>
 
@@ -88,7 +169,7 @@ We introduce dalex, a Python package which implements a model-agnostic interface
 learning modeling of medical images based on COVID-19 detection studies</a>
 <p>Weronika Hryniewska, Przemysław Bombiński, Patryk Szatkowski, Paulina Tomaszewska, Artur Przelaskowski,
 Przemysław Biecek</p>
-<p><i>Pattern Recognition (2021)</i></p>
+<p><strong>Pattern Recognition (2021)</strong></p>
 Our analysis revealed numerous mistakes made at different stages of data acquisition, model development, and explanation construction. In this work, we overview the approaches proposed in the surveyed Machine Learning articles and indicate typical errors emerging from the lack of deep understanding of the radiography domain. The final result is a proposed checklist with the minimum conditions to be met by a reliable COVID-19 diagnostic model.
 </div>
 
@@ -97,7 +178,7 @@ Our analysis revealed numerous mistakes made at different stages of data acquisi
 <img src="images/xai_metalearning.png">
 <a href="https://arxiv.org/abs/2002.04276">Towards explainable meta-learning</a>
 <p>Katarzyna Woźnica, Przemyslaw Biecek</p>
-<p><i>XKDD Workshop ECML PKDD (2021)</i></p>
+<p><strong>ECML PKDD Workshop on eXplainable Knowledge Discovery in Data Mining (2021)</strong></p>
 To build a new generation of meta-models we need a deeper understanding of the importance and effect of meta-features on the model tunability. In this paper, we propose techniques developed for eXplainable Artificial Intelligence (XAI) to examine and extract knowledge from black-box surrogate models. To our knowledge, this is the first paper that shows how post-hoc explainability can be used to improve the meta-learning.
 </div>
 
@@ -107,7 +188,7 @@ To build a new generation of meta-models we need a deeper understanding of the i
 <a href="https://drive.google.com/file/d/1-B5T3FCAHzDJbOaPtBnf5l9NnK-yhJtZ/view">Prevention is better than cure: a
 case study of the abnormalities detection in the chest</a>
 <p>Weronika Hryniewska, Piotr Czarnecki, Jakub Wiśniewski, Przemysław Bombiński, Przemysław Biecek</p>
-<p><i>“Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision” CVPR Workshop (2021)</i></p>
+<p><strong>CVPR Workshop on “Beyond Fairness: Towards a Just, Equitable, and Accountable Computer Vision” (2021)</strong></p>
 In this paper, we analyze in detail a single use case - a Kaggle competition related to the detection of abnormalities in X-ray lung images. We demonstrate how a series of simple tests for data imbalance exposes faults in the data acquisition and annotation process. Complex models are able to learn such artifacts and it is difficult to remove this bias during or after the training. 
 </div>
 
@@ -116,7 +197,7 @@ In this paper, we analyze in detail a single use case - a Kaggle competition rel
 <img src="images/safe.png">
 <p><a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X">Simpler is better: Lifting interpretability-performance trade-off via automated feature engineering</a></p>
 <p>Alicja Gosiewska, Anna Kozak, Przemysław Biecek</p>
-<p><i>Decision Support Systems (2021)</i></p>
+<p><strong>Decision Support Systems (2021)</strong></p>
 We propose a framework that uses elastic black boxes as supervisor models to create simpler, less opaque, yet still accurate and interpretable glass box models. The new models were created using newly engineered features extracted with the help of a supervisor model. We supply the analysis using a large-scale benchmark on several tabular data sets from the OpenML database. 
 </div>
 
@@ -129,7 +210,7 @@ variants</a>
 <p>Radosław Charkiewicz, Jacek Nikliński, Przemysław Biecek, Joanna Kiśluk, Sławomir Pancewicz, Anna
 Moniuszko-Malinowska, Robert Flisiak, Adam Krętowski, Janusz Dzięcioł, Marcin Moniuszko, Rafał Gierczyński,
 Grzegorz Juszczyk, Joanna Reszeć</p>
-<p><i>Advances in Medical Sciences (2021)</i></p>
+<p><strong>Advances in Medical Sciences (2021)</strong></p>
 This study shows the first confirmed case of SARS-CoV-2 in Poland with the lineage B.1.351 (known as 501Y.V2 South African variant), as well as another 18 cases with epidemiologically relevant lineage B.1.1.7, known as British variant.
 </div>
 
@@ -139,17 +220,8 @@ This study shows the first confirmed case of SARS-CoV-2 in Poland with the linea
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17874">Responsible Prediction Making of COVID-19 Mortality
 (Student Abstract)</a>
 <p>Hubert Baniecki, Przemyslaw Biecek</p>
-<p><i>AAAI Conference on Artificial Intelligence (2021)</i></p>
+<p><strong>AAAI Conference on Artificial Intelligence (2021)</strong></p>
 During the literature review of COVID-19 related prognosis and diagnosis, we found out that most of the predictive models are not faithful to the RAI principles, which can lead to biassed results and wrong reasoning. To solve this problem, we show how novel XAI techniques boost transparency, reproducibility and quality of models.
-</div>
-
-
-<div>
-<img src="images/mini_fairmodels.png">
-<a href="https://arxiv.org/abs/2104.00507">fairmodels: A Flexible Tool For Bias Detection, Visualization, And Mitigation</a>
-<p>Jakub Wiśniewski, Przemyslaw Biecek</p>
-<p><i>arXiv preprint (2021)</i></p>
-This article introduces an R package fairmodels that helps to validate fairness and eliminate bias in classification models in an easy and flexible fashion. The fairmodels package offers a model-agnostic approach to bias detection, visualization and mitigation. The implemented set of functions and fairness metrics enables model fairness validation from different perspectives. The package includes a series of methods for bias mitigation that aim to diminish the discrimination in the model. 
 </div>
 
 
@@ -157,8 +229,8 @@ This article introduces an R package fairmodels that helps to validate fairness 
 <img src="images/paper_wildnlp.png">
 <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-36718-3_20">Models in the Wild: On Corruption Robustness of Neural NLP Systems</a>
 <p>Barbara Rychalska, Dominika Basaj, Alicja Gosiewska, Przemyslaw Biecek</p>
-<p><i>International Conference on Neural Information Processing (2019)</i></p>
-Natural Language Processing models lack a unified approach to robustness testing. In this paper we introduce WildNLP - a framework for testing model stability in a natural setting where text corruptions such as keyboard errors or misspelling occur. We compare robustness of deep learning models from 4 popular NLP tasks: Q&A, NLI, NER and Sentiment Analysis by testing their performance on aspects introduced in the framework. In particular, we focus on a comparison between recent state-of-the-art text representations and non-contextualized word embeddings. In order to improve robustness, we perform adversarial training on selected aspects and check its transferability to the improvement of models with various corruption types. We find that the high performance of models does not ensure sufficient robustness, although modern embedding techniques help to improve it. We release the code of WildNLP framework for the community.
+<p><strong>International Conference on Neural Information Processing (2019)</strong></p>
+In this paper we introduce WildNLP - a framework for testing model stability in a natural setting where text corruptions such as keyboard errors or misspelling occur. We compare robustness of deep learning models from 4 popular NLP tasks: Q&A, NLI, NER and Sentiment Analysis by testing their performance on aspects introduced in the framework. In particular, we focus on a comparison between recent state-of-the-art text representations and non-contextualized word embeddings. In order to improve robustness, we perform adversarial training on selected aspects and check its transferability to the improvement of models with various corruption types. We find that the high performance of models does not ensure sufficient robustness, although modern embedding techniques help to improve it.
 </div>
 
 
@@ -166,8 +238,8 @@ Natural Language Processing models lack a unified approach to robustness testing
 <img src="images/paper_auditor.png">
 <a href="https://doi.org/10.32614/RJ-2019-036">auditor: an R Package for Model-Agnostic Visual Validation and Diagnostics</a>
 <p>Alicja Gosiewska, Przemyslaw Biecek</p>
-<p><i>The R Journal (2019)</i></p>
-Machine learning models have successfully been applied to challenges in applied in biology, medicine, finance, physics, and other fields. With modern software it is easy to train even a complex model that fits the training data and results in high accuracy on test set. However, problems often arise when models are confronted with the real-world data. This paper describes methodology and tools for model-agnostic auditing. It provides functinos for assessing and comparing the goodness of fit and performance of models. In addition, the package may be used for analysis of the similarity of residuals and for identification of outliers and influential observations. The examination is carried out by diagnostic scores and visual verification. The code presented in this paper are implemented in the auditor package. Its flexible and consistent grammar facilitates the validation models of a large class of models.
+<p><strong>The R Journal (2019)</strong></p>
+This paper describes methodology and tools for model-agnostic auditing. It provides functinos for assessing and comparing the goodness of fit and performance of models. In addition, the package may be used for analysis of the similarity of residuals and for identification of outliers and influential observations. The examination is carried out by diagnostic scores and visual verification. The code presented in this paper are implemented in the auditor package. Its flexible and consistent grammar facilitates the validation models of a large class of models.
 </div>
 
 
@@ -175,7 +247,7 @@ Machine learning models have successfully been applied to challenges in applied 
 <img src="images/paper_breakdown.png">
 <a href="https://doi.org/10.32614/RJ-2018-072">Explanations of Model Predictions with live and breakDown Packages</a>
 <p>Mateusz Staniak, Przemyslaw Biecek</p>
-<p><i>The R Journal (2018)</i></p>
+<p><strong>The R Journal (2018)</strong></p>
 Complex models are commonly used in predictive modeling. In this paper we present R packages that can be used for explaining predictions from complex black box models and attributing parts of these predictions to input features. We introduce two new approaches and corresponding packages for such attribution, namely live and breakDown. We also compare their results with existing implementations of state-of-the-art solutions, namely, lime (Pedersen and Benesty, 2018) which implements Locally Interpretable Model-agnostic Explanations and iml (Molnar et al., 2018) which implements Shapley values.
 </div>
 
@@ -184,8 +256,8 @@ Complex models are commonly used in predictive modeling. In this paper we presen
 <img src="images/project-dalex.png">
 <a href="https://www.jmlr.org/papers/v22/20-1473">DALEX: Explainers for Complex Predictive Models in R</a>
 <p>Przemyslaw Biecek</p>
-<p><i>Journal of Machine Learning Research (2018)</i></p>
-Predictive modeling is invaded by elastic, yet complex methods such as neural networks or ensembles (model stacking, boosting or bagging). Such methods are usually described by a large number of parameters or hyper parameters - a price that one needs to pay for elasticity. The very number of parameters makes models hard to understand. This paper describes a consistent collection of explainers for predictive models, a.k.a. black boxes. Each explainer is a technique for exploration of a black box model. Presented approaches are model-agnostic, what means that they extract useful information from any predictive method irrespective of its internal structure. Each explainer is linked with a specific aspect of a model. Some are useful in decomposing predictions, some serve better in understanding performance, while others are useful in understanding importance and conditional responses of a particular variable. Every explainer presented here works for a single model or for a collection of models. In the latter case, models can be compared against each other. Such comparison helps to find strengths and weaknesses of different models and gives additional tools for model validation. Presented explainers are implemented in the DALEX package for R. They are based on a uniform standardized grammar of model exploration which may be easily extended.
+<p><strong>Journal of Machine Learning Research (2018)</strong></p>
+This paper describes a consistent collection of explainers for predictive models, a.k.a. black boxes. Each explainer is a technique for exploration of a black box model. Presented approaches are model-agnostic, what means that they extract useful information from any predictive method irrespective of its internal structure. Each explainer is linked with a specific aspect of a model. Every explainer presented here works for a single model or for a collection of models. In the latter case, models can be compared against each other. Presented explainers are implemented in the DALEX package for R. They are based on a uniform standardized grammar of model exploration which may be easily extended.
 </div>
 
 
@@ -193,7 +265,7 @@ Predictive modeling is invaded by elastic, yet complex methods such as neural ne
 <img src="images/mini_archivist.png">
 <a href="https://github.com/pbiecek/archivist">archivist: An R Package for Managing, Recording and Restoring Data Analysis Results</a>
 <p>Przemyslaw Biecek, Marcin Kosiński</p>
-<p><i>Journal of Statistical Software (2017)</i></p>
+<p><strong>Journal of Statistical Software (2017)</strong></p>
 Everything that exists in R is an object (Chambers 2016). This article examines what would be possible if we kept copies of all R objects that have ever been created. Not only objects but also their properties, meta-data, relations with other objects and information about context in which they were created. We introduce archivist, an R package designed to improve the management of results of data analysis.
 </div>
 
@@ -209,6 +281,12 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <img src="images/mini_dalex.png" align="left">
 <a href="http://dalex.drwhy.ai/">DALEX</a>
 <p>XAI with DALEX for R and Python</p>
+</div>
+
+<div>
+<img src="images/survex.png" align="left">
+<a href="https://modeloriented.github.io/survex/">survex</a>
+<p>Explainable machine learning in survival analysis</p>
 </div>
 
 <div>
@@ -248,7 +326,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis</a>
 <p>Explore, Explain, and Examine Predictive Models. With examples in R and Python</p>
 <p>Przemysław Biecek, Tomasz Burzykowski</p>
-<p><i>Chapman and Hall/CRC, New York (2021)</i></p>
+<p><strong>Chapman and Hall/CRC, New York (2021)</strong></p>
 </div>
 
 <div>
@@ -256,7 +334,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <a href="http://www.biecek.pl/Eseje/">Odkrywać! Ujawniać! Objaśniać! Zbiór esejów o sztuce prezentowania danych</a>
 <p>Essays on the art of data visualisation</p>
 <p>Przemysław Biecek</p>
-<p><i>WUW (2016)</i></p>
+<p><strong>University of Warsaw Press (2016)</strong></p>
 </div>
 
 <div>
@@ -264,7 +342,7 @@ document.querySelector(".page-inner section > *:first-child").classList.add("two
 <a href="http://www.biecek.pl/Analiza.Danych/">Analiza danych z programem R. Modele liniowe z efektami stałymi, losowymi i mieszanymi</a>
 <p>Data analysis in R. Linear models with fixed, random and mixed effects</p>
 <p>Przemysław Biecek</p>
-<p><i>PWN (2013)</i></p>
+<p><strong>Polish Scientific Publishers PWN (2013)</strong></p>
 </div>
 
 ## Seminars {-}
@@ -290,11 +368,30 @@ List of topics and materials from past seminars: https://github.com/MI2DataLab/M
 </script>
 
 
+
+### ARES 2022-2026 {-}
+
+#### ARES: Attack-resistant Explanations toward Secure and trustworthy AI {-}
+
+![](images/mi2-ares.png)
+
+Machine learning explainability, fairness, robustness, and security are key elements of trustworthy Artificial
+Intelligence, an area of strategic importance. In this context, the main goals of the ARES project are:
+
+1. Develop adversarial attacks on state-of-the-art explanations to investigate vulnerabilities and
+limitations of the existing explainability and fairness approaches in machine learning.
+2. Introduce novel robust explanations that are stable against manipulation and intuitive to evaluate.
+
+Achieving the first goal primarily impacts various domains of research, which currently use (and explain) black-box models for knowledge discovery and decision-making, by highlighting vulnerabilities and limitations of their explanations. Achieving the second goal impacts more the broad machine learning domain as it aims at improving state-of-the-art by introducing robust explanations toward secure and trustworthy AI.
+
+**Work on this project is financially supported by the Polish National Science Centre PRELUDIUM BIS grant 2021/43/O/ST6/00347.**
+
+
 ### DARLING 2022-2024   {-}
 
 #### DARLING: Deep Analysis of Regulations with Language Inference, Network analysis and institutional Grammar  {-}
 
-![images/project-darling](images/project-darling.png)
+![](images/project-darling.png)
 
 **Aim of the project**
 
@@ -320,7 +417,7 @@ In result the DARLING project will effect in the development of new methods to a
 
 #### X-LUNGS: Responsible Artificial Intelligence for Lung Diseases {-}
 
-![images/projects_xlungs.jpg](images/projects_xlungs.jpg)
+![](images/projects_xlungs.jpg)
 
 [comment]: <> (<img src="images/projects_xlungs.jpg">)
 
@@ -333,14 +430,14 @@ The unique feature of the proposed system is a trustworthy artificial intelligen
 - will provide image and textual explanations indicating the rationale behind the proposed recommendation,
 - will be verified for effective collaboration with the radiologist.
 
-**Work on this project is financially supported by the NCBiR grant INFOSTRATEG-I/0022/2021-00.**
+**Work on this project is financially supported from the INFOSTRATEG-I/0022/2021-00 grant funded by Polish National Centre for Research and Development (NCBiR).**
 
 
 ### HOMER 2020-2025 {-}
 
 #### HOMER: Human Oriented autoMated machinE leaRning {-}
 
-![images/project-homer](images/project-homer.png)
+![](images/project-homer.png)
 
 One of the biggest challenges in the state-of-the-art machine learning is dealing with the complexity of predictive models. Recent techniques like deep neural networks, gradient boosting or random forests create models with thousands or even millions of parameters. This makes decisions generated by these black-box models completely opaque. Model obscurity undermines trust in model decisions, hampers model debugging, blocks model auditability, exposes models to problems with concept drift or data drift.
 
@@ -350,14 +447,14 @@ In this project I am going to significantly advance next generation of explainer
 
 The particular directions I consider are (1) developing an uniform grammar for visual model exploration, (2) establishing a methodology for contrastive explanations that describe similarities and differences among different models, (3) advancing a methodology for non-additive model explanations, (4) creating new human-model interfaces for effective communication between models and humans, (5) introducing new techniques for training of interpretable models based on elastic surrogate black-box models, (6) rising new methods for automated auditing of fairness, biases and performance of predictive models.
 
-**Work on this project is financially supported by the NCN Sonata Bis-9 grant 2019/34/E/ST6/00052.**
+**Work on this project is financially supported from the SONATA BIS grant 2019/34/E/ST6/00052 funded by Polish National Science Centre (NCN).**
 
 
 ### DeCoviD 2020-2022 {-}
 
 #### DeCoviD: Detection of Covid-19 related markers of pulmonary changes using Deep Neural Networks models supported by eXplainable Artificial Intelligence and Cognitive Compressed Sensing  {-}
 
-![images/project-decovid](images/project-decovid.png)
+![](images/project-decovid.png)
 
 <br />
 <br />
@@ -379,7 +476,7 @@ More information: https://github.com/MI2DataLab/DeCoviD.
 
 #### DALEX: Descriptive and model Agnostic Local EXplanations {-}
 
-![images/project-dalex](images/project-dalex.png)
+![](images/project-dalex.png)
 
 **Research project objectives.** Black boxes are complex machine learning models, for example deep neural network, an ensemble of trees of high-dimensional regression model. They are commonly used due to they high performance. But how to understand the structure of a black-box, a model in which decision rules are too cryptic for humans? The aim of the project is to create a methodology for such exploration. To address this issue we will develop methods, that: (1) identify key variables that mostly determine a model response, (2) explain a single model response in a compact visual way through local approximations, (3) enrich model diagnostic plots.
 
@@ -387,15 +484,14 @@ More information: https://github.com/MI2DataLab/DeCoviD.
 
 **Expected impact on the development of science.** Explanations of black boxes have fundamental implications for the field of predictive and statistical modelling. The advent of big data forces imposes usage of black boxes that are easily able to overperform classical methods. But the high performance itself does not imply that the model is appropriate. Thus, especially in applications to personalized medicine or some regulated fields, one should scrutinize decision rules incorporated in the model. New methods and tools for exploration of black-box models are useful for quick identification of problems with the model structure and increase the interpretability of a black-box
 
-**Work on this project is financially supported by the NCN Opus grant 2017/27/B/ST6/0130.**
-
+**Work on this project is financially supported from the OPUS grant 2017/27/B/ST6/01307 funded by Polish National Science Centre (NCN).**
 
 
 ### MLGenSig 2017-2021   {-}
 
 #### MLGenSig: Machine Learning Methods for building of Integrated Genetic Signatures  {-}
 
-![images/project-mlgensig](images/project-mlgensig.png)
+![](images/project-mlgensig.png)
 
 **Research project objectives.** The main scientific goal of this project is to develop a methodology for integrated genetic signatures based on data from divergent high-throughput techniques used in molecular biology. Integrated signatures base on ensembles of signatures for RNA-seq, DNA-seq, data as well for methylation profiles and protein expression microarrays. The advent of high throughput methods allows to measure dozens of thousands or even millions features on different levels like DNA / RNA / protein. And nowadays in many large scale studies scientists use data from mRNA seq to assess the state of transcriptome, protein microarrays to asses the state of proteome and DNA-seq / bisulfide methylation to assess genome / methylome.
 
@@ -405,8 +501,6 @@ Here is the skeleton for our approach: (1) Use ensembles in order to building a 
 
 **Research project impact.** Genetic profiling is more and more important and has number of application starting from basic classification up to personalized medicine in which patients are profiled against different signatures. Existing tools for genetic signatures have many citations. This we assume that the methodology for integrated genetic profiling will be a very useful for many research groups. It is hard to overestimate the impact of better genetic profiling on medicine. Moreover we build a team of people with knowledge in cancer genetic profiling
 
-
-**Work on this project is financially supported by the NCN Opus grant 2016/21/B/ST6/02176.**
-
+**Work on this project is financially supported from the OPUS grant 2016/21/B/ST6/02176 funded by Polish National Science Centre (NCN).**
 
 

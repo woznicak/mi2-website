@@ -19,15 +19,13 @@ options(
 output <- knitr::opts_knit$get("rmarkdown.pandoc.to")
 is.html = !is.null(output) && output == "html"
 ```
-# MI²DataLab {-}
+# MI².AI {-}
 <script>
 document.body.classList.add("index-page")
 </script>
 
-MI² is a group of mathematicians and computer scientists that love to play with data.
-We are spread between [Warsaw University of Technology](https://www.pw.edu.pl/engpw) and [University of Warsaw](https://en.uw.edu.pl).
-
-DataLab is our creative space, place in which we have workshops, seminars and some experiments. Feel free to jump in. Here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude.
+MI².AI is a group of mathematicians and computer scientists that love to play with predictive models.
+We are spread between [Warsaw University of Technology](https://www.pw.edu.pl/engpw) and [University of Warsaw](https://en.uw.edu.pl). Here we have workshops, seminars, here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude. Feel free to jump in. 
 
 #### Mission {-}
 
@@ -75,70 +73,75 @@ document.body.classList.add("two-columns")
 * [Hubert Baniecki](the-team.html#hubert-baniecki), PhD student
 * [Mustafa Cavus](the-team.html#mustafa-cavus), PhD
 * [Maciej Chrabąszcz](the-team.html#maciej-chrabąszcz), MSc student
-* Adrianna Grudzień, BSc student
-* [Mateusz Grzyb](the-team.html#mateusz-grzyb), BSc
+* [Mateusz Grzyb](the-team.html#mateusz-grzyb), MSc student
 * [Stanisław Giziński](the-team.html#stanisław-giziński), MSc student
 * [Weronika Hryniewska](the-team.html#weronika-hryniewska), PhD student
-* [Anna Kozak](the-team.html#anna-kozak), MSc
-* [Adam Kozłowski](the-team.html#adam-kozłowski), MSc
-* [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), BSc student
+* [Piotr Komorowski](the-team.html#piotr-komorowski), MSc student
+* [Mateusz Krzyziński](the-team.html#mateusz-krzyziński), MSc student
+* [Tymoteusz Kwieciński](the-team.html#tymoteusz-kwiecinski), BSc student
 * [Stanisław Łaniewski](the-team.html#stanisław-łaniewski), PhD student
 * [Piotr Piątyszek](the-team.html#piotr-piątyszek), BSc student
-* [Hubert Ruczyński](the-team.html#hubert-ruczyński), BSc student
+* [Hubert Ruczyński](the-team.html#hubert-ruczyński), MSc student
 * [Barbara Rychalska](the-team.html#barbara-rychalska), PhD student
 * [Nuno Sepúlveda](https://www.immune-stats.net), PhD
-* [Bartek Sobieski](the-team.html#bartek-sobieski), BSc student
+* [Bartek Sobieski](the-team.html#bartek-sobieski), MSc student
+* [Mikołaj Spytek](the-team.html#mikołaj-spytek), MSc student
 * [Tomasz Stanisławek](the-team.html#tomasz-stanisławek), PhD
 * [Hoang Thien Ly](the-team.html#hoang-thien-ly), BSc student
 * [Paulina Tomaszewska](the-team.html#paulina-tomaszewska), PhD student
-* [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), BSc
+* [Piotr Wilczyński](the-team.html#piotr-wilczyński), BSc student
 * [Emilia Wiśnios](the-team.html#emilia-wiśnios), MSc student
+* [Paweł Wojciechowski](the-team.html#paweł-wojciechowski), BSc
 * [Katarzyna Woźnica](the-team.html#katarzyna-woźnica), PhD student
+* [Artur Żółkowski](the-team.html#artur-żółkowski), BSc student
 
 
 #### Collaborators {-}
 
+* [Mariusz Adamek](https://www.mariuszadamek.io/), Prof, MD
 * Przemysław Bombiński, PhD, MD
 * [André Fonseca](https://www.immune-stats.net), PhD student
 * Katarzyna Kobylińska, PhD student
+* [Anna Kozak](the-team.html#anna-kozak), MSc
 * Marcin Luckner, PhD
 * [João Malato](https://www.immune-stats.net), PhD student
-* Bartek Pieliński, PhD, DSc
+* [Bartek Pieliński](the-team.html#bartosz-pieliński), PhD, DSc
 * [Hanna Piotrowska](the-team.html#hanna-piotrowska), MA
 * Elżbieta Sienkiewicz, PhD
-* Julian Sienkiewicz, PhD
+* [Julian Sienkiewicz](the-team.html#julian-sienkiewicz), PhD
+* Adrian Stańdo, MSc student
 * Patryk Szatkowski, PhD student, MD
+* [Jakub Wiśniewski](the-team.html#jakub-wiśniewski), MSc student
 
-#### Summer Interns {-}
+<!-- #### Summer Interns {-} -->
 
-* Patryk Słowakiewicz, BSc student
-* [Mikołaj Spytek](the-team.html#mikołaj-spytek), BSc student
-* Adrian Stańdo, BSc student
-* [Mateusz Stączek](the-team.html#mateusz-stączek), BSc student
-* Piotr Wilczyński, BSc student
 
 #### Alumni {-}
 
 * Piotr Czarnecki, MSc
 * Alicja Gosiewska, MSc
-* Maria Kałuska, BSc student
+* Adrianna Grudzień, BSc
+* Maria Kałuska, BSc
 * Marcin Kosiński, MSc
+* Adam Kozłowski, MSc
 * Wojciech Kretowicz, BSc
 * Michał Kuźba, MSc
 * Szymon Maksymiuk, BSc
 * Tomasz Mikołajczyk, PhD
 * Katarzyna Pękala, MSc
 * Adam Rydelek, BSc
-* Bartosz Sawicki, BSc student
+* Bartosz Sawicki, BSc
+* Patryk Słowakiewicz, BSc
 * Michał Sokólski, MSc
-* Szymon Szmajdziński, BSc student
-* Zuzanna Trafas, BSc student
-* Kinga Ułasik, BSc student
+* Mateusz Stączek, BSc
+* Szymon Szmajdziński, BSc
+* Zuzanna Trafas, BSc
+* Kinga Ułasik, BSc
 * Anna Wróblewska, PhD
 * Hanna Zdulska, BSc
-* Artur Żółkowski, BSc student
 
 <div class="masonry">
+
 ### Przemysław Biecek {-}
 
 <img src="images/przemek.jpg" >
@@ -154,15 +157,24 @@ GitHub: [pbiecek](https://github.com/pbiecek)
 LinkedIn: [pbiecek](https://www.linkedin.com/in/pbiecek/)
 
 
+### Mariusz Adamek {-}
+
+<img src="images/mariusz_adamek.jpg" >
+
+I work at two Medical Universities (Silesia and Gdańsk) holding a Professorship in Medicine and Health Sciences. My interests are focused on lung cancer prevention and screening, the latter by means of low-dose computed tomography (LDCT) with special emphasis put on molecular biology methods, prediction models and image analysis aimed to enhance the performance of lung screening outcomes.
+
+Website: [www.mariuszadamek.io](https://www.mariuszadamek.io/)
+
+
 ### Hubert Baniecki {-}
 
 <img src="images/hbaniecki.jpg" >
 
-I'm a PhD student in Computer Science at the University of Warsaw. I previously did my MSc (2022) and BSc (2021) in Data Science at Warsaw University of Technology. My main research interest is explainable machine learning, with particular emphasis on adversarial attacks & evaluation of explanations. I care about human-model interaction with applications in biomedicine. I support the development and maintenance of several open-source Python & R packages for building predictive models responsibly.
+I’m a PhD student in Computer Science at the University of Warsaw. I previously did my MSc (2022) and BSc (2021) in Data Science at Warsaw University of Technology. My main research interest is explainable machine learning, with particular emphasis on adversarial attacks & evaluation of explanations. I care about human-model interaction with applications in biomedicine. I support the development and maintenance of several open-source Python & R packages for building predictive models responsibly.
 
-Website: [hbaniecki.com](https://hbaniecki.com)
-  
-  
+Website: [hbaniecki.com](https://hbaniecki.com/)
+
+
 ### Mustafa Cavus {-}
 
 <img src="images/mcavus.jpg" >
@@ -177,6 +189,18 @@ LinkedIn: [mcavus](https://www.linkedin.com/in/mustafacavusphd)
 
 Twitter: [mcavus](https://twitter.com/mustafa__cavus)
 
+
+### Julian Sienkiewicz {-}
+
+<img src="images/jsienkiewicz.jpg" >
+
+I work as an assistant professor at [Faculty of Physics, WUT](https://www.fizyka.pw.edu.pl). My main research area links with sociophysics, complex networks and agent-based models. In the scope of MI² DataLab I follow my other interest - scientometrics.
+
+Google Scholar: [mIwu11QAAAAJ](https://scholar.google.pl/citations?user=mIwu11QAAAAJ)
+
+LinkedIn: [julek-sienkiewicz-873829](https://www.linkedin.com/in/julek-sienkiewicz-873829/)
+
+
 ### Maciej Chrabąszcz {-}
 
 <img src="images/maciej_chrabaszcz.jpg">
@@ -186,6 +210,7 @@ Master's student in mathematical statisctics at Warsaw University of Technology.
 GitHub: [maciejchrabaszcz](https://github.com/maciejchrabaszcz)
 
 LinkedIn: [maciej-chrabaszcz](https://www.linkedin.com/in/maciej-chrabaszcz/)
+
 
 ### Stanisław Giziński {-}
 
@@ -198,6 +223,15 @@ Google Scholar: [Stanisław Giziński](https://scholar.google.com/citations?user
 GitHub: [Gizzio](https://github.com/Gizzio)
 
 LinkedIn: [stanislaw-gizinski](https://www.linkedin.com/in/stanislaw-gizinski/)
+
+
+### Mateusz Grzyb {-}
+
+<img src="images/mgrzyb.png">
+
+MSc student in Data Science at Warsaw University of Technology. Interested in artificial intelligence and scientific computing, but above all simply enjoys programming.
+
+GitHub: [mgrzyb99](https://github.com/mgrzyb99)
 
 
 ### Weronika Hryniewska{-}
@@ -213,6 +247,17 @@ GitHub: [Hryniewska](https://github.com/Hryniewska)
 LinkedIn: [weronikahryniewska](https://www.linkedin.com/in/weronikahryniewska)
 
 
+### Piotr Komorowski{-}
+
+<img src="images/pkomorowski.jpg" >
+
+Master's student in Machine Learning at the University of Warsaw. Mainly interested in image processing and XAI applied to medical images.
+
+GitHub: [piotr-komorowski](https://github.com/piotr-komorowski)
+
+LinkedIn: [Piotr-Komorowski](https://www.linkedin.com/in/piotr-komorowski/)
+
+
 ### Anna Kozak {-}
 
 <img src="images/akozak.jpg" >
@@ -225,7 +270,7 @@ GitHub: [kozaka93](https://github.com/kozaka93)
 
 LinkedIn: [kozakanna](https://www.linkedin.com/in/kozakanna)
   
-### Adam Kozłowski {-}
+<!-- ### Adam Kozłowski {-}
 
 <img src="images/akozlowski.jpg" >
 
@@ -233,14 +278,14 @@ Graduated in Computer Science at ICM at the University of Warsaw. Currently work
 
 GitHub: [adam-kozlowski-280](https://github.com/adam-kozlowski-280)
 
-LinkedIn: [akozowski280](https://www.linkedin.com/in/adam-kozlowski-akozowski280/)
+LinkedIn: [akozowski280](https://www.linkedin.com/in/adam-kozlowski-akozowski280/) -->
 
   
 ### Mateusz Krzyziński {-}
 
 <img src="images/krzyzinskim.jpg" >
 
-BSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, machine learning on graphs and data visualization.
+MSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, with particular emphasis on XAI methods for survival analysis models and XAI applications in the medical field. Also an enthusiast of data visualization. 
 
 Google Scholar: [i_r7EUgAAAAJ](https://scholar.google.com/citations?user=i_r7EUgAAAAJ)
 
@@ -248,6 +293,17 @@ GitHub: [krzyzinskim](https://github.com/krzyzinskim)
 
 LinkedIn: [krzyzinskim](https://www.linkedin.com/in/krzyzinskim/)
   
+
+### Tymoteusz Kwieciński {-}
+
+<img src="images/kwiecinskit.jpg">
+
+BSc student in Data Science at Warsaw University of Technology. Particularly interested in explainable artificial intelligence, computer vision and NLP.
+
+GitHub: [Fersoil](https://github.com/Fersoil)
+
+LinkedIn: [Tymoteusz-Kwieciński](https://www.linkedin.com/in/tymoteuszkwiecinski/)
+
   
 ### Stanisław Łaniewski {-}
 
@@ -268,6 +324,43 @@ Undergraduate Data Science student at Warsaw University of Technology. Works as 
 Github: [piotrpiatyszek](https://github.com/piotrpiatyszek)
 
 
+### Bartosz Pieliński {-}
+
+<img src="images/BPielinski.jpg" >
+
+I am an Assistant Professor at the Faculty of Political Science and International Studies at Warsaw University. I am interested in applying quantitative methods to study public policies. I am a founding member of the Institutional Grammar Research Initiative, which is focused on developing a new way of analysing social rules. I have participated in several research projects covering social policy, non-profit organizations, social enterprises, and international organizations.
+
+Website: [https://pielinski.info/](https://pielinski.info/)
+
+Google Scholar: [hnWiaVEAAAAJ](https://scholar.google.com/citations?user=hnWiaVEAAAAJ)
+
+LinkedIn: [Bartosz Pieliński](https://www.linkedin.com/in/pielinski/)
+
+
+### Hanna Piotrowska {-}
+
+<img src="images/HannaPiotrowska-kwadrat.jpg" >
+
+Information designer, focusing mainly on data visualization, branding and book design, with a strong interest in Data Science and perception studies. Winner of numerous awards, including The Kantar Information Is Beautiful Awards, HOW International Design Awards, Polish Graphic Design Awards and KTR.
+
+LinkedIn: [hanna-piotrowska](https://www.linkedin.com/in/hanna-piotrowska-2536214b/)
+
+Twitter: [hannapio](https://twitter.com/hannapio)
+
+Behance: [hannapio](https://www.behance.net/hannapio).
+
+
+### Hubert Ruczyński {-}
+
+<img src="images/hubert_ruczyński.jpg" >
+
+I am working towards Masters's degree in Data Science at Warsaw University of Technology. I am also teaching students about data exploration and visualisation. My major interests are: AutoML | Natural Language Processing | Data Visualization | Fairness.
+
+GitHub: [HubertR21](https://github.com/HubertR21)
+  
+LinkedIn: [Hubert Ruczyński](https://www.linkedin.com/in/hubert-ruczyński-95518b218/)
+
+
 ### Barbara Rychalska {-}
 
 <img src="images/basia.jpeg" >
@@ -279,19 +372,35 @@ Google Scholar: [Wp0wHJoAAAAJ](https://scholar.google.com/citations?user=Wp0wHJo
 LinkedIn: [Barbara-Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/)
 
   
+<!-- ### Patryk Słowakiewicz {-}
+  
+<img src="images/PatrykSlowakiewicz.jpg" >
+  
+Student of Data Science at Warsaw University of Technology. Intrested in Tree-Based Machine Learning Models.
+
+GitHub: [PSlowakiewicz](https://github.com/PSlowakiewicz)
+  
+LinkedIn: [Patryk Słowakiewicz](https://www.linkedin.com/in/patryk-s%C5%82owakiewicz-b0310723a/) -->
+
+
 ### Bartek Sobieski {-}
 
 <img src="images/bsobieski.jpg" >
 
-BSc student in Mathematics and Data Analysis at Warsaw University of Technology. Interested in deep learning and hyperparameter optimization.
+MSc student in Data Science at Warsaw University of Technology. Interested in deep learning and hyperparameter optimization.
 
-GitHub: [sob1eski](https://github.com/sob1eski)
+GitHub: [sobieskibj](https://github.com/sobieskibj)
   
+LinkedIn: [Bartłomiej-Sobieski](www.linkedin.com/in/bartłomiej-sobieski)
+  
+
 ### Mikołaj Spytek {-}
 
 <img src="images/spytekm.jpeg">
   
-BSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, data vizualization and survival analysis.
+MSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, data vizualization and survival analysis.
+
+Google Scholar: [1u49AqYAAAAJ](https://scholar.google.com/citations?user=1u49AqYAAAAJ)
   
 GitHub: [mikolajsp](https://github.com/mikolajsp)
   
@@ -311,13 +420,13 @@ GitHub: [tstanislawek](https://github.com/tstanislawek/)
 LinkedIn: [Tomasz-Stanisławek](https://pl.linkedin.com/in/tomasz-stanis%C5%82awek-91092729/)
 
 
-### Mateusz Stączek {-}
+<!-- ### Mateusz Stączek {-}
 
 <img src="images/mstaczek.jpg">
 
 BSc student in Data Science at the Warsaw University of Technology. Interested in exploring various explanation methods for image classification models and visualizing the results. 
 
-GitHub: [mstaczek](https://github.com/mstaczek)
+GitHub: [mstaczek](https://github.com/mstaczek) -->
 
 
 ### Paulina Tomaszewska {-}
@@ -344,6 +453,17 @@ GitHub: [lhthien09](https://github.com/lhthien09)
 LinkedIn: [hthienly](https://www.linkedin.com/in/hthienly/)
 
 
+### Piotr Wilczyński {-}
+
+<img src="images/pwilczynski.jpg">
+
+BSc student in Data Science at Warsaw University of Technology. Interested in ontologies, semantic similarity, hyperparameter optimization and NLP.
+
+GitHub: [wi1lku](https://github.com/wi1lku)
+
+LinkedIn: [Piotr-Wilczyński](https://www.linkedin.com/in/piotr-wilczy%C5%84ski-5a529320b/)
+ 
+
 ### Jakub Wiśniewski {-}
 
 <img src="images/jakwisn.jpg" >
@@ -368,6 +488,17 @@ GitHub: [emiliawisnios](https://github.com/emiliawisnios)
 LinkedIn: [emilia-wisnios](https://www.linkedin.com/in/emilia-wisnios/)
 
 
+### Paweł Wojciechowski {-}
+
+<img src="images/wojciechowskip.jpeg">
+
+Graduated with a bachelor's degree in Data Science from Warsaw University of Technology. Interested in explainable artificial intelligence, computer vision, and active learning.
+
+GitHub: [p-wojciechowski](https://github.com/p-wojciechowski)
+
+LinkedIn: [wojciechowski-p](https://www.linkedin.com/in/wojciechowski-p/)
+
+
 ### Katarzyna Woźnica {-}
 
 <img src="images/woznicak.jpeg" >
@@ -381,7 +512,20 @@ GitHub: [woznicak](https://github.com/woznicak)
 LinkedIn: [woznicak](https://www.linkedin.com/in/woznicak)
 
 
-<!-- ### Hanna Zdulska {-}
+### Artur Żółkowski {-}
+
+<img src="images/zolkowskia.jpg">
+
+BSc student in Data Science at Warsaw University of Technology. Interested in explainable artificial intelligence, computer vision and NLP.
+
+GitHub: [arturzolkowski](https://github.com/arturzolkowski)
+
+LinkedIn: [Artur-Żółkowski](https://www.linkedin.com/in/azolkowski/)
+
+
+
+<!-- 
+### Hanna Zdulska {-}
 
 <img src="images/zdulskah.jpg" ></p>
 
@@ -389,34 +533,10 @@ Software engineer and Data Science BSc student at Warsaw University of Technolog
 
 GitHub: [HaZdula](https://github.com/hazdula)
 
-LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/) -->
+LinkedIn: [Zdulskah](https://www.linkedin.com/in/zdulskah/)
 
 
-
-### Hanna Piotrowska {-}
-
-<img src="images/HannaPiotrowska-kwadrat.jpg" >
-
-Information designer, focusing mainly on data visualization, branding and book design, with a strong interest in Data Science and perception studies. Winner of numerous awards, including The Kantar Information Is Beautiful Awards, HOW International Design Awards, Polish Graphic Design Awards and KTR.
-
-LinkedIn: [hanna-piotrowska](https://www.linkedin.com/in/hanna-piotrowska-2536214b/)
-
-Twitter: [hannapio](https://twitter.com/hannapio)
-
-Behance: [hannapio](https://www.behance.net/hannapio).
-
-
-### Mateusz Grzyb {-}
-
-<img src="images/mateusz_grzyb.jpg" >
-
-A BSc Data Science student at Warsaw University of Technology. Interested in artificial intelligence, data visualization and metaheuristic optimization.
-
-GitHub: [PlentyCoups](https://github.com/PlentyCoups)
-
-
-
-<!-- ### Bartosz Sawicki {-}
+### Bartosz Sawicki {-}
 
 <img src="images/sawickib.jpeg" >
 
@@ -433,29 +553,9 @@ Data Science student at Warsaw University of Technology. Machine learning enthus
 
 GitHub: [Szmajsz](https://github.com/Szmajasz)
 
-LinkedIn: [szymszmaj](https://www.linkedin.com/in/szymszmaj/) -->
+LinkedIn: [szymszmaj](https://www.linkedin.com/in/szymszmaj/)
 
 
-### Hubert Ruczyński {-}
-
-<img src="images/hubert_ruczyński.jpg" >
-
-Works towards Bachelor's degree in Data Science at Warsaw University of Technology. Interested in Maching Learning, Neural Networks and Fairness.
-
-GitHub: [HubertR21](https://github.com/HubertR21)
-
-
-### Patryk Słowakiewicz {-}
-  
-<img src="images/PatrykSlowakieiwcz.jpg" >
-  
-Student of Data Science at Warsaw University of Technology. Intrested in Tree-Based Machine Learning Models.
-
-GitHub: [PSlowakiewicz](https://github.com/PSlowakiewicz)
-  
-LinkedIn: [Patryk Słowakiewicz](https://www.linkedin.com/in/patryk-s%C5%82owakiewicz-b0310723a/)
-  
-<!-- 
 ### Zuzanna Trafas {-}
 
 <img src="images/ztrafas.png" >
@@ -487,16 +587,6 @@ GitHub: [kaluskam](https://github.com/kaluskam)
 LinkedIn: [Maria-Kałuska](https://www.linkedin.com/in/marysia-ka%C5%82uska-ba16bb208/)
 
 
-### Artur Żółkowski {-}
-
-<img src="images/zolkowskia.jpg" >
-
-Bachelor Data Science student at Warsaw University of Technology. Interested in machine learning and explainable artificial intelligence.
-
-GitHub: [arturzolkowski](https://github.com/arturzolkowski)
-
-LinkedIn: [azolkowski](https://www.linkedin.com/in/azolkowski/)
-
 ### Alicja Gosiewska {-}
 
 <img src="images/alicja_gosiewska.jpg" >
@@ -508,6 +598,7 @@ Google Scholar: [YiwwR6EAAAAJ](https://scholar.google.pl/citations?user=YiwwR6EA
 GitHub: [agosiewska](https://github.com/agosiewska)
 
 LinkedIn: [alicja-gosiewska](https://www.linkedin.com/in/alicja-gosiewska/)
+
 
 ### Michał Kuźba {-}
 
@@ -530,47 +621,61 @@ PhD in social sciences, but in recent years has devoted himself to the area of d
 
 GitHub: [tmikolajczyk](https://github.com/tmikolajczyk)
 
-LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds) -->
+LinkedIn: [tomasz-mikolajczyk-ds](https://www.linkedin.com/in/tomasz-mikolajczyk-ds) 
+-->
+
 
 </div>
 
 ## Open Positions {-}
 
-We have open call for [HOMER](https://www.mi2.ai/research-grants.html#homer-2020-2025) and [xLungs](https://www.mi2.ai/research-grants.html#x-lungs-2021-2024) projects for following positions. If you are interested in any of them please send your CV and Motivation Letter to przemyslaw.biecek at gmail.com. We reserve the right to contact only selected candidates.
+We have open call for [HOMER](https://www.mi2.ai/research-grants.html#homer-2020-2025) and [xLungs](https://www.mi2.ai/research-grants.html#x-lungs-2021-2024) projects for following positions. If you are interested in any of them please send your CV and Motivation Letter to przemyslaw.biecek at pw.edu.pl. We reserve the right to contact only selected candidates.
 
-### Summer Internships 22 {-}
+### PhD positions in 2023 {-}
 
-<img src="images/positions.jpg" style="width: 100%;">
+<img src="images/redteaming_mi2.png" style="width: 100%;">
 
-This year we have 6 projects open for summer internships!
+**Call for PhD Student: Research Opportunity in Foundation Model Redteaming**
 
-The time to apply is **May 8 - by the end of the day**.
+We are seeking a highly motivated and talented PhD student to join MI2.AI research team in the exciting field of foundation model redteaming. As the advancements development of AI models (especially transformer based with attention mechanism), it becomes crucial to ensure the robustness and security of the foundation models that underlie these advancements.
 
-**Applications must be submitted through [the form](https://forms.gle/qsuiwg3xYFLdQGyZ6).**
+**Project Description:**
 
-Project descriptions can be found on [this GitHub page](https://github.com/pbiecek/mi2-summer-22/blob/main/README.md).
+The selected PhD student will work on investigating potential vulnerabilities and biases in foundation models, such as language models (one PhD position) and 2D/3D computer vision models (one PhD position). Redteaming involves conducting adversarial assessments to identify weaknesses, uncover potential attack vectors, and develop defensive strategies for foundation models/transformer models. The research will explore various aspects, including data poisoning attacks, adversarial samples generation, and the development of countermeasures.
 
-Each of the projects assumes a full-time commitment for two months during the summer break. Exact dates can be specified with a mentor.
+**Requirements:**
 
-The internships are funded from HOMER and xLungs projects.
+Proficiency in programming languages commonly used in AI research, such as Python, R or Julia.
+Familiarity with deep learning frameworks and libraries, such as PyTorch.
+Solid understanding of foundation models, including their architecture and training processes.
+Excellent problem-solving skills and ability to work independently and as part of a team.
+Good communication skills and proficiency in academic writing.
 
-Participation in the internship is connected with the fix remuneration in the amount of 6k PLN (umowa o dzieło). 
+
+Interested candidates are requested to submit the following documents to **przemyslaw.biecek at pw.edu.pl**.
+
+
+We look forward to receiving your applications and welcoming an enthusiastic and dedicated PhD student to contribute to our foundation model redteaming research endeavors.
+
+
+Apply before **June 30 the end of the day** (**June 10 in case of interest in MIM UW**).
+
 
 
 ### Deep Learning Engineer {-}
 
-Required:
+**Required:**
 
 * Background in Computer Science, Mathematics, Statistics or similar. 
 * Experience in Deep Learning for 2d/3d image data (*torch is a plus)
 * Interest in medical applications
 
-Scope of work:
+**Scope of work:**
 
 * Training of machine learning models for tabular and image data
 * Responsible ML solutions for the healthcare domain
 
-Offer:
+**Offer:**
 
 * Excellent atmosphere for work in a young and very active lab
 * Conferences and training budget
@@ -580,20 +685,20 @@ Offer:
 
 ### Research Software Engineer {-}
 
-Required:
+**Required:**
 
 * Background in Computer Science, Mathematics, Statistics or similar. 
 * Experience in Scientific Programming (R and/or Python and/or C++)
 * Interest in applications, machine learning and explainable artificial intelligence.
 
-Scope of work:
+**Scope of work:**
 
 * Training of machine learning models for tabular and image data
 * Interpretable solutions for tabular and image data
 * Interactive interfaces 
 * Responsible ML solutions for the healthcare domain
 
-Offer:
+**Offer:**
 
 * Excellent atmosphere for work in a young and very active lab
 * Conferences and training budget
@@ -609,13 +714,13 @@ Experience or interest in **XAI** / **fairness** will always be a huge plus in o
 
 We have a young and very energetic team focused on growth in AI. Full time position. Salary above academic average. Little or no didactics. Strong focus on doing things that are **meaningful**.
 
-Required:
+**Required:**
 
 * PhD in Computer Science, Mathematics, Statistics or similar. (Different background? We encourage cross-domain short research visits).
 * Experience in Scientific Programming (R and/or Python and/or C++)
 * Good track of Scientific Records
 
-Scope of work:
+**Scope of work:**
 
 * Automated model exploration
 * Interpretable measures for model performance
@@ -623,7 +728,7 @@ Scope of work:
 * Automated model validation
 * Experiments with XAI for deep learning
 
-Offer:
+**Offer:**
 
 * Excellent atmosphere for work in a young and very active ML lab
 * Conferences and training budget
@@ -647,33 +752,6 @@ These are targeted at progressing responsible machine learning toward a secure a
 **Join us, and change the way how ML models will be explained and evaluated.**
 
 <img src="images/mi2-ares.png" style="width: 100%;"> -->
-
-### PhD student {-}
-
-Required:
-
-* MSc in Computer Science, Mathematics, Statistics or similar.  (Different background? We encourage cross-domain research short visits).
-* Experience in Scientific Programming (R and/or Python and/or C++)
-* Strong motivation 
-
-Scope of work:
-
-* Automated model exploration
-* Concept drift detection
-* Reinforcement learning for Human-Centered AI
-* Knowledge extraction from representations
-* Experiments with XAI for deep learning
-
-Offer:
-
-* Excellent atmosphere for work in a young and very active ML lab
-* Conferences and training budget
-* Short visits in cooperating abroad group
-* Access to CPU / GPU clusters
-* PhD scholarship
-* plus results-driven extras
-* contract for 6 months (short visit) / 3.5 years (full PhD)
-
 
 
 ## Contact {-}

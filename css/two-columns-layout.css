@@ -28,17 +28,15 @@
 .two-columns-layout div p {
     margin-top: 20px;
     margin-bottom: 20px;
-    font-size: 14px;
-}
-
-.two-columns-layout  div p {
-    margin-top: 20px;
-    margin-bottom: 20px;
     font-size: 16px;
 }
 
 .two-columns-layout div i {
     font-size: 13px;
+}
+
+.two-columns-layout div strong {
+    font-size: 14px;
 }
 
 @media (max-width: 899px) {
